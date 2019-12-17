@@ -1,0 +1,23 @@
+<section>
+  <div class="container-fluid pt-5 pb-5">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-12">
+          <p>Consortium members are working together to build a platform that improves the security, efficiency, and effectiveness of data partnerships for public good, by focusing on the following features:</p>
+        </div>
+      </div>
+
+      <div class="row">
+        {{ range  where .Site.RegularPages "Section" "pillars" }}
+          <div class="col-md-4 col-xs-12">
+            <div class="line {{.Params.linecolor}}"></div>
+            <div class="text-uppercase h5">  {{ .Title }}</div>
+            <div class="pt-1">{{ .Content }}</div>
+          </div>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+</section>

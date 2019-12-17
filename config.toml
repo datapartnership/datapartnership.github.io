@@ -1,0 +1,11 @@
+# baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Data Partnerhsip"
+theme = "dp-imf-theme"
+
+[params]
+  siteDescription = "A partnership between international organizations, created to promote the use of third-party data in research and international development."
+  banner-image = "banner.svg"
+  banner-stripes = "background-stripes.svg"
+  button-link = "mailto:datacollaboratives@worldbank.org"
+  button-text = "Contact us"

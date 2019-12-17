@@ -1,0 +1,20 @@
+<section>
+  <div class="container-fluid bg-light pb-5 pt-5">
+    <div class="container pt-3">
+      <div class="row pt-4">
+        <div class="col-md-4 col-xs-12">
+          <h2>{{ $.Param "sample-project-title"}}</h2>
+        </div>
+        <div class="col-md-8 col-xs-12">
+            {{ range  where .Site.RegularPages "Section" "projects" }}
+              <div>
+                <h4>{{ .Title }}</h4>
+                <p>{{ .Content }}</p>
+              </div>
+              <hr>
+            {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

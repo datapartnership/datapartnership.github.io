@@ -1,0 +1,20 @@
+ <div class="container-fluid bg-primary-gradient pt-5">
+    <div class="container pb-5">
+      <div class="row">
+        <div class="col-lg-7 col-sm-12 mt-2">
+          <div class="text-light mb-5">
+              <div class="main-title text-uppercase"></div>
+              <div class="main-title text-white text-uppercase">{{.Title}}</div>
+              <p class="mt-2">{{ $.Param "siteDescription" }}</p>
+              <a href="{{ $.Param "button-link" }}" class="btn btn-primary mt-2 no-overlay">{{ $.Param "button-text" }}</a>
+          </div>
+        </div>
+        <div class="col-lg-5 d-md-none d-lg-block bring-forward  mb-3">
+            <img class="img-fluid " src="{{  $.Param "banner-image" }}" alt="{{.Title}}">
+        </div>
+      </div>
+    </div>
+    <div class="background-stripes">
+      <img src="{{ $.Param "banner-stripes" }}" alt="Background Stripes">
+    </div>
+</div>

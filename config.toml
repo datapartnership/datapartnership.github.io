@@ -2,6 +2,7 @@
 languageCode = "en-us"
 title = "Data Partnerhsip"
 theme = "dp-imf-theme"
+summaryLength = 10
 
 [params]
   siteDescription = "A partnership between international organizations, created to promote the use of third-party data in research and international development."
@@ -9,3 +10,11 @@ theme = "dp-imf-theme"
   banner-stripes = "background-stripes.svg"
   button-link = "mailto:datacollaboratives@worldbank.org"
   button-text = "Contact us"
+  pillars-description = "Consortium members are working together to build a platform that improves the security, efficiency, and effectiveness of data partnerships for public good, by focusing on the following features:"
+  partner-section-title = "WORLD BANK DATA PARTNERS"
+  partner-section-sub-title = "become a data partner"
+  partner-section-sub-title-link = "mailto:datacollaboratives@worldbank.org"
+  how-to-engage-title = "HOW TO ENGAGE"
+  impact-title = "Impact"
+  sample-project-title = "Sample Projects"
+  updates-title = "News and Case Studies"

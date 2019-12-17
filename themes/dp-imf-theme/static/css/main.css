@@ -12,7 +12,6 @@ footer {
   background-color: #F5F5F5;
 }
 
-
 .bg-primary {
   background-color: #001E60 !important;
 }
@@ -44,7 +43,7 @@ footer {
 }
 
 div.main-title {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-family: 'Abel', sans-serif;
   letter-spacing: 4px;
 }
@@ -73,3 +72,27 @@ div.main-title {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
+
+.partners-logos img {
+  height: 50px;
+  width: auto;
+}
+
+.partners-logos {
+    text-align: center;
+}
+
+
+.partner-logo  {
+    border-bottom: 1px solid lightgray;
+  }
+
+.partner-logo {
+    border-right: 1px solid lightgray;
+  }
+
+.partner-logo:nth-child(4) , .partner-logo:last-child {
+    border-right: 0px;
+  }
+
+ 

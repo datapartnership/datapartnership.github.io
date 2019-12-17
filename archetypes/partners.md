@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date:  {{ .Date }}
-logo:  
+logo:  ""
+weight: 1
 ---

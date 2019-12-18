@@ -105,8 +105,68 @@ div.main-title {
    margin-top: 2em;
  }
 
+ #timeline-content {
+   text-align: center;
+ }
+ /* Timeline */
+ .timeline {
+   border-left: 4px solid #56C3C4;
+   margin: 50px auto;
+   position: relative;
+   padding: 50px;
+   list-style: none;
+   text-align: left;
+   max-width: 40%;
+ }
+
+
+ .timeline .event {
+   border-bottom: 1px dashed #ccc;
+   padding-bottom: 25px;
+   margin-bottom: 50px;
+   position: relative;
+ }
+
+ .timeline .event:last-of-type {
+   padding-bottom: 0;
+   margin-bottom: 0;
+   border: none;
+ }
+
+ .timeline .event:before,
+ .timeline .event:after {
+   position: absolute;
+   display: block;
+   top: 0;
+ }
+
+ .timeline .event:before {
+   left: -217.5px;
+   color: #000;
+   content: attr(data-date);
+   text-align: right;
+   min-width: 120px;
+   font-family: 'Abel', sans-serif;
+ }
+
+ .timeline .event:after {
+   box-shadow: 0 0 0 4px #56C3C4;
+   left: -57.85px;
+   background: #3EACAD;
+   border-radius: 50%;
+   height: 11px;
+   width: 11px;
+   content: "";
+   top: 5px;
+ }
+
 /* bootstrap breakpoint for  "Small devices" (landscape phones, less than 768px) */
  @media (max-width: 767.98px) {
+
+   .timeline {
+      max-width: 100%;
+      margin-left: 20px;
+   }
 
    .partner-logo {
      border: 0px;

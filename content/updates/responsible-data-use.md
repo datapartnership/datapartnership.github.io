@@ -5,7 +5,7 @@ type = "Article"
 +++
 ![USAID Splash](/uploads/USAID_Splash.png "USAID Splash")
 
-As we develop the Development Data Partnership, we have a responsibility to the people impacted by our initiative -- to local governments and partners, and to our own organizations -- to think about how we are collecting, using, storing, and sharing information. To borrow a few lines from [ICT Works](https://www.ictworks.org/), we should:
+As we develop the International Consortium for Data Collaboratives, we have a responsibility to the people impacted by our initiative -- to local governments and partners, and to our own organizations -- to think about how we are collecting, using, storing, and sharing information. To borrow a few lines from [ICT Works](https://www.ictworks.org/), we should:
 
 * **Use data to make more informed decisions**, to understand how our programs are doing and how to make them better.
 * **Protect the privacy and security** of the information we have–especially when it involves vulnerable populations.

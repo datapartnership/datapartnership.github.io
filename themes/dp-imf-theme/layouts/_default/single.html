@@ -1,51 +1,41 @@
 {{ define "main" }}
 
 <div id="content">
-          <section>
-            <div class="container-fluid bg-primary-gradient text-light ">
-              <div class="container pb-5 ">
-                <div class="row">
-                    <div class="col-12  text-light mt-5">
-                      <h1>{{ .Title }}</h1>
-                    </div>
-                </div>
 
-              </div>
+   {{- partial "banner-mini.html" . -}}
+
+    <section>
+      <div class="container-fluid bg-secondary " >
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-23">
+              <nav aria-label="breadcrumb text-light">
+                <ol class="breadcrumb  bg-secondary m-0">
+                  <li class="breadcrumb-item"><a class="text-light" href="/">Home</a></li>
+                  <li class="breadcrumb-item text-light"><a class="text-light" href="/news">News and Case Studies</a></li>
+                  <li class="breadcrumb-item text-light  active" aria-current="page"> {{ .Title }}</li>
+                </ol>
+              </nav>
             </div>
-          </section>
-
-          <section>
-            <div class="container-fluid bg-secondary " >
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-23">
-                    <nav aria-label="breadcrumb text-light">
-                      <ol class="breadcrumb  bg-secondary m-0">
-                        <li class="breadcrumb-item"><a class="text-light" href="/">Home</a></li>
-                        <li class="breadcrumb-item text-light"><a class="text-light" href="/news">News and Case Studies</a></li>
-                        <li class="breadcrumb-item text-light  active" aria-current="page"> {{ .Title }}</li>
-                      </ol>
-                    </nav>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-
-
-          <section>
-            <div class="container mt-5 mb-5">
-              <div class="row">
-                <div class="col-md-8 col-xs-12 single-content">
-                    {{ .Content | safeHTML }}
-                </div>
-                <div class="col-md-3 offset-md-1 col-xs-12">
-                    {{- partial "sidebar.html" . -}}
-                </div>
-              </div>
-            </div>
-          </section>
-
+          </div>
         </div>
+      </div>
+    </section>
+
+
+    <section>
+      <div class="container mt-5 mb-5">
+        <div class="row">
+          <div class="col-md-8 col-xs-12 single-content">
+              {{ .Content | safeHTML }}
+          </div>
+          <div class="col-md-3 offset-md-1 col-xs-12">
+              {{- partial "sidebar.html" . -}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+</div>
 
 {{ end }}

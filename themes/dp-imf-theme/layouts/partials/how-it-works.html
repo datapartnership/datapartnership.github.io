@@ -11,8 +11,8 @@
             <ul class="timeline">
               {{ range  where .Site.RegularPages "Section" "how-it-works" }}
                   <li class="event" data-date="Step {{ .Weight }}">
-                      <div class="h4">{{ .Title }}</div>
-                      <p>{{ .Content }}</p>
+                      <div class="h5">{{.Title }}</div>
+                      <p> {{ .Content }}</p>
                   </li>
               {{ end }}
               </ul>

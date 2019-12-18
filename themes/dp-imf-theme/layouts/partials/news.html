@@ -2,7 +2,10 @@
   <div class="container pt-4">
     <div class="row pt-4">
       <div class="col-12 text-light">
-        <div class="h1"> {{ $.Param "updates-title" }}</div>
+        <div class="pb-2">
+          <div class="d-inline h2">{{ $.Param "updates-title" }}</div>
+          <div class="d-inline h4 pt-2 float-right"><a href="{{ $.Param "link-to-updates"}}" class="text-white">view all</a></div>
+        </div>
         <div class="w-100 bg-secondary h2px"></div>
         <div class="row pt-4 pb-4 mb-4">
             {{ range first 3 (where .Site.RegularPages "Section" "updates") }}

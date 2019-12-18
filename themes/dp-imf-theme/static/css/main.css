@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 {
+h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
     font-family: 'Abel', sans-serif;
 }
 
@@ -14,8 +14,17 @@ footer {
   padding-top: 25px;
 }
 
+a.text-light:hover , a.text-light:active  {
+  color: #f8f9fa !important;
+}
+
 .bg-primary {
   background-color: #001E60 !important;
+}
+
+.text-primary ,  a.text-primary:hover, a.text-primary:active {
+  color:  #001E60 !important;
+  text-decoration: none;
 }
 
 .bg-primary-gradient {
@@ -44,6 +53,10 @@ footer {
   overflow: hidden;
 }
 
+.h2px {
+  height: 2px;
+}
+
 div.main-title {
   font-size: 2.5rem;
   font-family: 'Abel', sans-serif;
@@ -64,6 +77,28 @@ div.main-title {
 .btn-primary:hover {
   background-color: #DF6B00;
   border-color: #DF6B00;
+}
+
+a.btn-primary {
+  text-decoration: none;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  border-color: #F7951D;
+  border-radius: 25px;
+  font-weight: bold;
+  color: F7951D;
+}
+
+.btn-secondary:hover {
+  background-color: #F7951D;
+  border-color: #F7951D;
+}
+
+
+.text-color-secondary {
+  color: #F7951D;
 }
 
 .line {
@@ -111,19 +146,19 @@ div.main-title {
  /* Timeline */
  .timeline {
    border-left: 4px solid #56C3C4;
-   margin: 50px auto;
+   margin: 25px auto;
    position: relative;
-   padding: 50px;
+   padding: 25px;
    list-style: none;
    text-align: left;
-   max-width: 40%;
+   max-width: 50%;
  }
 
 
  .timeline .event {
    border-bottom: 1px dashed #ccc;
-   padding-bottom: 25px;
-   margin-bottom: 50px;
+   padding-bottom: 12px;
+   margin-bottom: 25px;
    position: relative;
  }
 
@@ -151,7 +186,7 @@ div.main-title {
 
  .timeline .event:after {
    box-shadow: 0 0 0 4px #56C3C4;
-   left: -57.85px;
+   left: -32.85px;
    background: #3EACAD;
    border-radius: 50%;
    height: 11px;

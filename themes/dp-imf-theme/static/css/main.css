@@ -7,9 +7,11 @@ h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 {
 }
 
 footer {
-  position: sticky !important;
+  position: sticky;
   bottom: 0;
   background-color: #F5F5F5;
+  text-align: center;
+  padding-top: 25px;
 }
 
 .bg-primary {
@@ -95,4 +97,29 @@ div.main-title {
     border-right: 0px;
   }
 
- 
+ .project-details:not(:last-child) {
+   border-bottom: 1px solid lightgray;
+ }
+
+ .project-details:not(:first-child) {
+   margin-top: 2em;
+ }
+
+/* bootstrap breakpoint for  "Small devices" (landscape phones, less than 768px) */
+ @media (max-width: 767.98px) {
+
+   .partner-logo {
+     border: 0px;
+     text-align: left;
+   }
+
+   footer {
+      text-align: left;
+      position: relative;
+   }
+
+   footer img {
+     margin-top: 25px;
+   }
+
+ }

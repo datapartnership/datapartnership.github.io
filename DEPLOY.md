@@ -43,7 +43,11 @@ Once you go to the detailed page, you see the preview link and publish option.
 
 So, what is happening is: netlify and github are connected through hooks. When you configure netlify, you enter your build command, which in our case is simply `hugo`. The publishing directory is `public` which is the default hugo location.
 
-You update something, a hook is fired up, netlify pulls your code and site, it creates an atomic deploy that you can preview and see. If the site builds successfully, your main url is updated and the site goes live. If not, you are still safe, the previous version is online.
+![deploy-configuration](./docs/img/deploy-configuration.png)
+
+**note: in a real use case, you should use `master` branch for the real site.**
+
+You update something, a hook is fired up, netlify pulls your code and site, it creates an atomic deploy using the build command and publish directory that you entered in your configuration. If the site builds successfully, your main url is updated and the site goes live. If not, you are still safe, the previous version is online.
 
 
 ## Troubleshooting tips and preparing for failure

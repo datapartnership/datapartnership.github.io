@@ -73,7 +73,7 @@ The site is configured to auto-magically and automatically deploy to Netlify. Yo
 Here is the video of doing an actual deploy. It takes 57 seconds... this the equivalent of creating and configuring a server in the background, building the site, configuring a full continuous deployment pipeline etc...  
 https://youtu.be/MMJ3eXZ6bQI
 
-When something works, you still need to understand how it was setup, so you can troubleshoot or do updates. Check [deploy.md](./deploy.md) for details, what happens in the background and some troubleshooting tips (those happened before and will happen again, be ready).
+When something works, you still need to understand how it was setup, so you can troubleshoot or do updates. Check [deploy.md](/DEPLOY.md) for details, what happens in the background and some troubleshooting tips (those happened before and will happen again, be ready).
 
 ## Development
 

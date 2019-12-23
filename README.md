@@ -4,7 +4,7 @@ This repo contains the code and deployment details for the datapartnership.org s
 
 ## How does the site work?
 
-The site is a "statically generated site". This means, instead of running a web server with a database and a traditional content management system, we use a tool called a static site generator to transform the text into ready made html pages -- which can be served to the users at a blazing fast speed. There are no databases, no complicated servers to manage, backup, run or keep secure.
+The site is a "statically generated site". This means, instead of running a web server with a database and a traditional content management system, we use a tool called a static site generator to transform the text into ready-made html pages -- which can be served to the users at a blazing fast speed. There are no databases, no complicated servers to manage, backup, run or keep secure.
 
 In "dev-speak", a traditional web development method might use something like "LAMP" stack (Linux, Apache, MySQL, PHP -- think Drupal) or "MEAN" stack (Mongo, Express, Angular, Node). This site uses ["JAM" Stack]( https://jamstack.org/): Javascript, API, Markdown.
 
@@ -37,7 +37,7 @@ Here is how the user interface looks like. Click the pen button.
 - You can use the command line (basic level).
 - You can use git.
 
-**Installation**  
+#### Install
 A faster and more flexible way to edit and tinker with the site is to work locally. This is especially recommended if you want to experiment with heavy edits. You will need to:
 
 - install hugo https://gohugo.io/getting-started/installing/
@@ -53,12 +53,15 @@ To install Hugo, you can read the instructions on the link, but in reality, it w
 For using git and github, this is a little bit out of the scope of this readme, but there are plenty of tutorials online.
 If you are using GitHub Desktop, this is a good place to start https://help.github.com/en/desktop/contributing-to-projects
 
-**Preview**
+#### Preview
 
 - Navigate to the folder
 - run `hugo server` to preview the site.
+- go to your browser and preview the url (usually localhost:1313)
 
-Build the site:
+![local-preview](./docs/img/local-preview.png)
+
+#### Build the site:
 - Navigate to the folder
 - run `hugo` to generate the html pages. By default the results will be in a folder called `public`.
 

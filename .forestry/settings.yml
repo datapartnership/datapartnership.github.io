@@ -8,6 +8,11 @@ sections:
   path: config.toml
   label: configuration
 - type: directory
+  path: content/pillars
+  label: Pillars
+  create: all
+  match: "**/*"
+- type: directory
   path: content/partners
   label: Partners
   create: all
@@ -18,6 +23,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/how-it-works
+  label: How it works (timeline)
+  create: all
+  match: "**/*"
+- type: directory
   path: content/projects
   label: Sample Projects
   create: all
@@ -25,11 +35,6 @@ sections:
 - type: directory
   path: content/blog
   label: Blog
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/pillars
-  label: Pillars
   create: all
   match: "**/*"
 - type: directory

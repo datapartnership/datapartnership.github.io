@@ -4,14 +4,19 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: configuration
 - type: directory
   path: content/partners
   label: Partners
   create: all
   match: "**/*"
-- type: document
-  path: config.toml
-  label: configuration
+- type: directory
+  path: content/business-case
+  label: Business Case
+  create: all
+  match: "**/*"
 - type: directory
   path: content/projects
   label: Sample Projects

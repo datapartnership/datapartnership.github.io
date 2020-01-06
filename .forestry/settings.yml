@@ -8,16 +8,6 @@ sections:
   path: config.toml
   label: configuration
 - type: directory
-  path: content/impact
-  label: Impact
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/how-to-engage
-  label: How To Engage
-  create: all
-  match: "**/*"
-- type: directory
   path: content/pillars
   label: Pillars
   create: all
@@ -28,6 +18,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/how-to-engage
+  label: How To Engage
+  create: all
+  match: "**/*"
+- type: directory
   path: content/business-case
   label: Business Case
   create: all
@@ -35,6 +30,16 @@ sections:
 - type: directory
   path: content/how-it-works
   label: How it works (timeline)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/updates
+  label: Updates
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/impact
+  label: Impact
   create: all
   match: "**/*"
 upload_dir: static

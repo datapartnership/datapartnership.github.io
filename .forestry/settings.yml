@@ -4,14 +4,19 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: configuration
+- type: directory
+  path: content/impact
+  label: Impact
+  create: all
+  match: "**/*"
 - type: directory
   path: content/how-to-engage
   label: How To Engage
   create: all
   match: "**/*"
-- type: document
-  path: config.toml
-  label: configuration
 - type: directory
   path: content/pillars
   label: Pillars
@@ -30,21 +35,6 @@ sections:
 - type: directory
   path: content/how-it-works
   label: How it works (timeline)
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/projects
-  label: Sample Projects
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/blog
-  label: Blog
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/case-studies
-  label: Case studies
   create: all
   match: "**/*"
 upload_dir: static

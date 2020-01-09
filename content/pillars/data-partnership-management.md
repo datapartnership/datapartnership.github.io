@@ -1,7 +1,7 @@
 ---
 title: Data Partnership Management
-date: 2019-02-26 21:52:59 +0000
-weight: 5
+date: 2019-02-26T21:52:59.000+00:00
+weight: "5"
 
 ---
-A formal data partnership management system ensures the value proposition for data partners is met.
+A web-based partnership management platform ensures the value proposition for data partners is met.

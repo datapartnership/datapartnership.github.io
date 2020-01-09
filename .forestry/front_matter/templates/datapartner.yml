@@ -14,5 +14,3 @@ fields:
 - type: number
   name: weight
   label: weight
-pages:
-- content/partners/grab.md

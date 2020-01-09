@@ -1,7 +1,7 @@
 ---
-title: Legal
+title: Legal Foundation
 date: 2019-02-26T21:52:59.000+00:00
 weight: "1"
 
 ---
-Template data sharing framework agreements and joint agreements between multiple organizations save time and resources.
+Template data license agreements and MOUs between organizations save time and resources.

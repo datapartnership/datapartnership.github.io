@@ -1,7 +1,7 @@
 ---
-title: Transparency
-date: 2019-02-26 21:52:59 +0000
-weight: 2
+title: Responsible Data Use
+date: 2019-02-26T21:52:59.000+00:00
+weight: "2"
 
 ---
-Transparent web-based system for soliciting project ideas from staff improves efficiency and efficacy of data partnerships.
+Data governance principles guide best practices for responsible and ethical data use. 

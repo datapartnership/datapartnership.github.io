@@ -139,6 +139,10 @@ a.btn-primary {
    margin-top: 2em;
  }
 
+ .blog-content img {
+   max-width: 100%;
+ }
+
  #timeline-content {
    text-align: center;
  }

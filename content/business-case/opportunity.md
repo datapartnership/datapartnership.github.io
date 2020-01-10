@@ -4,6 +4,6 @@ date: 2019-02-26T21:52:59.000+00:00
 weight: "3"
 
 ---
-In practice, many companies are amenable to sharing data for public good, so long as: (a) the sharing would not compromise the company’s competitive advantage or the privacy of its customers; and (b) sharing would require no time or resources on their part.
+The Development Data Partnership has been designed to overcome these supply and demand challenges at scale. Specifically, the Partnership: (a) coordinates and aggregates demand on behalf of public actors; (b) links public sector challenges and domain expertise to relevant proprietary data; (c) significantly reduces the transaction costs associated with data sharing; (d) reduces duplication of effort and facilitates collaboration on development of solutions; and (e) increases transparency and accountability for integrating use of proprietary data in public good analytics.
 
-Since international organizations have similar aims and share government counterparts, we are coordinating data sharing agreements through a new Development Data Partnership. 
+By learning through real world project implementation, the Partnership aims to transform proprietary datasets into sustainably generated, sharable insights for improving public sector services and infrastructure.

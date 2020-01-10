@@ -122,14 +122,14 @@ a.btn-primary {
 
 
 .partner-logo  {
-    border-bottom: 1px solid lightgray;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
   }
 
-.partner-logo {
-    border-right: 1px solid lightgray;
-  }
-
-
+.partners-logos {
+  border-left: 1px solid  #ccc;
+  border-top: 1px solid  #ccc;
+}
 
  .project-details:not(:last-child) {
    border-bottom: 1px solid lightgray;
@@ -211,6 +211,11 @@ a.btn-primary {
      text-align: left;
    }
 
+   .partners-logos   {
+     border: 0px;
+     text-align: left;
+   }
+   
    footer {
       text-align: left;
       position: relative;

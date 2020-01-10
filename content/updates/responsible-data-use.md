@@ -1,11 +1,12 @@
 +++
-date = "2019-07-01T21:52:59+00:00"
+date = 2019-07-01T21:52:59Z
 title = "On Responsible Data Use"
 type = "Article"
+
 +++
 ![USAID Splash](/uploads/USAID_Splash.png "USAID Splash")
 
-As we develop the International Consortium for Data Collaboratives, we have a responsibility to the people impacted by our initiative -- to local governments and partners, and to our own organizations -- to think about how we are collecting, using, storing, and sharing information. To borrow a few lines from [ICT Works](https://www.ictworks.org/), we should:
+As we develop the Data Partnership, we have a responsibility to the people impacted by our initiative -- to local governments and partners, and to our own organizations -- to think about how we are collecting, using, storing, and sharing information. To borrow a few lines from [ICT Works](https://www.ictworks.org/), we should:
 
 * **Use data to make more informed decisions**, to understand how our programs are doing and how to make them better.
 * **Protect the privacy and security** of the information we have–especially when it involves vulnerable populations.
@@ -15,11 +16,11 @@ These broad responsibilities are frequently in tension with one another, and bal
 
 [USAID’s Considerations for Using Data Responsibly](https://www.usaid.gov/responsibledata) covers topics such as prioritizing use of data, proactively analyzing the benefit/risk to those impacted, and following context-appropriate industry best practices for data management and data security.
 
-On June 18, Data Collaboratives partnered with USAID to facilitate an interactive workshop for working group members on using data responsibly in international development. Following are observations recorded by our remarkable summer intern, [**Magreth Kakoko**](https://www.linkedin.com/in/magreth-kakoko-480667171/)**.**
+On June 18, the Data Partnership (formerly Data Collaboratives) partnered with USAID to facilitate an interactive workshop for working group members on using data responsibly in international development. Following are observations recorded by our remarkable summer intern, [**Magreth Kakoko**](https://www.linkedin.com/in/magreth-kakoko-480667171/)**.**
 
 ***
 
-The increasing availability of data in emerging economies presents us with new opportunities in international development, as well as new risks and challenges. In a USAID-led interactive workshop, around 25 Data Collaboratives working group members convened to discuss responsible data practices in development programs.
+The increasing availability of data in emerging economies presents us with new opportunities in international development, as well as new risks and challenges. In a USAID-led interactive workshop, around 25 Data Partnership working group members convened to discuss responsible data practices in development programs.
 
 First, [Rebecca Saxton-Fox](https://www.linkedin.com/in/rebeccasaxtonfox/) and [Taylor Braun-Dorrell](https://www.linkedin.com/in/taylor-braun-dorrell-4083a035/) from the US Global Development Lab presented USAID’s new workbook on responsible data use in international development (see PPT, here: [http://bit.ly/2S7nQdI](http://bit.ly/2S7nQdI "http://bit.ly/2S7nQdI")).
 

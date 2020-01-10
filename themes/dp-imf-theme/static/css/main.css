@@ -71,7 +71,7 @@ div.main-title {
 
 .btn-primary, .btn-outline-dark, .btn-dark, .btn-outnline-light {
   border-radius: 25px;
-  font-weight: regular;
+  font-weight: bold;
 }
 
 .btn-primary:hover {

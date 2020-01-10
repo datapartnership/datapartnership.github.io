@@ -1,5 +1,5 @@
 +++
-date = "2019-02-13T21:12:14.000+00:00"
+date = 2019-02-13T21:12:14Z
 title = "Waze: Improving Road Safety in Nairobi"
 type = "Case Study"
 
@@ -18,8 +18,8 @@ In 2017, a team consisting of Lupe Bedoya, Arianna Legovini, Sveta Milusheva, an
 
 ![](/waze.jpg)
 
-Data Collaboratives seeks to address the mismatch between the demand and supply of proprietary data for public good. By facilitating a data sharing agreement with WAZE, Data Collaboratives made it easy for the Nairobi team to access Waze API content for all 175 km of the city’s road network. With near real-time data of user-reported incidents, the team could see patterns of accident hotspots and congestion emerge.
+The Development Data Partnership seeks to address the mismatch between the demand and supply of proprietary data for public good. By facilitating a data sharing agreement with WAZE, the Partnership made it easy for the Nairobi team to access Waze API content for all 175 km of the city’s road network. With near real-time data of user-reported incidents, the team could see patterns of accident hotspots and congestion emerge.
 
 For the past year, the team has analyzed Waze data alongside Twitter and police reports, as well as environmental data from AccuWeather and Code for Africa. With these six data streams, Kenyan policymakers can see a more complete view of road safety risk patterns.
 
-As Google’s Bailey-Galvis noted at a Data Collaboratives event in early February 2019 – “Data Collaboratives brings domain expertise. Google brings data expertise. Together we impact real world problems.” (You can see the full video of her presentation here: [http://bit.ly/2YMNjMq](http://bit.ly/2YMNjMq "presentation")) Waze data is a building block of a data system that can improve the safety of Nairobi's 3 million citizens, as well as other cities where administrative data is scarce.
+As Google’s Bailey-Galvis noted at a Data Partnership event in early February 2019 – “Data \[Partnership\] brings domain expertise. Google brings data expertise. Together we impact real world problems.” (You can see the full video of her presentation here: [http://bit.ly/2YMNjMq](http://bit.ly/2YMNjMq "presentation")) Waze data is a building block of a data system that can improve the safety of Nairobi's 3 million citizens, as well as other cities where administrative data is scarce.

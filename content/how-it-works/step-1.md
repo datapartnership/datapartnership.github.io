@@ -1,7 +1,7 @@
 ---
-title: Consortium negotiates data sharing agreement with data partner.
-date: 2019-02-26 21:52:59 +0000
-weight: 1
----
+title: Data Partnership
+date: 2019-02-26T21:52:59.000+00:00
+weight: "1"
 
-Using our standard data sharing agreement we work with your legal team.
+---
+Standard data licenses are signed between the data partner and each participating organization (e.g., World Bank, IMF, IDB).

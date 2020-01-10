@@ -1,5 +1,5 @@
 +++
-date = 2019-02-13T21:12:14Z
+date = 2019-08-01T20:12:14Z
 title = "Waze: Improving Road Safety in Nairobi"
 type = "Case Study"
 

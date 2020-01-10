@@ -1,5 +1,7 @@
----
-title: "Facebook"
-date: 2019-12-17T13:50:20-05:00
-logo: /partners/facebook.jpg
----
++++
+date = 2020-01-09T05:00:00Z
+logo = "/facebook-logo.png"
+title = "Facebook"
+weight = 1
+
++++

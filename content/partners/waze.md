@@ -1,5 +1,7 @@
----
-title: "Waze"
-date: 2019-12-17T13:50:20-05:00
-logo: /partners/waze.png
----
++++
+date = 2020-01-09T05:00:00Z
+logo = "/waze-1.jpg"
+title = "Waze"
+weight = 1
+
++++

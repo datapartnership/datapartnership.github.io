@@ -1,6 +1,7 @@
 ---
-title: Data is securely transferred and managed.
-date: 2019-02-26 21:52:59 +0000
-weight: 4
+title: Data Goods
+date: 2019-02-26T21:52:59.000+00:00
+weight: "4"
+
 ---
-Data securely and responsibly managed though Data Collaboratives IT architecture and formal data management procedures.
+Data partners are kept updated through the Partnership web platform of derived data products and produced code.

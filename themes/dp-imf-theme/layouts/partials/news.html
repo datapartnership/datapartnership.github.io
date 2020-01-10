@@ -4,10 +4,10 @@
       <div class="col-12 text-light">
         <div class="pb-2">
           <div class="d-inline h2">{{ $.Param "updates-title" }}</div>
-          <div class="d-inline h4 pt-2 float-right"><a href="{{ $.Param "link-to-updates"}}" class="text-white">view all</a></div>
+          <div class="h4 pt-2 float-right d-none d-sm-block"><a href="{{ $.Param "link-to-updates"}}" class="text-white">view all</a></div>
         </div>
         <div class="w-100 bg-secondary h2px"></div>
-        <div class="row pt-4 pb-4 mb-4">
+        <div class="row pt-4 pb-4 ">
             {{ range first 3 (where .Site.RegularPages "Section" "updates") }}
               <div class="col-md-4 col-xs-12 pb-4 mb-4">
                   <div class="h3">
@@ -22,6 +22,13 @@
                   <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn more</a>
                </div>
             {{ end }}
+        </div>
+        <div class="row mb-4">
+          <div class="col-12">
+            <div class="h4 pt-2 d-block d-sm-none">
+              <a  href="{{ $.Param "link-to-updates"}}" class="btn btn-primary mt-2 no-overlay pl-4 pr-4">View all <span class="text-lowercase"> {{ $.Param "updates-title" }} </span></a>
+            </div>
+          </div>
         </div>
       </div>
     </div>

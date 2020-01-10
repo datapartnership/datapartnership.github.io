@@ -1,6 +1,7 @@
 ---
 title: Short Term Impact
-date: 2019-02-26 21:52:59 +0000
-weight: 1
+date: 2019-02-26T21:52:59.000+00:00
+weight: "1"
+
 ---
-Since the World Bank launched the beta Data Collaboratives platform in April 2018, eleven development projects are now under implementation.
+Since the World Bank launched the beta Data Partnership platform in April 2018 (then called "Data Collaboratives"), more than 40 development projects are now under implementation.

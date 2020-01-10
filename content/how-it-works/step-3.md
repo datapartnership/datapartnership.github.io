@@ -1,6 +1,7 @@
 ---
-title: Project and research proposals are solicited.
-date: 2019-02-26 21:52:59 +0000
-weight: 3
+title: Data Management
+date: 2019-02-26T21:52:59.000+00:00
+weight: "3"
+
 ---
-Project and research proposals are solicited from Consortium staff through open process on the Data Collaboratives web platform. Partner may opt to review proposals.
+Upon project approval, data are securely and responsibly managed on behalf of all staff through the Partnership IT architecture and procedures.

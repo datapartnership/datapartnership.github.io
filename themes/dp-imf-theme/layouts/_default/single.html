@@ -12,7 +12,7 @@
               <nav aria-label="breadcrumb text-light">
                 <ol class="breadcrumb  bg-secondary m-0">
                   <li class="breadcrumb-item"><a class="text-light" href="/">Home</a></li>
-                  <li class="breadcrumb-item text-light"><a class="text-light" href="/news">News and Case Studies</a></li>
+                  <li class="breadcrumb-item text-light"><a class="text-light" href="{{ $.Param "link-to-updates"}}"> {{ $.Param "updates-title" }} </a></li>
                   <li class="breadcrumb-item text-light  active" aria-current="page"> {{ .Title }}</li>
                 </ol>
               </nav>

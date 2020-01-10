@@ -19,12 +19,12 @@
    <meta property="og:type" content="website" />
    <meta property="og:title" content="{{ .Title }}" />
    <meta property="og:description" content="{{ $.Param "siteDescription" }}" />
-   <meta property="og:image" content="{{ $.Param "facebook-card" }}" />
+   <meta property="og:image" content="/{{ $.Param "facebook-card" }}" />
 
    <meta name="twitter:card" content="summary" />
    <meta name="twitter:title" content="{{ .Title }}" />
    <meta name="twitter:description" content="{{ $.Param "siteDescription" }}" />
-   <meta name="twitter:image" content= "{{ $.Param "facebook-card" }}">
+   <meta name="twitter:image" content= "/{{ $.Param "twitter-card" }}">
 
    <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com https://www.googletagmanager.com/  https://www.google-analytics.com https://stats.g.doubleclick.net 'unsafe-inline' ; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://www.google-analytics.com/ ; style-src 'self' https://stackpath.bootstrapcdn.com  https://fonts.googleapis.com/ 'unsafe-inline' ;">
 

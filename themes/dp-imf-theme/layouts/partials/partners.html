@@ -3,13 +3,13 @@
     <div class="container">
     <div class="row pb-3">
       <div class="col-12">
-        <h4 class="text-uppercase">{{ $.Param "partner-section-title"}}</h4>
+        <h4 class="text-uppercase">{{ $.Param "partner-section-title"}} </h4>
         <div><a class="text-dark text-underline" href="mailto:{{ $.Param "partner-section-sub-title" }}">{{ $.Param "partner-section-sub-title" }}</a></div>
       </div>
     </div>
     <div class="row partners-logos">
         {{ range  where .Site.RegularPages "Section" "partners" }}
-            <div class="partner-logo col-md-3 col-xs-12 p-4"><img class="" src="{{ .Params.logo }}" alt="{{ .Title }}"> </div>
+            <div class="partner-logo col-md-3 col-xs-12 p-4"><img class="img-fluid" src="{{ .Params.logo }}" alt="{{ .Title }}"> </div>
         {{ end }}
     </div>
     </div>

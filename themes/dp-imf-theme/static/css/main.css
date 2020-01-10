@@ -129,9 +129,7 @@ a.btn-primary {
     border-right: 1px solid lightgray;
   }
 
-.partner-logo:nth-child(4) , .partner-logo:last-child {
-    border-right: 0px;
-  }
+
 
  .project-details:not(:last-child) {
    border-bottom: 1px solid lightgray;

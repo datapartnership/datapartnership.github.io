@@ -27,6 +27,7 @@
         </div>
 
 
+      {{ if $.Param "download-business-case-status" }}
         <div class="row">
           <div class="col text-center pt-3 pb-3">
                 <a download class="btn-primary pt-2 pb-2 pl-3 pr-3" href="{{ $.Param "download-business-case-doc-url" }}">
@@ -34,7 +35,7 @@
                 </a>
           </div>
         </div>
-
+      {{ end }}
       </div>
     </div>
   </section>

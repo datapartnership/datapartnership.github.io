@@ -2,7 +2,7 @@
 
 This repo contains the code and deployment details for the datapartnership.org site.
 
-## How does the site work?
+## How does the site work
 
 The site is a "statically generated site". This means, instead of running a web server with a database and a traditional content management system, we use a tool called a static site generator to transform the text into ready-made html pages -- which can be served to the users at a blazing fast speed. There are no databases, no complicated servers to manage, backup, run or keep secure.
 

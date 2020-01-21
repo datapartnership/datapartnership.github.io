@@ -3,7 +3,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Abel', sans-serif;
 }
 
 footer {
@@ -59,7 +59,7 @@ a.text-light:hover , a.text-light:active  {
 
 div.main-title {
   font-size: 2.5rem;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Abel', sans-serif;
   letter-spacing: 4px;
   font-weight:900;
 }
@@ -215,7 +215,7 @@ a.btn-primary {
      border: 0px;
      text-align: left;
    }
-   
+
    footer {
       text-align: left;
       position: relative;

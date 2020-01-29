@@ -1,6 +1,6 @@
 +++
 date = ""
-logo = "/ookla-speedtest-logo-black-web-internet-speed.jpg"
+logo = "/ookla--inc_owler_20180814_154502_original.png"
 title = "Ookla"
 weight = 1
 

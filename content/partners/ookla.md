@@ -1,8 +1,7 @@
 +++
 date = ""
-draft = true
-logo = ""
+logo = "/ookla-speedtest-logo-black-web-internet-speed.jpg"
 title = "Ookla"
-weight = nil
+weight = 1
 
 +++

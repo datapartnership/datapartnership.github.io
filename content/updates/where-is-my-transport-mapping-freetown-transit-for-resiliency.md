@@ -1,6 +1,7 @@
 +++
 date = 2019-07-01T20:12:14Z
-title = "Facebook: Tackling the global profitarchy–Gender and the choice of business sector"
+draft = true
+title = "Facebook: Tackling the Global Profitarchy–Gender and the Choice of Business Sector"
 type = "Case Study"
 
 +++

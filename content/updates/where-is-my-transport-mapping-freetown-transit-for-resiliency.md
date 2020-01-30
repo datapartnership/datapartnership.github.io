@@ -1,7 +1,7 @@
 +++
 date = 2019-07-01T20:12:14Z
 draft = true
-title = "Where Is My Transport: Mapping Freetown Transit for Resiliency"
+title = "Facebook: Tackling the global profitarchy–Gender and the choice of business sector"
 type = "Case Study"
 
 +++

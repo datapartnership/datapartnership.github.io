@@ -11,7 +11,7 @@
         <p>{{ $.Param "donors-description" }}</p>
       </div>
     </div>
-    <div class="row donors-logos">
+    <div class="row donors-logos text-center">
         {{ range  where .Site.RegularPages "Section" "donors" }}
             <div class="donor-logo col-md-3 col-xs-12 p-4"><img class="img-fluid" src="{{ .Params.logo }}" alt="{{ .Title }}"> </div>
         {{ end }}

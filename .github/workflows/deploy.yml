@@ -19,7 +19,7 @@ jobs:
           hugo-version: '0.64.0'
 
       - name: Build
-        run: hugo --minify
+        run: hugo -t dp-imf-theme --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

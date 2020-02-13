@@ -1,7 +1,7 @@
 languageCode = "en-us"
 summaryLength = 10
 theme = "dp-imf-theme"
-BaseURL = '//datapartnership.github.io/datapartnership.org'
+BaseURL = '//datapartnership.org'
 title = "The Development Data Partnership"
 [params]
 banner-image = "banner.svg"

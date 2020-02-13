@@ -1,22 +1,29 @@
-name: Push to GitHub Pages on push to master.
+name: github pages
+
 on:
   push:
     branches:
       - master
 
 jobs:
-  build:
-    name: Deploy
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-18.04
     steps:
-      - name: Checkout master
-        uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        # with:
+        #   submodules: true
 
-      - name: Deploy the site
-        uses: benmatselby/hugo-deploy-gh-pages@1.1.0
-        env:
-          HUGO_VERSION: 0.57.2
-          TARGET_REPO: datapartnership.org/datapartnership.github.io
-          TOKEN: ${{ secrets.TOKEN }}
-          HUGO_ARGS: '-t academic'
-          CNAME: datapartnership.github.io
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.64.0'
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public
+          publish_branch: master

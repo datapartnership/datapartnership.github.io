@@ -1,0 +1,22 @@
+<div class="container mt-5 mb-5">
+  <div class="row ">
+    <div class="col-12">
+      <h3> {{ $.Param "how-it-works-title" }}</h3>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12">
+      <div id="timeline-content">
+            <ul class="timeline">
+              {{ range  where .Site.RegularPages "Section" "how-it-works" }}
+                  <li class="event" data-date="Step {{ .Weight }}">
+                      <div class="h5">{{.Title }}</div>
+                      <p> {{ .Content }}</p>
+                  </li>
+              {{ end }}
+              </ul>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,35 @@
+<section>
+ <div class="container-fluid bg-primary-gradient pt-3">
+
+   <div class="container">
+     <div class="row">
+       <div class="col-12">
+         <div class="float-right ">
+           <img src="img/user.svg" alt="">
+           <a class="text-light font-weight-bold pl-1 text-small" href="{{ .Site.Params.loginLink}}">Login</a>
+         </div>
+       </div>
+     </div>
+   </div>
+
+    <div class="container pb-5">
+      <div class="row d-flex">
+        <div class="col-lg-7 col-sm-12 mt-2 justify-content-center align-self-center">
+          <div class="text-light">
+              <div class="main-title text-uppercase"></div>
+              <div class="main-title text-white text-uppercase">{{.Title | safeHTML}}</div>
+              <p class="mt-2">{{ $.Param "siteDescription" }}</p>
+              <a href="{{ $.Param "button-link" }}" class="btn btn-primary mt-2 no-overlay">{{ $.Param "button-text" }}</a>
+              <a  href="{{ $.Param "link-to-updates" }}" class="btn btn-secondary mt-2 no-overlay">{{ $.Param "label-of-updates" }}</a>
+          </div>
+        </div>
+        <div class="col-lg-5 d-md-none d-lg-block bring-forward  mb-3">
+            <img class="img-fluid " src="{{  $.Param "banner-image" }}" alt="{{.Title}}">
+        </div>
+      </div>
+    </div>
+    <div class="background-stripes">
+      <img src="{{ $.Param "banner-stripes" }}" alt="Background Stripes">
+    </div>
+  </div>
+</section>

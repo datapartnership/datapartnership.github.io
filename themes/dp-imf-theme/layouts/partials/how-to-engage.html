@@ -1,0 +1,26 @@
+<section>
+    <div class="container-fluid pt-5 pb-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h4 class="text-uppercase">{{ $.Param "how-to-engage-title" }}</h4>
+          </div>
+        </div>
+        <div class="row pt-3">
+          {{ range  where .Site.RegularPages "Section" "how-to-engage" }}
+            <div class="col-md-6 col-xs-12">
+              <h5 class="text-uppercase">{{ .Title }}</h5>
+              <p>{{ .Content }}</p>
+            </div>
+          {{ end }}
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <a class="btn btn-primary" href="mailto:{{ $.Param "partner-section-sub-title" }}">{{ $.Param "engage-section-sub-title" }}</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>

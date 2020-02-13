@@ -1,0 +1,9 @@
+<div class="bg-secondary text-light p-3 ">
+  <h4 class="mb-4"> You can also read </h4>
+  <hr>
+  <dl>
+      {{ range where .Site.RegularPages "Section" "updates" | first 12 }}
+          <dt class="pb-4" ><a class="h5 text-light" href="{{ .RelPermalink }}">{{ .Title }}</a></dt>
+      {{ end }}
+  </dl>
+</div>

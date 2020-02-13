@@ -16,7 +16,7 @@ jobs:
         uses: benmatselby/hugo-deploy-gh-pages@1.1.0
         env:
           HUGO_VERSION: 0.57.2
-          TARGET_REPO: datapartnership.org/datapartnership.github.io
+          TARGET_REPO: datapartnership/datapartnership.org
           TOKEN: ${{ secrets.TOKEN }}
           HUGO_ARGS: '-t academic'
           CNAME: datapartnership.github.io

@@ -1,4 +1,4 @@
-name: Push to GitHub Pages on push to master
+name: Push to GitHub Pages on push to master.
 on:
   push:
     branches:

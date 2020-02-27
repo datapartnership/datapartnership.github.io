@@ -1,14 +1,14 @@
 +++
 date = 2019-11-29T21:12:14Z
 draft = true
-title = "Facebook: Tackling the Global Profitarchy–Gender and the Choice of Business Sector"
+title = "Facebook: A New Predictive Model for More Accurate Electrical Grid Mapping"
 type = "Case Study"
 
 +++
-**Challenge:** Despite significant progress in women’s educational attainment and higher female labor force participation rates in many countries, progress in closing the gender pay gap, which takes the ratio of median earnings of all women to all men, has been slow. While there are a multitude of factors at play when it comes to the gender earnings gap in entrepreneurship, sectoral segregation has been identified as an important determinant.  Women tend to sort into different sectors than men, and the traditionally female sectors are characterized by lower returns.
+**Challenge:** When planning connectivity deployments in emerging markets, it is important to have a clear picture of where existing power lines are placed. This information helps us make better decisions about where to focus our efforts, how we design the network, and how we source the equipment we’ll need. However, this information in developing countries is often outdated, inaccurate, or too low resolution to be useful.
 
-**Solution**: Facebook, in partnership with the World Bank and the Organization for Economic Co-Operation and Development (OECD), designed and conducted the bi-annual Future of Business survey, which offers a survey to global micro, small and medium sized enterprises (MSMEs) that have an active Facebook business page. Data from the survey, gathered from business owners, managers and employees in 97 countries, across 4 continents provides a unique opportunity to study the gender earnings gap on a global level.
+**Solution**: To find a more accurate picture using existing resources, Facebook partnered with the Energy Sector Management Assistance Program (ESMAP) at the World Bank, KTH Royal Institute of Technology, World Resources Institute (WRI), and the University of Massachusetts Amherst. A new predictive model was developed for mapping medium-voltage (MV) infrastructure using publicly available data sets. The [output of this model](https://energydata.info/dataset/medium-voltage-distribution-predictive) for six countries is available on the World Bank’s open energy data repository.
 
-**Impact**: Identifying the characteristics of women that have successfully entered higher-return male-dominated sectors will help institutions to develop policy interventions that enable women to build businesses that could positively affect growth while reducing gender earning gaps.
+**Impact**: Local governments, businesses, and nonprofits can use it to understand where people need electricity or where to expand water pumping infrastructure to provide basic services.
 
-[Read more](https://blogs.worldbank.org/voices/tackling-global-profitarchy-gender-and-choice-business-sector)
+[Read more](https://engineering.fb.com/connectivity/electrical-grid-mapping/)

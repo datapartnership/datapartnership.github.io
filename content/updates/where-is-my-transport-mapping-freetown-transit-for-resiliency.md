@@ -4,8 +4,6 @@ title = "Facebook: Tackling the Global Profitarchy–Gender and the Choice of Bu
 type = "Case Study"
 
 +++
-**![](/Facebook header.png)**
-
 **Challenge:** Despite significant progress in women’s educational attainment and higher female labor force participation rates in many countries, progress in closing the gender pay gap, which takes the ratio of median earnings of all women to all men, has been slow. While there are a multitude of factors at play when it comes to the gender earnings gap in entrepreneurship, sectoral segregation has been identified as an important determinant.  Women tend to sort into different sectors than men, and the traditionally female sectors are characterized by lower returns.
 
 **Solution**: Facebook, in partnership with the World Bank and the Organization for Economic Co-Operation and Development (OECD), designed and conducted the bi-annual Future of Business survey, which offers a survey to global micro, small and medium sized enterprises (MSMEs) that have an active Facebook business page. Data from the survey, gathered from business owners, managers and employees in 97 countries, across 4 continents provides a unique opportunity to study the gender earnings gap on a global level.

@@ -1,14 +1,12 @@
 +++
 date = 2019-11-29T21:12:14Z
 draft = true
-title = "Facebook: A New Predictive Model for More Accurate Electrical Grid Mapping"
+title = "Mapbox: Estimating Access to Employment Opportunities in Dhaka, Bangladesh"
 type = "Case Study"
 
 +++
-**Challenge:** When planning connectivity deployments in emerging markets, it is important to have a clear picture of where existing power lines are placed. This information helps us make better decisions about where to focus our efforts, how we design the network, and how we source the equipment we’ll need. However, this information in developing countries is often outdated, inaccurate, or too low resolution to be useful.
+**Challenge:** Poor transport facilities and infrastructure are a major hindrance to Bangladesh’s economic development. The road network in Dhaka is severely congested. The driving duration to get from one place to another in a road network has traditionally been extrapolated by assigning a driving speed to each road class. While this approach has produced sensible travel time estimates, the highly congested nature of Dhaka means that solely using expected road speeds would result in exaggerated accessibility scores.
 
-**Solution**: To find a more accurate picture using existing resources, Facebook partnered with the Energy Sector Management Assistance Program (ESMAP) at the World Bank, KTH Royal Institute of Technology, World Resources Institute (WRI), and the University of Massachusetts Amherst. A new predictive model was developed for mapping medium-voltage (MV) infrastructure using publicly available data sets. The [output of this model](https://energydata.info/dataset/medium-voltage-distribution-predictive) for six countries is available on the World Bank’s open energy data repository.
+**Solution**: The spatial patterns in access to employment opportunities in the city of Dhaka is identified using Mapbox data. The estimation of accessibility to employment centers is refined by adjusting travel times with additional data on traffic congestion. Incorporating the traffic speeds into access estimates is an important inclusion in urban analyses. Even in Bangladesh, with “limited predictability of travel times”, most major roads with some indication of current speed were estimated.
 
-**Impact**: Local governments, businesses, and nonprofits can use it to understand where people need electricity or where to expand water pumping infrastructure to provide basic services.
-
-[Read more](https://engineering.fb.com/connectivity/electrical-grid-mapping/)
+**Impact**: The availability of jobs is focused in the downtown core; however, the distribution of that access varies across space and between genders. There is a shift of accessibility of jobs north-west of the city core for women, with the northern part of the city showing much higher access for women than for men. The corresponding discrepancy for men shows the southern part of the city with much higher job availability.

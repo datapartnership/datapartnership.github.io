@@ -4,7 +4,7 @@ theme = "dp-imf-theme"
 BaseURL = '//datapartnership.org'
 title = "The Development Data Partnership"
 [params]
-banner-image = "handlogo.png"
+banner-image = "banner.svg"
 banner-stripes = "background-stripes.svg"
 button-link = "mailto:hkrambeck@worldbank.org"
 button-text = "Contact Us"

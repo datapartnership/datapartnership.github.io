@@ -1,6 +1,5 @@
 +++
 date = 2019-11-29T21:12:14Z
-draft = true
 title = "Facebook: Tackling the Global Profitarchy–Gender and the Choice of Business Sector"
 type = "Case Study"
 

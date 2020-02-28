@@ -1,10 +1,10 @@
 ---
 title: Why Data Partnership?
-date: 2019-09-02T04:00:00+00:00
+date: 2019-09-02T04:00:00.000+00:00
 type: Article
 
 ---
-### Should the private sector ever share data with the public sector, even if for public good?
+### Should the private sector ever share data with the public sector, even if it is for public good?
 
 Well, it depends.
 

@@ -5,7 +5,7 @@ BaseURL = '//datapartnership.org'
 title = "The Development Data Partnership"
 [params]
 banner-image = "banner.svg"
-banner-stripes = "background-stripes.svg"
+banner-stripes = ""
 button-link = "mailto:hkrambeck@worldbank.org"
 button-text = "Contact Us"
 download-business-case-doc-url = ""

@@ -1,6 +1,5 @@
 +++
 date = 2019-11-29T21:12:14Z
-draft = true
 title = "Facebook: A New Predictive Model for More Accurate Electrical Grid Mapping"
 type = "Case Study"
 

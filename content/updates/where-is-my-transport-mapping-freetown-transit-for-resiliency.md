@@ -5,6 +5,8 @@ title = "Facebook: Tackling the Global Profitarchy–Gender and the Choice of Bu
 type = "Case Study"
 
 +++
+**![](FB header.png)**
+
 **Challenge:** Despite significant progress in women’s educational attainment and higher female labor force participation rates in many countries, progress in closing the gender pay gap, which takes the ratio of median earnings of all women to all men, has been slow. While there are a multitude of factors at play when it comes to the gender earnings gap in entrepreneurship, sectoral segregation has been identified as an important determinant.  Women tend to sort into different sectors than men, and the traditionally female sectors are characterized by lower returns.
 
 ![](/gil_fb_figure1_theprofitarchy.jpg)

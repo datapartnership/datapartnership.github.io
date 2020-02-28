@@ -3,7 +3,10 @@ name: github pages
 on:
   push:
     branches:
-      - master
+    - master
+  pull_request:
+    branches:
+    - master
 
 jobs:
   deploy:
@@ -22,8 +25,9 @@ jobs:
         run: hugo -t dp-imf-theme --minify
 
       - name: Deploy
+        if: github.ref == 'refs/heads/master' && job.status == 'success'
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./public
-          publish_branch: gh-pages
+            deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+            publish_dir: ./public
+            publish_branch: gh-pages

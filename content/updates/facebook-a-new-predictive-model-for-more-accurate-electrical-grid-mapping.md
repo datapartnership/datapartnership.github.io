@@ -1,6 +1,5 @@
 +++
 date = 2019-11-29T21:12:14Z
-draft = true
 title = "Mapbox: Estimating Access to Employment Opportunities in Dhaka, Bangladesh"
 type = "Case Study"
 

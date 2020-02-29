@@ -1,21 +1,25 @@
 <section>
   <div class="container-fluid pt-5 pb-5">
     <div class="container">
-    <div class="row pb-3">
-      <div class="col-12">
-        <h4 class="text-uppercase">{{ $.Param "donors-section-title"}} </h4>
+      <div class="row pb-3">
+        <div class="col-12">
+          <h4 class="text-uppercase">{{ $.Param "donors-section-title"}} </h4>
+        </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-12">
-        <p>{{ $.Param "donors-description" }}</p>
+      <div class="row">
+        <div class="col-12">
+          <p>{{ $.Param "donors-description" }}</p>
+        </div>
       </div>
-    </div>
-    <div class="row donors-logos text-center">
+      <div class="row donors-logos text-center">
         {{ range  where .Site.RegularPages "Section" "donors" }}
-            <div class="donor-logo col-md-3 col-xs-12 p-4"><img class="img-fluid" src="{{ $.Site.BaseURL }}{{ .Params.logo }}" alt="{{ .Title }}"> </div>
+        <div class="donor-logo col-md-3 col-xs-12 p-4">
+          <a href="https://www.gatesfoundation.org/">
+            <img class="img-fluid" src="{{ $.Site.BaseURL }}{{ .Params.logo }}" alt="{{ .Title }}">
+          </a>
+        </div>
         {{ end }}
-    </div>
+      </div>
     </div>
   </div>
 </section>

@@ -1,16 +1,16 @@
 <section>
- <div class="container-fluid bg-primary-gradient pt-3">
+  <div class="container-fluid bg-primary-gradient pt-3">
 
-   <div class="container">
-     <div class="row">
-       <div class="col-12">
-         <div class="float-right ">
-           <img src="img/user.svg" alt="">
-           <a class="text-light font-weight-bold pl-1 text-small" href="{{ .Site.Params.loginLink}}">Login</a>
-         </div>
-       </div>
-     </div>
-   </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="float-right ">
+            <img src="img/user.svg" alt="">
+            <a class="text-light font-weight-bold pl-1 text-small" href="{{ .Site.Params.loginLink}}">Login</a>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div class="container pb-5">
       <div class="row d-flex">
@@ -18,19 +18,19 @@
           <div class="text-light">
             <div class="row">
               <div class="col-10" style="padding-left:0">
-                <div >
+                <div>
                   <img class="img-fluid" src="logo-title.png" alt="{{.Title | safeHTML}}">
-                  </div>
                 </div>
               </div>
-              <div class="main-title text-uppercase"></div>
-              <p class="mt-2">{{ $.Param "siteDescription" }}</p>
-              <a href="{{ $.Param "button-link" }}" class="btn btn-primary mt-2 no-overlay">{{ $.Param "button-text" }}</a>
-              <a  href="{{ $.Param "link-to-updates" }}" class="btn btn-secondary mt-2 no-overlay">{{ $.Param "label-of-updates" }}</a>
+            </div>
+            <div class="main-title text-uppercase"></div>
+            <p class="mt-2">{{ $.Param "siteDescription" }}</p>
+            <a href="{{ $.Param "button-link" }}" class="btn btn-primary mt-2 no-overlay" style="margin-right:10px">{{ $.Param "button-text" }}</a>
+            <a href="{{ $.Param "link-to-updates" }}" class="btn btn-secondary mt-2 no-overlay">{{ $.Param "label-of-updates" }}</a>
           </div>
         </div>
         <div class="col-lg-5 d-md-none d-lg-block bring-forward  mb-3">
-            <img class="img-fluid " src="{{  $.Param "banner-image" }}" alt="{{.Title}}">
+          <img class="img-fluid " src="{{  $.Param "banner-image" }}" alt="{{.Title}}">
         </div>
       </div>
     </div>

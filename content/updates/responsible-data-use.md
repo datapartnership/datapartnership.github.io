@@ -6,6 +6,8 @@ type = "Article"
 +++
 ![USAID Splash](/uploads/USAID_Splash.png "USAID Splash")
 
+# On Responsible Data Use
+
 As we develop the Data Partnership, we have a responsibility to the people impacted by our initiative -- to local governments and partners, and to our own organizations -- to think about how we are collecting, using, storing, and sharing information. To borrow a few lines from [ICT Works](https://www.ictworks.org/), we should:
 
 * **Use data to make more informed decisions**, to understand how our programs are doing and how to make them better.

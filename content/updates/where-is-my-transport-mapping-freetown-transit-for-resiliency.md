@@ -4,7 +4,6 @@ title = "Facebook: Tackling the Global Profitarchy–Gender and the Choice of Bu
 type = "Case Study"
 
 +++
-![](/FB header.png)
 # **Facebook**
 
 # Tackling the Global Profitarchy–Gender and the Choice of Business Sector
@@ -16,8 +15,6 @@ type = "Case Study"
 ![](/gil_fb_figure1_theprofitarchy.jpg)
 
 **Solution**: Facebook, in partnership with the World Bank and the Organization for Economic Co-Operation and Development (OECD), designed and conducted the bi-annual Future of Business survey, which offers a survey to global micro, small and medium sized enterprises (MSMEs) that have an active Facebook business page. Data from the survey, gathered from business owners, managers and employees in 97 countries, across 4 continents provides a unique opportunity to study the gender earnings gap on a global level.
-
-![](/FB header.png)
 
 **Impact**: Identifying the characteristics of women that have successfully entered higher-return male-dominated sectors will help institutions to develop policy interventions that enable women to build businesses that could positively affect growth while reducing gender earning gaps.
 

@@ -4,6 +4,7 @@ title = "Facebook: Tackling the Global Profitarchy–Gender and the Choice of Bu
 type = "Case Study"
 
 +++
+![](/FB header.png)
 # **Facebook**
 
 # Tackling the Global Profitarchy–Gender and the Choice of Business Sector

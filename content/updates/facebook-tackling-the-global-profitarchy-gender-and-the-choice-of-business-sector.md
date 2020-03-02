@@ -4,7 +4,9 @@ title = "Facebook: A New Predictive Model for More Accurate Electrical Grid Mapp
 type = "Case Study"
 
 +++
-# Facebook: A New Predictive Model for More Accurate Electrical Grid Mapping
+# Facebook: 
+
+# A New Predictive Model for More Accurate Electrical Grid Mapping
 
 **Challenge:** When planning connectivity deployments in emerging markets, it is important to have a clear picture of where existing power lines are placed. This information helps us make better decisions about where to focus our efforts, how we design the network, and how we source the equipment we’ll need. However, this information in developing countries is often outdated, inaccurate, or too low resolution to be useful.
 

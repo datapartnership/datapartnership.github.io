@@ -25,8 +25,6 @@ See our Data Partners and Bank staff in action, here:
 <div class="row-fluid single-post-gallery">
 <span> <img class="w-100" src="/updates/img/data-day/0.jpg"></span>
 
-<span> <img class="w-25" src="/updates/img/data-day/1.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/2.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/3.jpg"></span>
+***
 
-<span> <img class="w-25" src="/updates/img/data-day/4.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/9.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/6.jpg"></span>
-
-<span> <img class="w-25" src="/updates/img/data-day/7.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/8.jpg"></span> </div>
+<span> <img class="w-25" src="/updates/img/data-day/1.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/2.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/3.jpg"></span><span> <img class="w-25" src="/updates/img/data-day/4.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/9.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/6.jpg"></span><span> <img class="w-25" src="/updates/img/data-day/7.jpg"></span> <span> <img class="w-25" src="/updates/img/data-day/8.jpg"></span> </div>

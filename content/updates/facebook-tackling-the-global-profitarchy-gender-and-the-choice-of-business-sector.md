@@ -4,7 +4,9 @@ title = "Facebook: A New Predictive Model for More Accurate Electrical Grid Mapp
 type = "Case Study"
 
 +++
-# Facebook: A New Predictive Model for More Accurate Electrical Grid Mapping  
+# **Facebook**
+
+# A New Predictive Model for More Accurate Electrical Grid Mapping
 
 ***
 

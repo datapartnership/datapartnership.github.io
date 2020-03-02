@@ -6,17 +6,14 @@ type: Event
 ---
 On February 13, 2019, the Data Partnership (formerly Data Collaboratives), for the first time, brought together Partners and staff. More than 200 colleagues joined the standing-room-only event, in person and online, learning about how private data partnerships can be made to work for public good.
 
-Featured partners:
+Featured Data Partners:
 
-![](/waze.jpg)
+* MapBox
+* Facebook
+* Mapillary
+* Waze
 
-![](/partners/mapbox.jpg)
-
-![](/mapillary-logo.png)
-
-![](/partners/facebook.jpg)
-
-See our Data Partners and Bank staff using their data in real development projects in action, here:
+See our Data Partners and Bank staff in action, here:
 
 * Video from Data Collaboratives Event: http://bit.ly/2EgDrCr
 * PPT (large file due to many embedded videos): http://bit.ly/2TW42dz

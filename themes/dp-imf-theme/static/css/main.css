@@ -18,6 +18,13 @@ a.text-light:hover , a.text-light:active  {
   color: #f8f9fa !important;
 }
 
+.center {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
 .bg-primary {
   background-color: #001E60 !important;
 }

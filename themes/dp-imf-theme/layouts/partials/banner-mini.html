@@ -1,9 +1,11 @@
 <section>
-  <div class="container-fluid bg-primary-gradient text-light ">
+  <div class="container-fluid bg-primary-gradient text-light " style="height: 275px">
     <div class="container pb-5 ">
       <div class="row pt-3">
         <div class="col-12 h6">
-            <a class="text-light" href="/"> {{ .Site.Title | safeHTML }}</a>
+          <a href="/">
+            <img class="img-fluid" src="/logo-title.png" width=50% height=50% alt="{{.Title | safeHTML}}">
+          </a>
         </div>
       </div>
     </div>

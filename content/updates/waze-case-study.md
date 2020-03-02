@@ -4,9 +4,11 @@ title = "Where Is My Transport: Mapping Freetown Transit for Resiliency"
 type = "Case Study"
 
 +++
-# Where Is My Transport: 
+# **Where Is My Transport**
 
 # Mapping Freetown Transit for Resiliency
+
+***
 
 **Challenge:** The resiliency of a transport network is a critical component to the stability and prosperity of a city. Freetown, prone to flooding and landslides, struggles to maintain services throughout the year. Compounding the challenges of weather and scarce resources, the government did not have a comprehensive map of its entire transport system, curtailing efforts to increase the resiliency of the system.
 

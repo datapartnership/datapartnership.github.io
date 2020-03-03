@@ -1,14 +1,9 @@
 +++
 date = 2019-08-01T20:12:14Z
-title = "Waze: Improving Road Safety in Nairobi"
+title = "Improving Road Safety in Nairobi"
 type = "Case Study"
-
+partner = "Waze"
 +++
-# **Waze**
-
-# Improving Road Safety in Nairobi
-
-***
 
 **Challenge:** Kenya has one of the highest estimated crash fatality rates worldwide but is challenged to address the problem without adequate data.
 

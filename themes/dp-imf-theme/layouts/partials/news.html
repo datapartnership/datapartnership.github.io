@@ -11,7 +11,7 @@
             {{ range first 3 (where .Site.RegularPages "Section" "updates") }}
               <div class="col-md-4 col-xs-12 pb-4 mb-4">
                   <div class="h3">
-                    {{ .Title }}
+                    {{ if isset .Params "partner" }}{{ .Params.partner }}:{{end}} {{ .Params.title }}
                   </div>
                     <p class="pt-2">
                       {{ .Summary }}

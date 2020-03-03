@@ -8,7 +8,7 @@ partner = "Mapbox"
 
 **Challenge:** Poor transport facilities and infrastructure are a major hindrance to Bangladesh’s economic development. The road network in Dhaka is severely congested. The driving duration to get from one place to another in a road network has traditionally been extrapolated by assigning a driving speed to each road class. While this approach has produced sensible travel time estimates, the highly congested nature of Dhaka means that solely using expected road speeds would result in exaggerated accessibility scores.
 
-![](/Mapbox Dhaka.png)
+![Mapbox Dhaka analysis](/Mapbox-Dhaka.png)
 
 **Solution**: The spatial patterns in access to employment opportunities in the city of Dhaka are identified using Mapbox data. The estimation of accessibility to employment centers is refined by adjusting travel times with additional data on traffic congestion. Incorporating the traffic speeds into access estimates is an important inclusion in urban analyses. Even in Bangladesh, with “limited predictability of travel times”, most major roads with some indication of current speed were estimated.
 

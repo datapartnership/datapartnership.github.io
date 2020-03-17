@@ -1,5 +1,6 @@
 ---
-title: "Linked In"
-date:  2019-12-17T17:13:24-05:00
-logo:  "/partners/linkedin.png"
+title: LinkedIn
+date: 2019-12-17T22:13:24.000+00:00
+logo: "/partners/linkedin.png"
+
 ---

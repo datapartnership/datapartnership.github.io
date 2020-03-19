@@ -1,6 +1,5 @@
 +++
 date = 2019-07-01T20:12:14Z
-draft = true
 partner = "Facebook and Mapbox"
 title = "Addressing COVID-19 through Public-Private Data Partnerships:   Where Do We Put Extra Testing Facilities and Hospital Beds? "
 type = "Case Study"

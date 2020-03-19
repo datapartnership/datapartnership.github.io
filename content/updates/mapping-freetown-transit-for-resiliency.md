@@ -1,8 +1,8 @@
 +++
 date = 2019-07-01T20:12:14Z
 draft = true
-partner = "Where Is My Transport"
-title = "Mapping Freetown Transit for Resiliency"
+partner = "Facebook and Mapbox"
+title = "Addressing COVID-19 through Public-Private Data Partnerships"
 type = "Case Study"
 
 +++

@@ -48,7 +48,7 @@ To help answer this question, we again use Facebook’s “Disease Prevention Ma
 
 ![](/Demand Supply.png)
 
-<center>_Demand/Supply of hospital beds:_ _On the horizontal axis we have the (supply) number of beds for a given cluster of hospitals in close proximity, while on the vertical axis we have the (demand) number of elderly people for the cluster where a given number of beds is the closest._</center>
+->_Demand/Supply of hospital beds:_ _On the horizontal axis we have the (supply) number of beds for a given cluster of hospitals in close proximity, while on the vertical axis we have the (demand) number of elderly people for the cluster where a given number of beds is the closest._<- 
 
 In this crude model, we can add data as we have gathered it. For example, actual number of confirmed cases or actual supply of unused ICU beds/respirators. Furthermore, we can filter locations on the map where the demand is highest and the supply lowest (i.e., the top-left quadrant). The clusters of hospitals could be then be mapped out:
 

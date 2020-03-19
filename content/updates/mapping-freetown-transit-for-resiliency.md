@@ -5,7 +5,7 @@ title = "Addressing COVID-19 through Public-Private Data Partnerships -- Where D
 type = "Case Study"
 
 +++
-**Background:**
+**Background**
 
 As the COVID-19 pandemic evolves, the World Bank is ramping up its response to help countries around the world. The Bank recently announced [$14 billion emergency support program](https://www.worldbank.org/en/news/press-release/2020/03/17/world-bank-group-increases-covid-19-response-to-14-billion-to-help-sustain-economies-protect-jobs), for which a key pillar is to help countries strengthen their capacity to monitor and respond to the spread of the virus. Countries like China, South Korea, and Singapore have effectively leveraged big data to do this -- with solutions like apps that track the transmission chains of confirmed cases or proactive alerts for people to get tested at a nearby facility. Big data has proven to be a critical tool for monitoring and responding to outbreaks.
 
@@ -33,7 +33,7 @@ More importantly, we can also build geographic histograms to see what percentage
 
 _Right: Cumulative histogram of people’s distance to their closest health facility driving. Red line indicates 1 hour, which corresponds to the 1.61% of the population who are a further distance. Left: Map of Spain, with health facilities in blue. In red are the locations where their distance to the closest health facility is further than 1 hour of driving._
 
-Data Informed
+_Data Informed_
 
 With these preliminary data at hand, we can begin a more efficient and _data informed_ conversation on additional information we would need to expand health testing capacity. We know how many people are covered and to what degree of proximity, so working with our health colleagues, we can start the discussion on other critical supply and demand factors. If no further data are available, we can use these rough analytics to help prioritize current locations serving the most amount of people? Do we locate them where the population live furthest? Is it better to have mobile clinics itinerant on the “red zones”?
 

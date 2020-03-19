@@ -1,8 +1,8 @@
 +++
 date = 2019-11-29T21:12:14Z
 draft = true
-partner = "Mapbox"
-title = "Estimating Access to Employment Opportunities in Dhaka, Bangladesh"
+partner = "Facebook and Mapbox"
+title = "Addressing COVID-19 through Public-Private Data Partnerships"
 type = "Case Study"
 
 +++

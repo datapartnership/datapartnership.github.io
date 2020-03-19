@@ -1,9 +1,9 @@
 +++
 date = 2020-03-19T04:00:00Z
 draft = true
-partner = ""
+partner = "Mapbox and Facebook"
 title = "Addressing COVID-19 through Public-Private Data Partnerships"
-type = ""
+type = "Case Study"
 url = ""
 
 +++

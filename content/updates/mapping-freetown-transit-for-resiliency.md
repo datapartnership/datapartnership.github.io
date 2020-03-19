@@ -20,10 +20,8 @@ The distance to health facilities should not be calculated in meters or miles on
 
 ![](/Mapbox Spain.png)
 
-[Click for an interactive map](https://api.mapbox.com/styles/v1/brunosan/ck7tmxdao01og1io2d4wir16v.html?fresh=true&access_token=pk.eyJ1IjoiYnJ1bm9zYW4iLCJhIjoic3FUc1dJWSJ9.v0525WacYWcsHM1KtbZitg#4.89/40.89/-3.22) Access to health facilities in Spain: Each flag represents a health facility. In green are locations within 1-hour driving distance to their closest health facility. Yellow places up to 1.5 hours and in red, the closest health facility is more than 2 hours driving. The opacity of the color is proportional to the population. Empty areas are transparent, while very populous areas are opaque.
+[_Click for an interactive map_](https://api.mapbox.com/styles/v1/brunosan/ck7tmxdao01og1io2d4wir16v.html?fresh=true&access_token=pk.eyJ1IjoiYnJ1bm9zYW4iLCJhIjoic3FUc1dJWSJ9.v0525WacYWcsHM1KtbZitg#4.89/40.89/-3.22) _Access to health facilities in Spain: Each flag represents a health facility. In green are locations within 1-hour driving distance to their closest health facility. Yellow places up to 1.5 hours and in red, the closest health facility is more than 2 hours driving. The opacity of the color is proportional to the population. Empty areas are transparent, while very populous areas are opaque._
 
-**Solution**: Working with Where Is My Transport, map Freetown’s formal and informal transport network, and make the data freely available to governments, academia, and NGOs.
-
-**Impact**: The local government can now identify and prioritize interventions that will enhance the resiliency of their transport system, to maximize economic and social benefits.
+We can also see what geographical areas are served by each hospital:
 
 ![Freetown Flooding](/uploads/WIMT_Flood.png "Freetown Flooding")

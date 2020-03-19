@@ -18,10 +18,11 @@ This was one of the key questions posed by experts at a recent COVID-19 response
 
 The distance to health facilities should not be calculated in meters or miles on a straight line, but in minutes traveling on actual roads. This can be a challenge in developing countries, with a complex mix of national, local, and often unpaved roads leading to a health clinic. To solve this challenge, we worked with [Mapbox](https://www.mapbox.com/) and their global [routing Matrix engine](https://docs.mapbox.com/help/glossary/matrix-api/). We can then use their API to map, at a national scale, how far away, in minutes, anyone is from their closest health facility, when traveling by road. Conversely, we can determine what areas and populations are served by each hospital. For illustrative purposes, we chose Spain to run the model, but the system would be analogous for any country.  
 
+![WIMT Project Stats](/uploads/Mapbox Spain.png "WIMT Project Stats")
 
-[Click for an interactive map] Access to health facilities in Spain: Each flag represents a health facility. In green are locations within 1-hour driving distance to their closest health facility. Yellow places up to 1.5 hours and in red, the closest health facility is more than 2 hours driving. The opacity of the color is proportional to the population. Empty areas are transparent, while very populous areas are opaque. 
+[Click for an interactive map](https://api.mapbox.com/styles/v1/brunosan/ck7tmxdao01og1io2d4wir16v.html?fresh=true&access_token=pk.eyJ1IjoiYnJ1bm9zYW4iLCJhIjoic3FUc1dJWSJ9.v0525WacYWcsHM1KtbZitg#4.89/40.89/-3.22) Access to health facilities in Spain: Each flag represents a health facility. In green are locations within 1-hour driving distance to their closest health facility. Yellow places up to 1.5 hours and in red, the closest health facility is more than 2 hours driving. The opacity of the color is proportional to the population. Empty areas are transparent, while very populous areas are opaque. 
 
-![WIMT Project Stats](/uploads/WIMT Stats.png "WIMT Project Stats")
+
 
 **Solution**: Working with Where Is My Transport, map Freetown’s formal and informal transport network, and make the data freely available to governments, academia, and NGOs.
 

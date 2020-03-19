@@ -18,19 +18,19 @@ This was one of the key questions posed by experts at a recent COVID-19 response
 
 The distance to health facilities should not be calculated in meters or miles on a straight line, but in minutes traveling on actual roads. This can be a challenge in developing countries, with a complex mix of national, local, and often unpaved roads leading to a health clinic. To solve this challenge, we worked with [Mapbox](https://www.mapbox.com/) and their global [routing Matrix engine](https://docs.mapbox.com/help/glossary/matrix-api/). We can then use their API to map, at a national scale, how far away, in minutes, anyone is from their closest health facility, when traveling by road. Conversely, we can determine what areas and populations are served by each hospital. For illustrative purposes, we chose Spain to run the model, but the system would be analogous for any country.
 
-![](/Mapbox Spain.png)
+![Mapbox Spain](/Mapbox-Spain.png)
 
 [_Click for an interactive map_](https://api.mapbox.com/styles/v1/brunosan/ck7tmxdao01og1io2d4wir16v.html?fresh=true&access_token=pk.eyJ1IjoiYnJ1bm9zYW4iLCJhIjoic3FUc1dJWSJ9.v0525WacYWcsHM1KtbZitg#4.89/40.89/-3.22) _Access to health facilities in Spain: Each flag represents a health facility. In green are locations within 1-hour driving distance to their closest health facility. Yellow places up to 1.5 hours and in red, the closest health facility is more than 2 hours driving. The opacity of the color is proportional to the population. Empty areas are transparent, while very populous areas are opaque._
 
 We can also see what geographical areas are served by each hospital:
 
-![](/Closest Hospital Spain.png)
+![Closest Hospital](/Closest-Hospital-Spain.png)
 
 _Map of Spain color coded by the regions where each hospital is closest_
 
 More importantly, we can also build geographic histograms to see what percentage of the population is furthest from a facility – for example, more than 1-hour driving distance (\~1.6% of the population for Spain) and where these people are.
 
-![](/Spain Population.png)
+![Spain Population](/Spain-Population.png)
 
 _Right: Cumulative histogram of people’s distance to their closest health facility driving. Red line indicates 1 hour, which corresponds to the 1.61% of the population who are a further distance. Left: Map of Spain, with health facilities in blue. In red are the locations where their distance to the closest health facility is further than 1 hour of driving._
 
@@ -46,13 +46,13 @@ Developed countries might have this information updated regularly, but many deve
 
 To help answer this question, we again use Facebook’s “Disease Prevention Maps” but this time instead of using the estimates for population in general, we will use their estimations of people over 60 years old. We know that the virus affects disproportionately older people. With lack of better disaggregated data, we use this number as a proxy of demand for beds. That is, the testing system will give us a rate of infection, and the elderly population will give us, proportionally to that, the demand on each hospital for beds. We also remove from the database health facilities without beds (clinics for doctor visits), and we cluster all hospitals within 5 kms of each other, since we assume that we can move patients between them (for example, in big cities). The rest of the calculation is essentially the same, and at the end we can plot a supply/demand scatter plot of beds (supply) and elderly population for which a hospital that has a given number of beds is the closest (demand):
 
-![](/Demand Supply.png)
+![Demand and Supply](/Demand-Supply.png)
 
-_Demand/Supply of hospital beds:_ _On the horizontal axis we have the (supply) number of beds for a given cluster of hospitals in close proximity, while on the vertical axis we have the (demand) number of elderly people for the cluster where a given number of beds is the closest._ 
+_Demand/Supply of hospital beds:_ _On the horizontal axis we have the (supply) number of beds for a given cluster of hospitals in close proximity, while on the vertical axis we have the (demand) number of elderly people for the cluster where a given number of beds is the closest._
 
 In this crude model, we can add data as we have gathered it. For example, actual number of confirmed cases or actual supply of unused ICU beds/respirators. Furthermore, we can filter locations on the map where the demand is highest and the supply lowest (i.e., the top-left quadrant). The clusters of hospitals could be then be mapped out:
 
-![](/Elderly Population Map.png)
+![Elderly Population Map](/Elderly-Population-Map.png)
 
 _Locations where, according to this rough model, the demand by a significant elderly population is highest compared of supply of beds in their vicinity._
 

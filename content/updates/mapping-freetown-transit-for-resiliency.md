@@ -6,7 +6,7 @@ title = "Addressing COVID-19 through Public-Private Data Partnerships:   Where D
 type = "Case Study"
 
 +++
-**Background**
+**Background:**
 
 As the COVID-19 pandemic evolves, the World Bank is ramping up its response to help countries around the world. The Bank recently announced [$14 billion emergency support program](https://www.worldbank.org/en/news/press-release/2020/03/17/world-bank-group-increases-covid-19-response-to-14-billion-to-help-sustain-economies-protect-jobs), for which a key pillar is to help countries strengthen their capacity to monitor and respond to the spread of the virus. Countries like China, South Korea, and Singapore have effectively leveraged big data to do this -- with solutions like apps that track the transmission chains of confirmed cases or proactive alerts for people to get tested at a nearby facility. Big data has proven to be a critical tool for monitoring and responding to outbreaks.
 

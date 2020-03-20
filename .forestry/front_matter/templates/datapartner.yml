@@ -15,6 +15,7 @@ fields:
   name: weight
   label: weight
 pages:
+- content/partners/climacell.md
 - content/partners/cuebiq.md
 - content/partners/digital-globe.md
 - content/partners/esri.md

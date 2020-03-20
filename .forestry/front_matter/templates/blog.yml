@@ -20,3 +20,5 @@ fields:
     required: false
   label: url
   description: custom url
+pages:
+- content/updates/this-is-a-test-title-and-url.md

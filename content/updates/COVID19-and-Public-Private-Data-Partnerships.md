@@ -58,3 +58,5 @@ _Locations where, according to this rough model, the demand by a significant eld
 **Open Code**
 
 The code to replicate and improve this model is [available here](https://github.com/datapartnership/covid19/blob/master/accessibility-Spain.ipynb)
+
+_Author:_ [_Bruno Sanchez-Andrade Nuno_](https://brunosan.eu/)  _Lead Data Science Advisor, Development Data Partnership_

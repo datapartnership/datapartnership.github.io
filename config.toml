@@ -1,13 +1,15 @@
+BaseURL = "//datapartnership.org"
 languageCode = "en-us"
 summaryLength = 10
 theme = "dp-imf-theme"
-BaseURL = '//datapartnership.org'
 title = "The Development Data Partnership"
 [params]
 banner-image = "banner.svg"
 banner-stripes = ""
-button-link = "mailto:hkrambeck@worldbank.org"
+button-link = "mailto:datapartnership@worldbank.org"
 button-text = "Contact Us"
+donors-description = "The Development Data Partnership is deeply grateful for the support of:"
+donors-section-title = "OUR DONORS"
 download-business-case-doc-url = ""
 download-business-case-label = "Download PDF"
 download-business-case-status = 0
@@ -21,8 +23,6 @@ label-of-updates = "Projects & News"
 link-to-updates = "/updates"
 loginLink = "https://raddrupalprod.worldbank.org/data-collaboratives/"
 partner-section-title = "WORLD BANK DATA PARTNERS"
-donors-section-title = "OUR DONORS"
-donors-description = "The Development Data Partnership is deeply grateful for the support of:"
 pillars-description = "We are building a platform that improves the security, efficiency, and effectiveness of data partnerships for public good, by focusing on the following features:"
 siteDescription = "A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development."
 twitter-card = "dp-twitter-card.jpg"

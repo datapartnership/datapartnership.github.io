@@ -137,6 +137,12 @@ a.btn-primary {
   border: 1px solid  #ccc;
 }
 
+.pillars-logos img {
+  height: 100px;
+  width: auto;
+  margin-right: 25px;
+}
+
 .donor-logos img {
   height: 50px;
   width: auto;

@@ -10,21 +10,11 @@
 
       <div class="row">
         {{ range  where .Site.RegularPages "Section" "pillars" }}
-        <div class="col-md-6 col-xs-12">
-          <div class="card-body d-flex align-items-center pillars-logos">
-
-            <!-- Image -->
-            <img class="mr-6 img-fluid" src='{{ .Params.logo  }}' alt="...">
-
-            <!-- Title -->
-            <div>
-              <div class="text-uppercase h5">  {{ .Title }}</div>
-              <div class="pt-1">{{ .Content }}</div>
-            </div>
-
+          <div class="col-md-4 col-xs-12">
+            <div class="line"></div>
+            <div class="text-uppercase h5">  {{ .Title }}</div>
+            <div class="pt-1">{{ .Content }}</div>
           </div>
-        </div>
-
         {{ end }}
       </div>
     </div>

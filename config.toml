@@ -3,6 +3,8 @@ languageCode = "en-us"
 summaryLength = 10
 theme = "dp-imf-theme"
 title = "The Development Data Partnership"
+[markup.goldmark.renderer]
+unsafe = true
 [params]
 banner-image = "banner.svg"
 banner-stripes = ""

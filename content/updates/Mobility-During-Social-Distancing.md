@@ -1,5 +1,5 @@
 +++
-date = 2020-05-12T20:12:14Z
+date = 2020-05-11
 title = "Understanding mobility during social distancing with private sector data"
 type = "Article"
 slug = "understanding-mobility-during-social-distancing"

@@ -26,7 +26,7 @@ Several studies of United States counties support this hypothesis:
 #### NYT
 ![](/updates/mobility-metrics-in/NYT.png)
 
-*[NYT](https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html) with [Cuebiq](https://www.cuebiq.com/) data: Census tract median of intra-day max extent of devices. 10% and 90% wealth percentiles. Wealthy counties esentially halted all movement and worked from home, while poorest counties trailed almost a week later, and with significant residual mobility as people could not afford to stay home.*
+*[NYT](https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html) with [Cuebiq](https://www.cuebiq.com/) data: Census tract median of intra-day max extent of devices. 10% and 90% wealth percentiles. Wealthy counties essentially halted all movement and worked from home, while poorest counties trailed almost a week later, and with significant residual mobility as people could not afford to stay home.*
 
 #### Reuters
 ![](/updates/mobility-metrics-in/Reuters.png)
@@ -40,7 +40,7 @@ To monitor mobility, there are several publicly available options from the priva
 * [Google's publicly available aggregated mobility data](https://www.google.com/covid19/mobility/)
 * [Apple's publicly available aggregated mobility data](https://www.apple.com/covid19/mobility)
 
-In Addition, through the World Bank's [Data Partnership](https://datapartnership.org/) the World Bank has access to several other datasets: 
+In addition, through the World Bank's [Data Partnership](https://datapartnership.org/) the World Bank has access to several other datasets:
 * [Cuebiq](https://cuebiq.com)
 * [Unacast](https://unacast.com)
 * [Xmode](https://xmode.io)
@@ -96,7 +96,7 @@ However, once the initial drop happened, we still observe:
 
 Comparing Apple's activity data with Google location data, we make a few more observations:
 * An increase in people staying in residential locations is [correctly] correlated with people walking and driving less.  
-* The slightly increasing driving and walking rates towards the beginning of may could potentially be related to a slight uptick of trips to the grocery store.  
+* The slightly increasing driving and walking rates towards the beginning of May could potentially be related to a slight uptick of trips to the grocery store.
 
 ## Adding in Facebook mobility data
 

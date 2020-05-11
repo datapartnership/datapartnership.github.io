@@ -32,9 +32,9 @@ Several studies of United States counties support this hypothesis:
 
 ---
 
-## Available data
+## Private sector publicly available data
 
-To monitor mobility, there are several publicly available options:
+To monitor mobility, there are several publicly available options from the private sector:
 * [Google's publicly available aggregated mobility data](https://www.google.com/covid19/mobility/)
 * [Apple's publicly available aggregated mobility data](https://www.apple.com/covid19/mobility)
 

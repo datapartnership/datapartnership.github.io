@@ -13,7 +13,7 @@ Understanding mobility across different communities, how it's influenced by poli
 
 ## Using private sector data to understand mobility
 
-Private sector data is crucial in helping governments measure how their policies impact human movement within different communities. 
+Private sector data can be a great asset in helping governments measure how their policies impact human movement within different communities.
 
 For example, in areas with a higher median income and a more formal workforce, social distancing measures will likely have a higher degree of adherence. 
 

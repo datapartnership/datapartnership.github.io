@@ -1,6 +1,6 @@
 +++
 date = 2020-05-12T20:12:14Z
-title = "Understanding mobility during social distancing"
+title = "Understanding mobility during social distancing with private sector data"
 type = "Article"
 slug = "understanding-mobility-during-social-distancing"
 +++

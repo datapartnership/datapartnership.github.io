@@ -67,9 +67,7 @@ Let's start with exploring public mobility data from [Apple](https://www.apple.c
 ![png](/updates/mobility-metrics-in/output_10_0.png)
 
 
-Apple's data is activity based, recording when people were walking and when they were driving. 
-
-We can clearly see a sharp decline in walking / data activity recorded by Apple devices at the end of March. People with a higher income tend to own Apple devices.  This decline is consistent with our hypothesis.
+Apple's data is activity based, recording when people were walking and when they were driving. We can clearly see a sharp decline in walking / data activity recorded by Apple devices at the end of March. People with a higher income tend to own Apple devices. We can see this trend on the NYT study above, and below we also explore this hypothesis for India using Google and Facebook data.
 
 Lastly, we see that in early May, people are starting to drive and walk more.
 

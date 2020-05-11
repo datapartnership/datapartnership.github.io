@@ -11,7 +11,7 @@ Part of this response is supporting countries' lock-down policies and evaluating
 
 Understanding mobility across different communities, how it's influenced by policies, and identifying early potential hot spots is crucial to governments as they monitor and lift lockdowns.
 
-## Using private sector data to understand mobility
+### Using private sector data to understand mobility
 
 Private sector data can be a great asset in helping governments measure how their policies impact human movement within different communities.
 

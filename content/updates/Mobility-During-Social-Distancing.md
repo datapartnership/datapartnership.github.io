@@ -94,7 +94,7 @@ However, once the initial drop happened, we still observe:
 ![png](/updates/mobility-metrics-in/output_17_0.png)
 
 
-Compairing Apple's activity data with Google location data, we make a few more observations:
+Comparing Apple's activity data with Google location data, we make a few more observations:
 * An increase in people staying in residential locations is [correctly] correlated with people walking and driving less.  
 * The slightly increasing driving and walking rates towards the beginning of may could potentially be related to a slight uptick of trips to the grocery store.  
 

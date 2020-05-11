@@ -11,6 +11,8 @@ Part of this response is supporting countries' lock-down policies and evaluating
 
 Understanding mobility across different communities, how it's influenced by policies, and identifying early potential hot spots is crucial to governments as they monitor and lift lockdowns.
 
+*Note: All the code to replicate the analysis and plots, is [available here](https://github.com/datapartnership/covid19/blob/master/Mobility%20metrics-India.ipynb).*
+
 ### Using private sector data to understand mobility
 
 Private sector data can be a great asset in helping governments measure how their policies impact human movement within different communities.
@@ -171,6 +173,8 @@ If you are a Development Partner, and would like to use Data Partnership data, s
 If you are a Data Provider and want to see your data be used for world-changing impact, [sign up to work](mailto:datapartnership@worldbank.org) with the Data Partnership!
 
 ---
-_Authors:_ 
+Note: All the code to replicate the analysis and plots, is [available here](https://github.com/datapartnership/covid19/blob/master/Mobility%20metrics-India.ipynb).
+
+_Authors:_
 * [_Maksim Pecherskiy_](https://maksimpecherskiy.com)  _Lead Data Engineer, Development Data Partnership_
 * [_Bruno Sanchez-Andrade Nuno_](https://brunosan.eu/)  _Lead Data Science Advisor, Development Data Partnership_

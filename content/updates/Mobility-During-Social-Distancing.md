@@ -1,10 +1,10 @@
 +++
-date = 2020-05-11
-title = "Understanding mobility during social distancing with private sector data"
-type = "Article"
+date = 2020-05-11T00:00:00Z
 slug = "understanding-mobility-during-social-distancing"
-+++
+title = "Understanding Mobility during Social Distancing with Private Sector Data"
+type = "Article"
 
++++
 As countries around the world work to contain the spread and impact of COVID-19, the World Bank Group is moving quickly to [provide fast, flexible responses](https://www.worldbank.org/en/news/factsheet/2020/02/11/how-the-world-bank-group-is-helping-countries-with-covid-19-coronavirus) to help developing countries strengthen their pandemic response and health care systems.
 
 Part of this response is supporting countries' lock-down policies and evaluating their impacts. As governments strive to prevent the spread of COVID-19, they are also trying to prevent disproportionate socioeconomic impact in vulnerable communities. 

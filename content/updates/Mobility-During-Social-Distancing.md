@@ -1,17 +1,17 @@
 +++
 date = 2020-05-11T00:00:00Z
 slug = "understanding-mobility-during-social-distancing"
-title = "Understanding mobility during social distancing with private sector data"
+title = "Understanding Mobility during Social Distancing with Private Sector Data"
 type = "Article"
 
 +++
 As countries around the world work to contain the spread and impact of COVID-19, the World Bank Group is moving quickly to [provide fast, flexible responses](https://www.worldbank.org/en/news/factsheet/2020/02/11/how-the-world-bank-group-is-helping-countries-with-covid-19-coronavirus) to help developing countries strengthen their pandemic response and health care systems.
 
-Part of this response is supporting countries' lock-down policies and evaluating their impacts. As governments strive to prevent the spread of COVID-19, they are also trying to prevent disproportionate socioeconomic impact in vulnerable communities.
+Part of this response is understanding the impacts of countries' lockdown policies. As governments strive to prevent the spread of COVID-19, they are also trying to prevent disproportionate socioeconomic impacts on vulnerable communities.
 
 Understanding mobility across different communities, how it's influenced by policies, and identifying early potential hot spots is crucial to governments as they monitor and lift lockdowns.
 
-_Note: All the code to replicate the analysis and plots is_ [_available here_](https://github.com/datapartnership/covid19/blob/master/Mobility%20metrics-India.ipynb)_._
+_Note: All the code to replicate the analysis and plots, is_ [_available here_](https://github.com/datapartnership/covid19/blob/master/Mobility%20metrics-India.ipynb)_._
 
 ### Using private sector data to understand mobility
 
@@ -161,7 +161,7 @@ If you are a Data Provider and want to see your data be used for world-changing 
 
 ***
 
-Note: All the code to replicate the analysis and plots is [available here](https://github.com/datapartnership/covid19/blob/master/Mobility%20metrics-India.ipynb).
+Note: All the code to replicate the analysis and plots, is [available here](https://github.com/datapartnership/covid19/blob/master/Mobility%20metrics-India.ipynb).
 
 _Authors:_
 

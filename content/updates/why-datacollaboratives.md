@@ -33,4 +33,4 @@ In April 2018, we launched the Development Data Partnership (then called "Data C
 
 ### Scaling Up
 
-Building upon the successes and lessons learned through this pilot work, we are methodically scaling the initiative, inviting new data partners, as well as other international organizations facing similar challenges, starting with our DC neighbors, the IMF and the IDB. By learning through joint project implementation, the Partnership aims to transform proprietary datasets into ethically and sustainably generated, sharable insights for improving public sector services and infrastructure in emerging economies..
+Building upon the successes and lessons learned through this pilot work, we are methodically scaling the initiative, inviting new data partners, as well as other international organizations facing similar challenges, starting with our DC neighbors, the IMF and the IDB. By learning through joint project implementation, the Partnership aims to transform proprietary datasets into ethically and sustainably generated, sharable insights for improving public sector services and infrastructure in emerging economies.

@@ -1,7 +1,7 @@
 +++
 date = 2020-05-11T00:00:00Z
 slug = "understanding-mobility-during-social-distancing"
-title = "Understanding Mobility during Social Distancing with Private Sector Data"
+title = "Google, Apple, and Facebook: Understanding Mobility during Social Distancing with Private Sector Data"
 type = "Article"
 
 +++

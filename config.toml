@@ -29,3 +29,5 @@ pillars-description = "We are building a platform that improves the security, ef
 siteDescription = "A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development."
 twitter-card = "dp-twitter-card.jpg"
 updates-title = "PROJECTS & NEWS"
+documentation-label = "Documentation"
+documentation-link = "https://github.com/datapartnership/welcome#https://github.com/datapartnership/welcome#welcome-to-the-development-data-partnership"

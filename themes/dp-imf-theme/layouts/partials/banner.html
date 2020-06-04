@@ -25,8 +25,15 @@
             </div>
             <div class="main-title text-uppercase"></div>
             <p class="mt-2">{{ $.Param "siteDescription" }}</p>
-            <a href="{{ $.Param "button-link" }}" class="btn btn-primary mt-2 no-overlay" style="margin-right:10px">{{ $.Param "button-text" }}</a>
-            <a href="{{ $.Param "link-to-updates" }}" class="btn btn-secondary mt-2 no-overlay">{{ $.Param "label-of-updates" }}</a>
+            <a href="{{ $.Param "button-link" }}" class="btn btn-primary mt-2 no-overlay"
+              style="margin-right:10px">{{ $.Param "button-text" }}
+            </a>
+            <a href="{{ $.Param "documentation-link" }}"
+              class="btn btn-secondary mt-2 no-overlay">{{ $.Param "documentation-label" }}
+            </a>
+            <a href="{{ $.Param "link-to-updates" }}"
+              class="btn btn-secondary mt-2 no-overlay">{{ $.Param "label-of-updates" }}
+            </a>
           </div>
         </div>
         <div class="col-lg-5 d-md-none d-lg-block bring-forward  mb-3">

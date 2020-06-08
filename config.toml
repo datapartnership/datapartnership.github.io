@@ -1,7 +1,7 @@
 BaseURL = "//datapartnership.org"
 languageCode = "en-us"
 summaryLength = 10
-theme = "dp-imf-theme"
+theme = "ddp-theme"
 title = "The Development Data Partnership"
 [markup.goldmark.renderer]
 unsafe = true

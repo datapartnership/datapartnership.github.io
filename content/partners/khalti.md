@@ -1,7 +1,7 @@
-+++
-date = 2020-03-18T04:00:00Z
-logo = "/Khalti.png"
-title = "Khalti"
-weight = 12
+---
+title: Khalti
+logo: /partners/khalti.png
+weight: 10
+---
 
-+++
+

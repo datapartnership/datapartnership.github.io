@@ -1,7 +1,6 @@
-+++
-date = ""
-logo = "/carto-logo-svg.png"
-title = "Carto"
-weight = 3
+---
+title: Google
+logo: /partners/carto.png
+weight: 1
+---
 
-+++

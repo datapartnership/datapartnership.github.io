@@ -1,7 +1,7 @@
-+++
-date = 2020-01-09T05:00:00Z
-logo = "/waze-1.jpg"
-title = "Waze"
-weight = 1
+---
+title: Waze
+logo: /partners/waze.jpg
+weight: 21
+---
 
-+++
+

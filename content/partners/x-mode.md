@@ -1,7 +1,7 @@
-+++
-date = 2020-04-20T04:00:00Z
-logo = "/X-Mode-Logo.png"
-title = "X-Mode"
-weight = 8
+---
+title: X-Mode
+logo: /partners/xmode.png
+weight: 23
+---
 
-+++
+

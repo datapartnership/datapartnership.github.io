@@ -1,7 +1,7 @@
-+++
-date = 2020-04-10T04:00:00Z
-logo = "/Premise.png"
-title = "Premise"
-weight = 7
+---
+title: Premise
+logo: /partners/premise.png
+weight: 16
+---
 
-+++
+

@@ -1,7 +1,7 @@
-+++
-date = 2020-01-09T05:00:00Z
-logo = "/WhereIsMyTransport-Logo-RGB-300dpi.jpg"
-title = "WhereIsMyTranspost"
-weight = 14
+---
+title: Where is my transport
+logo: /partners/whereismytransport.jpg
+weight: 22
+---
 
-+++
+

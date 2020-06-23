@@ -52,3 +52,7 @@ You can use the visualization below to pick which dataset suits you best based o
 To get access to this data, become a development data partner by submitting proposals for new ideas.
 
 If
+
+_World Bank Sustainable Development Data Lab is a community of practice for the Bank staff seeking to modernize project data practices through learning, networking, and shared resources._
+
+_The Development Data Partnership is a partnership between international organizations (Development Partners) and companies (Data Partners), created to facilitate the use of third-part data in research and international development._

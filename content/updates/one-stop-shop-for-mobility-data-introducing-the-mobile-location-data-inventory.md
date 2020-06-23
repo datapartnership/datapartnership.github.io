@@ -54,7 +54,7 @@ You can use the visualization below to pick which dataset suits you best based o
 
 To get access to this data, join the Development Data Partnership by submitting a new idea. 
 
-To become a Data Partner or showcase the availability of your mobility data, join the Development Data Partnership by sharing
+To become a Data Partner or showcase the availability of your mobility data, [write to us](datapartnership@worldbank.org). 
 
 _Authors:_
 

@@ -53,6 +53,12 @@ To get access to this data, become a development data partner by submitting prop
 
 If
 
+Authors:
+
+Rajee Kanagavel, SD Data Lab Coordinator
+
+Maksim Pe
+
 _World Bank Sustainable Development Data Lab is a community of practice for the Bank staff seeking to modernize project data practices through learning, networking, and shared resources._
 
 _The Development Data Partnership is a partnership between international organizations (Development Partners) and companies (Data Partners), created to facilitate the use of third-part data in research and international development._

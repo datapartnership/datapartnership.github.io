@@ -3,7 +3,7 @@ date = ""
 draft = true
 partner = ""
 title = "One-Stop Shop for Mobility Data: Introducing the Mobile Location Data Inventory"
-type = ""
+type = "Article"
 url = ""
 
 +++

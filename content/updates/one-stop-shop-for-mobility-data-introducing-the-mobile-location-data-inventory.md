@@ -1,6 +1,6 @@
 +++
 date = 2020-06-24T04:00:00Z
-partner = ""
+partner = "Cuebiq, Veraset, X-Mode, Unacast, Facebook, Mapbox, Carto"
 title = "How to Find Population Movement Data for Your Country: The Mobile Location Data Inventory"
 type = "Article"
 url = "mobility_data_dashboard"

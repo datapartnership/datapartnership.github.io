@@ -49,7 +49,7 @@ You can use the visualization below to pick which dataset suits your needs based
 
 #### **And...**
 
-Don't see your data here? Showcase the availability of your mobility data and [write to us](datapartnership@worldbank.org). 
+Don't see your data here and want to showcase the availability of your mobility data? Interested in learning how to work with these data? [Write to us](datapartnership@worldbank.org)!
 
 _Authors:_
 

@@ -1,7 +1,7 @@
 ---
 title: Twitter
 logo: "/partners/twitter.png"
-weight: 18
+weight: 17
 date: 
 
 ---

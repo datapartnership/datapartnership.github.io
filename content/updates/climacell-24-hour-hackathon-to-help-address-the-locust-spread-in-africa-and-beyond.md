@@ -1,7 +1,7 @@
 +++
 date = 2020-06-24T13:12:14Z
 partner = "ClimaCell"
-title = "ClimaCell: 24 Hour Hackathon to Help Address the Locust Spread in Africa and Beyond"
+title = "24 Hour Hackathon to Help Address the Locust Spread in Africa and Beyond"
 type = "Case Study"
 
 +++

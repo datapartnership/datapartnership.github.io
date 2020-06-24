@@ -1,6 +1,5 @@
 +++
 date = 2020-06-24T20:12:14Z
-draft = true
 partner = "ClimaCell"
 title = "ClimaCell: 24 Hour Hackathon to Help Address the Locust Spread in Africa and Beyond"
 type = "Case Study"
@@ -23,3 +22,5 @@ type = "Case Study"
 **Impact**: Activities leading up to the event involved problem scoping and sharing of insights by experts from the World Bank, FAO, and others. Critical input was also received from the Red Cross, as well as African farmers and pastoralists. During the event, rapid product iteration took place based on real time inputs from African farming and emergency response community members, leading to a community-built solution with the goal of being complementary and additive to existing solutions.
 
 [Read more](https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond/)
+
+![](/partners/climacell.png)

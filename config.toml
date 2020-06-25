@@ -5,6 +5,7 @@ theme = "ddp-theme"
 title = "The Development Data Partnership"
 [markup.goldmark.renderer]
 unsafe = true
+xhtml = true
 [params]
 banner-image = "banner.svg"
 banner-stripes = ""

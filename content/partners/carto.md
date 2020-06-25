@@ -1,6 +1,6 @@
 ---
-title: Google
-logo: /partners/carto.png
+title: Carto
+logo: /partners/carto.svg
 weight: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Veraset
-logo: /partners/veraset.png
+logo: /partners/veraset.svg
 weight: 20
 ---
 

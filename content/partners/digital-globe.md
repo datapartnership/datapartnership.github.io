@@ -1,6 +1,6 @@
 ---
 title: Digital Globe
-logo: /partners/maxar.png
+logo: /partners/maxar.svg
 weight: 4
 ---
 

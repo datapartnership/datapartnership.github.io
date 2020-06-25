@@ -1,5 +1,5 @@
 ---
 title: Safegraph
-logo: /safegraph.svg
+logo: /partners/safegraph.svg
 weight: 17
 ---

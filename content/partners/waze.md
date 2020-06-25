@@ -1,6 +1,6 @@
 ---
 title: Waze
-logo: /partners/waze.jpg
+logo: /partners/waze.svg
 weight: 21
 ---
 

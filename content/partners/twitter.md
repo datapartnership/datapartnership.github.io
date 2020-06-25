@@ -1,7 +1,6 @@
 ---
 title: Twitter
-logo: "/partners/twitter.png"
+logo: /partners/twitter.svg
 weight: 17
 date: 
-
 ---

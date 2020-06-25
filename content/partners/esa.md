@@ -1,6 +1,6 @@
 ---
 title: ESA
-logo: /partners/esa.jpg
+logo: /partners/esa.svg
 weight: 5
 ---
 

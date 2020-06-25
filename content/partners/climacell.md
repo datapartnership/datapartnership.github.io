@@ -1,6 +1,6 @@
 ---
 title: ClimaCell
-logo: /partners/climacell.png
+logo: /partners/climacell.svg
 weight: 2
 ---
 

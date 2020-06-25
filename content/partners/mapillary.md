@@ -1,6 +1,6 @@
 ---
 title: Mapillary
-logo: /partners/mapillary.png
+logo: /partners/mapillary.svg
 weight: 13
 ---
 

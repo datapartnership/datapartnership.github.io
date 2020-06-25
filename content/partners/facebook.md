@@ -1,6 +1,6 @@
 ---
-title: ESRI
-logo: /partners/facebook.png
+title: Facebook
+logo: /partners/facebook.svg
 weight: 7
 ---
 

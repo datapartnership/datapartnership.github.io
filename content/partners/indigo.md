@@ -1,6 +1,6 @@
 ---
-title: ESRI
-logo: /partners/indigo.png
+title: Indigo
+logo: /partners/indigo.svg
 weight: 9
 ---
 

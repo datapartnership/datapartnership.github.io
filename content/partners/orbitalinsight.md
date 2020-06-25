@@ -1,6 +1,6 @@
 ---
 title: Orbital Insight
-logo: /partners/orbital-insight.svg
+logo: /partners/orbitalinsight.svg
 weight: 15
 ---
 

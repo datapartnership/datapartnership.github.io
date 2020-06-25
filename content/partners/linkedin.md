@@ -1,6 +1,6 @@
 ---
 title: LinkedIn
-logo: /partners/linkedin.png
+logo: /partners/linkedin.svg
 weight: 11
 ---
 

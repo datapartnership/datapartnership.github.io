@@ -1,6 +1,6 @@
 ---
 title: Cuebiq
-logo: /partners/cuebiq.jpg
+logo: /partners/cuebiq.svg
 weight: 3
 ---
 

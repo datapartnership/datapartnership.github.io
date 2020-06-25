@@ -1,6 +1,6 @@
 ---
 title: Uber
-logo: /partners/uber.jpg
+logo: /partners/uber.svg
 weight: 18
 ---
 

@@ -3,7 +3,10 @@
   <hr>
   <dl>
       {{ range where .Site.RegularPages "Section" "updates" | first 12 }}
+        {{ if isset .Params "exclude_from_updates_list" }}
+        {{ else }}
           <dt class="pb-4" ><a class="h5 text-light" href="{{ .RelPermalink }}">{{ .Title }}</a></dt>
+        {{ end }}
       {{ end }}
   </dl>
 </div>

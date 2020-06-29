@@ -1,7 +1,7 @@
 +++
 date = 2020-06-24T04:00:00Z
 url = "mobility-data-dashboard-bycountry"
-title = "Mobility Data Dashboard"
+title = "Mobile Location Data Inventory"
 hide_sidebar = true
 exclude_from_updates_list = true
 +++

@@ -1,7 +1,7 @@
 +++
 date = 2020-06-24T04:00:00Z
 url = "mobility-data-dashboard-main"
-title = "Mobility Data Dashboard"
+title = "Mobile Location Data Inventory"
 hide_sidebar = true
 exclude_from_updates_list = true
 +++
@@ -43,11 +43,6 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-
-
-_Visualization by Hellen Matarazzo, Data Scientist, Health Global Practice, The World Bank_
-
 
 
 Don't see your data here and want to showcase the availability of your mobility data? Interested in learning how to work with these data? [Write to us](datapartnership@worldbank.org)!

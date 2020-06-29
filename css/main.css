@@ -1,0 +1,253 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
+    font-family: 'Abel', sans-serif;
+}
+
+footer {
+  position: sticky;
+  bottom: 0;
+  background-color: #F5F5F5;
+  text-align: center;
+  padding-top: 25px;
+}
+
+a.text-light:hover , a.text-light:active  {
+  color: #f8f9fa !important;
+}
+
+.center {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+.bg-primary {
+  background-color: #001E60 !important;
+}
+
+.text-primary ,  a.text-primary:hover, a.text-primary:active {
+  color:  #001E60 !important;
+  text-decoration: none;
+}
+
+.bg-primary-gradient {
+  background-color: #310459;
+  background-image:
+    linear-gradient(#001E60, #310459);
+}
+
+.bg-secondary {
+  background-color: #56C3C4 !important;
+}
+
+.bg-secondary-gradient {
+  background-color: #3DA3A8;
+  background-image:
+    linear-gradient(#55C4C4, #3DA3A8);
+}
+
+.background-stripes {
+  background-position: bottom left;
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin-top: -400px;
+  margin-left: -50px;
+  overflow: hidden;
+}
+
+.h2px {
+  height: 2px;
+}
+
+div.main-title {
+  font-size: 2.5rem;
+  font-family: 'Abel', sans-serif;
+  letter-spacing: 4px;
+  font-weight:900;
+}
+
+.btn-primary {
+  background-color: #F7951D;
+  border-color: #F7951D;
+  min-width: 80px;
+}
+
+.btn-primary, .btn-outline-dark, .btn-dark, .btn-outnline-light {
+  border-radius: 25px;
+  font-weight: regular;
+}
+
+.btn-primary:hover {
+  background-color: #DF6B00;
+  border-color: #DF6B00;
+}
+
+a.btn-primary {
+  text-decoration: none;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  border-color: #F7951D;
+  border-radius: 25px;
+  font-weight: regular;
+  color: F7951D;
+}
+
+.btn-secondary:hover {
+  background-color: #F7951D;
+  border-color: #F7951D;
+}
+
+
+.text-color-secondary {
+  color: #F7951D;
+}
+
+.line {
+  background-color: #56C3C4;
+  width: 50px;
+  height: 4px;
+  border-radius: 2px;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.partners-logos img {
+  height: 50px;
+  width: auto;
+}
+
+.partners-logos {
+    text-align: center;
+}
+
+
+.partner-logo  {
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+  }
+
+.partners-logos {
+  border: 1px solid  #ccc;
+}
+
+.donor-logos img {
+  height: 50px;
+  width: auto;
+}
+
+.donor-logos {
+    text-align: center;
+}
+
+
+.donor-logo  {
+    border: 1px solid #ccc;
+  }
+
+.donor-logos {
+  border-left: 1px solid  #ccc;
+  border-top: 1px solid  #ccc;
+}
+
+ .project-details:not(:last-child) {
+   border-bottom: 1px solid lightgray;
+ }
+
+ .project-details:not(:first-child) {
+   margin-top: 2em;
+ }
+
+ .blog-content img {
+   max-width: 100%;
+ }
+
+ #timeline-content {
+   text-align: center;
+ }
+ /* Timeline */
+ .timeline {
+   border-left: 4px solid #56C3C4;
+   margin: 25px auto;
+   position: relative;
+   padding: 25px;
+   list-style: none;
+   text-align: left;
+   max-width: 50%;
+ }
+
+
+ .timeline .event {
+   border-bottom: 1px dashed #ccc;
+   padding-bottom: 12px;
+   margin-bottom: 25px;
+   position: relative;
+ }
+
+ .timeline .event:last-of-type {
+   padding-bottom: 0;
+   margin-bottom: 0;
+   border: none;
+ }
+
+ .timeline .event:before,
+ .timeline .event:after {
+   position: absolute;
+   display: block;
+   top: 0;
+ }
+
+ .timeline .event:before {
+   left: -217.5px;
+   color: #000;
+   content: attr(data-date);
+   text-align: right;
+   min-width: 120px;
+   font-family: 'Abel', sans-serif;
+ }
+
+ .timeline .event:after {
+   box-shadow: 0 0 0 4px #56C3C4;
+   left: -32.85px;
+   background: #3EACAD;
+   border-radius: 50%;
+   height: 11px;
+   width: 11px;
+   content: "";
+   top: 5px;
+ }
+
+/* bootstrap breakpoint for  "Small devices" (landscape phones, less than 768px) */
+ @media (max-width: 767.98px) {
+
+   .timeline {
+      max-width: 100%;
+      margin-left: 20px;
+   }
+
+   .partner-logo {
+     border: 0px;
+     text-align: left;
+   }
+
+   .partners-logos   {
+     border: 0px;
+     text-align: left;
+   }
+
+   footer {
+      text-align: left;
+      position: relative;
+   }
+
+   footer img {
+     margin-top: 25px;
+   }
+
+ }

@@ -18,7 +18,8 @@ A number of companies have generously made these data available, either publicly
 With so many new sources of information, it can be difficult to know where to start. To overcome this challenge, the Partnership, in collaboration with the World Bank's Sustainable Development Data Lab and Health and Nutrition Program, created a Mobile Location Data Inventory, which shows the availability of 17 mobility-related datasets in 90 developing economies.
 
 Click below to explore the data!
-<a href="/mobility-data-dashboard" target="_blank"><img src="https://take.ms/yL6aV" style="width:100%;"/></a>
+
+<a href="/mobility-data-dashboard-main" target="_blank"><img src="https://take.ms/yL6aV" style="width:100%;"/></a>
 
 _Visualization by Hellen Matarazzo, Data Scientist, Health Global Practice, The World Bank_
 
@@ -46,41 +47,7 @@ Mapbox offers [traffic](https://www.mapbox.com/traffic-data/?utm_medium=blog&utm
 
 You can use the visualization below to pick which dataset suits your needs based on the country you want to analyze. We are working hard to structure the data across providers in a similar way, so that you can use the same code to analyze data from all providers.
 
-<div class='tableauPlaceholder' id='viz1593018616750' style='position: relative'>
-	<noscript>
-		<a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ZX&#47;ZXQXYQDDY&#47;1_rss.png' style='border: none' /></a>
-	</noscript>
-	<object class='tableauViz' style='display:none;'>
-		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-		<param name='embed_code_version' value='3' />
-		<param name='path' value='shared&#47;ZXQXYQDDY' />
-		<param name='toolbar' value='no' />
-		<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ZX&#47;ZXQXYQDDY&#47;1.png' />
-		<param name='animate_transition' value='yes' />
-		<param name='display_static_image' value='yes' />
-		<param name='display_spinner' value='yes' />
-		<param name='display_overlay' value='yes' />
-		<param name='display_count' value='yes' />
-		<param name='language' value='en' />
-	</object>
-</div>
-<script type='text/javascript'>
-var divElement = document.getElementById('viz1593018616750');
-var vizElement = divElement.getElementsByTagName('object')[0];
-if(divElement.offsetWidth > 800) {
-	vizElement.style.width = '1100px';
-	vizElement.style.height = '850px';
-} else if(divElement.offsetWidth > 500) {
-	vizElement.style.width = '1100px';
-	vizElement.style.height = '850px';
-} else {
-	vizElement.style.width = '100%';
-	vizElement.style.height = '1700px';
-}
-var scriptElement = document.createElement('script');
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+<a href="/mobility-data-dashboard-bycountry" target="_blank"><img src="https://take.ms/l8sze" style="width:100%;"/></a>
 
 #### **And...**
 

@@ -1,13 +1,13 @@
 {{ define "main" }}
 
-  {{- partial "banner-mini.html" . -}}
+{{- partial "banner-mini.html" . -}}
 
 <div class="container-fluid bg-light pb-5">
   <div class="container">
 
 
-  <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
-  <!-- this can be any intro text -->
+    <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+    <!-- this can be any intro text -->
 
     <div class="row pt-4">
       <div class="col-12">
@@ -16,28 +16,34 @@
     </div>
 
     <div class="row">
-        <!-- Ranges through content/xxx/*.md -->
-        {{ range .Pages }}
-          <div class="col-md-4 col-xs-12  d-flex align-items-stretch mt-4">
-           <div class="card border-0 rounded-0">
-             <div class="card-body">
-               <h3 class="card-title"> <a class="text-primary" href="{{.Permalink}}"> {{ if isset .Params "partner" }}{{ .Params.partner }}:{{end}} {{ .Params.title }} </a> </h3>
-                 <div class="w-100 bg-secondary h2px mb-3"></div>
-                 <div class="card-text">
-                     <div>
-                       <p>
-                         {{ .Summary }}
-                       </p>
-                     </div>
-                 </div>
-             </div>
-             <div class="card-footer bg-white border-0 mt-2">
-               <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn More</a>
-             </div>
-           </div>
-         </div>
-        {{ end }}
-        <!-- end of range -->
+      <!-- Ranges through content/xxx/*.md -->
+      {{ range .Pages }}
+      {{ if isset .Params "exclude_from_updates_list" }}
+      {{ else }}
+
+
+      <div class="col-md-4 col-xs-12  d-flex align-items-stretch mt-4">
+        <div class="card border-0 rounded-0">
+          <div class="card-body">
+            <h3 class="card-title"> <a class="text-primary" href="{{.Permalink}}">
+                {{ if isset .Params "partner" }}{{ .Params.partner }}:{{end}} {{ .Params.title }} </a> </h3>
+            <div class="w-100 bg-secondary h2px mb-3"></div>
+            <div class="card-text">
+              <div>
+                <p>
+                  {{ .Summary }}
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer bg-white border-0 mt-2">
+            <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn More</a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+      <!-- end of range -->
     </div>
     <!-- end of row -->
 

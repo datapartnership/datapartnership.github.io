@@ -1,6 +1,6 @@
 ---
 title: Khalti
-logo: /partners/khalti.png
+logo: /partners/khalti.svg
 weight: 10
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mapbox
-logo: /partners/mapbox.jpg
+logo: /partners/mapbox.svg
 weight: 12
 ---
 

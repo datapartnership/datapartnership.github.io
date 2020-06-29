@@ -1,6 +1,6 @@
 ---
 title: Ookla
-logo: /partners/ookla.png
+logo: /partners/ookla.svg
 weight: 14
 ---
 

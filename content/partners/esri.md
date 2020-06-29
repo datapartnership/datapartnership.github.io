@@ -1,6 +1,6 @@
 ---
 title: ESRI
-logo: /partners/esri.png
+logo: /partners/esri.svg
 weight: 6
 ---
 

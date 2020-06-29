@@ -1,6 +1,6 @@
 ---
 title: Premise
-logo: /partners/premise.png
+logo: /partners/premise.svg
 weight: 16
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Google
-logo: /partners/google.jpg
+logo: /partners/google.svg
 weight: 8
 ---
 

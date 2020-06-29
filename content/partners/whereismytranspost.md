@@ -1,6 +1,6 @@
 ---
-title: Where is my transport
-logo: /partners/whereismytransport.jpg
+title: Where Is My Transport
+logo: /partners/whereismytransport.svg
 weight: 22
 ---
 

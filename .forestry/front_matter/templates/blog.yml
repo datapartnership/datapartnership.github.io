@@ -20,5 +20,3 @@ fields:
     required: false
   label: url
   description: custom url
-pages:
-- content/updates/one-stop-shop-for-mobility-data-introducing-the-mobile-location-data-inventory.md

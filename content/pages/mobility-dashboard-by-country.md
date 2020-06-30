@@ -1,7 +1,7 @@
 +++
 date = 2020-06-24T04:00:00Z
-url = "mobility-data-dashboard-bycountry"
-title = "Mobility Data Dashboard"
+title = "Mobile Location Data Inventory"
+url = "pages/mobility-data-dashboard-by-country"
 hide_sidebar = true
 exclude_from_updates_list = true
 +++
@@ -42,5 +42,10 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<br>
 
-Don't see your data here and want to showcase the availability of your mobility data? Interested in learning how to work with these data? [Write to us](datapartnership@worldbank.org)!	
+##### *Don't see your data here and want to showcase the availability of your mobility data?*
+
+##### *Interested in learning how to work with these data?*
+
+##### [Write to us](datapartnership@worldbank.org)!

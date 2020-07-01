@@ -6,7 +6,6 @@ type = "Article"
 +++
 As the COVID-19 pandemic continues, so have measures to mitigate its spread. Physical distancing and [movement restrictions](https://ourworldindata.org/policy-responses-covid#restrictions-on-internal-movement) – such as school and workplace closures, public event cancellations, stay-at-home orders, and international and domestic travel bans – vary considerably [across countries](https://openknowledge.worldbank.org/bitstream/handle/10986/33754/Determinants-of-Social-Distancing-and-Economic-Activity-during-COVID-19-A-Global-View.pdf?sequence=1&isAllowed=y).
 
-
 Since movement restrictions themselves can have profoundly negative impacts on communities, it is essential for governments to understand which policies have the most and least effective impacts.
 
 Anonymized “mobility data” – GPS data generated primarily from smartphones – may support efforts to limit movement restriction measures to those most needed, by painting a better picture of population frequency of movement, distance of movement relative to home, daily commuting patterns, inter-district flows, and social mixing.
@@ -41,7 +40,7 @@ The [Facebook Data for Good program](https://dataforgood.fb.com/) has released f
 
 The Development Data Partnership has an agreement with four location intelligence companies – [Unacast](https://www.unacast.com/), [Cuebiq](https://www.cuebiq.com/),[Veraset](https://www.veraset.com/) and [X-Mode](https://www.xmode.io/). They provide near real-time mobility data, which can be used to target and design measures in response to COVID-19. The unit of measurement is a single GPS point. Utilizing such datasets, [CARTO](https://carto.com/) provides location data analysis and visualization through their platform and spatial data repository.
 
-Mapbox offers [traffic](https://www.mapbox.com/traffic-data/?utm_medium=blog&utm_source=mapbox-blog&utm_campaign=blog%7Cmapbox-blog%7Ctelemetry%7Ctravel-changes-around-the-world-from-covid-19-cc79db7e04c7-20-03&utm_term=telemetry&utm_content=travel-changes-around-the-world-from-covid-19-cc79db7e04c7) and [telemetry density data](https://www.mapbox.com/telemetry/) for mobility analysis. As telemetry data is collected only from moving devices, changes in movement can be observed at a larger scale, especially for map improvisation and traffic prediction.
+[Mapbox](https://www.mapbox.com/) offers [traffic](https://www.mapbox.com/traffic-data/?utm_medium=blog&utm_source=mapbox-blog&utm_campaign=blog%7Cmapbox-blog%7Ctelemetry%7Ctravel-changes-around-the-world-from-covid-19-cc79db7e04c7-20-03&utm_term=telemetry&utm_content=travel-changes-around-the-world-from-covid-19-cc79db7e04c7) and [telemetry density data](https://www.mapbox.com/telemetry/) for mobility analysis. As telemetry data is collected only from moving devices, changes in movement can be observed at a larger scale, especially for map improvisation and traffic prediction.
 
 You can use the visualization below to pick which dataset suits your needs based on the country you want to analyze. We are working hard to structure the data across providers in a similar way, so that you can use the same code to analyze data from all providers.
 

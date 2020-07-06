@@ -1,6 +1,7 @@
 ---
 title: Multi-Disciplinary Teams
 date: 2019-02-26 21:52:59 +0000
+icon: "pillars/DDPTeams.svg"
 weight: 3
 
 ---

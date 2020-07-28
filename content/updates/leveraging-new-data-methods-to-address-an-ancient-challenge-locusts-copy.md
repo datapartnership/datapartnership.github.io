@@ -14,5 +14,5 @@ type = "Case Study"
 
 **Impact**: Vulnerable groups find it more challenging to comply with social distancing measures for a wide variety of reasons, including limited household savings, a weak or nonexistent social safety net, incomes that depend on face-to-face contact, crowded living arrangements, and poor access to basic services. By understanding differentiated policy impacts across groups and areas within a city, this type of analysis can open the door to broader conversations about complementary measures needed to protect the health and livelihoods of citizens, particularly the most vulnerable.
 
-[Read more](https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond/)
+[Read more](https://blogs.worldbank.org/sustainablecities/poor-people-respond-differently-stay-home-orders-heres-what-data-says)
 

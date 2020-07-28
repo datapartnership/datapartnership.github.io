@@ -20,5 +20,3 @@ fields:
     required: false
   label: url
   description: custom url
-pages:
-- content/updates/poor-people-respond-differently-to-stay-at-home-orders.md

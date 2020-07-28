@@ -1,27 +1,18 @@
 +++
-date = 2020-06-24T13:12:14Z
+date = 2020-07-28T13:12:14Z
 draft = true
-partner = "ClimaCell"
-title = "Leveraging New Data Methods to Address an Ancient Challenge: Locusts-(copy)"
+partner = "Cuebiq"
+title = "Assessing Social Inequality and Lockdown Policies using Mobile Location Data in Indonesia"
 type = "Case Study"
 
 +++
-**Challenge:** The worst locust upsurge in at least 25 years is hitting parts of Africa, the Arabian Peninsula and Western Asia, and over 40 million people who are already food insecure find their food supply and livelihoods threatened.
+**Challenge:** Lockdown policies such as stay-at-home orders and non-essential business closures are central to fighting the novel coronavirus. However, policy makers are having a hard time answering key questions about their efficacy. For example, have impacts differed over time and across district boundaries? And crucially, are vulnerable groups less able than others to comply with social distancing regulations?
 
-**Opportunity:** In collaboration with the Development Data Partnership and World Bank Agriculture Observatory, ClimaCell organized a 24-hour hackathon to see whether their team could adapt their weather intelligence platform to support efforts to manage and mitigate the spread of locusts.
+![Indonesia Data Analysis](/Indonesia.png)
 
-**Solution**: ClimaCell’s team of meteorologists, data scientists and product engineers from across the world focused on three prototypes:
+**Solution**: [Cuebiq](https://www.cuebiq.com/visitation-insights-covid19/) privacy-protected GPS location data have been utilised to derive actionable insights to inform COVID-19 responses to better protect urban dwellers against risk. It is noted that lockdown policies affect citizens differently. In Indonesia, economically advantaged residents reduced the number of neighborhoods they visited by 25%, eight percentage points higher than that observed for lower-income people.
 
-(1) The team explored use of ClimaCell's historical and predictive weather technology to identify hyperlocal areas to be sprayed with pesticides, where locust eggs and populations are likely to grow quickly (thereby reducing unnecessary harmful spraying).
-
-(2) They also developed a prototype trajectory model that shows where existing swarms of locusts are likely to migrate next, updating in real-time and with crowdsourcing SMS functions to confirm locust locations.
-
-(3) The team also prototyped alerting features that could support early warnings to farmers and communities in advance of incoming swarms, with recommendations on what action needs to be taken and when.
-
-![](/live-feedback-from-farmers.png)
-
-**Impact**: Activities leading up to the event involved problem scoping and sharing of insights by experts from the World Bank, FAO, and others. Critical input was also received from the Red Cross, as well as African farmers and pastoralists. During the event, rapid product iteration took place based on real time inputs from African farming and emergency response community members, leading to a community-built solution with the goal of being complementary and additive to existing solutions.
+**Impact**: Vulnerable groups find it more challenging to comply with social distancing measures for a wide variety of reasons, including limited household savings, a weak or nonexistent social safety net, incomes that depend on face-to-face contact, crowded living arrangements, and poor access to basic services. By understanding differentiated policy impacts across groups and areas within a city, this type of analysis can open the door to broader conversations about complementary measures needed to protect the health and livelihoods of citizens, particularly the most vulnerable.
 
 [Read more](https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond/)
 
-![](/partners/climacell.png)

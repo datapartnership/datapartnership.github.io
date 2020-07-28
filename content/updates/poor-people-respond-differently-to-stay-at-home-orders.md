@@ -3,11 +3,13 @@ date = ""
 draft = true
 partner = "Cuebiq"
 title = "Poor people respond differently to stay-at-home orders."
-type = ""
+type = "Case Study"
 url = ""
 
 +++
 **Challenge:** Lockdown policies such as stay-at-home orders and non-essential business closures are central to fighting the novel coronavirus. However, policy makers are having a hard time answering key questions about their efficacy. For example, have impacts differed over time and across district boundaries? And crucially, are vulnerable groups less able than others to comply with social distancing regulations?
+
+![Indonesia Data Analysis](/Indonesia.png)
 
 **Solution**: [Cuebiq](https://www.cuebiq.com/visitation-insights-covid19/) privacy-protected GPS location data have been utilised to derive actionable insights to inform COVID-19 responses to better protect urban dwellers against risk. It is noted that lockdown policies affect citizens differently. In Indonesia, economically advantaged residents reduced the number of neighborhoods they visited by 25%, eight percentage points higher than that observed for lower-income people.
 

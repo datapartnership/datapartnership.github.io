@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-07-28T04:00:00Z
 draft = true
 partner = "Cuebiq"
 title = "Poor people respond differently to stay-at-home orders."

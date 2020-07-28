@@ -2,7 +2,7 @@
 date = 2020-07-28T04:00:00Z
 draft = true
 partner = "Cuebiq"
-title = "Assessing Social Inequality using Mobile Location Data"
+title = "Assessing Social Inequality and Lockdown Policies using Mobile Location Data in Indonesia"
 type = "Case Study"
 url = ""
 

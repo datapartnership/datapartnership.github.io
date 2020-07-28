@@ -2,7 +2,7 @@
 date = 2020-07-28T04:00:00Z
 draft = true
 partner = "Cuebiq"
-title = "How Lockdown Policies affect Citizens Differently?"
+title = "Assessing Social Inequality using Mobile Location Data"
 type = "Case Study"
 url = ""
 

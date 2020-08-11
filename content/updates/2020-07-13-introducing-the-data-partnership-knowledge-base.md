@@ -4,18 +4,17 @@ title = "Introducing the Data Partnership Knowledge Base"
 type = "Article"
 +++
 
-Since rolling out a [Pilot Phase](/updates/why-datacollaboratives/) in 2018, the Data Partnership has scaled up fast, and by now has brought to life almost 100 projects supported by partnerships with more than 20 companies.
+After rolling out a [Pilot Phase](/updates/why-datacollaboratives/) in 2018, the Development Data Partnership has scaled up fast, and since our colleagues have brought to life more than 100 projects supported by partnerships with more than 20 companies.
 
-All we inspire to do is to see data being put in good and responsable use. From the very [beginning](updates/data-day/), we have watched diverse areas of study and projects being carried out and strongly benefiting from third-party data, specially where data scarcity poses a challenge. Today, we are accompanying the evolution of projects on food security, [estimating access to employment opportunities](http://localhost:1313/updates/employment-opportunities-in-bangladesh/), [mobility indicators](https://blogs.worldbank.org/sustainablecities/poor-people-respond-differently-stay-home-orders-heres-what-data-says), [locust response](https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond/), healthcare acessibility, road safety, among others.
+All we inspire to do is to see data being put in good and responsable use. From the very [beginning](updates/data-day/), we have watched diverse areas of study and projects being carried out and strongly benefiting from third-party data, specially where data scarcity poses an extra challenge for success. Today, we are accompanying the evolution of projects addressing [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) with teams putting energy into food security, [estimating access to employment opportunities](http://localhost:1313/updates/employment-opportunities-in-bangladesh/), [mobility indicators](https://blogs.worldbank.org/sustainablecities/poor-people-respond-differently-stay-home-orders-heres-what-data-says), [locust response](https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond/), healthcare acessibility, road safety, among others.
 
-For the next phase, we are expanding support and resources to members of the Data Partnership across all participating orgazations that range from data documentation, snippets and examples to provisining data pipelines and computing environments. Collaboration plays a lead role of the initiative. It is important to see that all that information is up-to-date, easily acessible and collaborative.
+On the next phase, we are expanding support and resources across all participating organizations ranging from data documentation, snippets and examples to provisioning data pipelines and computing environments. Collaboration plays a lead role of the initiative. It is important to see that all that information is up-to-date, easily acessible and collaborative.
 
-We are introducing the Data Partnership Knowledge Base!
+We are introducing the Development Data Partnership Knowledge Base!
 
 On the [Data Partnership](https://datapartnership.org) website, you will now find the [Documentation](https://datapartnership.github.io/welcome/) link that will take you directly to our Knowledge Base where you can explore further.
 
 <img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-site.png" style="width:100%;"/><br>
-
 
 Partially inspired by the [Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) and [How to build a data analytics dream team](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-a-data-analytics-dream-team), we are paving the way to accomodate all different components and roles that make a data-driven project successful and creating a centralized reference for data scientists and researchers.
 
@@ -31,7 +30,7 @@ As part of the Development Data Partnership, members have access to:
 
 <img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-partnership.png" style="width:100%;"/><br>
 
-Each Development Data Partner, for example the Inter-American Development Bank, has its own documentation set with the Data Partners it has signed agreements with. 
+Each participating international organization, e.g. the Inter-American Development Bank, has its own documentation set with the Data Partners it has signed agreements with.
 
 The reason for that is because we have to be able to provide different contributors access to specific subsets of the documentation while preserving the possibility to share code base among all participating organizations.
 
@@ -43,15 +42,15 @@ And possibly even make your own contributions!
 
 ## Data Partner Documentation
 
-As we have said, each Data Partner has a dedicated page on the documentation. 
+As we have said, each Data Partner has a dedicated page on the documentation.
 
-In fact, that page has a double life and is a Jupyter notebook! You can either choose work with it directly cloning from the repository or see a rendered page on your browser.
+In fact, that page has a double life and is a Jupyter notebook! You can either choose to work with it  by cloning from the repository or by viewing a rendered page on your browser.
 
 It is important to say that we are not reinviting the wheel; rather, the documentation offers a centralized place for references and examples as well as details about the datasets, such as how to access (**Getting Access**), about the data itself (**Summary**) and **Examples**.
 
 ### Getting Access
 
-After submitting your proposal to the [Data Partnership Portal](https://beta.datapartnership.org/) and having it approved, this section details how you should expect to get access to data for each Data Partner.
+After submitting your proposal to [Data Partnership](https://datapartnership.org/) and having it approved, this section details how you should expect to get access to data for each Data Partner.
 
 Even before your project take shape, the section helps estimate what kind what resources will be required from your team.
 

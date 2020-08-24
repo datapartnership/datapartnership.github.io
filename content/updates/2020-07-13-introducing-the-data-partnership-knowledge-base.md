@@ -6,17 +6,17 @@ type = "Article"
 
 After rolling out a [Pilot Phase](/updates/why-datacollaboratives/) in 2018, the Development Data Partnership has scaled up fast, and since our colleagues have brought to life more than 100 projects supported by partnerships with more than 20 companies.
 
-All we inspire to do is to see data being put in good and responsable use. From the very [beginning](updates/data-day/), we have watched diverse areas of study and projects being carried out and strongly benefiting from third-party data, specially where data scarcity poses an extra challenge for success. Today, we are accompanying the evolution of projects addressing [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) with teams putting energy into food security, [estimating access to employment opportunities](http://localhost:1313/updates/employment-opportunities-in-bangladesh/), [mobility indicators](https://blogs.worldbank.org/sustainablecities/poor-people-respond-differently-stay-home-orders-heres-what-data-says), [locust response](https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond/), healthcare acessibility, road safety, among others.
+We aspire to see data put to good and reasonable use. From the very [beginning](/updates/data-day/), we have watched diverse projects succed using third party data - especially where data scarcity poses extra challenges. Today, we are helping with  projects addressing [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). We help teams working on food security, [estimating access to employment opportunities](/updates/employment-opportunities-in-bangladesh/), [mobility indicators](https://blogs.worldbank.org/sustainablecities/poor-people-respond-differently-stay-home-orders-heres-what-data-says), [locust response](https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond/), healthcare acessibility, road safety, and many others.
 
-On the next phase, we are expanding support and resources across all participating organizations ranging from data documentation, snippets and examples to provisioning data pipelines and computing environments. Collaboration plays a lead role of the initiative. It is important to see that all that information is up-to-date, easily acessible and collaborative.
+In order to better support these projects, we provide data documentations, snippets, examples, pipelines and computing environments. It's important to use that all information is up to date, available to all development partners, and is easily accessible.
 
-We are introducing the Development Data Partnership Knowledge Base!
+To achieve this goal, we are introducing the Development Data Partnership Knowledge Base!
 
 On the [Data Partnership](https://datapartnership.org) website, you will now find the [Documentation](https://datapartnership.github.io/welcome/) link that will take you directly to our Knowledge Base where you can explore further.
 
 <img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-site.png" style="width:100%;"/><br>
 
-Partially inspired by the [Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) and [How to build a data analytics dream team](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-a-data-analytics-dream-team), we are paving the way to accomodate all different components and roles that make a data-driven project successful and creating a centralized reference for data scientists and researchers.
+Partially inspired by the [Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) and [How to build a data analytics dream team](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-a-data-analytics-dream-team), we are paving the way to accomodate all different components and roles that make a data-driven project successful.
 
 The Development Data Partnership Knowledge Base follows the **literate programming** paradigm.
 
@@ -36,9 +36,9 @@ The reason for that is because we have to be able to provide different contribut
 
 <img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-partner.png" style="width:100%;"/><br>
 
-Each Data Partner, for example Google, also has its own home. You can find snippets as well as fully working examples for common tasks, such as downloading from Facebook GeoInsights using Python, filtering Cuebiq geospatial data, running spatial joins using Dask and Geopandas or using Mapbox's Matrix API.
+Each Data Partner, (ex: Google) their own home page. You can find snippets as well as fully working examples for common tasks, such as downloading from Facebook GeoInsights using Python, filtering Cuebiq geospatial data, running spatial joins using Dask and Geopandas or using Mapbox's Matrix API.
 
-And possibly even make your own contributions!
+And make your own contributions!
 
 ## Data Partner Documentation
 
@@ -46,7 +46,7 @@ As we have said, each Data Partner has a dedicated page on the documentation.
 
 In fact, that page has a double life and is a Jupyter notebook! You can either choose to work with it  by cloning from the repository or by viewing a rendered page on your browser.
 
-It is important to say that we are not reinviting the wheel; rather, the documentation offers a centralized place for references and examples as well as details about the datasets, such as how to access (**Getting Access**), about the data itself (**Summary**) and **Examples**.
+We are not reinventing the wheel; The documentation offers a centralized place for references and examples as well as details about the datasets, such as how to access (**Getting Access**), about the data itself (**Summary**) and **Examples**.
 
 ### Getting Access
 
@@ -56,7 +56,7 @@ Even before your project take shape, the section helps estimate what kind what r
 
 ### Summary
 
-The rationale for a data summary is to give a sneak peek into the datasets, even before submitting a project proposal, so you can have a rough estimate and better decide whether or not the data partner opportunity will help you in your project.
+The rationale for a data summary is to give a sneak peek into the datasets, even before submitting a project proposal. 
 
 For example, when exploring the mobile data opportunities, you will be able to see the number of records by geographic region and day by day, so you can evalulate the quality of the sampling of each Data Partner. Also, you will be able to compare those metrics from different partners, possibly deciding for one or a combination of datasets.
 

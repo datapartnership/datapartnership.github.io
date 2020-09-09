@@ -2,7 +2,7 @@
 date = 2020-09-09T04:00:00Z
 draft = true
 partner = "Facebook "
-title = "Assessing Social Inequality and Lockdown Policies using Mobile Location Data in Vietnam"
+title = "Tackling COVID-19 Second Wave using Facebook Mobility Data in Vietnam"
 type = "Case Study"
 
 +++

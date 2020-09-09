@@ -1,6 +1,5 @@
 +++
 date = 2020-09-09T04:00:00Z
-draft = true
 partner = "Facebook "
 title = "Tackling COVID-19 Second Wave using Facebook Mobility Data in Vietnam"
 type = "Case Study"

@@ -11,6 +11,12 @@ type = "Case Study"
 
 **Solution**: [Facebook Disease Prevention Maps](https://dataforgood.fb.com/tools/disease-prevention-maps/) mobility data is used to measure the impact of these local containment policies on movement. The regional lockdown strategy has caused a greater and sharper decline in mobility than the national lockdown in April. For the first time, the pattern in Danang has diverged from that in Ha Noi and Ho Chi Minh City (HCMC); this was not the case in preceding months, where changes in all three cities occured uniformly.
 
-**Impact**: Continued resurgences of COVID-19 infections have amplified the need for just-in-time policy responses. Localized lockdown has led to a more rapid and efficient curtailment of movement, compared to the national lockdown. This enables Vietnam to both limit the economic impact and a possible spread of contagion, as well as to potentially reopen faster than it would from a national lockdown. 
+**Impact**: Continued resurgences of COVID-19 infections have amplified the need for just-in-time policy responses. Localized lockdown has led to a more rapid and efficient curtailment of movement, compared to the national lockdown. This enables Vietnam to both limit the economic impact and a possible spread of contagion, as well as to potentially reopen faster than it would from a national lockdown.
+
+_Authors:_
+
+* Maham Faisal Khan_, Data Scientist, World Bank_
+* Kai Kaiser_, Senior Economist, World Bank_ 
+* Jacques Morisset, _Lead Economist and Program Leader, World Bank_
 
 [Read more](https://blogs.worldbank.org/eastasiapacific/confronting-covid-19-second-waves-how-big-data-good-can-inform-policy-vietnam)

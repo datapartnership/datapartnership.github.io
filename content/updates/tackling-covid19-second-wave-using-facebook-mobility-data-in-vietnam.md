@@ -15,8 +15,8 @@ type = "Case Study"
 
 _Authors:_
 
-* Maham Faisal Khan_, Data Scientist, World Bank_
-* Kai Kaiser_, Senior Economist, World Bank_ 
+* Maham Faisal Khan, _Data Scientist, World Bank_
+* Kai Kaiser, _Senior Economist, World Bank_
 * Jacques Morisset, _Lead Economist and Program Leader, World Bank_
 
 [Read more](https://blogs.worldbank.org/eastasiapacific/confronting-covid-19-second-waves-how-big-data-good-can-inform-policy-vietnam)

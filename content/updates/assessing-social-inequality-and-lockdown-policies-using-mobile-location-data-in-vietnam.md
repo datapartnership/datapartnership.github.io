@@ -6,12 +6,12 @@ title = "Assessing Social Inequality and Lockdown Policies using Mobile Location
 type = "Case Study"
 
 +++
-**Challenge:** Lockdown policies such as stay-at-home orders and non-essential business closures are central to fighting the novel coronavirus. However, policy makers are having a hard time answering key questions about their efficacy. For example, have impacts differed over time and across district boundaries? And crucially, are vulnerable groups less able than others to comply with social distancing regulations?
+**Challenge:** On July 24, after 99 days of zero community-transmitted COVID-19 infections, a 57 year-old man tested positive in Danang, a major city in central Vietnam with close to 1.5 million inhabitants. Within three weeks, almost 600 people were infected, over 25 deaths recorded. Vietnamese authorities implemented a strict but localized lockdown in Danang.
 
 ![Vietnam Facebook Mobility Analysis](/fb-vietnam.png)
 
-**Solution**: [Cuebiq](https://www.cuebiq.com/visitation-insights-covid19/) privacy-protected GPS location data have been utilised to derive actionable insights to inform COVID-19 responses to better protect urban dwellers against risk. It is noted that lockdown policies affect citizens differently. In Indonesia, economically advantaged residents reduced the number of neighborhoods they visited by 25%, eight percentage points higher than that observed for lower-income people.
+**Solution**: [Facebook Disease Prevention Maps](https://dataforgood.fb.com/tools/disease-prevention-maps/) mobility data is used to measure the impact of these local containment policies on movement. The regional lockdown strategy has caused a greater and sharper decline in mobility than the national lockdown in April. For the first time, the pattern in Danang has diverged from that in Ha Noi and Ho Chi Minh City (HCMC); this was not the case in preceding months, where changes in all three cities occured uniformly.
 
-**Impact**: Vulnerable groups find it more challenging to comply with social distancing measures for a wide variety of reasons, including limited household savings, a weak or nonexistent social safety net, incomes that depend on face-to-face contact, crowded living arrangements, and poor access to basic services. By understanding differentiated policy impacts across groups and areas within a city, this type of analysis can open the door to broader conversations about complementary measures needed to protect the health and livelihoods of citizens, particularly the most vulnerable.
+**Impact**: Continued resurgences of COVID-19 infections have amplified the need for just-in-time policy responses. Localized lockdown has led to a more rapid and efficient curtailment of movement, compared to the national lockdown. This enables Vietnam to both limit the economic impact and a possible spread of contagion, as well as to potentially reopen faster than it would from a national lockdown. 
 
 [Read more](https://blogs.worldbank.org/eastasiapacific/confronting-covid-19-second-waves-how-big-data-good-can-inform-policy-vietnam)

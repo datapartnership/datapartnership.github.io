@@ -9,4 +9,10 @@ aliases = [
 ]
 +++
 
-[![](/events/annualmeetings2020.png)](https://www.imfconnect.org/content/imf/en/annual-meetings/calendar/open/2020/10/13/development_datapartnershipbridgingthedatagapforpublicgood_158127.html?calendarCategory=T2ZmaWNpYWwvQnkgSW52aXRhdGlvbg==.UHJlc3M=.T3Blbg==#showCalDetail)
+<iframe src="/events/annual-meetings-2020-data-partnership.pdf#toolbar=0&statusbar=0" width="100%" height="4500px"></iframe>
+
+## Useful Links
+<p><a href="/events/annual-meetings-2020-data-partnership.pdf">Download Agenda</a></p>
+<p><a href="https://www.imfconnect.org/content/imf/en/annual-meetings/calendar/open/2020/10/13/development_datapartnershipbridgingthedatagapforpublicgood_158127.html?calendarCategory=T2ZmaWNpYWwvQnkgSW52aXRhdGlvbg==.UHJlc3M=.T3Blbg==#showCalDetail">Livestream Link</a></p>
+
+

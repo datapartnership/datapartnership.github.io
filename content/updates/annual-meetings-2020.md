@@ -1,5 +1,5 @@
 +++
-title = "Annual Meetings 2020"
+title = "Data Partnership: Bridging the Data Gap for Public Good "
 url = "annualmeetings2020"
 exclude_from_updates_list = true
 aliases = [

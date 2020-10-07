@@ -1,9 +1,7 @@
 +++
 title = "Annual Meetings 2020"
 url = "annualmeetings2020"
-hide_sidebar = true
 exclude_from_updates_list = true
-disablePathToLower = true
 aliases = [
     "annualmeetings2020",
     "AnnualMeetings2020",

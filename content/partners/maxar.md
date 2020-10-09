@@ -1,6 +1,5 @@
 ---
 title: Maxar
-logo: /partners/maxar.svg
-weight: 4
+logo: /partners/maxar.png
 ---
 

@@ -2,7 +2,7 @@
 date = 2020-10-14T04:00:00Z
 draft = true
 partner = "Mapbox"
-title = "Introducing Mapbox Movement DATA"
+title = "Introducing Mapbox Movement Data"
 type = ""
 url = "introducing-mapbox-movement-data"
 

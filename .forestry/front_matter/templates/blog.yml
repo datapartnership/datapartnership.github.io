@@ -20,3 +20,5 @@ fields:
     required: false
   label: url
   description: custom url
+pages:
+- content/updates/introducing-mapbox-movement-data.md

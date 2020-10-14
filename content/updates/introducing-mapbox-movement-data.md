@@ -2,7 +2,7 @@
 date = 2020-10-14T04:00:00Z
 draft = true
 partner = "Mapbox"
-title = "Mapbox releases Movement Dataset for Mobility Insights "
+title = "Mapbox Releases a New Movement Dataset for Mobility Insights "
 type = ""
 url = "introducing-mapbox-movement-data"
 

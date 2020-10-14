@@ -1,8 +1,8 @@
 BaseURL = "//datapartnership.org"
 languageCode = "en-us"
-summaryLength = 10
+summaryLength = 25
 theme = "ddp-theme"
-title = "The Development Data Partnership"
+title = "Development Data Partnership"
 [markup.goldmark.renderer]
 unsafe = true
 xhtml = true
@@ -11,7 +11,7 @@ banner-image = "banner.svg"
 banner-stripes = ""
 button-link = "mailto:datapartnership@worldbank.org"
 button-text = "Contact Us"
-documentation-label = "Documentation"
+documentation-label = "Community"
 documentation-link = "https://docs.datapartnership.org"
 donors-description = "The Development Data Partnership is deeply grateful for the support of:"
 donors-section-title = "OUR DONORS"

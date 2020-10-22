@@ -1,6 +1,5 @@
 +++
 date = 2020-10-22T04:00:00Z
-draft = true
 partner = "Facebook and Mapbox"
 title = "Analyzing Spatial Accessibility of Health Facilities in Indonesia and Philippines "
 type = ""

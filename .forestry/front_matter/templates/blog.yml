@@ -21,4 +21,5 @@ fields:
   label: url
   description: custom url
 pages:
+- content/updates/analyzing-spatial-accessibility-of-health-facilities-in-indonesia-and-philippines.md
 - content/updates/introducing-mapbox-movement-data.md

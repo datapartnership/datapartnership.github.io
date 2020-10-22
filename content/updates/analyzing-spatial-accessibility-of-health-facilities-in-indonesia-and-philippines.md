@@ -18,3 +18,5 @@ Through geospatial analysis, the team examined how physically accessible hospita
 Impact:
 
 During health crises such as COVID-19 and beyond, it is crucial to assess and increase accessibility to health facilities. By using a combination of public and private sector data, the study provides a more comprehensive understanding of health facility accessibility.
+
+[Read more](https://unstats.un.org/unsd/undataforum/blog/planning-for-equitable-access-to-health-infrastructure/ "UN Blog")

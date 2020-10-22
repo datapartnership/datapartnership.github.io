@@ -4,7 +4,7 @@ draft = true
 partner = "Facebook and Mapbox"
 title = "Analyzing Spatial Accessibility of Health Facilities in Indonesia and Philippines "
 type = ""
-url = ""
+url = "planning-for-equitable-access-to-health-infrastructure"
 
 +++
 **Challenge:**

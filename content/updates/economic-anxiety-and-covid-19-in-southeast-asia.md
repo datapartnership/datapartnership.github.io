@@ -1,6 +1,5 @@
 +++
 date = 2020-10-28T04:00:00Z
-draft = true
 partner = "Google Trends"
 title = "Economic Anxiety and COVID-19 in Southeast Asia"
 type = ""

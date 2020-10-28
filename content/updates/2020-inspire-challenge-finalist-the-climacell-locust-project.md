@@ -13,3 +13,5 @@ The winners and finalists of the 2020 [Inspire Challenge](https://bigdata.cgiar.
 ![](/inspire-challenge-climacell.png)
 
 The Locust project proposes to develop 360-degree locust monitoring tool that leverages ClimaCell.co’s weather intelligence engine. The tool will be developed with end users and farmers to monitor all key aspects and share early warnings, increasing countries’ capacity to prepare and respond early and effectively to locust swarms.
+
+[Read more](https://bigdata.cgiar.org/inspire/inspire-challenge-2020/ "Inspire Challenge")

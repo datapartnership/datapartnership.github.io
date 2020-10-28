@@ -21,5 +21,6 @@ fields:
   label: url
   description: custom url
 pages:
+- content/updates/2020-inspire-challenge-finalist-the-climacell-locust-project.md
 - content/updates/analyzing-spatial-accessibility-of-health-facilities-in-indonesia-and-philippines.md
 - content/updates/introducing-mapbox-movement-data.md

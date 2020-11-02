@@ -9,13 +9,17 @@ url = ""
 +++
 **Challenge:** Ukraine, Europe’s biggest country, has over 1,192 operators and providers, of which close to three quarters operate under a special preferential tax regime, allowing them not to report their coverage/subscription data to the national telecom regulatory authority. As a result, the current coverage data, especially of fixed broadband, are deemed highly inaccurate. As the government needs to set high-speed broadband coverage goals and estimate financing needs for a public investment program, it is important to validate existing data and evaluate broadband coverage.
 
+![](/fiber-optic-connectivity.png)
+
+_Fig. 1: Settlements without fiber optic connectivity, 2020_ (_Note: Unconnected settlements are marked in Red; the size of the circle for each settlement is proportionate to its population; Source: World Bank based on multiple data sources)_
+
 **Solution**: To estimate the coverage of the high-speed broadband in Ukraine, four different data sources were used to identify and cross-check the status of broadband coverage in Ukraine at the settlement level. The core data on connection speeds are from [Ookla](https://www.speedtest.net/). Three additional data sources are used to complement and cross-check these data using official statistics from the Ukrainian government and the Telecommunications regulator (NCCIR): (i) Ministry of Education (MES) data on broadband coverage in schools, (ii) Regulatory data from the NCCIR survey of ISPs as of January 2020, and (iii) Official speed testing data from Broadband.gov.ua.
 
 ![](/ukraine-mobile-coverage.png)
 
-_Source_: _Based on analysis by Ookla® of Speedtest Intelligence® data for May 20, 2020. Ookla trademarks used under license and reprinted with permission_
+_Fig. 2: (Source_: _Based on analysis by Ookla® of Speedtest Intelligence® data for May 20, 2020. Ookla trademarks used under license and reprinted with permission)_
 
-**Impact**: Broadband connectivity is a critical foundation for socioeconomic development in today’s global, and increasingly digital, economy. It is a general-purpose technology (GPT) that accelerates the pace of economic growth and reduces income disparities, thus contributing to poverty alleviation. 
+**Impact**: Broadband connectivity is a critical foundation for socioeconomic development in today’s global, and increasingly digital, economy. It is a general-purpose technology (GPT) that accelerates the pace of economic growth and reduces income disparities, thus contributing to poverty alleviation.
 
 _Authors:_
 

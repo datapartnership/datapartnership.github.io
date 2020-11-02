@@ -26,6 +26,6 @@ The quality of mobile broadband remains insufficient for communication needs, es
 
 _Authors:_
 
-* Natalija Gelvanovska-Garcia, _Senior Digital Development Specialis_t_, World Bank_
+* Natalija Gelvanovska-Garcia, _Senior Digital Development Specialist, World Bank_
 * Marta Khomyn, _Consultant, World Bank_
 * Mykhailo Koltsov, _Consultant, World Bank_

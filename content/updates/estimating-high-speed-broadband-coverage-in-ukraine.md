@@ -21,7 +21,7 @@ The settlements without fiber-optic coverage were mapped using a red dot for eac
 
 _Fig. 2: 4G Mobile broadband coverage, 2019 (Source_: _Based on analysis by Ookla® of Speedtest Intelligence® data for May 20, 2020. Ookla trademarks used under license and reprinted with permission)_
 
-The quality of mobile broadband remains insufficient for communication needs, especially in less populated oblasts and in rural and remote areas. As can be seen from the coverage map of 3G/4G broadband access, as measured by mobile network operators’ (MNOs) speed tests, only the largest cities have good coverage, whereas the rest of the country is severely underserved
+The quality of mobile broadband remains insufficient for communication needs, especially in less populated oblasts and in rural and remote areas. The coverage map of 3G/4G broadband access (Fig. 2) measured by mobile network operators’ (MNOs) speed tests shows that the largest cities have good coverage, whereas the rest of the country is severely underserved.
 
 **Impact**: Broadband connectivity is a critical foundation for socioeconomic development in today’s global, and increasingly digital, economy. It is a general-purpose technology (GPT) that accelerates the pace of economic growth and reduces income disparities, thus contributing to poverty alleviation.
 

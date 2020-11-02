@@ -4,7 +4,7 @@ draft = true
 partner = "Ookla"
 title = "Estimating High-speed Broadband Coverage in Ukraine"
 type = ""
-url = ""
+url = "broadband-coverage-in-ukraine"
 
 +++
 **Challenge:** Ukraine, Europe’s biggest country, has over 1,192 operators and providers, of which close to three quarters operate under a special preferential tax regime, allowing them not to report their coverage/subscription data to the national telecom regulatory authority. As a result, the current coverage data, especially of fixed broadband, are deemed highly inaccurate. As the government needs to set high-speed broadband coverage goals and estimate financing needs for a public investment program, it is important to validate existing data and evaluate broadband coverage.
@@ -23,10 +23,10 @@ _Fig. 2: 4G Mobile broadband coverage, 2019 (Source_: _Based on analysis by Ookl
 
 The quality of mobile broadband remains insufficient for communication needs, especially in less populated oblasts and in rural and remote areas. The coverage map of 3G/4G broadband access (Fig. 2) measured by mobile network operators’ (MNOs) speed tests shows that the largest cities have good coverage, whereas the rest of the country is severely underserved.
 
-**Impact**: Broadband connectivity is a critical foundation for socioeconomic development in today’s global, and increasingly digital, economy. It is a general-purpose technology (GPT) that accelerates the pace of economic growth and reduces income disparities, thus contributing to poverty alleviation.
+**Impact**: Broadband connectivity is a critical foundation for socioeconomic development in today’s global, and increasingly digital, economy. It is a general-purpose technology (GPT) that accelerates the pace of economic growth and reduces income disparities, thus contributing to poverty alleviation. The analyses in this post are excerpted from the World Bank recommendations report on the National Broadband Strategy for the Government of Ukraine. The recommendations seek to achieve the vision of making high-speed broadband available to every citizen, business and private institution in Ukraine by year 2025.
 
 _Authors:_
 
-* Maham Faisal Khan, _Data Scientist, World Bank_
-* Kai Kaiser, _Senior Economist, World Bank_
-* Jacques Morisset, _Lead Economist and Program Leader, World Bank_
+* Natalija Gelvanovska-Garcia, _Senior Digital Development Specialis_t_, World Bank_
+* Marta Khomyn, _Consultant, World Bank_
+* Mykhailo Koltsov, _Consultant, World Bank_

@@ -18,6 +18,4 @@ When compared across different data collection efforts, it is found that the PRE
 
 **Impact:** Concerns related to COVID-19 have revolved around health care, food access, job loss and government handling. Premise data acts as a useful source of crowdsourced information to understand people's concerns and behaviour during the pandemic and shows consistency with data collected through other online survey methods.
 
-_Author:_ 
-
-Laura Ralston, _Senior Economist, World Bank_
+_Author:_ Laura Ralston, Senior Economist, World Bank

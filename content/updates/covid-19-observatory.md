@@ -17,3 +17,7 @@ In populations surveyed, there is a high level of knowledge on COVID-19, with mo
 When compared across different data collection efforts, it is found that the PREMISE survey findings on knowledge and awareness are consistent with the World Bank Online Survey, as well as other surveys such as J-PAL, BPS, Warwick, and YouGov. Moreover, survey results are also confirmed with mobility insights from big data analytics. The mobility of people in hotspot locations has tremendously decreased and people tend to stay at home following travel ban policy and lockdown restrictions.
 
 **Impact:** Concerns related to COVID-19 have revolved around health care, food access, job loss and government handling. Premise data acts as a useful source of crowdsourced information to understand people's concerns and behaviour during the pandemic and shows consistency with data collected through other online survey methods.
+
+_Author:_ 
+
+Laura Ralston, _Senior Economist, World Bank_

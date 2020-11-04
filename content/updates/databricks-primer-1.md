@@ -250,4 +250,7 @@ If I missed something or got something wrong, I would love a [tweet from you](ht
 If you liked this article, please share it and tag [@DevDataPship](https://twitter.com/devdatapship) on Twitter!
 
 
+_Author:
+* [Maksim Pecherskiy](https://maksimpecherskiy.com), _Data Engineer (Development Data Partnership), World Bank_
+
 

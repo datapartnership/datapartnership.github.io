@@ -16,7 +16,7 @@ url = "planning-for-equitable-access-to-health-infrastructure"
 
 _Authors:_
 
-* Maksim Pecherskiy, _Data Engineer (Development Data Partnership), World Bank_
+* [Maksim Pecherskiy](https://maksimpecherskiy.com), _Data Engineer (Development Data Partnership), World Bank_
 * Afeefah Khazi-Syed, _Consultant, World Bank_
 
 [Read more](https://unstats.un.org/unsd/undataforum/blog/planning-for-equitable-access-to-health-infrastructure/ "UN Blog")

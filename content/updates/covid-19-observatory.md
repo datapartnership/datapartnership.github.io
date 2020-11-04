@@ -1,7 +1,7 @@
 +++
 date = 2020-11-04T05:00:00Z
 partner = "Premise"
-title = "COVID-19 Indonesia Observatory "
+title = "Socioeconomic Impact of COVID-19 in Indonesia"
 type = ""
 url = "covid-observatory-indonesia"
 

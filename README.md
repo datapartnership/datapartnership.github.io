@@ -1,9 +1,22 @@
-# datapartnership.org
+# Development Data Partnership
 
-This repo contains the code and deployment details for the datapartnership.org site.
+<p align="center">
+  <img width="250" height="250" src="https://raw.githubusercontent.com/datapartnership/welcome/master/images/logo.png">
+</p>
 
-Please check the Wiki for details on how the site works, where to deploy it and how. There is also a  quick guide for developing and editing the theme.
+ > A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development.
 
-Content are in a wiki instead of readme/deploy/dev files in order to avoid un-necessary site builds once the documentation is edited.
+## Get Started
 
-Please contact hkrambeck@worldbank.org to be added to netlify/forestry or any other resources.
+Our blog is a [Hugo](https://gohugo.io/) website that is deployed on [GitHub](https://pages.github.com) with [GitHub Actions](https://github.com/features/actions). On every commit to `master`, the website is built and published to https://datapartnershio.org.
+
+## Contributing
+
+Please feel free to open a pull request. If you prefer to use [Forestry](https://forestry.io), send us an [email](mailto:datapartnership@worldbank.org).
+
+
+## License
+
+© Development Data Partnership
+
+

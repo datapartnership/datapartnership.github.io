@@ -1,10 +1,10 @@
 ---
-date: 2020-11-03T00:00:00Z
-title: "A light primer to Spark / Databricks"
-type: ""
-url: "light-primer-to-spark-databricks-1"
----
+date: 2020-11-03T00:00:00.000+00:00
+title: A Light Primer to Spark / Databricks
+type: ''
+url: light-primer-to-spark-databricks-1
 
+---
 [Databricks](https://databricks.com/) is a powerful platform for using Spark, a powerful data technology.
 
 If you're reading this, you're likely a Python or R developer who begins their Spark journey to process large datasets.
@@ -244,4 +244,3 @@ _Author(s):_
 * [Maksim Pecherskiy](https://maksimpecherskiy.com), _Data Engineer, Development Data Partnership, World Bank_
 
 *The Development Data Partnership is a partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development.*
-

@@ -14,7 +14,7 @@ _Figure 1: Spatial impact of COVID-19 pandemic across Indian districts_
 
 **Solution**: To conduct this analysis, pandemic-era district level data are used from a range of novel sources – monthly nighttime lights from global satellites, mobility data from individual smartphone locations from Facebook, and high frequency household-level survey data on income and consumption.
 
-Nighttime light intensity in India dimmed during the strict national lockdown in March and April and recovered in May and subsequent months (see Figure 1) Facebook mobility data from cellphone locations indicates that restricted mobility is a plausible channel causing lower household income and consumption, which in turn explains the aggregate impact.
+Nighttime light intensity in India dimmed during the strict national lockdown in March and April and recovered in May and subsequent months (see Figure 1). Facebook mobility data from cellphone locations indicates that restricted mobility is a plausible channel causing lower household income and consumption, which in turn explains the aggregate impact.
 
 **Impact**: The impact of the COVID-19 pandemic has spread across districts in India, but some districts are affected more than others. Stricter containment measures had larger impacts in more developed districts characterized by a greater population density with older residents, as well as more services employment and bank credit.
 

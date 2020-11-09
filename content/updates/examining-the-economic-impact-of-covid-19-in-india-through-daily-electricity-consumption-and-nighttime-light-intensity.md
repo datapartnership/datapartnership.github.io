@@ -2,7 +2,7 @@
 date = 2020-11-09T05:00:00Z
 draft = true
 partner = "Facebook"
-title = "Examining the Economic Impact of COVID-19 in India through Daily Electricity Consumption and Nighttime Light Intensity"
+title = "Examining the Economic Impact of COVID-19 in India "
 type = ""
 url = "economic-impact-of-covid19-india"
 

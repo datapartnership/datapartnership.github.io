@@ -11,28 +11,12 @@ url = "economic-impact-of-covid19-india"
 
 **Solution**: To conduct this analysis, pandemic-era district level data are used from a range of novel sources – monthly nighttime lights from global satellites, mobility data from individual smartphone locations from Facebook, and high frequency household-level survey data on income and consumption.
 
-Nighttime light intensity in India dimmed during the strict national lockdown in March and April and recovered in May and subsequent months. In May, districts with the most severe restrictions witnessed a 12.4% (0.06 standard deviation) lower recovery in light intensity compared to those with the least restrictions.
+Nighttime light intensity in India dimmed during the strict national lockdown in March and April and recovered in May and subsequent months. Facebook mobility data from cellphone locations indicates that restricted mobility is a plausible channel causing lower household income and consumption, which in turn explains the aggregate impact.
 
-The recovery for districts with intermediate restrictions was 1.7% (0.01 standard deviation) lower. Our findings are robust to several logically orthogonal robustness checks. These include a test of the impact of the zonal classification on the pre-period, where we reassuringly find no eect. We restrict the sample to only those districts that border a differently classified zone, to non-metropolitan districts, and those that were
-
-not subsequently reclassified in mid-May, and find no qualitative change in our results. Finally, a test with
-
-placebo zone classifications yields coecients that are close to zero and insignificant. While remaining in
-
-the same direction, the impact of the zone classification tapered o in June and July. Facebook mobility data
-
-from cellphone locations indicates that restricted mobility is a plausible channel causing lower household
-
-income and consumption, which in turn explains the aggregate impact. More developed districts with above
-
-median population density, share of employment in services, credit per capita, and mean age experienced
-
-larger impacts of the restrictions.
-
-**Impact**: Continued resurgences of COVID-19 infections have amplified the need for just-in-time policy responses. Localized lockdown has led to a more rapid and efficient curtailment of movement, compared to the national lockdown. This enables Vietnam to both limit the economic impact and a possible spread of contagion, as well as to potentially reopen faster than it would from a national lockdown.
+**Impact**: The impact of the COVID-19 pandemic has spread across districts in India, but some districts are affected more than others. Stricter containment measures had larger impacts in more developed districts characterized by a greater population density with older residents, as well as more services employment and bank credit.
 
 _Authors:_
 
-* Maham Faisal Khan, _Data Scientist, World Bank_
-* Kai Kaiser, _Senior Economist, World Bank_
-* Jacques Morisset, _Lead Economist and Program Leader, World Bank_
+* Robert C. M. Beyer, _Senior Economist, World Bank_
+* Tarun Jain, _Associate Professor, Indian Institute of Management Ahmedabad_
+* Sonalika Sinha, _Manager, Reserve Bank of India (RBI)_

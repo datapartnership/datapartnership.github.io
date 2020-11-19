@@ -2,52 +2,93 @@
 
 {{- partial "banner-mini.html" . -}}
 
-<div class="container-fluid bg-light pb-5">
-  <div class="container">
+<style type="text/css">
+/* ui group */
 
+.ui-group {
+  display: inline-block;
+  margin-right: 20px;
+}
 
-    <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
-    <!-- this can be any intro text -->
+.ui-group h3 {
+  display: inline-block;
+  margin-right: 0.2em;
+  font-size: 16px;
+}
 
-    <div class="row pt-4">
-      <div class="col-12">
-        {{.Content}}
-      </div>
-    </div>
+.ui-group .button-group {
+  display: inline-block;
+  margin-right: 20px;
+}
 
-    <div class="row">
-      <!-- Ranges through content/xxx/*.md -->
-      {{ range .Pages }}
-      {{ if isset .Params "exclude_from_updates_list" }}
-      {{ else }}
+.grid-card {
+    background: pink;
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+}
 
+</style>
 
-      <div class="col-md-4 col-xs-12  d-flex align-items-stretch mt-4">
-        <div class="card border-0 rounded-0">
-          <div class="card-body">
-            <h3 class="card-title"> <a class="text-primary" href="{{.Permalink}}">
-                {{ if isset .Params "partner" }}{{ .Params.partner }}:{{end}} {{ .Params.title }} </a> </h3>
-            <div class="w-100 bg-secondary h2px mb-3"></div>
-            <div class="card-text">
-              <div>
-                <p>
-                  {{ .Summary }}
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="card-footer bg-white border-0 mt-2">
-            <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn More</a>
-          </div>
-        </div>
-      </div>
-      {{ end }}
-      {{ end }}
-      <!-- end of range -->
-    </div>
-    <!-- end of row -->
+<div class="filters">
 
+  <div class="ui-group">
+    <h3>Data Partner</h3>
+    <select class="filter-select" value-group="data-partner">
+      <option value="">any</option>
+      {{ range .Pages.GroupByParam "partner" }}
+      <option value=".{{ lower .Key }}">{{ .Key }}</option>
+      {{end}}
+    </select>
   </div>
+
 </div>
+
+
+<div class="card-grid">
+    {{ range .Pages }}
+    {{ if isset .Params "exclude_from_updates_list" }}
+    {{ else }}
+    <!--<div class="grid-card small round red"></div>-->
+    <div class="grid-card {{ if isset .Params "partner" }}{{ lower .Params.partner }}{{ else }} none {{end}}">{{ if isset .Params "partner" }}{{ lower .Params.partner }}{{ else }} none {{end}}</div>
+    {{ end }}
+    {{ end }}
+</div>
+
+
+
+
+<script type="text/javascript" src="{{ $.Site.BaseURL }}/js/isotope.pkgd.min.js">   </script>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function(event) {
+    // flatten object by concatting values
+    function concatValues( obj ) {
+        var value = '';
+        for ( var prop in obj ) {
+            value += obj[ prop ];
+        }
+        return value;
+    }
+
+    var iso = new Isotope( '.card-grid', {
+        itemSelector: '.grid-card',
+        layoutMode: 'fitRows'
+    });
+
+    window.iso = iso
+
+    var filters = {}
+
+    const filterSels = document.querySelector(".filters")
+    filterSels.addEventListener('change', (event) => {
+        var changedSel = event.target
+        var changedSelGroup = changedSel.getAttribute('value-group')
+        filters[ changedSelGroup ] = event.target.value;
+        var filterValue = concatValues( filters );
+        console.log(filterValue.replace(" ", "*"))
+        iso.arrange({ filter: filterValue })
+    })
+})
+</script>
 
 {{ end }}

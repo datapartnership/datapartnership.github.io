@@ -1,10 +1,8 @@
 +++
-data_partner = ["mapbox"]
 date = 2020-10-14T04:00:00Z
-partner = ["Mapbox"]
+partner = ["mapbox"]
 title = "Mapbox Releases a New Movement Dataset for Mobility Insights "
 url = "introducing-mapbox-movement-data"
-
 +++
 Following the [Development Data Partnership launch event at the World Bank-IMF Annual Meetings](https://www.imfconnect.org/content/imf/en/annual-meetings/calendar/open/2020/10/13/development_datapartnershipbridgingthedatagapforpublicgood_158127.html?calendarCategory=T2ZmaWNpYWwvQnkgSW52aXRhdGlvbg==.UHJlc3M=.T3Blbg== "video-link"), Mapbox announces a new dataset on movement data for mobility insights.
 

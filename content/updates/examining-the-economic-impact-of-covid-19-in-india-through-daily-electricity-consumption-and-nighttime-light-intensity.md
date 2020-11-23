@@ -1,10 +1,10 @@
 +++
 date = 2020-11-09T05:00:00Z
 draft = true
-partner = "Facebook"
+partner = ["Facebook"]
 title = "Examining the Economic Impact of COVID-19 in India "
-type = ""
 url = "economic-impact-of-covid19-india"
+dev_partner = ["World Bank"]
 
 +++
 **Challenge:** The COVID-19 pandemic has disrupted economic activity in India. Until mid-March 2020, the economy was mainly hit by disruptions in cross-border connections. When COVID-19 started to spread in India through domestic contagion, the Indian authorities enacted a series of measures to combat the pandemic, including a strict national lockdown from March 25 to May 4 that strongly disrupted economic activity across the country. This study estimates the impact of a differential relaxation of COVID-19 containment policies on aggregate economic activity in India.

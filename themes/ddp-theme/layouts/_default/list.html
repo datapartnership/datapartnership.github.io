@@ -6,59 +6,137 @@
 /* ui group */
 
 .ui-group {
-  display: inline-block;
-  margin-right: 20px;
+    flex-grow: 1;
+    flex-basis: auto;
 }
 
-.ui-group h3 {
-  display: inline-block;
-  margin-right: 0.2em;
-  font-size: 16px;
+.filters {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: stretch;
 }
 
-.ui-group .button-group {
-  display: inline-block;
-  margin-right: 20px;
+
+.filter-select {
+    border: 1px solid #979797;
+    width: 100%;
+    line-height: 1.5;
+    font-size: 1rem;
+    padding: .375rem .75rem;
+    font-weight: 400;
+    color: #495057;
+    display: block;
+    background-color: white;
+    background-clip: padding-box;
 }
 
 .grid-card {
-    background: pink;
-    width: 150px;
-    height: 150px;
-    border: 5px solid white;
+    height: 500px;
 }
+
+.card {
+    height: 490px;
+}
+
+
+.card-footer {
+    position: absolute !important;
+    bottom: 0px !important;
+    right: 0px !important;
+}
+
 
 </style>
 
-<div class="filters">
+<div class="container-fluid">
+  <div class="container pb-3 pt-3">
+    <div class="filters">
 
-  <div class="ui-group">
-    <h3>Data Partner</h3>
-    <select class="filter-select" value-group="data-partner">
-      <option value="">any</option>
-      {{ range .Pages.GroupByParam "partner" }}
-      <option value=".{{ lower .Key }}">{{ .Key }}</option>
-      {{end}}
-    </select>
+      <div class="ui-group pr-2">
+        <select class="filter-select" value-group="data-partner">
+            <option value="">Data Partner</option>
+            {{ range $name, $taxonomy := .Site.Taxonomies.partner }}
+            <option value =".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
+
+            {{ end }}
+        </select>
+      </div>
+
+      <div class="ui-group pl-2 pr-2">
+        <select class="filter-select" value-group="data-partner">
+            <option value="">Update Type</option>
+            {{ range $name, $taxonomy := .Site.Taxonomies.type }}
+            <option value =".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
+
+            {{ end }}
+        </select>
+      </div>
+
+      <div class="ui-group pl-2">
+        <select class="filter-select" value-group="data-partner">
+            <option value="">Development Partner </option>
+            {{ range $name, $taxonomy := .Site.Taxonomies.dev_partner }}
+            <option value =".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
+
+            {{ end }}
+        </select>
+      </div>
+
+
+
+
+    </div>
   </div>
-
 </div>
 
+<div class="container-fluid bg-dark pb-3 pt-3">
+  <div class="container pl-0 pr-0">
+      <div class="card-grid">
 
-<div class="card-grid">
+
     {{ range .Pages }}
     {{ if isset .Params "exclude_from_updates_list" }}
     {{ else }}
-    <!--<div class="grid-card small round red"></div>-->
-    <div class="grid-card {{ if isset .Params "partner" }}{{ lower .Params.partner }}{{ else }} none {{end}}">{{ if isset .Params "partner" }}{{ lower .Params.partner }}{{ else }} none {{end}}</div>
+    <div class="grid-card col-lg-4 col-md-6 col-sm-6 col-xs-12 
+                           {{ if .Params.partner}} {{ delimit .Params.partner " " | urlize }} {{ end }} {{ if .Params.dev_partner}} {{ delimit .Params.dev_partner " " | urlize }} {{ end }} {{ if .Params.type }} {{ .Params.type | urlize }} {{ end }}">
+
+        <div class="card border-0 rounded-0">
+
+          <div class="card-body">
+            <h3 class="card-title"> 
+                <a class="text-primary" href="{{.Permalink}}">{{ .Params.title }}</a> </h3>
+            <div class="w-100 bg-secondary h2px mb-3"></div>
+            <div class="card-text">
+              <div>
+                <p>
+                  {{ .Summary }}
+                </p>
+              </div>
+            </div>
+            <div class="card-footer bg-white border-0 mt-2">
+                <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn More</a>
+            </div>
+          </div><!-- end card body -->
+        </div> <!-- end card -->
+
+    </div> <!--end grid-card -->
+
     {{ end }}
     {{ end }}
+</div>
+</div>
 </div>
 
 
 
 
-<script type="text/javascript" src="{{ $.Site.BaseURL }}/js/isotope.pkgd.min.js">   </script>
+
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+<script src="{{ $.Site.BaseURL }}/js/fit-columns.js"></script>
+<script src="{{ $.Site.BaseURL }}/js/cells-by-row.js"></script>
+
 <script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function(event) {
     // flatten object by concatting values
@@ -72,7 +150,8 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
     var iso = new Isotope( '.card-grid', {
         itemSelector: '.grid-card',
-        layoutMode: 'fitRows'
+        layoutMode: 'fitRows',
+        percentPosition: true
     });
 
     window.iso = iso

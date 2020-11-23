@@ -1,9 +1,7 @@
 +++
 date = 2020-11-09T05:00:00Z
 draft = true
-partner = ""
 title = "Optimizing Tourism Investments: Identifying Chokepoints and Underperforming Minor Roads in Sri Lanka"
-type = ""
 url = ""
 
 +++

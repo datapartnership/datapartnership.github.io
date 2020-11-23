@@ -1,4 +1,5 @@
 +++
+data_partner = ["mapbox"]
 date = 2020-10-14T04:00:00Z
 partner = ["Mapbox"]
 title = "Mapbox Releases a New Movement Dataset for Mobility Insights "

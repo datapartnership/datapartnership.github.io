@@ -18,28 +18,11 @@ fields:
   type: tag_list
   default: []
   label: Data Partner
-- name: dev_partner
-  type: select
-  default:
-  - World Bank
-  config:
-    required: true
-    options:
-    - World Bank
-    - International Monetary Fund
-    - Inter-American Development Bank
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: development partner
 - name: post_type
   type: select
-  default:
-  - Article
+  default: Article
   config:
-    required: false
+    required: true
     options:
     - Case Study
     - Event
@@ -50,7 +33,11 @@ fields:
       section: 
       file: 
       path: 
-  label: post type
+  label: Post Type
+- name: dev_partner
+  type: tag_list
+  default: []
+  label: Dev Partner
 pages:
 - content/updates/2020-inspire-challenge-finalist-the-climacell-locust-project.md
 - content/updates/analyzing-spatial-accessibility-of-health-facilities-in-indonesia-and-philippines.md

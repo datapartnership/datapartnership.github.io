@@ -14,15 +14,16 @@ fields:
     required: false
   label: url
   description: custom url
-- name: data_partner
+- name: partner
   type: tag_list
   default: []
-  label: data partner
+  label: Data Partner
 - name: dev_partner
   type: select
-  default: ["World Bank"]
+  default:
+  - World Bank
   config:
-    required: true 
+    required: true
     options:
     - World Bank
     - International Monetary Fund
@@ -35,7 +36,8 @@ fields:
   label: development partner
 - name: post_type
   type: select
-  default: ["Article"]
+  default:
+  - Article
   config:
     required: false
     options:

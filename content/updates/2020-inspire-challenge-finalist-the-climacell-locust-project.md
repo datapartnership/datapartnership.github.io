@@ -4,7 +4,7 @@ partner = ["Climacell"]
 title = "2020 Inspire Challenge Finalist - The ClimaCell Locust Project"
 url = "2020-inspire-challenge-finalist-locust-project"
 dev_partner = ["World Bank"]
-type = "Event"
+post_type = "Event"
 
 +++
 Ag Observatory in collaboration with the World Bank Data Lab guided and facilitated Climacell's entry into the CGIAR [Big Data Inspire Challenge 2020](https://bigdata.cgiar.org/inspire/ "Big Data Challenge"). The ClimaCell Locust Project has been nominated as a finalist in the 2020 Inspire Challenge.

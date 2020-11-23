@@ -1,6 +1,6 @@
 +++
 date = 2020-10-14T04:00:00Z
-dev_partner = "World Bank"
+dev_partner = ["World Bank"]
 partner = ["mapbox"]
 post_type = "Article"
 title = "Mapbox Releases a New Movement Dataset for Mobility Insights "

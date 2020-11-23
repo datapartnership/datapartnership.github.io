@@ -4,7 +4,7 @@ partner = ["facebook", "mapbox"]
 title = "Analyzing Spatial Accessibility of Health Facilities in Indonesia and Philippines "
 url = "planning-for-equitable-access-to-health-infrastructure"
 dev_partner = ["World Bank"]
-type = "Case Study"
+post_type = "Case Study"
 
 +++
 **Challenge**: Indonesia and the Philippines are archipelagos, where geographic and administrative boundaries are similar. The collection of islands is home to different concentrations of ethnic, cultural, linguistic, and socioeconomic groups, with an imbalanced distribution of health facilities and physicians.

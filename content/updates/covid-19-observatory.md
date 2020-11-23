@@ -4,6 +4,7 @@ partner = ["Premise"]
 title = "Socioeconomic Impact of COVID-19 in Indonesia"
 url = "covid-observatory-indonesia"
 dev_partner = ["World Bank"]
+post_type = "Article"
 
 +++
 **Challenge:** Although there is a widespread awareness of the pandemic, there is a lack of understanding from citizens’ perspective, especially behaviors it triggers, sentiments towards government as well as rising concerns. Premise survey data along with data from other big data sources such as social media, online news, and other crowdsourcing platforms are analyzed to understand economic and health concerns, and food security. This is a project under the COVID-19 Observatory in partnership with the Poverty GP.

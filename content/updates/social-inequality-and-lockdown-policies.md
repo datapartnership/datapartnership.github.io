@@ -2,7 +2,8 @@
 date = 2020-07-28T13:12:14Z
 partner = ["Cuebiq"]
 title = "Assessing Social Inequality and Lockdown Policies using Mobile Location Data in Indonesia"
-type = ["Case Study"]
+post_type = "Case Study"
+dev_partner = ["World Bank"]
 
 +++
 **Challenge:** Lockdown policies such as stay-at-home orders and non-essential business closures are central to fighting the novel coronavirus. However, policy makers are having a hard time answering key questions about their efficacy. For example, have impacts differed over time and across district boundaries? And crucially, are vulnerable groups less able than others to comply with social distancing regulations?

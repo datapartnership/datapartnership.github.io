@@ -1,8 +1,8 @@
 +++
 date = 2019-11-29T21:12:14Z
 title = "Estimating Access to Employment Opportunities in Dhaka, Bangladesh"
-type = ["Case Study"]
-partner = ["Mapbox"]
+post_type = "Case Study"
+partner = ["mapbox"]
 dev_partner = ["World Bank"]
 
 +++

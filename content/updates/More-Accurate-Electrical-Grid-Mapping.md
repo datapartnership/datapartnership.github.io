@@ -1,8 +1,9 @@
 +++
 date = 2019-11-29T21:12:14Z
 title = "A New Predictive Model for More Accurate Electrical Grid Mapping"
-type = ["Case Study"]
+post_type = "Case Study"
 partner = ["Facebook"]
+dev_partner = ["World Bank"]
 +++
 
 **Challenge:** When planning connectivity deployments in emerging markets, it is important to have a clear picture of where existing power lines are placed. This information helps us make better decisions about where to focus our efforts, how we design the network, and how we source the equipment we’ll need. However, this information in developing countries is often outdated, inaccurate, or too low resolution to be useful.

@@ -1,8 +1,8 @@
 +++
 date = 2020-06-24T13:12:14Z
-partner = ["ClimaCell"]
+partner = ["Climaell"]
 title = "Leveraging New Data Methods to Address an Ancient Challenge: Locusts"
-type = ["Case Study"]
+post_type = "Case Study"
 dev_partner = ["World Bank"]
 
 +++

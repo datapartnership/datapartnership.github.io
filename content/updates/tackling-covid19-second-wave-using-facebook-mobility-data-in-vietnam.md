@@ -2,7 +2,7 @@
 date = 2020-09-09T04:00:00Z
 partner = ["Facebook"]
 title = "Tackling COVID-19 Second Wave using Facebook Mobility Data in Vietnam"
-type = ["Case Study"]
+post_type = "Case Study"
 dev_partner = ["World Bank"]
 
 +++

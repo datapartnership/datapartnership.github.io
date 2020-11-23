@@ -2,7 +2,7 @@
 date = 2020-03-19T20:12:14Z
 partner = ["facebook", "mapbox"]
 title = "Addressing COVID-19 through Public-Private Data Partnerships -- Where Do We Put New Testing Facilities?"
-type = "Case Study"
+post_type = "Case Study"
 dev_partner = ["World Bank"]
 
 +++

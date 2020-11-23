@@ -4,6 +4,7 @@ partner = ["Google Trends"]
 title = "Economic Anxiety and COVID-19 in Southeast Asia"
 url = "economic-anxiety-covid19-se-asia"
 dev_partner = ["World Bank"]
+post_type = "Case Study"
 
 +++
 **Challenge**: The COVID-19 pandemic has affected the global economy through lockdowns, disrupted supply chains and uncertain economic outlooks. Swift reaction by policy makers are required to prevent a deep recession. However, macroeconomic indicators such as GDP, industrial output or price indices are slow, lagged and highly aggregated. The World Bank FCV team analyzed how COVID-19 cases fuel the economic anxiety in ASEAN countries using granular Google search trends data.

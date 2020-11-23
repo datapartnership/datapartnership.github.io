@@ -1,7 +1,7 @@
 +++
 date = 2019-08-01T20:12:14Z
 title = "Improving Road Safety in Nairobi"
-type = ["Case Study"]
+post_type = "Case Study"
 partner = ["Waze"]
 dev_partner = ["World Bank"]
 +++

@@ -2,7 +2,7 @@
 date = 2020-07-13T00:00:00Z
 title = "Introducing the Data Partnership Hub"
 post_type = "Article"
-dev_partner = ["World Bank", "Inter-American Development Bank", "International Monetary Fund"]
+dev_partner = ["World Bank", "Inter American Development Bank", "International Monetary Fund"]
 +++
 
 After launching in 2019, when the [Inter-American Development Bank](https://www.iadb.org) and the [International Monetary Fund](https://www.imf.org) joined the initiave, the *Development Data Partnership* has scaled up fast, with more than 100 projects having been brought to life supported by partnerships with more than 20 companies.

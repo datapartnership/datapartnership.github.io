@@ -34,5 +34,5 @@ twitter-card = "dp-twitter-card.jpg"
 updates-title = "PROJECTS & NEWS"
 [taxonomies]
   partner = "partner"
-  type = "type"
+  post_type = "post_type"
   dev_partner = "dev_partner"

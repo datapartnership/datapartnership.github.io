@@ -47,6 +47,10 @@
     right: 0px !important;
 }
 
+.card-grid-container {
+    min-height: 63vh;
+}
+
 
 </style>
 
@@ -54,7 +58,7 @@
   <div class="container pb-3 pt-3">
     <div class="filters">
 
-      <div class="ui-group pr-2">
+      <div class="ui-group col-lg-4">
         <select class="filter-select" value-group="data-partner">
             <option value="">Data Partner</option>
             {{ range $name, $taxonomy := .Site.Taxonomies.partner }}
@@ -64,17 +68,17 @@
         </select>
       </div>
 
-      <div class="ui-group pl-2 pr-2">
+      <div class="ui-group col-lg-4">
         <select class="filter-select" value-group="data-partner">
-            <option value="">Update Type</option>
-            {{ range $name, $taxonomy := .Site.Taxonomies.type }}
+            <option value="">Post Type</option>
+            {{ range $name, $taxonomy := .Site.Taxonomies.post_type }}
             <option value =".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
 
             {{ end }}
         </select>
       </div>
 
-      <div class="ui-group pl-2">
+      <div class="ui-group col-lg-4">
         <select class="filter-select" value-group="data-partner">
             <option value="">Development Partner </option>
             {{ range $name, $taxonomy := .Site.Taxonomies.dev_partner }}
@@ -91,7 +95,7 @@
   </div>
 </div>
 
-<div class="container-fluid bg-dark pb-3 pt-3">
+<div class="container-fluid bg-light pb-3 pt-3 card-grid-container">
   <div class="container pl-0 pr-0">
       <div class="card-grid">
 
@@ -100,7 +104,7 @@
     {{ if isset .Params "exclude_from_updates_list" }}
     {{ else }}
     <div class="grid-card col-lg-4 col-md-6 col-sm-6 col-xs-12 
-                           {{ if .Params.partner}} {{ delimit .Params.partner " " | urlize }} {{ end }} {{ if .Params.dev_partner}} {{ delimit .Params.dev_partner " " | urlize }} {{ end }} {{ if .Params.type }} {{ .Params.type | urlize }} {{ end }}">
+                           {{ if .Params.partner}} {{ delimit .Params.partner "+" | replaceRE " " "-" | replaceRE "\\+" " " | lower }} {{ end }} {{ if .Params.dev_partner}}  {{ delimit .Params.dev_partner "+" | replaceRE " " "-" | replaceRE "\\+" " " | lower }}  {{ end }} {{ if .Params.post_type }} {{ .Params.post_type | urlize }} {{ end }}">
 
         <div class="card border-0 rounded-0">
 

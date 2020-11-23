@@ -1,6 +1,6 @@
 +++
-title: Why Data Partnership?
-date: 2019-09-02T04:00:00+00:00
+title = "Why Data Partnership?"
+date = 2019-09-02T04:00:00+00:00
 dev_partner = ["World Bank"]
 post_type = "Article"
 +++

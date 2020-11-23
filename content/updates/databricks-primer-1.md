@@ -1,9 +1,9 @@
 +++
 date = 2020-11-03T00:00:00.000+00:00
-title = A Light Primer to Spark / Databricks
+title = "A Light Primer to Spark / Databricks"
 dev_partner = ["World Bank"]
 post_type =  "Tutorial"
-url = light-primer-to-spark-databricks-1
+url = "light-primer-to-spark-databricks-1"
 +++
 
 [Databricks](https://databricks.com/) is a powerful platform for using Spark, a powerful data technology.

@@ -1,8 +1,8 @@
 +++
-title = Data Partner Lightning Talks
+title = "Data Partner Lightning Talks"
 date = 2019-02-13T21:12:14.000+00:00
 post_type = "Event"
-dev_partner: ["World Bank"]
+dev_partner = ["World Bank"]
 
 +++
 

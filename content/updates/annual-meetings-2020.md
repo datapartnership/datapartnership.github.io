@@ -1,9 +1,9 @@
 +++
-date: 2020-10-13T00:00:00Z
-title: "Data Partnership: Bridging the Data Gap for Public Good"
-post_type: "Event"
-url: "annualmeetings2020"
-dev_partner: ["World Bank"]
+date =  2020-10-13T00:00:00Z
+title = "Data Partnership: Bridging the Data Gap for Public Good"
+post_type = "Event"
+url = "annualmeetings2020"
+dev_partner = ["World Bank"]
 +++
 
 <iframe src='//players.brightcove.net/45228659001/ryS2wqJM_default/index.html?videoId=6200517003001' width="100%"  height="400px" allowfullscreen frameborder=0>

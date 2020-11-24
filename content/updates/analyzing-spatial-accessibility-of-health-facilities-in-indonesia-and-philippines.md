@@ -1,6 +1,6 @@
 +++
 date = 2020-10-22T04:00:00Z
-partner = ["facebook", "mapbox"]
+partner = ["Facebook", "Mapbox"]
 title = "Analyzing Spatial Accessibility of Health Facilities in Indonesia and Philippines "
 url = "planning-for-equitable-access-to-health-infrastructure"
 dev_partner = ["World Bank"]

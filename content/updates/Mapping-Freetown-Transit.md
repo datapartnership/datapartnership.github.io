@@ -2,7 +2,7 @@
 date = 2019-07-01T20:12:14Z
 title = "Mapping Freetown Transit for Resiliency"
 type = "Case Study"
-partner = ["Where Is My Transport"]
+partner = ["WhereIsMyTransport"]
 dev_partner = ["World Bank"]
 +++
 

@@ -1,6 +1,6 @@
 +++
 date = 2020-10-28T04:00:00Z
-partner = ["Google Trends"]
+partner = ["Google"]
 title = "Economic Anxiety and COVID-19 in Southeast Asia"
 url = "economic-anxiety-covid19-se-asia"
 dev_partner = ["World Bank"]

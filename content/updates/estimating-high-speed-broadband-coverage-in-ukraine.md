@@ -1,9 +1,10 @@
 +++
 date = 2020-11-02T05:00:00Z
-partner = "Ookla"
+partner = ["Ookla"]
 title = "Estimating High-speed Broadband Coverage in Ukraine"
-type = ""
 url = "broadband-coverage-in-ukraine"
+dev_partner = ["World Bank"]
+post_type = "Case Study"
 
 +++
 **Challenge:** Ukraine, Europe’s biggest country, has over 1,192 operators and providers, of which close to three quarters operate under a special preferential tax regime, allowing them not to report their coverage/subscription data to the national telecom regulatory authority. As a result, the current coverage data, especially of fixed broadband, are deemed highly inaccurate. As the government needs to set high-speed broadband coverage goals and estimate financing needs for a public investment program, it is important to validate existing data and evaluate broadband coverage.

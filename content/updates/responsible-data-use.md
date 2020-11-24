@@ -1,8 +1,8 @@
 +++
 date = 2019-07-01T21:52:59Z
 title = "On Responsible Data Use"
-type = "Article"
-
+post_type = "Article"
+dev_partner = ["World Bank"]
 +++
 ![USAID Splash](/uploads/USAID_Splash.png "USAID Splash")
 

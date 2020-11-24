@@ -1,10 +1,11 @@
 +++
 date = 2020-11-09T05:00:00Z
 draft = true
-partner = ""
 title = "Optimizing Tourism Investments: Identifying Chokepoints and Underperforming Minor Roads in Sri Lanka"
-type = ""
 url = ""
+post_type = "Article"
+partner = ["Cuebiq"]
+dev_partner = ["World Bank"]
 
 +++
 **Challenge**: Historically, traffic data for use in road improvement planning has relied on either labor intensive or fixed sensors. While the counts can be accurate, the data themselves are limited to a single stretch of a single road and require many sensors to develop a complete picture of the road network. In a break from this labor and sensor-intensive approach, a collection of novel methods is used to combine the actual traffic speeds of vehicles with the nominal speed of a given road class. The objective of the Sri Lanka tourism pilot is to identify road segments for traffic targeting that are critical to accessing tourism hotspots throughout the country.

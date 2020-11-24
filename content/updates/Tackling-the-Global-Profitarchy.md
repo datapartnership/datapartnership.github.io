@@ -1,8 +1,9 @@
 +++
 date = 2019-11-29T21:12:14Z
 title = "Tackling the Global Profitarchy–Gender and the Choice of Business Sector"
-type = "Case Study"
-partner = "Facebook"
+post_type = ["Case Study"]
+partner = ["Facebook"]
+dev_partner = ["World Bank"]
 +++
 
 **Challenge:** Despite significant progress in women’s educational attainment and higher female labor force participation rates in many countries, progress in closing the gender pay gap, which takes the ratio of median earnings of all women to all men, has been slow. While there are a multitude of factors at play when it comes to the gender earnings gap in entrepreneurship, sectoral segregation has been identified as an important determinant.  Women tend to sort into different sectors than men, and the traditionally female sectors are characterized by lower returns.

@@ -1,8 +1,9 @@
 +++
 date = 2020-06-24T13:12:14Z
-partner = "ClimaCell"
+partner = ["Climacell"]
 title = "Leveraging New Data Methods to Address an Ancient Challenge: Locusts"
-type = "Case Study"
+post_type = "Case Study"
+dev_partner = ["World Bank"]
 
 +++
 **Challenge:** The worst locust upsurge in at least 25 years is hitting parts of Africa, the Arabian Peninsula and Western Asia, and over 40 million people who are already food insecure find their food supply and livelihoods threatened.

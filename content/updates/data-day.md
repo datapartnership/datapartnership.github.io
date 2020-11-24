@@ -1,9 +1,11 @@
----
-title: Data Partner Lightning Talks
-date: 2019-02-13T21:12:14.000+00:00
-type: Event
++++
+title = "Data Partner Lightning Talks"
+date = 2019-02-13T21:12:14.000+00:00
+post_type = "Event"
+dev_partner = ["World Bank"]
 
----
++++
+
 On February 13, 2019, the Data Partnership (formerly Data Collaboratives), for the first time, brought together Partners and staff. More than 200 colleagues joined the standing-room-only event, in person and online, learning about how private data partnerships can be made to work for public good.
 
 Featured Data Partners:

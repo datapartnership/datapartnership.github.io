@@ -1,8 +1,9 @@
 +++
 date = 2020-09-09T04:00:00Z
-partner = "Facebook "
+partner = ["Facebook"]
 title = "Tackling COVID-19 Second Wave using Facebook Mobility Data in Vietnam"
-type = "Case Study"
+post_type = "Case Study"
+dev_partner = ["World Bank"]
 
 +++
 **Challenge:** On July 24, after 99 days of zero community-transmitted COVID-19 infections, a 57 year-old man tested positive in Danang, a major city in central Vietnam with close to 1.5 million inhabitants. Within three weeks, almost 600 people were infected, over 25 deaths recorded. Vietnamese authorities implemented a strict but localized lockdown in Danang.

@@ -1,10 +1,11 @@
----
-date: 2020-11-03T00:00:00.000+00:00
-title: A Light Primer to Spark / Databricks
-type: ''
-url: light-primer-to-spark-databricks-1
++++
+date = 2020-11-03T00:00:00.000+00:00
+title = "A Light Primer to Spark / Databricks"
+dev_partner = ["World Bank"]
+post_type =  "Tutorial"
+url = "light-primer-to-spark-databricks-1"
++++
 
----
 [Databricks](https://databricks.com/) is a powerful platform for using Spark, a powerful data technology.
 
 If you're reading this, you're likely a Python or R developer who begins their Spark journey to process large datasets.

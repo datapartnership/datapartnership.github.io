@@ -1,6 +1,6 @@
 +++
 date = 2020-07-13T00:00:00Z
-title = "Introducing the Data Partnership Hub"
+title = "Introducing the Data Partnership on GitHub"
 post_type = "Article"
 dev_partner = ["World Bank", "Inter American Development Bank", "International Monetary Fund"]
 +++
@@ -13,15 +13,13 @@ The key to expanding the success is to continue building up from the Partnership
 
 As more data partners and contributors join the initiative and more methodologies, results and derivative works are created, feeding them back to the community - with the curation of the *Partnership* – shall create a virtuous circle where common challenges, resources and expertise are shared and improved upon.
 
-To achieve the goal and to give the community a home, we are introducing the **Development Data Partnership Hub**!
+To achieve the goal and to give the community a home, we are introducing the **Development Data Partnership on GitHub**!
 
 <img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-site.png" style="width:100%;"/><br>
 
-The **Partnership Hub** is the center of activity on GitHub where specialists, researchers, data scientists and contributors can find code examples as well as open issues, start discussions and learn from colleagues by example.
+On **GitHub**, the *Partnership* welcomes specialists, researchers, data scientists and contributors to collaborate, find code examples as well as open issues, start discussions and learn from colleagues by example.
 
 Another component is our content curation. As more and more projects join the community, you will find more examples and applications of third-party data’s potential for international development.
-
-It lives on GitHub and on the [documentation](http://docs.datapartnership.org).
 
 ## Documentation
 
@@ -29,11 +27,11 @@ Each *data partner* has a dedicated page on the documentation.
 
 <img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-partner.png" style="width:100%;"/><br>
 
-Through the Data Partnership, you have access to a trove of data documentation, code snippets, collaboration tools and compute resources, all designed to help you get started on your project more quickly and effectively.
+Through the *Partnership*, you have access to a trove of data documentation, code snippets, collaboration tools and compute resources, all designed to help you get started on your project more quickly and effectively.
 
- We are not reinventing the wheel; inspired by the literate programming paradigm, the documentation offers a centralized place for references and examples as well as details about the datasets, such as how to access the data (**Getting Access**), **Summary** and **Examples**.
+ We are not reinventing the wheel; inspired by the literate programming paradigm, the documentation offers a centralized place for references and examples as well as details about the datasets, such as how to access the data (**Getting Access**), terms and conditions of the master data license, **Summary** and **Examples**.
 
-In fact, that page has a double life and is a Jupyter notebook! We are bringing the power of Jupyter Book to create a beautiful rendition of notebooks, presenting them like reading a book and improving discoverability and dissemination of knowledge.
+In addition, we are bringing the power of Jupyter Book to create a beautiful rendition of notebooks, presenting them like reading a book and improving discoverability and dissemination of knowledge.
 
 ### Projects
 
@@ -41,7 +39,7 @@ In fact, that page has a double life and is a Jupyter notebook! We are bringing 
 
 ### Getting Access
 
-After submitting your proposal to [Data Partnership](https://datapartnership.org/) and having it approved by the data partner, the section gives you details of how you should expect to get access to the data.
+After submitting your proposal to [Partnership](https://datapartnership.org/) and having it approved by the data partner, the section gives you details of how you should expect to get access to the data.
 
 Even before your project take shape, the section helps estimate what kind what resources will be required from your team.
 
@@ -67,7 +65,7 @@ As the name suggests, this section is where you can find tips and guides on how 
 
 ## Collaboration
 
-The Data Partnership is not only about licensing and data, but it is about sharing code, knowledge and building a community. That is why we take advantage of everything GitHub has to offer.
+The *Partnership* is not only about licensing and data, but it is about sharing code, knowledge and building a community. That is why we take advantage of everything GitHub has to offer.
 
 You are more than welcome to share your own contributions. Certainly your team’s efforts will be much appreciated and recognized by your peers and the public.
 

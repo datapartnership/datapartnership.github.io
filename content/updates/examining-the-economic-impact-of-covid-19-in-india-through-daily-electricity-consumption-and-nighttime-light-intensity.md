@@ -24,4 +24,4 @@ _Authors:_
 * Tarun Jain, _Associate Professor, Indian Institute of Management Ahmedabad_
 * Sonalika Sinha, _Manager, Reserve Bank of India (RBI)_
 
-Read more
+[Read more](http://documents1.worldbank.org/curated/en/604661606761245743/pdf/Lights-Out-COVID-19-Containment-Policies-and-Economic-Activity.pdf "lights-out-covid-containment")

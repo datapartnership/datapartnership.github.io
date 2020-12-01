@@ -1,7 +1,6 @@
 +++
 date = 2020-11-09T05:00:00Z
 dev_partner = ["World Bank"]
-draft = true
 partner = ["Mapbox"]
 post_type = "Article"
 title = "Optimizing Tourism Investments: Identifying Chokepoints and Underperforming Minor Roads in Sri Lanka"

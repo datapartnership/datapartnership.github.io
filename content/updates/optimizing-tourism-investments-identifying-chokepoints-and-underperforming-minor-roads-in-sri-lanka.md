@@ -14,6 +14,8 @@ url = ""
 
 ![](/sri-lanka.png)
 
+_Fig 1: Map of the road segments improved by 20 seconds or more in Sri Lanka, by city origin._
+
 Analysis indicates that there could be efficiencies gained by limited improvement to intersections, pedestrian, crossing zones or bus loading/unloading areas, which may, likewise, be impacting through traffic. On the basis of this model’s results and imagery analysis of the areas highlighted by the model, the team recommended that the Tourism project use the funds available at the tourism sites themselves and focus far less on the roads getting to them.
 
 **Impact**: Modeling travel and traffic is an important way to quantify road connectivity issues and target investment, particularly when data are otherwise limited. This new approach represents an efficient and open-source methodology to model travel and potential traffic investment at the country level, while retaining the possibility of uncovering hitherto unidentified challenges. The model was also intentionally developed with sustainability and flexibility in mind, such that it can be re-used with improved data over time, and adapted to a variety of different contexts.

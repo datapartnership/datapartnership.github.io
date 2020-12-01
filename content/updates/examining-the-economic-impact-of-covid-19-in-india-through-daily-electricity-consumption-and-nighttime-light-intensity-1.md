@@ -18,3 +18,5 @@ _Authors:_
 * Robert C. M. Beyer, _Senior Economist, World Bank_
 * Sebastian Franco Bedoya, _Research Analyst, World Bank_
 * Virgilio Galdo, _Research Analyst, World Bank_
+
+[Read more](https://www.sciencedirect.com/science/article/pii/S0305750X20304149?dgcid=author "lights-out-covid-containment")

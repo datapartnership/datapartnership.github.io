@@ -16,5 +16,5 @@ url = "economic-impact-COVID-19-in-india-through-daily-electricity-consumption-a
 _Authors:_
 
 * Robert C. M. Beyer, _Senior Economist, World Bank_
-* Tarun Jain, _Associate Professor, Indian Institute of Management Ahmedabad_
-* Sonalika Sinha, _Manager, Reserve Bank of India (RBI)_
+* Sebastian Franco Bedoya, _Research Analyst, World Bank_
+* Virgilio Galdo, _Research Analyst, World Bank_

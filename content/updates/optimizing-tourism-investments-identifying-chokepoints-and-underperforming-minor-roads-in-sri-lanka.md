@@ -1,5 +1,5 @@
 +++
-date = 2020-12-01T06:00:00Z
+date = 2020-11-30T06:00:00Z
 dev_partner = ["World Bank"]
 partner = ["Mapbox"]
 post_type = "Case Study"

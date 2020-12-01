@@ -2,7 +2,7 @@
 date = 2020-12-01T06:00:00Z
 dev_partner = ["World Bank"]
 partner = ["Mapbox"]
-post_type = "Article"
+post_type = "Case Study"
 title = "Optimizing Tourism Investments: Identifying Chokepoints and Underperforming Minor Roads in Sri Lanka"
 url = ""
 

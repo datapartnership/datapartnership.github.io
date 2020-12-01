@@ -5,7 +5,7 @@ draft = true
 partner = ["Facebook"]
 post_type = "Case Study"
 title = "Examining the Economic Impact of India’s Zone Classification to contain COVID-19"
-url = "economic-impact-of-covid19-india"
+url = "india-zone-classification-impact-of-covid19"
 
 +++
 **Challenge:** The COVID-19 pandemic has disrupted economic activity in India. When COVID-19 started to spread in India through domestic contagion, the Indian authorities enacted a series of measures to combat the pandemic, including a strict national lockdown from March 25 to May 4. Subsequently, the authorities classified all districts into three zones with varying containment measures. This study estimates the impact of this differential relaxation of containment measures (zone classification) on aggregate economic activity in India.

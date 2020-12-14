@@ -19,6 +19,6 @@ COVID-19 and the related lockdown measures to prevent the virus’ spread have h
 * **Effect of the lockdown on internet speed was modest and temporary** – Findings from the sample of 18 African countries indicates a negative effect of the lockdown on mobile (-17%) and fixed internet speed (-5%), particularly in the first week of lockdown. Some countries also experienced a decline before the “stay at home” orders, suggesting that some activities shifted to remote connectivity before the official lockdown mandates. However, networks across the continent reacted well.
 * **Public and private sector partnerships and cooperation was and remains critical for ensuring network resilience** – The findings of this study demonstrate the resiliency of digital infrastructure in Africa and also highlight and reflect the benefits of partnership between public and private stakeholders to manage traffic surges. The development community should encourage and leverage these partnerships to achieve the ambitious objective of universal access to the internet.
 
-_Author:_ Niccolo Comini, Consultant, World Bank
+_Author:_ [Niccolo Comini](https://blogs.worldbank.org/team/niccolo-comini "Niccolo-profile"), Consultant, World Bank
 
 [Read more](http://pubdocs.worldbank.org/en/275791607471359158/Analytical-Insights-Series-Dec-2020.pdf "digital-dev-africa")

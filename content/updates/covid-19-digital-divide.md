@@ -1,7 +1,6 @@
 +++
 date = 2020-12-14T05:00:00Z
 dev_partner = []
-draft = true
 partner = ["Ookla"]
 post_type = "Article"
 title = "The Effect of COVID-19 Lockdown Measures on Internet Speed"

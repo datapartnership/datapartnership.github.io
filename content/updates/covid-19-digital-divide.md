@@ -1,14 +1,16 @@
 +++
-date = ""
+date = 2020-12-14T05:00:00Z
 dev_partner = []
 draft = true
-partner = []
+partner = ["Ookla"]
 post_type = "Article"
-title = "COVID-19- Digital Divide"
-url = ""
+title = "The Effect of COVID-19 Lockdown Measures on Internet Speed"
+url = "covid19-lockdown-measures-internet-speed-africa"
 
 +++
 COVID-19 and the related lockdown measures to prevent the virus’ spread have highlighted how important it is for everyone to have access to reliable and resilient digital infrastructure. Restrictions on movement have generated higher Internet usage and increased traffic on networks, reflecting an increase in remote working and learning, as well as other activities that have shifted online. This article provides insight into the effect of COVID-19-related lockdown measures on internet speed in a sample of developing countries in Africa. The findings of this study demonstrate the resiliency of digital infrastructure in Africa and also highlight and reflect the benefits of partnership between public and private stakeholders to manage traffic surges. The development community should encourage and leverage these partnerships to not only ensure continued network resilience during times of crisis, but also to minimize the digital divide between countries and within countries as the new global digital transformation takes shape.
+
+![](/madagascar-digital-divide.jpg)
 
 **Key Findings**
 
@@ -19,3 +21,5 @@ COVID-19 and the related lockdown measures to prevent the virus’ spread have h
 * **Public and private sector partnerships and cooperation was and remains critical for ensuring network resilience** – The findings of this study demonstrate the resiliency of digital infrastructure in Africa and also highlight and reflect the benefits of partnership between public and private stakeholders to manage traffic surges. The development community should encourage and leverage these partnerships to achieve the ambitious objective of universal access to the internet.
 
 _Author:_ Niccolo Comini, Consultant, World Bank
+
+[Read more](http://pubdocs.worldbank.org/en/275791607471359158/Analytical-Insights-Series-Dec-2020.pdf "digital-dev-africa")

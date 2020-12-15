@@ -1,27 +1,24 @@
 +++
 date = 2020-11-09T05:00:00Z
-draft = true
-partner = ["Facebook"]
-title = "Examining the Economic Impact of COVID-19 in India "
-url = "economic-impact-of-covid19-india"
 dev_partner = ["World Bank"]
-post_type = "Article"
+partner = ["Facebook"]
+post_type = "Case Study"
+title = "Examining the Economic Impact of India’s Zone Classification to contain COVID-19"
+url = "india-zone-classification-impact-of-covid19"
 
 +++
-**Challenge:** The COVID-19 pandemic has disrupted economic activity in India. Until mid-March 2020, the economy was mainly hit by disruptions in cross-border connections. When COVID-19 started to spread in India through domestic contagion, the Indian authorities enacted a series of measures to combat the pandemic, including a strict national lockdown from March 25 to May 4 that strongly disrupted economic activity across the country. This study estimates the impact of a differential relaxation of COVID-19 containment policies on aggregate economic activity in India.
+**Challenge:** The COVID-19 pandemic has disrupted economic activity in India. When COVID-19 started to spread in India through domestic contagion, the Indian authorities enacted a series of measures to combat the pandemic, including a strict national lockdown from March 25 to May 4. Subsequently, the authorities classified all districts into three zones with varying containment measures. This study estimates the impact of this differential relaxation of containment measures (zone classification) on aggregate economic activity in India.
 
-![](/india-economic-impact.png)
+![](/india-bird-eye-view.jpg)
 
-_Figure 1: Spatial impact of COVID-19 pandemic across Indian districts_
+**Solution**: Pandemic-era district level data are used from a range of novel sources – monthly nighttime lights from global satellites, mobility data from individual smartphone locations from Facebook, COVID-19 infections and high frequency household-level survey data on income and consumption. Using a difference-indifferences approach, the speed of recovery in the three zones after the uniform national lockdown is compared.
 
-**Solution**: To conduct this analysis, pandemic-era district level data are used from a range of novel sources – monthly nighttime lights from global satellites, mobility data from individual smartphone locations from Facebook, and high frequency household-level survey data on income and consumption.
-
-Nighttime light intensity in India dimmed during the strict national lockdown in March and April and recovered in May and subsequent months (see Figure 1). Facebook mobility data from cellphone locations indicates that restricted mobility is a plausible channel causing lower household income and consumption, which in turn explains the aggregate impact.
-
-**Impact**: The impact of the COVID-19 pandemic has spread across districts in India, but some districts are affected more than others. Stricter containment measures had larger impacts in more developed districts characterized by a greater population density with older residents, as well as more services employment and bank credit.
+**Impact**: Nighttime light intensity in May was 12.4% lower for districts with the most severe restrictions and 1.7% lower for districts with intermediate restrictions, as compared to districts with the least restrictions. Facebook mobility data from cellphone locations indicates that restricted mobility is a plausible channel causing lower household income and consumption, which in turn explains the aggregate impact. Some districts are affected more affected by the restrictions than others. Stricter containment measures had larger impacts in more developed districts characterized by a greater population density with older residents, as well as more services employment and bank credit.
 
 _Authors:_
 
 * Robert C. M. Beyer, _Senior Economist, World Bank_
 * Tarun Jain, _Associate Professor, Indian Institute of Management Ahmedabad_
 * Sonalika Sinha, _Manager, Reserve Bank of India (RBI)_
+
+[Read more](http://documents1.worldbank.org/curated/en/604661606761245743/pdf/Lights-Out-COVID-19-Containment-Policies-and-Economic-Activity.pdf "lights-out-covid-containment")

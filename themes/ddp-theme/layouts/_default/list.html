@@ -110,7 +110,10 @@
 
           <div class="card-body">
             <h3 class="card-title"> 
-                <a class="text-primary" href="{{.Permalink}}">{{ .Params.title }}</a> </h3>
+                <a class="text-primary" href="{{.Permalink}}">
+                    {{ if .Params.partner}} {{ delimit .Params.partner ", " }}: {{ end }}{{ .Params.title }}
+
+                </a></h3>
             <div class="w-100 bg-secondary h2px mb-3"></div>
             <div class="card-text">
               <div>

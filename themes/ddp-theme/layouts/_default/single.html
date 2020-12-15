@@ -8,13 +8,9 @@
     <div class="container mt-5 mb-5">
       <div class="row">
         <div class="col-md-8 col-xs-12 single-content blog-content">
-          <h1 class=""> {{ .Params.title }}</h1>
-          <h4><span class="font-weight-bold">Data Partner(s): </span> 
-              {{ if .Params.partner}} 
-                {{ delimit .Params.partner ", " | title }} 
-              {{ end }} 
-
-          </h4>
+          <h1 class="">
+              {{ if .Params.partner }}{{ delimit .Params.partner ", "}}{{ end }}: {{ .Params.title }}
+          </h1>
           <hr>
           {{ .Content | safeHTML }}
         </div>

@@ -16,7 +16,7 @@ url = "mapping-entrepreneurs-response-to-COVID-19-in-Latin-America-and-the-Carib
 
 **Impact**: The Map aggregates more than 500 business initiatives across Latin America the Caribbean. More than 16 categories were described, cataloging each of the initiatives by themes such as Artificial Intelligence, Behavioral Change, Remote Education, Telemedicine, and many others. The result was an immersive and knowledgeable platform to promote solutions that address the challenges of the Coronavirus pandemic, as well as stimulate more collaboration between business and society in the region.
 
-Read more about it on IDB Open Knowledge Blog [here](https://blogs.iadb.org/conocimiento-abierto/en/open-data-entrepreneurs-responding-covid-19-lac/).
+Read more about it on the [IDB Open Knowledge Blog](https://blogs.iadb.org/conocimiento-abierto/en/open-data-entrepreneurs-responding-covid-19-lac/).
 
 *Authors*
 - Julien Collaer, *Data Scientist, IDB Lab*

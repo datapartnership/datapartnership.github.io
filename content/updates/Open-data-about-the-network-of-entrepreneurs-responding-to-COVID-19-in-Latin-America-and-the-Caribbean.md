@@ -10,7 +10,7 @@ url = "mapping-entrepreneurs-response-to-COVID-19-in-Latin-America-and-the-Carib
 
 **Challenge**: The social and economic disruption caused by Covid-19 led to numerous challenges to conduct businesses, provide essential services, and attend to the most basic well-being needs around the globe. This complex scenario brought by the pandemic fostered entrepreneurs in Latin America and the Caribbean to provide solutions for education, mental health, logistics, management and many other sectors. However, most of the entrepreneurs’ efforts were decentralized and sometimes disconnected from other initiatives that could attend to diverse necessities from citizens.  In response to this problem, IDB Lab members organized and mapped all these businesses' attempts to stimulate collaboration in the region.
 
-![COVID-19 Latin American and Caribbean Innovators Map](content/updates/images/Innovation_Map_pict1.png")
+![COVID-19 Latin American and Caribbean Innovators Map](/content/updates/images/Innovation_Map_pict1.png")
 
 **Solution**: IDB Lab valued these tremendous efforts from small businesses and entrepreneurs and created [The Map of LAC Innovators COVID-19](https://bidlab.org/es/map-LAC-innovators-Covid-19), which allows people to explore an interactive map of an open, united, and consolidated database of the diverse startup efforts in the region. The map leverages ESRI ArcGIS online platform (provided by the Data Partnership) to quickly and easily publish the data in a geographic map highlighting the efforts. The authors of the projects also provided access to download the data [here](https://github.com/datapartnership/IDB-Lab-Map-LAC-Innovators-Coronavirus).
 

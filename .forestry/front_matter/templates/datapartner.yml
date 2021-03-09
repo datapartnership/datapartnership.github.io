@@ -5,15 +5,9 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
 - type: file
   name: logo
   label: logo
-- type: number
-  name: weight
-  label: weight
 pages:
 - content/partners/carto.md
 - content/partners/climacell.md

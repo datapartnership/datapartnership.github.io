@@ -2,7 +2,7 @@
 date = 2020-07-13T00:00:00Z
 title = "Introducing the Data Partnership on GitHub"
 post_type = "Article"
-dev_partner = ["World Bank", "Inter American Development Bank", "International Monetary Fund"]
+dev_partner = ["World Bank", "Inter-American Development Bank", "International Monetary Fund"]
 +++
 
 After launching in 2019, when the [Inter-American Development Bank](https://www.iadb.org) and the [International Monetary Fund](https://www.imf.org) joined the initiave, the *Development Data Partnership* has scaled up fast, with more than 100 projects having been brought to life supported by partnerships with more than 20 companies.
@@ -15,7 +15,7 @@ As more data partners and contributors join the initiative and more methodologie
 
 To achieve the goal and to give the community a home, we are introducing the **Development Data Partnership on GitHub**!
 
-<img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-site.png" style="width:100%;"/><br>
+<img src="/data-partnership-knowledge-base-site.png" style="width:100%;"/><br>
 
 On **GitHub**, the *Partnership* welcomes specialists, researchers, data scientists and contributors to collaborate, find code examples as well as open issues, start discussions and learn from colleagues by example.
 
@@ -25,7 +25,7 @@ Another component is our content curation. As more and more projects join the co
 
 Each *data partner* has a dedicated page on the documentation.
 
-<img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-partner.png" style="width:100%;"/><br>
+<img src="/data-partnership-knowledge-base-partner.png" style="width:100%;"/><br>
 
 Through the *Partnership*, you have access to a trove of data documentation, code snippets, collaboration tools and compute resources, all designed to help you get started on your project more quickly and effectively.
 
@@ -35,7 +35,7 @@ In addition, we are bringing the power of Jupyter Book to create a beautiful ren
 
 ### Projects
 
-<img src="/updates/data-partnership-knowledge-base/data-partnership-knowledge-base-projects.png" style="width:100%;"/><br>
+<img src="/data-partnership-knowledge-base-projects.png" style="width:100%;"/><br>
 
 ### Getting Access
 

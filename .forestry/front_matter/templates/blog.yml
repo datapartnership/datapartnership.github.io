@@ -34,17 +34,8 @@ fields:
   default: []
   label: Data Partner
 - name: dev_partner
-  type: select
+  type: tag_list
   default: []
-  config:
-    required: false
-    options:
-    - World Bank
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
   label: Development Partner
 pages:
 - content/updates/2020-inspire-challenge-finalist-the-climacell-locust-project.md

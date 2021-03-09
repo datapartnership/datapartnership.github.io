@@ -11,7 +11,7 @@ footer {
   bottom: 0;
   background-color: #F5F5F5;
   text-align: center;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 a.text-light:hover , a.text-light:active  {
@@ -221,6 +221,10 @@ a.btn-primary {
    width: 11px;
    content: "";
    top: 5px;
+ }
+
+ .footer-image {
+   height: 50px;
  }
 
 /* bootstrap breakpoint for  "Small devices" (landscape phones, less than 768px) */

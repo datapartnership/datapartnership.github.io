@@ -13,11 +13,6 @@ fields:
   config:
     required: false
   label: url
-  description: custom url
-- name: partner
-  type: tag_list
-  default: []
-  label: Data Partner
 - name: post_type
   type: select
   default: Article
@@ -34,6 +29,10 @@ fields:
       file: 
       path: 
   label: Post Type
+- name: partner
+  type: tag_list
+  default: []
+  label: Data Partner
 - name: dev_partner
   type: select
   default: []

@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-12">
           <div class="float-right ">
-            <img src="images/user.svg" alt="">
+            <img src="/images/user.svg" alt="">
             <a class="text-light font-weight-bold pl-1 text-small" href="{{ .Site.Params.loginLink}}">Login</a>
           </div>
         </div>
@@ -19,25 +19,24 @@
             <div class="row">
               <div class="col-10" style="padding-left:0">
                 <div>
-                  <img class="img-fluid" src="logo-title.png" alt="{{.Title | safeHTML}}">
+                  <img class="img-fluid" src="/images/logo-title.png" alt="{{.Title | safeHTML}}">
                 </div>
               </div>
             </div>
             <div class="main-title text-uppercase"></div>
             <p class="mt-2">{{ $.Param "siteDescription" }}</p>
-            <a href="{{ $.Param "button-link" }}" class="btn btn-primary mt-2 no-overlay"
-              style="margin-right:10px">{{ $.Param "button-text" }}
+            <a href="{{ .Site.Params.contactLink }}" class="btn btn-primary mt-2 no-overlay"
+              style="margin-right:10px">Contact
+              Us
             </a>
-            <a href="{{ $.Param "documentation-link" }}"
-              class="btn btn-secondary mt-2 no-overlay">{{ $.Param "documentation-label" }}
+            <a href="{{ .Site.Params.documentationLink }}" class="btn btn-secondary mt-2 no-overlay">Documentation
             </a>
-            <a href="{{ $.Param "link-to-updates" }}"
-              class="btn btn-secondary mt-2 no-overlay">{{ $.Param "label-of-updates" }}
+            <a href="#news" class="btn btn-secondary mt-2 no-overlay">Projects & News
             </a>
           </div>
         </div>
         <div class="col-lg-5 d-md-none d-lg-block bring-forward  mb-3">
-          <img class="img-fluid " src="{{  $.Param "banner-image" }}" alt="{{.Title}}">
+          <img class="img-fluid" src="/images/banner.svg" alt="{{.Title}}">
         </div>
       </div>
     </div>

@@ -1,21 +1,21 @@
-<section>
+<section id="donors">
   <div class="container-fluid pt-5 pb-5">
     <div class="container">
       <div class="row pb-3">
         <div class="col-12">
-          <h4 class="text-uppercase">{{ $.Param "donors-section-title"}} </h4>
+          <h4 class="text-uppercase">OUR DONORS</h4>
         </div>
       </div>
       <div class="row">
         <div class="col-12">
-          <p>{{ $.Param "donors-description" }}</p>
+          <p>The Development Data Partnership is deeply grateful for the support of:</p>
         </div>
       </div>
       <div class="row donors-logos text-center">
-        {{ range  where .Site.RegularPages "Section" "donors" }}
+        {{ range where .Site.RegularPages "Section" "donors" }}
         <div class="donor-logo col-md-3 col-xs-12 p-4">
           <a href="https://www.gatesfoundation.org/">
-            <img class="img-fluid" src="{{ $.Site.BaseURL }}{{ .Params.logo }}" alt="{{ .Title }}">
+            <img class="img-fluid" src="{{ .Params.logo }}" alt="{{ .Title }}">
           </a>
         </div>
         {{ end }}

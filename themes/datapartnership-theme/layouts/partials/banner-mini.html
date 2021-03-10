@@ -4,14 +4,13 @@
       <div class="row pt-3">
         <div class="col-12 h6">
           <a href="/">
-            <img class="img-fluid" src="/logo-title.png" width=40% height=40% alt="{{.Title | safeHTML}}">
+            <img class="img-fluid" src="/images/logo-title.png" width=40% height=40% alt="{{.Title | safeHTML}}">
           </a>
         </div>
       </div>
     </div>
   </div>
 </section>
-
 <section>
   <div class="container-fluid bg-secondary ">
     <div class="container">
@@ -22,11 +21,13 @@
               <li class="breadcrumb-item"><a class="text-light" href="{{ .Site.Home.Permalink }}"
                   aria-current="page">Home</a></li>
               {{ if not .Parent.IsHome }}
-              <li class="breadcrumb-item"><a class="text-light" href="{{ .Parent.Permalink }}"
-                  aria-current="page">{{ .Parent.Title }}</a></li>
+              <li class="breadcrumb-item">
+                <a class="text-light" href="{{ .Parent.Permalink }}" aria-current="page">{{.Parent.Title }}</a>
+              </li>
               {{ end }}
-              <li class="breadcrumb-item"><a class="text-light" href="{{ .Permalink }}"
-                  aria-current="page">{{ .Title }}</a></li>
+              <li class="breadcrumb-item">
+                <a class="text-light" href="{{ .Permalink }}" aria-current="page">{{ .Title}}</a>
+              </li>
           </nav>
         </div>
       </div>

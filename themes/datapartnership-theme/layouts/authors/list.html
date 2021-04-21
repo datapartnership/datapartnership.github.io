@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<div id="content">
+    <section>
+        <div class="container-fluid bg-secondary ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-23">
+                        <nav aria-label="breadcrumb text-light">
+                            <ol class="breadcrumb  bg-secondary m-0">
+                                <li class="breadcrumb-item"><a class="text-light" href="{{ .Site.Home.Permalink }}"
+                                        aria-current="page">Home</a></li>
+                                {{ if not .Parent.IsHome }}
+                                <li class="breadcrumb-item">
+                                    <a class="text-light" href="{{ .Parent.Permalink }}"
+                                        aria-current="page">{{.Parent.Title }}</a>
+                                </li>
+                                {{ end }}
+                                <li class="breadcrumb-item">
+                                    <a class="text-light" href="{{ .Permalink }}" aria-current="page">{{
+                                        .Params.name}}</a>
+                                </li>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container mt-5 mb-5">
+            <h1>{{ .Params.name }}</h1>
+            <h2>Bio</h2>
+            {{ .Content }}
+            <h2>Articles</h2>
+            <ul>
+                {{ range .Data.Pages }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+    </section>
+</div>
+{{ end }}

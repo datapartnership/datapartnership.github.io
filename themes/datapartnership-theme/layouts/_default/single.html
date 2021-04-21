@@ -1,19 +1,71 @@
 {{ define "main" }}
 
 <div id="content">
-
-  {{- partial "banner-mini.html" . -}}
-
+  <section>
+    <div class="container-fluid bg-secondary ">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-23">
+            <nav aria-label="breadcrumb text-light">
+              <ol class="breadcrumb  bg-secondary m-0">
+                <li class="breadcrumb-item"><a class="text-light" href="{{ .Site.Home.Permalink }}"
+                    aria-current="page">Home</a></li>
+                {{ if not .Parent.IsHome }}
+                <li class="breadcrumb-item">
+                  <a class="text-light" href="{{ .Parent.Permalink }}" aria-current="page">{{.Parent.Title }}</a>
+                </li>
+                {{ end }}
+                <li class="breadcrumb-item">
+                  <a class="text-light" href="{{ .Permalink }}" aria-current="page">{{ .Title }}</a>
+                </li>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <section>
     <div class="container mt-5 mb-5">
       <div class="row">
         <div class="col-md-8 col-xs-12 single-content blog-content">
-          <h1 class="">
-              {{ if .Params.partner }}{{ delimit .Params.partner ", "}}{{ end }}: {{ .Params.title }}
-          </h1>
-          {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 02, 2006" }}</time>{{ end }}
+          <h1 class="">{{ .Params.title }}</h1>
+          {{ if .Date }}
+          <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "January 02, 2006"}}
+          </time>
+          <a>by</a>
+          {{ range $i, $e := .Params.authors }}
+          {{ with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
+          <a href="{{ .Permalink }}">{{ if $i }}, {{ end }}{{ .Params.name }}</a>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+          <br>
+          {{ if .Params.partner }}
+          {{ range .Param "partner" }}
+          <span class="badge badge-info">{{ . }}</span>
+          {{ end }}
+          {{ end }}
+          {{ if .Params.tags }}
+          {{ range .Param "tags" }}
+          <span class="badge badge-primary">{{ . }}</span>
+          {{ end }}
+          {{ end }}
           <hr>
           {{ .Content | safeHTML }}
+          {{ if .Params.link }}
+          <br>
+          <h3>See more</h3>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg"
+            viewBox="0 0 16 16">
+            <path
+              d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z" />
+            <path
+              d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z" />
+          </svg>
+          <a href={{ .Params.link }}>{{ .Params.link }}</a>
+          {{ end }}
+          </span>
         </div>
         {{ if isset .Params "hide_sidebar" }}
         {{ else }}
@@ -25,5 +77,4 @@
     </div>
   </section>
 </div>
-
 {{ end }}

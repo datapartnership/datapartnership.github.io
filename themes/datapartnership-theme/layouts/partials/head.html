@@ -1,40 +1,45 @@
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>{{ .Title }}</title>
-<meta name="description" content="{{ $.Param " siteDescription" }}">
-<meta name="google-site-verification" content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8" />
-<meta name="keywords"
-    content="datapartnership.com, international consortium of data collaborative, international consortium of data collaboratives world bank, data consortium, data international development, data international public good, data public good, data global social impact, data social good, data partnership world bank google, public private data partnership" />
+    <title>{{ .Title }}</title>
+    <meta name="description" content="{{ $.Site.Params.description }}">
+    <meta name="google-site-verification" content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8" />
+    <meta name="keywords"
+        content="datapartnership.com, international consortium, data consortium, data international development, data international public good, data public good, data global social impact, data social good, data partnership, public private data partnership" />
 
-<!-- bootstrap -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-<!-- custom stylesheet -->
-<link rel="stylesheet" href="/css/main.css">
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" href="/css/main.css">
 
-<!-- google fonts -->
-<link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link rel=" preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Asap+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
-<!-- favicon -->
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-<!-- social media -->
-<meta property="og:type" content="website" />
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ $.Param " siteDescription" }}" />
-<meta property="og:image" content="/images/facebook-card.jpg" />
+    <!-- Social Media -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:description" content="{{ $.Site.Params.description }}" />
+    <meta property="og:image" content="https://datapartnership.org/images/card.png" />
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:description" content="{{ $.Param " siteDescription" }}" />
-<meta name="twitter:image" content="/images/twitter-card.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@DevDataPship">
+    <meta name="twitter:site" content="@DevDataPship">
+    <meta name="twitter:title" content="{{ .Title }}" />
+    <meta name="twitter:description" content="{{ $.Site.Params.description }}" />
+    <meta name="twitter:image" content="https://datapartnership.org/images/card.png" />
 
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132319281-1"></script>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132319281-1"></script>
 
-<script type="text/javascript" src="/js/ga.js"></script>
+    <script type="text/javascript" src="/js/ga.js"></script>
+</head>

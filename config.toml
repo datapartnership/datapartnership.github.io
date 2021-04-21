@@ -21,7 +21,7 @@ portalURL = "https://beta.datapartnership.org"
   # Navbar Menus
   [[menu.nav]]
     name    = "About"
-    url     = "about"
+    url     = "/about"
     weight  = 1
   [[menu.nav]]
     name    = "Documentation"
@@ -29,7 +29,7 @@ portalURL = "https://beta.datapartnership.org"
     weight  = 2
   [[menu.nav]]
     name    = "Stories"
-    url     = "updates"
+    url     = "/updates"
     weight  = 3
   [[menu.nav]]
     name    = "Get in touch"

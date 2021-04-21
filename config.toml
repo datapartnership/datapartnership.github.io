@@ -1,5 +1,4 @@
 languageCode = "en-us"
-baseURL = "https://datapartnership.org"
 title = "Development Data Partnership"
 theme = "datapartnership-theme"
 summaryLength = 10

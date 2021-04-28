@@ -9,7 +9,9 @@
       <div class="row partners-logos">
         {{ range where .Site.RegularPages "Section" "development-partners" }}
         <div class="partner-logo col-md-3 col-xs-12 p-4">
-          <img class="img-fluid" src="{{ .Params.logo }}" alt="{{ .Title }}">
+          <a href="{{ .Params.link }}">
+            <img class="img-fluid" src="{{ .Params.logo }}" alt="{{ .Title }}">
+          </a>
         </div>
         {{ end }}
       </div>

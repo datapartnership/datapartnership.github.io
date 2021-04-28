@@ -17,15 +17,18 @@ time {
   font-size: 1rem;
 }
 
+.navbar {
+  background-color: #001E60;
+}
 .navbar a {
-  color: #001E60;
+  color: #f8f9fa;
   display: block;
   font-size: 18px;
   font-family: 'Asap Condensed';
 }
 
 .navbar a:hover {
-  color: #414042;
+  color: #DF6B00;
 }
 
 .nav-item {
@@ -94,7 +97,7 @@ a.text-light:hover , a.text-light:active  {
 }
 
 .btn-primary:hover {
-  background-color: #DF6B00;
+  background-color: #F7951D;
   border-color: #DF6B00;
 }
 

@@ -149,24 +149,6 @@ a.btn-primary {
   border: 1px solid  #ccc;
 }
 
-.donor-logos img {
-  height: 50px;
-  width: auto;
-}
-
-.donor-logos {
-    text-align: center;
-}
-
-.donor-logo  {
-    border: 1px solid #ccc;
-  }
-
-.donor-logos {
-  border-left: 1px solid  #ccc;
-  border-top: 1px solid  #ccc;
-}
-
 .project-details:not(:last-child) {
   border-bottom: 1px solid lightgray;
 }

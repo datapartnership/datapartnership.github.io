@@ -14,6 +14,7 @@ post_type = "post_type"
 author = "Development Data Partnership"
 description = "A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development."
 portalURL = "https://beta.datapartnership.org"
+googleAnalytics = "G-7L4XVWZBSB"
 
 # Site Menus
 [menu]
@@ -27,16 +28,13 @@ portalURL = "https://beta.datapartnership.org"
     url     = "https://docs.datapartnership.org"
     weight  = 2
   [[menu.nav]]
-    name    = "Stories"
+    name    = "Projects & News"
     url     = "/updates"
     weight  = 3
   [[menu.nav]]
     name    = "Get in touch"
     url     = "mailto:datapartnership@worldbank.org"
     weight  = 4
-
-# Google Analytics
-googleAnalytics = "G-7L4XVWZBSB"
 
 [markup.goldmark.renderer]
 unsafe = true

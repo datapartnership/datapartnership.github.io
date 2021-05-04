@@ -39,7 +39,14 @@
     <meta name="twitter:image" content="https://datapartnership.org/images/card.png" />
 
     <!-- Google Analytics -->
-    {{ template "_internal/google_analytics.html" . }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', '{{ .Site.Params.googleAnalytics }}');
+    </script>
 
     <script type="text/javascript" src="/js/ga.js"></script>
 </head>

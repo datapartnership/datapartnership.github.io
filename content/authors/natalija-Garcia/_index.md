@@ -1,5 +1,5 @@
 ---
-name: Niccolo Comini
+name: Natalija Gelvanovska-Garcia
 ---
 Niccolò Comini is an Economist in the Chief Economist’s Office of the Infrastructure Vice Presidency at the World Bank Group. He focuses on competition and regulatory issues in the ICT and digital industries in emerging countries. Examples of projects include advising governments on 5G network deployment, data infrastructure, and digital platforms businesses. 
 

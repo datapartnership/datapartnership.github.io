@@ -1,7 +1,8 @@
 +++
 date =  2020-10-13T00:00:00Z
 title = "Data Partnership: Bridging the Data Gap for Public Good"
-post_type = "Event"
+authors = ["Gabriel Vicente", "Holly Krambeck"]
+categories = ["Announcement"]
 dev_parter = ["International Monetary Fund", "World Bank"]
 url = "annualmeetings2020"
 aliases = [

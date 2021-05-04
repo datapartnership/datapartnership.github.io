@@ -1,6 +1,8 @@
 +++
 date = 2020-11-03T00:00:00.000+00:00
 title = "A Light Primer to Spark / Databricks"
+authors = ["Maksim Pecherskiy"]
+categories = ["Tutorial"]
 dev_partner = ["World Bank"]
 post_type =  "Tutorial"
 url = "light-primer-to-spark-databricks-1"

@@ -1,0 +1,4 @@
+---
+name: Kai Kaiser
+---
+[Kai Kaiser](https://blogs.worldbank.org/team/kai-kaiser) has been Senior Economist with the World Bank in Hanoi, Vietnam since early 2016, where his engagement has focused primarily on issues of public finance and public sector governance reform. He has also been based in the Philippines and Indonesia. Previously he was Senior Economist at the (global) Public Sector and Governance Group, Poverty Reduction and Economic Management (PREM), in Washington, DC, with a focus on issues of public finance, inter-governmental relations, natural resource led development, and applied political economy/institutional reform issues.  He takes a keen interest in how emerging digital technologies can make a tangible difference in addressing governance challenges for improved service delivery and public infrastructure investments.

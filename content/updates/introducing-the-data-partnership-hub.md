@@ -1,8 +1,10 @@
 +++
 date = 2020-07-13T00:00:00Z
 title = "Introducing the Data Partnership on GitHub"
-post_type = "Article"
+authors = ["Gabriel Vicente"]
+categories = ["Announcement"]
 dev_partner = ["World Bank", "Inter-American Development Bank", "International Monetary Fund"]
+link = "https://github.com/datapartnership/welcome"
 +++
 
 After launching in 2019, when the [Inter-American Development Bank](https://www.iadb.org) and the [International Monetary Fund](https://www.imf.org) joined the initiave, the *Development Data Partnership* has scaled up fast, with more than 100 projects having been brought to life supported by partnerships with more than 20 companies.
@@ -68,10 +70,3 @@ As the name suggests, this section is where you can find tips and guides on how 
 The *Partnership* is not only about licensing and data, but it is about sharing code, knowledge and building a community. That is why we take advantage of everything GitHub has to offer.
 
 You are more than welcome to share your own contributions. Certainly your team’s efforts will be much appreciated and recognized by your peers and the public.
-
-_Authors:_
-
-* [_Gabriel Stefanini Vicente_](https://g4brielvs.me/), _Data Scientist, Development Data Partnership_
-
-*The Development Data Partnership is a partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development.*
-

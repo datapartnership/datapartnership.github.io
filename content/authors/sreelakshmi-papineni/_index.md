@@ -1,0 +1,4 @@
+---
+name: Sreelakshmi Papineni
+---
+[Sreelakshmi Papineni](https://blogs.worldbank.org/team/sreelakshmi-papineni) is an economist working at the Gender Innovation Lab, within the World Bank’s Africa Chief Economist Office. Her current research focuses on identifying and addressing gender-based constraints through the analysis of development project impacts primarily for entrepreneurship, social protection and agriculture projects. Before joining the World Bank, Sreelakshmi was a Research Fellow at Harvard’s Evidence for Policy Design, a field-based Research Analyst for Innovations for Poverty Action and an Equity Salestrader in London. She holds a Master’s degree from Yale University. 

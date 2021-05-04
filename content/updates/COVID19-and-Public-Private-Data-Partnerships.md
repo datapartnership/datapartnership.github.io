@@ -1,8 +1,8 @@
 +++
 date = 2020-03-19T20:12:14Z
+title = "Addressing COVID-19 through Public-Private Data Partnerships: Where Do We Put New Testing Facilities?"
+authors = ["Bruno Nuno"]
 partner = ["Facebook", "Mapbox"]
-title = "Addressing COVID-19 through Public-Private Data Partnerships -- Where Do We Put New Testing Facilities?"
-post_type = "Case Study"
 dev_partner = ["World Bank"]
 
 +++
@@ -59,5 +59,3 @@ _Locations where, according to this rough model, the demand by a significant eld
 **Open Code**
 
 The code to replicate and improve this model is [available here](https://github.com/datapartnership/covid19/blob/master/accessibility-Spain.ipynb)
-
-_Author:_ [_Bruno Sanchez-Andrade Nuno_](https://brunosan.eu/)  _Lead Data Science Advisor, Development Data Partnership;_ [_Holly Krambeck_](https://www.linkedin.com/in/holly-krambeck)_, Senior Economist, World Bank and founder, Development Data Partnership_

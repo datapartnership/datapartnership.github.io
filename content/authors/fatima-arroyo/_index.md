@@ -1,0 +1,4 @@
+---
+name: Fatima Arroyo-Arroyo 
+---
+[Fatima Arroyo-Arroyo](https://blogs.worldbank.org/team/fatima-arroyo-arroyo) works in the Transport Global Practice, supporting the transportation agenda in Africa. Fatima is an enthusiast of integrating multidisciplinary dimensions in transport projects, such as fragility considerations, climate adaptation and technology. She leads urban transport projects with a focus in vulnerable groups, non-motorized transport, public transportation and the formalization of informal transport operators, especially in fragile environments. Before joining Africa region, she supported the urban transport and urban railway agenda in Latin-America and East Asia. She holds a Master´s in Civil Engineering from École Nationale des Ponts et Chaussées and Universidad Politécnica de Madrid. She also holds a Master in International Business Administration.

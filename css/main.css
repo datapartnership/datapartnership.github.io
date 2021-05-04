@@ -3,19 +3,36 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
-    font-family: 'Abel', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  text-align: center
 }
 
 time {
   color: #8e8e91;
+  font-size: 1rem;
 }
 
-footer {
-  position: sticky;
-  bottom: 0;
-  background-color: #F5F5F5;
-  text-align: center;
-  padding-top: 20px;
+.navbar {
+  background-color: #001E60;
+}
+.navbar a {
+  color: #f8f9fa;
+  display: block;
+  font-size: 18px;
+  font-family: 'Asap Condensed';
+}
+
+.navbar a:hover {
+  color: #DF6B00;
+}
+
+.nav-item {
+  padding: 5px;
 }
 
 a.text-light:hover , a.text-light:active  {
@@ -24,9 +41,9 @@ a.text-light:hover , a.text-light:active  {
 
 .center {
   display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .bg-primary {
@@ -68,13 +85,6 @@ width: 50%;
   height: 2px;
 }
 
-div.main-title {
-  font-size: 2.5rem;
-  font-family: 'Abel', sans-serif;
-  letter-spacing: 4px;
-  font-weight:900;
-}
-
 .btn-primary {
   background-color: #F7951D;
   border-color: #F7951D;
@@ -87,7 +97,7 @@ div.main-title {
 }
 
 .btn-primary:hover {
-  background-color: #DF6B00;
+  background-color: #F7951D;
   border-color: #DF6B00;
 }
 
@@ -107,7 +117,6 @@ a.btn-primary {
   background-color: #F7951D;
   border-color: #F7951D;
 }
-
 
 .text-color-secondary {
   color: #F7951D;
@@ -131,61 +140,40 @@ a.btn-primary {
     text-align: center;
 }
 
-
 .partner-logo  {
-    border-right: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
+    border-right: 0px solid #ccc;
+    border-bottom: 0px solid #ccc;
   }
 
 .partners-logos {
-  border: 1px solid  #ccc;
+  border: 2px solid  #ccc;
 }
 
-.donor-logos img {
-  height: 50px;
-  width: auto;
+.project-details:not(:last-child) {
+  border-bottom: 1px solid lightgray;
 }
 
-.donor-logos {
-    text-align: center;
+.project-details:not(:first-child) {
+  margin-top: 2em;
 }
 
-
-.donor-logo  {
-    border: 1px solid #ccc;
-  }
-
-.donor-logos {
-  border-left: 1px solid  #ccc;
-  border-top: 1px solid  #ccc;
+.blog-content img {
+  max-width: 100%;
 }
 
- .project-details:not(:last-child) {
-   border-bottom: 1px solid lightgray;
- }
-
- .project-details:not(:first-child) {
-   margin-top: 2em;
- }
-
- .blog-content img {
-   max-width: 100%;
- }
-
- #timeline-content {
-   text-align: center;
- }
  /* Timeline */
+ #timeline-content {
+  text-align: center;
+}
+
  .timeline {
    border-left: 4px solid #56C3C4;
    margin: 25px auto;
-   position: relative;
    padding: 25px;
    list-style: none;
    text-align: left;
-   max-width: 50%;
+   max-width: 75%;
  }
-
 
  .timeline .event {
    border-bottom: 1px dashed #ccc;
@@ -227,35 +215,41 @@ a.btn-primary {
    top: 5px;
  }
 
- .footer-image {
-   height: 50px;
- }
+.filters {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  align-content: stretch;
+}
 
-/* bootstrap breakpoint for  "Small devices" (landscape phones, less than 768px) */
- @media (max-width: 767.98px) {
+.filter-select {
+  border: 1px solid #979797;
+  width: 100%;
+  line-height: 1.5;
+  font-size: 1rem;
+  padding: .375rem .75rem;
+  font-weight: 400;
+  color: #495057;
+  display: block;
+  background-color: white;
+  background-clip: padding-box;
+}
 
-   .timeline {
-      max-width: 100%;
-      margin-left: 20px;
-   }
+.grid-card {
+  height: 500px;
+}
 
-   .partner-logo {
-     border: 0px;
-     text-align: left;
-   }
+.card {
+  height: 480px;
+}
 
-   .partners-logos   {
-     border: 0px;
-     text-align: left;
-   }
+.card-footer {
+  position: absolute !important;
+  bottom: 0px !important;
+  right: 0px !important;
+}
 
-   footer {
-      text-align: left;
-      position: relative;
-   }
-
-   footer img {
-     margin-top: 25px;
-   }
-
- }
+.card-grid-container {
+  min-height: 64vh;
+}

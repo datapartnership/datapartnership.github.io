@@ -169,11 +169,10 @@ a.btn-primary {
  .timeline {
    border-left: 4px solid #56C3C4;
    margin: 25px auto;
-   position: relative;
    padding: 25px;
    list-style: none;
    text-align: left;
-   max-width: 50%;
+   max-width: 75%;
  }
 
  .timeline .event {

@@ -5,4 +5,5 @@ icon: "pillars/DDPSecurity.svg"
 weight: "4"
 
 ---
-Centralized IT architecture and processes for ingesting, storing and processing data, as well as for coding collaboration, create economies of scale amongst partners and facilitate secure data use.
+Centralized IT architecture and processes for ingesting, storing and pre-processing data, as well as for coding collaboration, create economies of scale amongst partners and facilitate secure data use.
+ 

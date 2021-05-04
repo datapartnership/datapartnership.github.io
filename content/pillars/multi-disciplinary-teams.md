@@ -5,4 +5,4 @@ icon: "pillars/DDPTeams.svg"
 weight: 3
 
 ---
-Working groups comprised of data engineers, data scientists, sector domain experts, legal counsel, communications specialists, procurement specialists, and others across the member organizations make a complete platform possible.
+Working groups comprised of data engineers, data scientists, sector domain experts, legal counsel, communications specialists, procurement specialists, and others across the member organizations make a complete platform possible. 

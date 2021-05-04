@@ -5,4 +5,4 @@ icon: "pillars/DDPLegalFoundation.svg"
 weight: "1"
 
 ---
-Template data license agreements and MOUs between organizations save time and resources.
+Template data license agreements and agreements between organizations save time and resources.

@@ -1,0 +1,20 @@
+<section id="partners">
+  <div class="container-fluid pt-5 pb-5">
+    <div class="container">
+      <div class="row pb-3">
+        <div class="col-12">
+          <h4 class="text-uppercase">Development Partners</h4>
+        </div>
+      </div>
+      <div class="row partners-logos">
+        {{ range where .Site.RegularPages "Section" "development-partners" }}
+        <div class="partner-logo col-md-3 col-xs-12 p-4">
+          <a href="{{ .Params.link }}">
+            <img class="img-fluid" src="{{ .Params.logo }}" alt="{{ .Title }}">
+          </a>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>

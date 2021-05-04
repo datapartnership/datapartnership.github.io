@@ -5,4 +5,4 @@ icon: "pillars/DDPResponsibleData.svg"
 weight: "2"
 
 ---
-Data governance principles guide best practices for responsible and ethical data use. 
+Data governance principles guide best practices for responsible and ethical data use.

@@ -2,8 +2,9 @@
 date = 2020-11-02T05:00:00Z
 partner = ["Ookla"]
 title = "Estimating High-speed Broadband Coverage in Ukraine"
-url = "broadband-coverage-in-ukraine"
+authors = ["Mykhailo Koltsov", "Natalija Garcia"]
 dev_partner = ["World Bank"]
+partners = ["Ookla"]
 post_type = "Case Study"
 
 +++
@@ -24,9 +25,3 @@ _Fig. 2: 4G Mobile broadband coverage, 2019 (Source_: _Based on analysis by Ookl
 The quality of mobile broadband remains insufficient for communication needs, especially in less populated oblasts and in rural and remote areas. The coverage map of 3G/4G broadband access (Fig. 2) measured by mobile network operators’ (MNOs) speed tests shows that the largest cities have good coverage, whereas the rest of the country is severely underserved.
 
 **Impact**: Broadband connectivity is a critical foundation for socioeconomic development in today’s global, and increasingly digital, economy. It is a general-purpose technology (GPT) that accelerates the pace of economic growth and reduces income disparities, thus contributing to poverty alleviation. The analyses in this post are excerpted from the World Bank recommendations report on the National Broadband Strategy for the Government of Ukraine. The recommendations seek to achieve the vision of making high-speed broadband available to every citizen, business and private institution in Ukraine by year 2025.
-
-_Authors:_
-
-* Natalija Gelvanovska-Garcia, _Senior Digital Development Specialist, World Bank_
-* Marta Khomyn, _Consultant, World Bank_
-* Mykhailo Koltsov, _Consultant, World Bank_

@@ -1,8 +1,8 @@
 +++
 date = 2020-10-28T04:00:00Z
-partner = ["Google"]
 title = "Economic Anxiety and COVID-19 in Southeast Asia"
-url = "economic-anxiety-covid19-se-asia"
+authors = ["Dieter Wang"]
+partner = ["Google"]
 dev_partner = ["World Bank"]
 post_type = "Case Study"
 
@@ -22,8 +22,3 @@ _Figure 1: Google searches relating to economic anxieties grow with COVID-19 cas
 The normalized search intensities (left axis) are composition of relevant queries, in excess to searches of one year ago in the same period. The blue and red areas are the infected and death case numbers (right axis). The vertical dashed lines show when the first case was reported in the respective country. The green triangles are fiscal stimuli (million USD).
 
 **Impact**: Google search trends can give policy makers real-time insights into the growing anxiety due to COVID-19 cases and reactions to fiscal policies. The readily availability makes this an attractive tool to assess economic sentiments and identify growing anxieties. Monitoring these trends may be a helpful addition to support decision making.
-
-_Authors:_
-
-* Dieter Wang, _Consultant, World Bank_
-* Nadia Piffaretti, _Senior Economist, World Bank_

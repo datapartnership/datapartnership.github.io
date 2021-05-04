@@ -1,6 +1,7 @@
 +++
 date = 2019-08-01T20:12:14Z
 title = "Improving Road Safety in Nairobi"
+authors = ["Holly Krambeck"]
 post_type = "Case Study"
 partner = ["Waze"]
 dev_partner = ["World Bank"]
@@ -17,8 +18,6 @@ The government of Kenya – from policy designers and implementers to regulators
 How can cities design policies that save time, money – and lives – without adequate data and monitoring of a problem?
 
 In 2017, a team consisting of Lupe Bedoya, Arianna Legovini, Sveta Milusheva, and Rob Marty of the <u>Development Impact Evaluation Group</u> (DIME) at the World Bank, alongside Sarah Williams of the Massachusetts Institute of Technology and Elizabeth Resor of University of California, Berkeley, sought to map crashes in order to better inform public infrastructure development. However, when an estimated 75% of the crashes are unreported, where to start such evaluation is a significant part of the challenge.
-
-![](/waze.jpg)
 
 The Development Data Partnership seeks to address the mismatch between the demand and supply of proprietary data for public good. By facilitating a data sharing agreement with WAZE, the Partnership made it easy for the Nairobi team to access Waze API content for all 175 km of the city’s road network. With near real-time data of user-reported incidents, the team could see patterns of accident hotspots and congestion emerge.
 

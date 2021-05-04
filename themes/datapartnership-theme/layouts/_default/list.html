@@ -1,165 +1,106 @@
 {{ define "main" }}
 
-{{- partial "banner-mini.html" . -}}
-
-<style type="text/css">
-/* ui group */
-
-.ui-group {
-    flex-grow: 1;
-    flex-basis: auto;
-}
-
-.filters {
-    display: flex !important;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: stretch;
-    align-content: stretch;
-}
-
-
-.filter-select {
-    border: 1px solid #979797;
-    width: 100%;
-    line-height: 1.5;
-    font-size: 1rem;
-    padding: .375rem .75rem;
-    font-weight: 400;
-    color: #495057;
-    display: block;
-    background-color: white;
-    background-clip: padding-box;
-}
-
-.grid-card {
-    height: 500px;
-}
-
-.card {
-    height: 490px;
-}
-
-
-.card-footer {
-    position: absolute !important;
-    bottom: 0px !important;
-    right: 0px !important;
-}
-
-.card-grid-container {
-    min-height: 63vh;
-}
-
-
-</style>
-
 <div class="container-fluid">
   <div class="container pb-3 pt-3">
     <div class="filters">
 
       <div class="ui-group col-lg-4">
         <select class="filter-select" value-group="data-partner">
-            <option value="">Data Partner</option>
-            {{ range $name, $taxonomy := .Site.Taxonomies.partner }}
-            <option value =".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
-
-            {{ end }}
+          <option value="">Development Partner </option>
+          {{ range $name, $taxonomy := .Site.Taxonomies.dev_partner }}
+          <option value=".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
+          {{ end }}
         </select>
       </div>
 
       <div class="ui-group col-lg-4">
         <select class="filter-select" value-group="data-partner">
-            <option value="">Post Type</option>
-            {{ range $name, $taxonomy := .Site.Taxonomies.post_type }}
-            <option value =".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
-
-            {{ end }}
+          <option value="">Data Partner</option>
+          {{ range $name, $taxonomy := .Site.Taxonomies.partner }}
+          <option value=".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
+          {{ end }}
         </select>
       </div>
 
       <div class="ui-group col-lg-4">
         <select class="filter-select" value-group="data-partner">
-            <option value="">Development Partner </option>
-            {{ range $name, $taxonomy := .Site.Taxonomies.dev_partner }}
-            <option value =".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
-
-            {{ end }}
+          <option value="">Topics</option>
+          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+          <option value=".{{ $name | urlize }}"> {{ replace $name "-" " " | title }}</option>
+          {{ end }}
         </select>
       </div>
-
-
-
-
     </div>
   </div>
 </div>
 
 <div class="container-fluid bg-light pb-3 pt-3 card-grid-container">
   <div class="container pl-0 pr-0">
-      <div class="card-grid">
+    <div class="card-grid">
 
-
-    {{ range .Pages }}
-    {{ if isset .Params "exclude_from_updates_list" }}
-    {{ else }}
-    <div class="grid-card col-lg-4 col-md-6 col-sm-6 col-xs-12 
-                           {{ if .Params.partner}} {{ delimit .Params.partner "+" | replaceRE " " "-" | replaceRE "\\+" " " | lower }} {{ end }} {{ if .Params.dev_partner}}  {{ delimit .Params.dev_partner "+" | replaceRE " " "-" | replaceRE "\\+" " " | lower }}  {{ end }} {{ if .Params.post_type }} {{ .Params.post_type | urlize }} {{ end }}">
+      {{ range .Pages }}
+      {{ if isset .Params "exclude_from_updates_list" }}
+      {{ else }}
+      <div class="grid-card col-lg-4 col-md-6 col-sm-6 col-xs-12 
+        {{ if .Params.partner}} {{ delimit .Params.partner " +" | replaceRE " " "-" | replaceRE "\\+" " " | lower }} {{
+        end }} {{ if .Params.dev_partner}} {{ delimit .Params.dev_partner "+" | replaceRE " " "-" | replaceRE "\\+" " "
+        | lower }} {{ end }} {{ if .Params.tags }} {{ delimit .Params.tags "+" | lower | replaceRE " " "-" |
+        replaceRE "\\+" " " | lower }} {{ end }}">
 
         <div class="card border-0 rounded-0">
-
           <div class="card-body">
-            <h3 class="card-title"> 
-                <a class="text-primary" href="{{.Permalink}}">
-                    {{ if .Params.partner}} {{ delimit .Params.partner ", " }}: {{ end }}{{ .Params.title }}
-
-                </a></h3>
-                {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 02, 2006" }}</time>{{ end }}
-            <div class="w-100 bg-secondary h2px mb-3"></div>
+            <h3 class="card-title">
+              <a class="text-primary" href="{{.Permalink}}">
+                {{ .Params.title }}
+              </a>
+            </h3>
+            {{ if .Params.categories }}
+            {{ range .Param "categories" }}
+            <span class="badge badge-danger">{{ . }}</span>
+            {{ end }}
+            {{ end }}
+            {{ if .Params.partner}}
+            {{ range .Param "partner" }}
+            <span class="badge badge-info">{{ . }}</span>
+            {{ end }}
+            {{ end }}
+            {{ if .Params.tags }}
+            {{ range .Param "tags" }}
+            <span class="badge badge-primary">{{ . }}</span>
+            {{ end }}
+            {{ end }}<div class="w-100 bg-secondary h2px mb-3"></div>
             <div class="card-text">
-              <div>
-                <p>
-                  {{ .Summary }}
-                </p>
-              </div>
+              <p>{{ .Summary }}</p>
             </div>
             <div class="card-footer bg-white border-0 mt-2">
-                <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn More</a>
+              <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn More</a>
             </div>
           </div><!-- end card body -->
         </div> <!-- end card -->
-
-    </div> <!--end grid-card -->
-
-    {{ end }}
-    {{ end }}
+      </div>
+      <!--end grid-card -->
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
 </div>
-</div>
-</div>
-
-
-
-
 
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-<script src="{{ $.Site.BaseURL }}/js/fit-columns.js"></script>
-<script src="{{ $.Site.BaseURL }}/js/cells-by-row.js"></script>
 
 <script type="text/javascript">
-document.addEventListener('DOMContentLoaded', function(event) {
+  document.addEventListener('DOMContentLoaded', function (event) {
     // flatten object by concatting values
-    function concatValues( obj ) {
-        var value = '';
-        for ( var prop in obj ) {
-            value += obj[ prop ];
-        }
-        return value;
+    function concatValues(obj) {
+      var value = '';
+      for (var prop in obj) {
+        value += obj[prop];
+      }
+      return value;
     }
-
-    var iso = new Isotope( '.card-grid', {
-        itemSelector: '.grid-card',
-        layoutMode: 'fitRows',
-        percentPosition: true
+    var iso = new Isotope('.card-grid', {
+      itemSelector: '.grid-card',
+      layoutMode: 'fitRows',
+      percentPosition: true
     });
 
     window.iso = iso
@@ -168,14 +109,13 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
     const filterSels = document.querySelector(".filters")
     filterSels.addEventListener('change', (event) => {
-        var changedSel = event.target
-        var changedSelGroup = changedSel.getAttribute('value-group')
-        filters[ changedSelGroup ] = event.target.value;
-        var filterValue = concatValues( filters );
-        console.log(filterValue.replace(" ", "*"))
-        iso.arrange({ filter: filterValue })
+      var changedSel = event.target
+      var changedSelGroup = changedSel.getAttribute('value-group')
+      filters[changedSelGroup] = event.target.value;
+      var filterValue = concatValues(filters);
+      console.log(filterValue.replace(" ", "*"))
+      iso.arrange({ filter: filterValue })
     })
-})
+  })
 </script>
-
 {{ end }}

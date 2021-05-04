@@ -1,9 +1,10 @@
 +++
 date = 2020-06-24T04:00:00Z
 title = "How to Find Population Movement Data for Your Country: The Mobile Location Data Inventory"
+authors = ["Rajee Kanagavel"]
 post_type = "Article"
 dev_partner = ["World Bank"]
-partner = ["Facebook", "Veraset", "Unacast", "Cuebiq"]
+partner = ["Facebook", "Veraset", "Unacast", "Cuebiq", "X-Mode"]
 
 +++
 As the COVID-19 pandemic continues, so have measures to mitigate its spread. Physical distancing and [movement restrictions](https://ourworldindata.org/policy-responses-covid#restrictions-on-internal-movement) – such as school and workplace closures, public event cancellations, stay-at-home orders, and international and domestic travel bans – vary considerably [across countries](https://openknowledge.worldbank.org/bitstream/handle/10986/33754/Determinants-of-Social-Distancing-and-Economic-Activity-during-COVID-19-A-Global-View.pdf?sequence=1&isAllowed=y).
@@ -51,13 +52,3 @@ You can use the visualization below to pick which dataset suits your needs based
 #### **And...**
 
 Don't see your data here and want to showcase the availability of your mobility data? Interested in learning how to work with these data? [Write to us](datapartnership@worldbank.org)!
-
-_Authors:_
-
-**Rajee Kanagavel**, SD Data Lab Coordinator, _World Bank Sustainable Development Data Lab_
-
-**Maksim Pecherskiy**, Lead Data Engineer, _Development Data Partnership_
-
-_World Bank Sustainable Development Data Lab is a community of practice for the Bank staff seeking to modernize project data practices through learning, networking, and shared resources._
-
-_The Development Data Partnership is a partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development._

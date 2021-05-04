@@ -1,10 +1,10 @@
 +++
+date = 2019-03-01T04:00:00+00:00
 title = "Why Data Partnership?"
-date = 2019-09-02T04:00:00+00:00
-dev_partner = ["World Bank"]
-post_type = "Article"
+authors = ["Holly Krambeck"]
+dev_partner = ["World Bank", "International Monetary Fund", "Inter-American Development Bank"]
 +++
-# Should the private sector ever share data with the public sector, even if for public good?
+### Should the private sector ever share data with the public sector, even if for public good?
 
 Well, it depends.
 
@@ -16,7 +16,7 @@ But there is less agreement around not-for-profit data sharing. Most colleagues 
 
 The World Bank Data Council is working with technology companies to answer these questions – but not over pastries in conference rooms – through projects, with real stakeholders, working with colleagues across many disciplines – data engineers, data scientists, geospatial specialists, economists, legal counsel, procurement specialists, and sector specialists.
 
-##### Why
+### Why
 
 We must collaborate across disciplines, on concrete activities that we can learn from, to be able to create meaningful data sharing principles and, critically, to build the technical architecture that can meet these principles.
 

@@ -1,16 +1,41 @@
 languageCode = "en-us"
-summaryLength = 20
-theme = "datapartnership-theme"
 title = "Development Data Partnership"
+theme = "datapartnership-theme"
+summaryLength = 10
+[taxonomies]
+author = "authors"
+tag = "tags"
+category = "categories"
+dev_partner = "dev_partner"
+partner = "partner"
+post_type = "post_type"
+
+[params]
+author = "Development Data Partnership"
+description = "A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development."
+portalURL = "https://beta.datapartnership.org"
+googleAnalytics = "G-7L4XVWZBSB"
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "About"
+    url     = "/about"
+    weight  = 1
+  [[menu.nav]]
+    name    = "Documentation"
+    url     = "https://docs.datapartnership.org"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Projects & News"
+    url     = "/updates"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Get in touch"
+    url     = "mailto:datapartnership@worldbank.org"
+    weight  = 4
+
 [markup.goldmark.renderer]
 unsafe = true
 xhtml = true
-[params]
-siteDescription = "A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development."
-contactLink = "mailto:datapartnership@worldbank.org"
-documentationLink = "https://docs.datapartnership.org"
-loginLink = "https://beta.datapartnership.org/home"
-[taxonomies]
-  dev_partner = "dev_partner"
-  partner = "partner"
-  post_type = "post_type"

@@ -4,4 +4,4 @@ date: 2019-02-26T21:52:59.000+00:00
 weight: "1"
 
 ---
-Since the World Bank launched the beta Data Partnership platform in April 2018 (then called "Data Collaboratives"), more than 100 development projects are now under implementation.
+Since launching, there are more than 150 development projects have been completed or are under implementation, covering all Sustainable Development Goals.  

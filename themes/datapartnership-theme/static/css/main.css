@@ -141,12 +141,12 @@ a.btn-primary {
 }
 
 .partner-logo  {
-    border-right: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
+    border-right: 0px solid #ccc;
+    border-bottom: 0px solid #ccc;
   }
 
 .partners-logos {
-  border: 1px solid  #ccc;
+  border: 2px solid  #ccc;
 }
 
 .project-details:not(:last-child) {

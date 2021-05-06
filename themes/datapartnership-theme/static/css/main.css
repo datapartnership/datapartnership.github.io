@@ -12,6 +12,22 @@ footer {
   text-align: center
 }
 
+footer li {
+  display: inline-block;
+  padding-top: 25px;
+  padding-right: 25px;
+}
+
+footer svg {
+  color: #8e8e91;
+}
+
+footer a {
+  color: #001E60;
+  font-size: 18px;
+  font-family: 'Asap Condensed';
+}
+
 time {
   color: #8e8e91;
   font-size: 1rem;

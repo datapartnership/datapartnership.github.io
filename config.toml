@@ -14,6 +14,12 @@ post_type = "post_type"
 author = "Development Data Partnership"
 description = "A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development."
 portalURL = "https://beta.datapartnership.org"
+
+partnershipEmail = "mailto:datapartnership@worldbank.org"
+partnershipGitHub = "https://github.com/datapartnership"
+partnershipSlack = "https://devdatapship.slack.com/join/signup"
+partnershipTwitter = "https://twitter.com/DevDataPship"
+
 googleAnalytics = "G-7L4XVWZBSB"
 
 # Site Menus

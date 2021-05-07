@@ -14,8 +14,8 @@ footer {
 
 footer li {
   display: inline-block;
-  padding-top: 25px;
-  padding-right: 25px;
+  padding-right: 36px;
+  padding-top: 10px;
 }
 
 footer svg {

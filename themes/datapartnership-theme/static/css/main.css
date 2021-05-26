@@ -148,8 +148,12 @@ a.btn-primary {
 }
 
 .partners-logos img {
-  height: 50px;
+  height: 45px;
   width: auto;
+}
+
+.partners-logos .logo-imf {
+  height: 55px;
 }
 
 .partners-logos {

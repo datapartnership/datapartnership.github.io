@@ -10,7 +10,7 @@
         {{ range where .Site.RegularPages "Section" "development-partners" }}
         <div class="partner-logo col-md-3 col-xs-12 p-4">
           <a href="{{ .Params.link }}">
-            <img class="img-fluid" src="{{ .Params.logo }}" alt="{{ .Title }}">
+            <img class="{{ .Params.class }}" src=" {{ .Params.logo }}" alt="{{ .Title }}">
           </a>
         </div>
         {{ end }}

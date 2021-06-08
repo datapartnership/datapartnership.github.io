@@ -148,12 +148,13 @@ a.btn-primary {
 }
 
 .partners-logos img {
-  height: 45px;
+  height: 50px;
   width: auto;
 }
 
 .partners-logos .logo-imf {
-  height: 55px;
+  height: 65px;
+  width: auto;
 }
 
 .partners-logos {
@@ -162,11 +163,11 @@ a.btn-primary {
 
 .partner-logo  {
     border-right: 0px solid #ccc;
-    border-bottom: 0px solid #ccc;
+    border-bottom: 1px solid #ccc;
   }
 
 .partners-logos {
-  border: 2px solid  #ccc;
+  border: 1px #ccc;
 }
 
 .project-details:not(:last-child) {

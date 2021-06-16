@@ -20,7 +20,7 @@ links = [
 
 On the occasion of the 2020 IMF-World Bank Spring Meetings, the IMF has launched a new Climate Change Indicators Dashboard: an international statistical initiative to address the growing need for climate-related data used in macroeconomic and financial policy analysis.
 
-![](/live-feedback-from-farmers.png)
+![](/imf-climate-change-dashboard.jpg)
 
 ## Challenge
 

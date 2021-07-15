@@ -33,13 +33,19 @@ time {
   font-size: 1rem;
 }
 
+.site-navigation {
+  margin: 0;
+  margin-top: -15px;
+}
+
 .navbar {
   background-color: #001E60;
 }
+
 .navbar a {
   color: #f8f9fa;
   display: block;
-  font-size: 18px;
+  font-size: 20px;
   font-family: 'Asap Condensed';
 }
 
@@ -48,11 +54,19 @@ time {
 }
 
 .nav-item {
-  padding: 5px;
+  padding: 9px;
+}
+
+.nav-detail {
+  padding-right: 1em;
 }
 
 a.text-light:hover , a.text-light:active  {
   color: #f8f9fa !important;
+}
+
+.section-uppercase {
+  font-size: 40px;
 }
 
 .center {
@@ -101,14 +115,18 @@ a.text-light:hover , a.text-light:active  {
   height: 2px;
 }
 
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,102,203);
+} 
+
 .btn-primary {
   background-color: #F7951D;
   border-color: #F7951D;
-  min-width: 80px;
+  min-width: 60px;
 }
 
 .btn-primary, .btn-outline-dark, .btn-dark, .btn-outnline-light {
-  border-radius: 25px;
+  border-radius: 100px;
   font-weight: regular;
 }
 
@@ -124,9 +142,8 @@ a.btn-primary {
 .btn-secondary {
   background-color: transparent;
   border-color: #F7951D;
-  border-radius: 25px;
-  font-weight: regular;
-  color: F7951D;
+  border-radius: 50px;
+  color: #F7951D;
 }
 
 .btn-secondary:hover {
@@ -153,7 +170,7 @@ a.btn-primary {
 }
 
 .partners-logos .logo-large {
-  height: 75px;
+  height: 80px;
   width: auto;
 }
 
@@ -163,11 +180,11 @@ a.btn-primary {
 
 .partner-logo  {
     border-right: 0px solid #ccc;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 0px solid #ccc;
   }
 
 .partners-logos {
-  border: 1px #ccc;
+  border: 0px #ccc;
 }
 
 .project-details:not(:last-child) {
@@ -180,6 +197,13 @@ a.btn-primary {
 
 .blog-content img {
   max-width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
 }
 
  /* Timeline */

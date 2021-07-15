@@ -1,14 +1,22 @@
 {{ define "main" }}
 
-<section id="business-case">
-    <div class="container-fluid pt-5 pb-5">
-        <div class="container">
-            <div class="row mt-5">
-                <div class="col-md-4 col-xs-12">
-                    <h3 class="text-uppercase"> {{ .Title }} </h3>
-                </div>
-                <div class="col-md-6 col-xs-12">
-                    {{ .Content }}
+<section id="how-it-works">
+    <div class="container mt-5 mb-5">
+        <div class="col-md-4 col-xs-12">
+            <h3 class="text-uppercase">How it works</h3>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div id="timeline-content">
+                    <ul class="timeline col-md-8 col-xs-12">
+                        {{ range where .Site.RegularPages "Section" "how-it-works" }}
+                        <li class="event" data-date="Step {{ .Weight }}">
+                            <div class="h5">{{.Title }}</div>
+                            <p> {{ .Content }}</p>
+                        </li>
+                        {{ end }}
+                    </ul>
                 </div>
             </div>
         </div>
@@ -46,29 +54,6 @@
                         <p> {{ .Content }}</p>
                     </div>
                     {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="how-it-works">
-    <div class="container mt-5 mb-5">
-        <div class="col-md-4 col-xs-12">
-            <h3 class="text-uppercase">How it works</h3>
-        </div>
-
-        <div class="row">
-            <div class="col-12">
-                <div id="timeline-content">
-                    <ul class="timeline col-md-8 col-xs-12">
-                        {{ range where .Site.RegularPages "Section" "how-it-works" }}
-                        <li class="event" data-date="Step {{ .Weight }}">
-                            <div class="h5">{{.Title }}</div>
-                            <p> {{ .Content }}</p>
-                        </li>
-                        {{ end }}
-                    </ul>
                 </div>
             </div>
         </div>

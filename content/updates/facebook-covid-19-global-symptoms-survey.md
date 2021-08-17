@@ -1,6 +1,6 @@
 +++
 date = 2021-08-10T00:00:00Z
-title = "Facebook's Covid-19 Global Symptoms Survey"
+title = "Facebook COVID-19 Trends and Impact Survey"
 authors = ["Stefani Soto"]
 post_type = "Case Study"
 dev_partner = ["World Bank"]

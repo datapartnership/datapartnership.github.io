@@ -12,48 +12,38 @@ footer {
   line-height:24px;
 }
 
-footer hr
-{
+footer hr {
   border-top-color:#bbb;
   opacity:0.5
 }
 
-footer h6
-{
+footer h6 {
   font-size:16px;
   text-transform:uppercase;
   margin-top:5px;
   letter-spacing:2px
 }
-footer a
-{
+
+footer a {
   color:#001E60;
 }
-footer a:hover
-{
-  color:#F7951D;
+
+footer a:hover {
+  color:#DF6B00;
   text-decoration:none;
 }
-.footer-links
-{
+
+.footer-links {
   padding-left:0;
   list-style:none
 }
-.footer-links li
-{
+
+.footer-links li {
   display:block
 }
-.footer-links a
-{
-  color:#737373
-}
-.copyright-text {
-  margin:0
-}
 
-time {
-  color: #8e8e91;
-  font-size: 1rem;
+.footer-links a {
+  color:#737373
 }
 
 .site-navigation {
@@ -115,7 +105,7 @@ a.text-light:hover , a.text-light:active  {
 }
 
 .bg-secondary {
-  background-color: #56C3C4 !important;
+  background-color: #a3a6b9 !important;
 }
 
 .bg-secondary-gradient {
@@ -134,8 +124,20 @@ a.text-light:hover , a.text-light:active  {
   overflow: hidden;
 }
 
+.bg-sidebar {
+  background-color: #2e2d70 !important;
+}
+
 .h2px {
   height: 2px;
+}
+
+.read-more {
+  color: #3DA3A8;
+}
+
+.read-more:hover {
+  color: #DF6B00;
 }
 
 .custom-toggler.navbar-toggler {
@@ -230,6 +232,11 @@ a.btn-primary {
 }
 
  /* Timeline */
+time {
+  color: #8e8e91;
+  font-size: 1rem;
+}
+
  #timeline-content {
   text-align: center;
 }

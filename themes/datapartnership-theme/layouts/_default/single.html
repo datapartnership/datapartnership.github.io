@@ -54,6 +54,7 @@
           <hr>
           {{ .Content | safeHTML }}
           {{ if .Params.links }}
+          <br>
           <h3>Read more</h3>
           {{ range .Params.links }}
           <span>
@@ -78,6 +79,7 @@
         {{ end }}
       </div>
     </div>
+    <hr>
   </section>
 </div>
 {{ end }}

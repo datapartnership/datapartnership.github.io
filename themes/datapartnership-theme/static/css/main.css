@@ -6,54 +6,53 @@ h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
     font-family: 'Asap Condensed', sans-serif;
 }
 
+a:link {
+  color: #2e2d70; 
+}
+
+a:hover {
+  color: #DF6B00;
+  text-decoration: none;
+}
+
 footer {
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
 }
 
-footer hr
-{
+footer hr {
   border-top-color:#bbb;
   opacity:0.5
 }
 
-footer h6
-{
+footer h6 {
   font-size:16px;
   text-transform:uppercase;
   margin-top:5px;
   letter-spacing:2px
 }
-footer a
-{
+
+footer a {
   color:#001E60;
 }
-footer a:hover
-{
-  color:#F7951D;
+
+footer a:hover {
+  color:#DF6B00;
   text-decoration:none;
 }
-.footer-links
-{
+
+.footer-links {
   padding-left:0;
   list-style:none
 }
-.footer-links li
-{
+
+.footer-links li {
   display:block
 }
-.footer-links a
-{
-  color:#737373
-}
-.copyright-text {
-  margin:0
-}
 
-time {
-  color: #8e8e91;
-  font-size: 1rem;
+.footer-links a {
+  color:#737373
 }
 
 .site-navigation {
@@ -61,6 +60,7 @@ time {
   margin-top: -15px;
 }
 
+/* Navbar */
 .navbar {
   background-color: #001E60;
 }
@@ -84,28 +84,22 @@ time {
   padding-right: 1em;
 }
 
-a.text-light:hover , a.text-light:active  {
-  color: #f8f9fa !important;
-}
-
+/* Single Page */
 .section-uppercase {
   font-size: 40px;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.bg-primary {
-  background-color: #001E60 !important;
+a.text-light:hover , a.text-light:active  {
+  color: #f8f9fa !important;
 }
 
 .text-primary ,  a.text-primary:hover, a.text-primary:active {
   color:  #001E60 !important;
   text-decoration: none;
+}
+
+.bg-primary {
+  background-color: #001E60 !important;
 }
 
 .bg-primary-gradient {
@@ -115,7 +109,7 @@ a.text-light:hover , a.text-light:active  {
 }
 
 .bg-secondary {
-  background-color: #56C3C4 !important;
+  background-color: #a3a6b9 !important;
 }
 
 .bg-secondary-gradient {
@@ -134,8 +128,26 @@ a.text-light:hover , a.text-light:active  {
   overflow: hidden;
 }
 
+.bg-sidebar {
+  background-color: #2e2d70 !important;
+}
+
 .h2px {
   height: 2px;
+}
+
+time {
+  color: #8e8e91;
+  font-size: 1rem;
+}
+
+.read-more {
+  color: #2e2d70;
+}
+
+.read-more:hover {
+  color: #DF6B00;
+  text-decoration:none;
 }
 
 .custom-toggler.navbar-toggler {

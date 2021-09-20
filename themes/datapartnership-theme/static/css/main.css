@@ -6,6 +6,15 @@ h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
     font-family: 'Asap Condensed', sans-serif;
 }
 
+a:link {
+  color: #2e2d70; 
+}
+
+a:hover {
+  color: #DF6B00;
+  text-decoration: none;
+}
+
 footer {
   padding:45px 0 20px;
   font-size:15px;
@@ -51,6 +60,7 @@ footer a:hover {
   margin-top: -15px;
 }
 
+/* Navbar */
 .navbar {
   background-color: #001E60;
 }
@@ -74,28 +84,22 @@ footer a:hover {
   padding-right: 1em;
 }
 
-a.text-light:hover , a.text-light:active  {
-  color: #f8f9fa !important;
-}
-
+/* Single Page */
 .section-uppercase {
   font-size: 40px;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.bg-primary {
-  background-color: #001E60 !important;
+a.text-light:hover , a.text-light:active  {
+  color: #f8f9fa !important;
 }
 
 .text-primary ,  a.text-primary:hover, a.text-primary:active {
   color:  #001E60 !important;
   text-decoration: none;
+}
+
+.bg-primary {
+  background-color: #001E60 !important;
 }
 
 .bg-primary-gradient {
@@ -132,12 +136,18 @@ a.text-light:hover , a.text-light:active  {
   height: 2px;
 }
 
+time {
+  color: #8e8e91;
+  font-size: 1rem;
+}
+
 .read-more {
-  color: #3DA3A8;
+  color: #2e2d70;
 }
 
 .read-more:hover {
   color: #DF6B00;
+  text-decoration:none;
 }
 
 .custom-toggler.navbar-toggler {
@@ -232,11 +242,6 @@ a.btn-primary {
 }
 
  /* Timeline */
-time {
-  color: #8e8e91;
-  font-size: 1rem;
-}
-
  #timeline-content {
   text-align: center;
 }

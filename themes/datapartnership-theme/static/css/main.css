@@ -321,3 +321,7 @@ a.btn-primary {
 .card-grid-container {
   min-height: 64vh;
 }
+
+.icon-text {
+  padding:45px 0 20px;
+}

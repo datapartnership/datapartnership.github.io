@@ -6,15 +6,6 @@ h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
     font-family: 'Asap Condensed', sans-serif;
 }
 
-a:link {
-  color: #2e2d70; 
-}
-
-a:hover {
-  color: #DF6B00;
-  text-decoration: none;
-}
-
 footer {
   padding:45px 0 20px;
   font-size:15px;
@@ -139,6 +130,21 @@ a.text-light:hover , a.text-light:active  {
 time {
   color: #8e8e91;
   font-size: 1rem;
+}
+
+.authors {
+  color: #2e2d70;
+}
+
+.authors:hover {
+  color: #DF6B00;
+  text-decoration:none;
+
+}
+
+.blog-content p a {
+  color: #DF6B00;
+  text-decoration:none;
 }
 
 .read-more {

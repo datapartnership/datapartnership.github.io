@@ -7,25 +7,48 @@ h1, h2, h3, h4, h5, h6 , .h1, .h2, .h3 , .h4, .h5 , .h6 {
 }
 
 footer {
-  position: relative;
-  bottom: 0;
-  text-align: center
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
 }
 
-footer li {
-  display: inline-block;
-  padding-right: 36px;
-  padding-top: 10px;
+footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
 }
 
-footer svg {
-  color: #8e8e91;
+footer h6
+{
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
 }
-
-footer a {
-  color: #001E60;
-  font-size: 18px;
-  font-family: 'Asap Condensed';
+footer a
+{
+  color:#001E60;
+}
+footer a:hover
+{
+  color:#F7951D;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#737373
+}
+.copyright-text {
+  margin:0
 }
 
 time {
@@ -297,4 +320,8 @@ a.btn-primary {
 
 .card-grid-container {
   min-height: 64vh;
+}
+
+.icon-text {
+  padding:45px 0 20px;
 }

@@ -8,14 +8,12 @@
 
 ## About
 
-Our blog is a [Hugo](https://gohugo.io/) website that is deployed on [GitHub Pages](https://pages.github.com) with [GitHub Actions](https://github.com/features/actions).
+Our blog is a [Hugo](https://gohugo.io/) website that is deployed on [GitHub Pages](https://pages.github.com) with [GitHub Actions](https://github.com/features/actions) and publicly available at https://datapartnership.org.
 
-## 
-- On every commit to `develop`, the website is published to https://mystifying-bhabha-d57f96.netlify.app.
-- On every commit to `master`, the website published to https://datapartnership.org.
+## Contributing
+
+See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## License
 
 © Development Data Partnership
-
-

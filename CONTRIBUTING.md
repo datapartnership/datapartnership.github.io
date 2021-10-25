@@ -39,7 +39,9 @@ When writing about your project, consider the template and the [TOML](https://to
 - title: Select title
 - authors: Select authors
 - date: Select time reference when your post is published, e.g. `2020-03-19T20:12:14Z`
-- type: Select type, i.e. *"Case Study", "Article", "Events" or "Tutorial"*.
+- post_type: Select type, i.e. *"Case Study", "Article", "Events" or "Tutorial"*.
+- tags: Select one or more tags.
+- links: Select one or more external (Read more) links.
 - partner: Select Data Partner(s) associated with this project, e.g. `["Facebook, Mapbox"]`.
 - dev_partner: Select Development Partner(s) associated with this project, e.g. `["World Bank"]`.
 
@@ -57,8 +59,27 @@ dev_partner = ["World Bank"]
 
 ### Case Study Template
 
-- Challenge: Provide a brief introduction about the project and theme of study as well as describe the main problem related to it
+```{markdown}
++++
+title =
+authors =
+post_type =
+partner =
+dev_partner =
+tags =
+links =
+date =
++++
 
-- Solution: Describe into more details about the project and what solutions it proposes to solve a specific issue. Additionally, do not forget to describe a little bit about the dataset or data resource used on this initiative that was provided by a Data Partners
+## Challenge
 
-- Impact: The final and conclusive part of your text describes the achievement and results that were obtained by implementing the referred solution
+Provide a brief introduction about the project and theme of study as well as describe the main problem related to it.
+
+## Solution
+
+Describe into more details about the project and what solutions it proposes to solve a specific issue. Additionally, do not forget to describe a little bit about the dataset or data resource used on this initiative that was provided by a Data Partners.
+
+## Impact
+
+The final and conclusive part of your text describes the achievement and results that were obtained by implementing the referred solution.
+```

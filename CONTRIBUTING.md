@@ -4,8 +4,9 @@
 
 First off, visit our [blog](https://datapartnership.org/updates/) to explore and learn more about news and projects. Our blog is a [Hugo](https://gohugo.io/) static site that is deployed on [GitHub Pages](https://pages.github.com) with [GitHub Actions](https://github.com/features/actions). If not familiar with Hugo, check out a [Quick Start](https://gohugo.io/getting-started/quick-start/).
 
-- On every commit to `develop`, the website is published to https://mystifying-bhabha-d57f96.netlify.app.
-- On every commit to `master`, the website is published to https://datapartnership.org.
+- On each new pull request, a preview will be available. The deploy preview will be posted by the `netlify bot` on the comments.
+
+- On each commit to `main`, the website is published to https://datapartnership.org.
 
 ## How to post/edit on the Partnership blog
 

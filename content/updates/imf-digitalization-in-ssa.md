@@ -1,7 +1,7 @@
 +++
 date = 2021-10-25T00:00:00Z
 title = "Digitalization and Resilience to COVID-19 Shocks: Evidence from Sub-Saharan Africa"
-authors = ["Lamya Keiji", "Ruifan Shi"]
+authors = ["Ruifan Shi"]
 post_type = "Case Study"
 dev_partner = ["International Monetary Fund"]
 partner = ["Ookla"]
@@ -18,7 +18,9 @@ Recent research has shown that digitalization increases firms' productivity and 
 With the purpose of informing policymakers and facilitating policies that promote digital connectivity and building household resiliency, this empirical study assesses whether households with mobile connectivity withstood COVID-19 shocks better regarding income, employment, food security, and education.
 
 ![Digitalization in Sub-Saharan Africa](/digitalization_SSA_1.PNG)
+Source: Mobile coverage maps (3G and 4G) are based on authors’ calculations using CoverageRight™ data of 2019 Q4 provided by Ookla®.
 ![Digitalization in Sub-Saharan Africa](/digitalization_SSA_2.PNG)
+Source: Based on authors’ calculations using CoverageRight™ data of 2021 Q2 provided by Ookla-®.
 
 ## Impact
 

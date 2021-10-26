@@ -13,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        # with:
-        #   submodules: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -25,7 +23,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        if: github.ref == 'refs/heads/master' && job.status == 'success'
+        if: github.ref == 'refs/heads/main' && job.status == 'success'
         uses: peaceiris/actions-gh-pages@v3
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}

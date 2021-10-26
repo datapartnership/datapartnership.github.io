@@ -18,9 +18,10 @@ Recent research has shown that digitalization increases firms' productivity and 
 With the purpose of informing policymakers and facilitating policies that promote digital connectivity and building household resiliency, this empirical study assesses whether households with mobile connectivity withstood COVID-19 shocks better regarding income, employment, food security, and education.
 
 ![Digitalization in Sub-Saharan Africa](/digitalization_SSA_1.PNG)
-Source: Mobile coverage maps (3G and 4G) are based on authors’ calculations using CoverageRight™ data of 2019 Q4 provided by Ookla®.
+_Source: Mobile coverage maps (3G and 4G) are based on authors’ calculations using CoverageRight™ data of 2019 Q4 provided by Ookla®._
+
 ![Digitalization in Sub-Saharan Africa](/digitalization_SSA_2.PNG)
-Source: Based on authors’ calculations using CoverageRight™ data of 2021 Q2 provided by Ookla-®.
+_Source: Based on authors’ calculations using CoverageRight™ data of 2021 Q2 provided by Ookla-®._
 
 ## Impact
 

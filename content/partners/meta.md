@@ -1,6 +1,6 @@
 ---
-title: Facebook
-logo: /partners/facebook.svg
+title: Meta
+logo: /partners/meta.svg
 ---
 
 

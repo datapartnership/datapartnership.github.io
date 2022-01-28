@@ -1,6 +1,6 @@
 +++
 date = 2022-01-28T13:02:14Z
-title = "Understanding the post COVID-19 labor market in Latin America and the Caribbean"
+title = "Understanding the Post COVID-19 Labor Market in Latin America and the Caribbean"
 authors = [" Pedro Gagliardi", "Eugenia Valdez Tamayo"]
 post_type = "Case Study"
 dev_partner = ["Inter-American Development Bank"]

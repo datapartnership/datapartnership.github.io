@@ -12,7 +12,7 @@ links = ["https://blogs.iadb.org/conocimiento-abierto/en/development-data-partne
 
 ## Challenge
 
-The [Covid-19 Labor Markets Observatort](https://observatoriolaboral.iadb.org/es/), managed by the Inter-American Development Bank Labor Markets Division, aimed to understand how COVID-19 has affected labor markets in Latin America and the Caribbean.
+The [Covid-19 Labor Markets Observatory](https://observatoriolaboral.iadb.org/es/), managed by the Inter-American Development Bank Labor Markets Division, aimed to understand how COVID-19 has affected labor markets in Latin America and the Caribbean.
 
 ## Solution
 

@@ -1,11 +1,11 @@
 +++
 date = 2022-01-28T13:02:14Z
 title = "Understanding the post COVID-19 labor market in Latin America and the Caribbean"
-authors = [" Pedro Gagliardi", "Eugenia Valdez Tamayo "]
+authors = [" Pedro Gagliardi", "Eugenia Valdez Tamayo"]
 post_type = "Case Study"
 dev_partner = ["Inter-American Development Bank"]
 partner = ["LinkedIn"]
-tags = ["Labor Markets", "COVID19"]
+tags = ["Labor Markets", "COVID-19"]
 links = ["https://blogs.iadb.org/conocimiento-abierto/en/development-data-partnership-case-study/", "https://observatoriolaboral.iadb.org/en/"]
 
 +++
@@ -22,7 +22,7 @@ The Observatory leveraged LinkedIn data to understand the fluctuations of hiring
 
 LinkedIn’s hiring rate dataset showed an overall recovery in professional employment. This data complemented other traditional information sources (like household surveys) included in the observatory. The combination of both datasets provided a rich overview of the labor market dynamics in the whole region.
 
-Some of the conclusions are:  
+Some of the conclusions are:
 
 * From May 2020 to May 2021, all countries started evidencing a fast recovery.
 * In April 2021, Peru, Colombia, and Mexico had almost recovered their pre-pandemic hiring rate levels.
@@ -31,26 +31,21 @@ Some of the conclusions are:
 * In contrast, LinkedIn hiring rates for Recreation & Travel, Education, Public Administration, and Design Industries were the most severely affected have not recovered to the levels seen in the pre-pandemic for the countries mentioned above at the same time period
 
 <figure align="center">
-
-
   <img src="/Linkedln_evolucion_de-la-tasa-de-contratacion_en_LinkedIn_Abril_2021_compared_to_March_2020.png"/>
   <figcaption> Evolution of the hiring rate on LinkedIn by country (April 2021 compared to March 2020)</figcaption>
   <figcaption> Yellow line: overall average </figcaption>
   <figcaption> Blue line: country average (Argentina)</figcaption>
   <figcaption> Source: LinkedIn data through the Data Partnership </figcaption>
-
 </figure>
 
 <br>
 
 <figure align="center">
-
   <img src="/LinkedIn_evolucion_de_la_tasa_de_contratacion_en_LinkedIn_by_industry.png"/>
   <figcaption> Evolution of the hiring rate on LinkedIn by industry (April 2021 compared to March 2020)</figcaption>
   <figcaption> Yellow line: overall average </figcaption>
   <figcaption> Blue line: industry average (Software and IT services) </figcaption>
   <figcaption> Source: LinkedIn data through the Data Partnership</figcaption> </figcaption>
-
 </figure>
 
 To further understand how LinkedIn data served this initiative, you can visit the full report on the [Observatory Website](https://observatoriolaboral.iadb.org/es/teletrabajo/) as well as find insights on its [public data repository.](https://observatoriolaboral.iadb.org/es/empleo/)

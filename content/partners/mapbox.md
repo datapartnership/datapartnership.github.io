@@ -1,6 +1,4 @@
 ---
 title: Mapbox
-logo: /partners/mapbox.svg
+logo: /partners/mapbox_black.svg
 ---
-
-

@@ -3,29 +3,27 @@ name: github pages
 on:
   push:
     branches:
-    - master
+    - main
   pull_request:
     branches:
-    - master
+    - main
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        # with:
-        #   submodules: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.82.0'
+          hugo-version: '0.88.0'
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
-        if: github.ref == 'refs/heads/master' && job.status == 'success'
+        if: github.ref == 'refs/heads/main' && job.status == 'success'
         uses: peaceiris/actions-gh-pages@v3
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -5,7 +5,7 @@ authors = ["Niccolo Comini"]
 dev_partner = ["World Bank"]
 partner = ["Ookla"]
 post_type = "Article"
-tags = ["Digital Developmet", "COVID-19"]
+tags = ["Digital Development", "COVID-19"]
 links = [
     "http://pubdocs.worldbank.org/en/275791607471359158/Analytical-Insights-Series-Dec-2020.pdf",
 ]

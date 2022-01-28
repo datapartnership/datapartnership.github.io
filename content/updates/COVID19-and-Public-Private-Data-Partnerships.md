@@ -4,7 +4,7 @@ title = "Addressing COVID-19 through Public-Private Data Partnerships: Where Do 
 authors = ["Bruno Nuno"]
 partner = ["Facebook", "Mapbox"]
 dev_partner = ["World Bank"]
-
+tags = ["Health", "COVID-19"]
 +++
 **Background**
 

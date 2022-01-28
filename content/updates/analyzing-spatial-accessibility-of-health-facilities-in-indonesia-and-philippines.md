@@ -9,6 +9,7 @@ post_type = "Case Study"
 links = [
     "https://unstats.un.org/unsd/undataforum/blog/planning-for-equitable-access-to-health-infrastructure/",
 ]
+tags = ["Health", "Transport"]
 +++
 **Challenge**: Indonesia and the Philippines are archipelagos, where geographic and administrative boundaries are similar. The collection of islands is home to different concentrations of ethnic, cultural, linguistic, and socioeconomic groups, with an imbalanced distribution of health facilities and physicians.
 

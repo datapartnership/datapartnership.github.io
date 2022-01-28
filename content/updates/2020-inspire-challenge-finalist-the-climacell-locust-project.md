@@ -5,9 +5,9 @@ title = "2020 Inspire Challenge Finalist - The ClimaCell Locust Project"
 authors = ["Rajee Kanagavel"]
 dev_partner = ["World Bank"]
 post_type = "Event"
-tags = ["Climate Change", "Food"]
+tags = ["Agriculture and Food", "Climate Change"]
 aliases = [
-   "2020-inspire-challenge-finalist-locust-project", 
+   "2020-inspire-challenge-finalist-locust-project",
 ]
 links = [
    "https://bigdata.cgiar.org/inspire/inspire-challenge-2020",

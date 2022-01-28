@@ -5,7 +5,7 @@ authors = ["Ludovic Cartigny", "Xavier Espinet"]
 post_type = "Case Study"
 dev_partner = ["World Bank"]
 partner = ["WhereIsMyTransport"]
-tags = ["Transportation"]
+tags = ["Transport"]
 links = [
     "https://blogs.worldbank.org/transport/mapping-out-mobility-cap-haitien-successful-building-block-approach"]
 +++
@@ -14,7 +14,7 @@ links = [
 
 Haitian cities suffer from poor transportation services, and the lack of data from existing services limits improvement efforts. Tap Taps are the most popular motorized transportation mode employed across Haiti, yet there is not enough data on them as they are informal, private, and marginally regulated. So far, traditional approaches have failed to capture the extent of the Tap Taps network and its users' mobility patterns - many of whom represent the poorest and most vulnerable residents.
 
-The World Bank transport team decided to combine traditional and non-traditional data collection methods and approaches to overcome the data gaps and map urban mobility in Cap-Haïtien, Haiti's second-largest urban area.  
+The World Bank transport team decided to combine traditional and non-traditional data collection methods and approaches to overcome the data gaps and map urban mobility in Cap-Haïtien, Haiti's second-largest urban area.
 
 <figure align="center">
   <img src="/cap_haitien_maps_1.png"/>

@@ -8,6 +8,7 @@ dev_partner = ["World Bank"]
 links = [
     "https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond",
 ]
+tags = ["Agriculture and Food"]
 +++
 **Challenge:** The worst locust upsurge in at least 25 years is hitting parts of Africa, the Arabian Peninsula and Western Asia, and over 40 million people who are already food insecure find their food supply and livelihoods threatened.
 

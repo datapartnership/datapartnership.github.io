@@ -5,6 +5,7 @@ authors = ["Johanna Belanger", "Walker Kosmidou-Bradley"]
 dev_partner = ["World Bank"]
 partner = ["Mapbox"]
 post_type = "Case Study"
+tags = ["Transport"]
 +++
 
 **Challenge**: Connected and maintained transportation infrastructure are critical to sustainable economic development, but most current estimation methods of road quality are labor, time, and cost intensive. Currently, municipalities rely on stationary approaches to obtain traffic data that are both labor and sensor-intensive. In a break from this historical approach, we rely on [Mapbox traffic telemetry data](https://www.mapbox.com/traffic-data) combined with [GOSTnets](https://github.com/worldbank/GOSTnets), a World Bank-developed open-source network analysis toolset, to identify underperforming road segments and simulate traffic reducing improvements for critical tourism hotspots across the country.

@@ -9,6 +9,7 @@ links = [
     "https://blogs.iadb.org/conocimiento-abierto/en/",
     "https://bidlab.org/es/map-LAC-innovators-Covid-19",
 ]
+tags = ["Jobs and Development", "Social Protection", "COVID-19"]
 +++
 
 **Challenge**: The social and economic disruption caused by Covid-19 led to numerous challenges to conduct businesses, provide essential services, and attend to the most basic well-being needs around the globe. This complex scenario brought by the pandemic fostered entrepreneurs in Latin America and the Caribbean to provide solutions for education, mental health, logistics, management and many other sectors. However, most of the entrepreneurs’ efforts were decentralized and sometimes disconnected from other initiatives that could attend to diverse necessities from citizens.  In response to this problem, IDB Lab members organized and mapped all these businesses' attempts to stimulate collaboration in the region.

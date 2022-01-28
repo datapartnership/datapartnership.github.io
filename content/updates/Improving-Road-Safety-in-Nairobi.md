@@ -5,6 +5,7 @@ authors = ["Holly Krambeck"]
 post_type = "Case Study"
 partner = ["Waze"]
 dev_partner = ["World Bank"]
+tags = ["Transport"]
 +++
 
 **Challenge:** Kenya has one of the highest estimated crash fatality rates worldwide but is challenged to address the problem without adequate data.

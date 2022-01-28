@@ -5,6 +5,7 @@ authors = ["Fatima Arroyo"]
 type = "Case Study"
 partner = ["WhereIsMyTransport"]
 dev_partner = ["World Bank"]
+tags = ["Disaster Risk Management", "Transport"]
 links = [
     "https://blogs.worldbank.org/transport/data-scarce-environments-disruptive-thinking-needed-freetown-transport-resilience",
 ]

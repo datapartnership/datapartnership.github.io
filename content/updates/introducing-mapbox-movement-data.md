@@ -8,7 +8,6 @@ partner = ["Mapbox"]
 links = [
     "https://www.mapbox.com/blog/development-data-partnership-at-the-world-bank-annual-meetings",
 ]
-
 +++
 Following the [Development Data Partnership launch event at the World Bank-IMF Annual Meetings](https://www.imfconnect.org/content/imf/en/annual-meetings/calendar/open/2020/10/13/development_datapartnershipbridgingthedatagapforpublicgood_158127.html?calendarCategory=T2ZmaWNpYWwvQnkgSW52aXRhdGlvbg==.UHJlc3M=.T3Blbg== "video-link"), Mapbox announced a new dataset on movement data for mobility insights.
 

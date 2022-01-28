@@ -8,6 +8,7 @@ dev_partner = ["World Bank"]
 links = [
     "https://engineering.fb.com/connectivity/electrical-grid-mapping/",
 ]
+tags = ["Energy"]
 +++
 
 **Challenge:** When planning connectivity deployments in emerging markets, it is important to have a clear picture of where existing power lines are placed. This information helps us make better decisions about where to focus our efforts, how we design the network, and how we source the equipment we’ll need. However, this information in developing countries is often outdated, inaccurate, or too low resolution to be useful.

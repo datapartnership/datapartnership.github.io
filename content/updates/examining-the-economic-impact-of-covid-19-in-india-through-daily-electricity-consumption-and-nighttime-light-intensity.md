@@ -4,7 +4,7 @@ title = "Examining the Economic Impact of India’s Zone Classification to conta
 authors = ["Robert Beyer"]
 dev_partner = ["World Bank"]
 partner = ["Facebook"]
-tags = ["COVID19"]
+tags = ["Social Protection", "COVID-19"]
 links = [
     "http://documents1.worldbank.org/curated/en/604661606761245743/pdf/Lights-Out-COVID-19-Containment-Policies-and-Economic-Activity.pdf",
 ]

@@ -8,7 +8,7 @@ partner = ["Facebook"]
 links = [
     "https://blogs.worldbank.org/eastasiapacific/confronting-covid-19-second-waves-how-big-data-good-can-inform-policy-vietnam",
 ]
-tags = ["COVID19"]
+tags = ["Transport", "COVID-19"]
 +++
 **Challenge:** On July 24, after 99 days of zero community-transmitted COVID-19 infections, a 57 year-old man tested positive in Danang, a major city in central Vietnam with close to 1.5 million inhabitants. Within three weeks, almost 600 people were infected, over 25 deaths recorded. Vietnamese authorities implemented a strict but localized lockdown in Danang.
 

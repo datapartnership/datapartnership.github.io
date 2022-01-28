@@ -5,6 +5,7 @@ authors = ["Nicholas Jones"]
 post_type = "Case Study"
 dev_partner = ["World Bank"]
 partner = ["Cuebiq"]
+tags = ["Health", "Inequality and Shared Prosperity", "Social Protection"]
 links = [
     "https://blogs.worldbank.org/sustainablecities/poor-people-respond-differently-stay-home-orders-heres-what-data-says",
 ]

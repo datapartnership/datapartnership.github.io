@@ -5,9 +5,8 @@ authors = [" Pedro Gagliardi", "Eugenia Valdez Tamayo"]
 post_type = "Case Study"
 dev_partner = ["Inter-American Development Bank"]
 partner = ["LinkedIn"]
-tags = ["Labor Markets", "COVID-19"]
+tags = ["Jobs and Development", "COVID-19"]
 links = ["https://blogs.iadb.org/conocimiento-abierto/en/development-data-partnership-case-study/", "https://observatoriolaboral.iadb.org/en/"]
-
 +++
 
 ## Challenge

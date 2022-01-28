@@ -5,7 +5,7 @@ authors = ["Alessandra Sozzi"]
 post_type = "Case Study"
 dev_partner = ["International Monetary Fund"]
 partner = ["ESRI"]
-tags = ["Climate Change"]
+tags = ["Climate Change", "Social Protection"]
 links = [
     "https://climatedata.imf.org",
 ]

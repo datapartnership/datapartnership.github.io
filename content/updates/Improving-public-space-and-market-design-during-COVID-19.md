@@ -5,12 +5,12 @@ authors = ["Patricio Zambrano", "Antonio Vazquez"]
 post_type = "Case Study"
 dev_partner = ["Inter-American Development Bank"]
 partner = ["Veraset"]
-tags = ["COVID19"]
+tags = ["Urban Development", "COVID-19"]
 +++
 
 Lima’s Central Market has always been one of the busiest and liveliest in Lima, Peru. Before the pandemic, some hundreds of people gathered there to buy and sell groceries, clothes, electronics--you name it. Located just a few streets from Lima's Chinatown and within Barrios Altos, one of the city’s oldest neighborhoods, it is also rich in culture and an important part of the city's urban fabric.
 
-COVID-19 has had a tremendous impact on Peru: the country has one of the highest death tolls in the world. The Central Market, and many other markets and public spaces like it, have had an equally difficult time. Quarantine measures forced vendors to shut their operations. However, in a country where up to 70% of people live and work in conditions of informality, few could afford not to travel to markets to earn a living and to buy essential wares. As a result, markets have become contagion hotspots, yet they remain an important economic and social asset for citizens. 
+COVID-19 has had a tremendous impact on Peru: the country has one of the highest death tolls in the world. The Central Market, and many other markets and public spaces like it, have had an equally difficult time. Quarantine measures forced vendors to shut their operations. However, in a country where up to 70% of people live and work in conditions of informality, few could afford not to travel to markets to earn a living and to buy essential wares. As a result, markets have become contagion hotspots, yet they remain an important economic and social asset for citizens.
 
 ## Challenge
 
@@ -26,7 +26,7 @@ The three major goals of this partnership were: (1) prevent contagion; (2) impro
 
 ## Solution
 
-Using Veraset’s Movement data, the IDB’s [Housing and Urban Development](https://www.iadb.org/en/urban-development-and-housing/housing-and-urban-development) team analyzed visitors’ movement in market areas, identifying origin districts and activity hotspots throughout the day. By making a comparison between pre- and post-pandemic flows, the team was able to measure the population dynamic in different regions around Lima municipality. 
+Using Veraset’s Movement data, the IDB’s [Housing and Urban Development](https://www.iadb.org/en/urban-development-and-housing/housing-and-urban-development) team analyzed visitors’ movement in market areas, identifying origin districts and activity hotspots throughout the day. By making a comparison between pre- and post-pandemic flows, the team was able to measure the population dynamic in different regions around Lima municipality.
 
 <figure align="center">
   <img src="/Improving-public-space-and-market2.gif"/>

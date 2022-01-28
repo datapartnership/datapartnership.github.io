@@ -5,7 +5,7 @@ authors = ["Gabriel Vicente", "Stefani Soto"]
 post_type = "Case Study"
 dev_partner = ["World Bank"]
 partner = ["Facebook"]
-tags = ["COVID-19"]
+tags = ["Health", "COVID-19"]
 links = [
     "https://dataforgood.fb.com/tools/symptomsurvey/",
     "https://docs.datapartnership.org/notebooks/facebook/examples/facebook-covid19-trends-and-impact-survey.html",

@@ -2,10 +2,10 @@
 date = 2020-12-14T05:00:00Z
 title = "The Effect of COVID-19 Lockdown Measures on Internet Speed"
 authors = ["Niccolo Comini"]
-tags = ["COVID19"]
 dev_partner = ["World Bank"]
 partner = ["Ookla"]
 post_type = "Article"
+tags = ["Digital Developmet", "COVID-19"]
 links = [
     "http://pubdocs.worldbank.org/en/275791607471359158/Analytical-Insights-Series-Dec-2020.pdf",
 ]

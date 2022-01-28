@@ -5,7 +5,7 @@ authors = ["Rajee Kanagavel"]
 post_type = "Case Study"
 partner = ["Mapbox"]
 dev_partner = ["World Bank"]
-
+tags = ["Jobs and Development"]
 +++
 
 **Challenge:** Poor transport facilities and infrastructure are a major hindrance to Bangladesh’s economic development. The road network in Dhaka is severely congested. The driving duration to get from one place to another in a road network has traditionally been extrapolated by assigning a driving speed to each road class. While this approach has produced sensible travel time estimates, the highly congested nature of Dhaka means that solely using expected road speeds would result in exaggerated accessibility scores.

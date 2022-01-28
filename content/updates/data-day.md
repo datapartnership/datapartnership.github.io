@@ -4,6 +4,7 @@ title = "Data Partner Lightning Talks"
 authors = ["Holly Krambeck"]
 post_type = "Event"
 dev_partner = ["World Bank"]
+categories = ["Announcement"]
 +++
 
 On February 13, 2019, the Data Partnership (formerly Data Collaboratives), for the first time, brought together Partners and staff. More than 200 colleagues joined the standing-room-only event, in person and online, learning about how private data partnerships can be made to work for public good.

@@ -5,10 +5,10 @@ authors = ["Sreelakshmi Papineni"]
 post_type = ["Case Study"]
 dev_partner = ["World Bank"]
 partner = ["Facebook"]
+tags = ["Gender", "Jobs and Development"]
 links = [
     "https://blogs.worldbank.org/voices/tackling-global-profitarchy-gender-and-choice-business-sector",
 ]
-tags = ["Gender Equality"]
 +++
 
 **Challenge:** Despite significant progress in women’s educational attainment and higher female labor force participation rates in many countries, progress in closing the gender pay gap, which takes the ratio of median earnings of all women to all men, has been slow. While there are a multitude of factors at play when it comes to the gender earnings gap in entrepreneurship, sectoral segregation has been identified as an important determinant.  Women tend to sort into different sectors than men, and the traditionally female sectors are characterized by lower returns.

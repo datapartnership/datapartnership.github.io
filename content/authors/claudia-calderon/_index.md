@@ -1,3 +1,3 @@
 ---
-name: Claudia Calderon Machicado
+name: Claudia Calderon
 ---

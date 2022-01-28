@@ -1,6 +1,6 @@
 +++
 date = 2021-06-16T13:02:14Z
-title = "Improving public space and market design during COVID-19"
+title = "Improving Public Space and Market Design During COVID-19"
 authors = ["Patricio Zambrano", "Antonio Vazquez"]
 post_type = "Case Study"
 dev_partner = ["Inter-American Development Bank"]

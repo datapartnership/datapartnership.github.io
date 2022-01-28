@@ -1,6 +1,6 @@
 +++
 date = 2021-02-26T13:02:14Z
-title = "Mapping entrepreneurs' response to COVID-19 in Latin America and the Caribbean"
+title = "Mapping Entrepreneurs' Response to COVID-19 in Latin America and the Caribbean"
 authors = ["Julien Collaer", "Cristina Nolasco"]
 type = "Case Study"
 partner = ["ESRI"]

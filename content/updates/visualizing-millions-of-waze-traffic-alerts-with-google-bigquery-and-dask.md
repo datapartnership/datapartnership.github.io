@@ -5,7 +5,6 @@ authors = ["Gabriel Vicente"]
 categories = ["Tutorial"]
 dev_partner = ["World Bank"]
 partner= ["Waze"]
-post_type =  "Tutorial"
 tags = ["Transport", "Urban Development"]
 links = [
   "https://www.waze.com/wazeforcities",
@@ -51,7 +50,7 @@ Check out the live sneak peek on [visualizations](https://docs.datapartnership.o
 
 Starting in 2019, Waze has been providing access to a historical archive of traffic data on Google Cloud's **Big Query**. [BigQuery](https://support.google.com/waze/partners/answer/10715739) is a fully-managed data tool that enables interactive SQL-like queries, while heavy lifting behind the curtains, and facilitating layering of Waze data with other datasets.
 
-Using Big Query's [geography fucntions](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions), we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.
+Using Big Query's [geography functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions), we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.
 
 <figure align="center">
   <img src="/waze-big-query.png"/>
@@ -66,7 +65,7 @@ Let's import the files into [Dask DataFrame](https://docs.dask.org/en/stable/dat
 
 ```python
 ddf = dd.read_csv(
-        "s3://wbg-waze/BR/alerts/2021/*.csv.gz",
+        "s3://wbg-waze/bq/BR/alerts/2021/*.csv.gz",
         blocksize=None,
         compression="gzip",
 )

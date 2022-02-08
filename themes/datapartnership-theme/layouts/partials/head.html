@@ -1,66 +1,75 @@
 <head>
-    <!-- Security Headers -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Security Headers -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ .Title }}</title>
-    <style id="antiClickjack">
-        body{display:none !important;}
-    </style>
-    <meta name="description" content="{{ $.Site.Params.description }}">
-    <meta name="google-site-verification" content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8" />
-    <meta name="keywords"
-        content="datapartnership.com, international consortium, data consortium, data international development, data international public good, data public good, data global social impact, data social good, data partnership, public private data partnership" />
+  <title>{{ .Title }}</title>
+  <meta name="description" content="{{ $.Site.Params.description }}">
+  <meta name="google-site-verification" content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8" />
+  <meta name="keywords"
+    content="datapartnership.com, international consortium, data consortium, data international development, data international public good, data public good, data global social impact, data social good, data partnership, public private data partnership" />
 
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <!-- Custom stylesheet -->
-    <link rel="stylesheet" href="/css/main.css">
+  <!-- Custom stylesheet -->
+  <link rel="stylesheet" href="/css/main.css">
 
-    <!-- Google Fonts -->
-    <link rel=" preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Asap+Condensed&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link rel=" preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Asap+Condensed&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <!-- Social Media -->
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:description" content="{{ $.Site.Params.description }}" />
-    <meta property="og:image" content="https://datapartnership.org/images/card.png" />
+  <!-- Social Media -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ $.Site.Params.description }}" />
+  <meta property="og:image" content="https://datapartnership.org/images/card.png" />
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@DevDataPship">
-    <meta name="twitter:site" content="@DevDataPship">
-    <meta name="twitter:title" content="{{ .Title }}" />
-    <meta name="twitter:description" content="{{ $.Site.Params.description }}" />
-    <meta name="twitter:image" content="https://datapartnership.org/images/card.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@DevDataPship">
+  <meta name="twitter:site" content="@DevDataPship">
+  <meta name="twitter:title" content="{{ .Title }}" />
+  <meta name="twitter:description" content="{{ $.Site.Params.description }}" />
+  <meta name="twitter:image" content="https://datapartnership.org/images/card.png" />
 
-    <script type="text/javascript">
-	    if (self === top) {
-		var antiClickjack = document.getElementById("antiClickjack");
-		antiClickjack.parentNode.removeChild(antiClickjack);
-	    } else {
-		top.location = self.location;
-	    }
-    </script>
+  <!-- antiClickjack -->
+  <style id="antiClickjack">
+    body {
+      display: none !important;
+    }
+  </style>
+  <script type="text/javascript">
+    if (self === top) {
+      var antiClickjack = document.getElementById("antiClickjack");
+      antiClickjack.parentNode.removeChild(antiClickjack);
+    } else {
+      top.location = self.location;
+    
+  </script>
 
+  <!-- BokehJS -->
+  <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js"></script>
 
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+  <!-- deck.gl -->
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js"></script>
+  <script src='https://cdn.jsdelivr.net/npm/@deck.gl/jupyter-widget@~8.5.*/dist/index.js'></script>
 
-        gtag('config', '{{ .Site.Params.googleAnalytics }}');
-    </script>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-    <script type="text/javascript" src="/js/ga.js"></script>
+    gtag('config', '{{ .Site.Params.googleAnalytics }}');
+  </script>
+
+  <script type="text/javascript" src="/js/ga.js"></script>
 </head>

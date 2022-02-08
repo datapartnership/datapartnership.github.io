@@ -146,7 +146,7 @@ February 08, 2022
 <p>Check out the live sneak peek on <a href=https://docs.datapartnership.org/pages/visualizations.html>visualizations</a>.</p>
 <h2 id=exporting-waze-data-from-google-big-query>Exporting Waze Data from Google Big Query</h2>
 <p>Starting in 2019, Waze has been providing access to a historical archive of traffic data on Google Cloud&rsquo;s <strong>Big Query</strong>. <a href=https://support.google.com/waze/partners/answer/10715739>BigQuery</a> is a fully-managed data tool that enables interactive SQL-like queries, while heavy lifting behind the curtains, and facilitating layering of Waze data with other datasets.</p>
-<p>Using Big Query&rsquo;s <a href=https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions>geography fucntions</a>, we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.</p>
+<p>Using Big Query&rsquo;s <a href=https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions>geography functions</a>, we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.</p>
 <figure align=center>
 <img src=/waze-big-query.png>
 <figcaption> Waze Alerts available via Google Big Query, filtering São Paulo, Brazil.</figcaption>
@@ -155,7 +155,7 @@ February 08, 2022
 <p>After exporting the data files (compressed CSVs), we have to prepare to visualize the large number of traffic alerts, in the order of millions. For that purpose, we leverage all power of <strong>Dask</strong>. <a href=https://dask.org>Dask</a> is a Python library build on top of <a href=https://numpy.org/>NumPy</a> and <a href=https://pandas.pydata.org/>pandas</a>. In addition to the familiar interface - for instance, reading multiple data files, decompressing and much more with a succint syntax and fast implementation - the library enables embarrassing parallelism in a very convenient and efficient way.</p>
 <p>Let&rsquo;s import the files into <a href=https://docs.dask.org/en/stable/dataframe.html>Dask DataFrame</a>,</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python>ddf <span style=color:#f92672>=</span> dd<span style=color:#f92672>.</span>read_csv(
-        <span style=color:#e6db74>&#34;s3://wbg-waze/BR/alerts/2021/*.csv.gz&#34;</span>,
+        <span style=color:#e6db74>&#34;s3://wbg-waze/bq/BR/alerts/2021/*.csv.gz&#34;</span>,
         blocksize<span style=color:#f92672>=</span><span style=color:#66d9ef>None</span>,
         compression<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;gzip&#34;</span>,
 )

@@ -249,4 +249,4 @@ Below the resulting map of more than **5 million Waze Traffic Alerts** in just a
 
 *To access Waze for Cities, see the [documentation](https://docs.datapartnership.org/partners/waze/README.html) and [submit a proposal](https://datapartnership.org/) through the Development Data Partnership Portal.*
 
-*All examples and notebooks are available to the **Partnership's community** on the [GitHub repository](https://github.com/datapartnership/docs-waze). If you haven't already and are staff of a participating organization, [join us on GitHub](https://datapartnership.org/join/) and contribute!*
+*All examples and notebooks are available to the **Partnership's community** on the [GitHub repository](https://github.com/datapartnership/docs-waze) (private). If you haven't already and are staff of a participating organization, [join us on GitHub](https://datapartnership.org/join/)!*

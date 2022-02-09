@@ -1,6 +1,6 @@
 +++
 date = 2022-02-08T00:00:00.000+00:00
-title = "Visualizing Millions of Waze Traffic Alerts with Big Query, H3 and Dask"
+title = "Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask"
 authors = ["Gabriel Vicente"]
 categories = ["Tutorial"]
 dev_partner = ["World Bank"]
@@ -15,7 +15,7 @@ links = [
 
 [Waze for Cities](https://www.waze.com/wazeforcities), a **Data Partner** of the [Development Data Partnership](https://datapartnership.org), connects government partners to high quality, frequent and granular traffic data extremely valuable in informing public sector, transport and urban planning as well as addressing the United Nations's [Sustainable Development Goals](https://sdgs.un.org/goals). Even so, sucessfully leveraging these alternative and often large data sources may pose challenges in building capacity adopting best available data, tools and practices.
 
-In this first installlment of a *Partnership* series, we demonstrate how to analyze and visualize Waze for Cities data using [Google Big Query](https://cloud.google.com/bigquery), [H3](https://h3geo.org) and [Dask](https://dask.org).
+In this first installlment of a *Partnership* series, we demonstrate how to analyze and visualize Waze for Cities data using [Google BigQuery](https://cloud.google.com/bigquery), [H3](https://h3geo.org) and [Dask](https://dask.org).
 
 ## Waze for Cities
 
@@ -46,15 +46,15 @@ Waze makes its traffic data available through a historical archive on Google Clo
 
 Check out the live sneak peek on [visualizations](https://docs.datapartnership.org/pages/visualizations.html).
 
-## Exporting Waze Data from Google Big Query
+## Exporting Waze Data from Google BigQuery
 
-Starting in 2019, Waze has been providing access to a historical archive of traffic data on Google Cloud's **Big Query**. [BigQuery](https://support.google.com/waze/partners/answer/10715739) is a fully-managed data tool that enables interactive SQL-like queries, while heavy lifting behind the curtains, and facilitating layering of Waze data with other datasets.
+Starting in 2019, Waze has been providing access to a historical archive of traffic data on Google Cloud's **BigQuery**. [BigQuery](https://support.google.com/waze/partners/answer/10715739) is a fully-managed data tool that enables interactive SQL-like queries, while heavy lifting behind the curtains, and facilitating layering of Waze data with other datasets.
 
-Using Big Query's [geography functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions), we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.
+Using BigQuery's [geography functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions), we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.
 
 <figure align="center">
   <img src="/waze-big-query.png"/>
-  <figcaption> Waze Alerts available via Google Big Query, filtering São Paulo, Brazil.</figcaption>
+  <figcaption> Waze Alerts available via Google BigQuery, filtering São Paulo, Brazil.</figcaption>
 </figure>
 
 ## Processing Waze Data with Dask

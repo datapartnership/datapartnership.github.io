@@ -2,7 +2,7 @@
 <meta charset=utf-8>
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1">
-<title>Visualizing Millions of Waze Traffic Alerts with Big Query, H3 and Dask</title>
+<title>Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask</title>
 <meta name=description content="A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development.">
 <meta name=google-site-verification content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8">
 <meta name=keywords content="datapartnership.com,international consortium,data consortium,data international development,data international public good,data public good,data global social impact,data social good,data partnership,public private data partnership">
@@ -14,13 +14,13 @@
 <link rel="shortcut icon" href=/favicon.ico type=image/x-icon>
 <link rel=icon href=/favicon.ico type=image/x-icon>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Visualizing Millions of Waze Traffic Alerts with Big Query, H3 and Dask">
+<meta property="og:title" content="Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask">
 <meta property="og:description" content="A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development.">
 <meta property="og:image" content="https://datapartnership.org/images/card.png">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:site content="@DevDataPship">
 <meta name=twitter:site content="@DevDataPship">
-<meta name=twitter:title content="Visualizing Millions of Waze Traffic Alerts with Big Query, H3 and Dask">
+<meta name=twitter:title content="Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask">
 <meta name=twitter:description content="A partnership between international organizations and companies, created to facilitate the use of third-party data in research and international development.">
 <meta name=twitter:image content="https://datapartnership.org/images/card.png">
 <style id=antiClickjack>body{display:none!important}</style>
@@ -101,7 +101,7 @@
 <a class=text-light href=/updates/ aria-current=page>Updates</a>
 </li>
 <li class=breadcrumb-item>
-<a class=text-light href=/updates/visualizing-millions-of-waze-traffic-alerts-with-google-bigquery-and-dask/ aria-current=page>Visualizing Millions of Waze Traffic Alerts with Big Query, H3 and Dask</a>
+<a class=text-light href=/updates/visualizing-millions-of-waze-traffic-alerts-with-google-bigquery-and-dask/ aria-current=page>Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask</a>
 </li>
 </nav>
 </div>
@@ -113,7 +113,7 @@
 <div class="container mt-5 mb-5">
 <div class=row>
 <div class="col-md-8 col-xs-12 single-content blog-content">
-<h1>Visualizing Millions of Waze Traffic Alerts with Big Query, H3 and Dask</h1>
+<h1>Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask</h1>
 <time datetime=" 2022-02-08T00:00:00Z">
 February 08, 2022
 </time>
@@ -125,7 +125,7 @@ February 08, 2022
 <span class="badge badge-primary">Urban Development</span>
 <hr>
 <p><a href=https://www.waze.com/wazeforcities>Waze for Cities</a>, a <strong>Data Partner</strong> of the <a href=https://datapartnership.org>Development Data Partnership</a>, connects government partners to high quality, frequent and granular traffic data extremely valuable in informing public sector, transport and urban planning as well as addressing the United Nations&rsquo;s <a href=https://sdgs.un.org/goals>Sustainable Development Goals</a>. Even so, sucessfully leveraging these alternative and often large data sources may pose challenges in building capacity adopting best available data, tools and practices.</p>
-<p>In this first installlment of a <em>Partnership</em> series, we demonstrate how to analyze and visualize Waze for Cities data using <a href=https://cloud.google.com/bigquery>Google Big Query</a>, <a href=https://h3geo.org>H3</a> and <a href=https://dask.org>Dask</a>.</p>
+<p>In this first installlment of a <em>Partnership</em> series, we demonstrate how to analyze and visualize Waze for Cities data using <a href=https://cloud.google.com/bigquery>Google BigQuery</a>, <a href=https://h3geo.org>H3</a> and <a href=https://dask.org>Dask</a>.</p>
 <h2 id=waze-for-cities>Waze for Cities</h2>
 <p><a href=https://waze.com>Waze</a> has become an indispensable platform where over 140 million monthly drivers check and report accidents, slow downs, incidents and irregularities, adding up to billions of precious data points that could be better repurposed for improving public sector, transport and urban planning.</p>
 <p><img src=/waze-for-cities.png alt></p>
@@ -144,12 +144,12 @@ February 08, 2022
 <figcaption> Waze Alerts reported in Kiev, Ukraine at 21:00 UTC on February 7th, 2022. Data provided by Waze App. Learn more at waze.com</figcaption>
 </figure>
 <p>Check out the live sneak peek on <a href=https://docs.datapartnership.org/pages/visualizations.html>visualizations</a>.</p>
-<h2 id=exporting-waze-data-from-google-big-query>Exporting Waze Data from Google Big Query</h2>
-<p>Starting in 2019, Waze has been providing access to a historical archive of traffic data on Google Cloud&rsquo;s <strong>Big Query</strong>. <a href=https://support.google.com/waze/partners/answer/10715739>BigQuery</a> is a fully-managed data tool that enables interactive SQL-like queries, while heavy lifting behind the curtains, and facilitating layering of Waze data with other datasets.</p>
-<p>Using Big Query&rsquo;s <a href=https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions>geography functions</a>, we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.</p>
+<h2 id=exporting-waze-data-from-google-bigquery>Exporting Waze Data from Google BigQuery</h2>
+<p>Starting in 2019, Waze has been providing access to a historical archive of traffic data on Google Cloud&rsquo;s <strong>BigQuery</strong>. <a href=https://support.google.com/waze/partners/answer/10715739>BigQuery</a> is a fully-managed data tool that enables interactive SQL-like queries, while heavy lifting behind the curtains, and facilitating layering of Waze data with other datasets.</p>
+<p>Using BigQuery&rsquo;s <a href=https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions>geography functions</a>, we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.</p>
 <figure align=center>
 <img src=/waze-big-query.png>
-<figcaption> Waze Alerts available via Google Big Query, filtering São Paulo, Brazil.</figcaption>
+<figcaption> Waze Alerts available via Google BigQuery, filtering São Paulo, Brazil.</figcaption>
 </figure>
 <h2 id=processing-waze-data-with-dask>Processing Waze Data with Dask</h2>
 <p>After exporting the data files (compressed CSVs), we have to prepare to visualize the large number of traffic alerts, in the order of millions. For that purpose, we leverage all power of <strong>Dask</strong>. <a href=https://dask.org>Dask</a> is a Python library build on top of <a href=https://numpy.org/>NumPy</a> and <a href=https://pandas.pydata.org/>pandas</a>. In addition to the familiar interface - for instance, reading multiple data files, decompressing and much more with a succint syntax and fast implementation - the library enables embarrassing parallelism in a very convenient and efficient way.</p>
@@ -217,7 +217,7 @@ ddf[<span style=color:#e6db74>&#34;dayofweek&#34;</span>] <span style=color:#f92
 <h4 class=mb-4> You can also read </h4>
 <hr>
 <dl>
-<dt class=pb-4><a class="h5 text-light" href=/updates/visualizing-millions-of-waze-traffic-alerts-with-google-bigquery-and-dask/>Visualizing Millions of Waze Traffic Alerts with Big Query, H3 and Dask</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/visualizing-millions-of-waze-traffic-alerts-with-google-bigquery-and-dask/>Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/covid_19_labor_markets_observatory/>Understanding the Post COVID-19 Labor Market in Latin America and the Caribbean</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/imf-digitalization-in-ssa/>Digitalization and Resilience to COVID-19 Shocks: Evidence from Sub-Saharan Africa</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/facebook-covid-19-trends-and-impact-survey/>Facebook’s Covid-19 Trends and Impact Survey</a></dt>

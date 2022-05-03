@@ -1,8 +1,8 @@
 ---
-title: Responsible Data Use
-date: 2019-02-26T21:52:59.000+00:00
+title: Data Governance
+date: 2022-05-02T00:00:00.000+00:00
 icon: "pillars/DDPResponsibleData.svg"
-weight: "2"
+weight: "6"
 
 ---
-Data governance principles guide best practices for responsible and ethical data use.
+A robust data governance system guides best practices for responsible and ethical data use.

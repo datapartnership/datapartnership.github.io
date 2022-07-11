@@ -1,0 +1,4 @@
+---
+name: Harsh Vardhan Pachisia
+---
+Harsh Vardhan Pachisia is Development Data Partnership Data Fellow. He is heading for an MSc in Computational Analysis and Public Policy (MS-CAPP) at the University of Chicago in Fall 2022. He previously led the data science unit at Artha Global, a research and public sector consulting organisation, based in Mumbai, India. He worked with different governments and conducted research on how data science and economics can be used to augment state capacity, with a focus primarily on topics of urban development, open data and governance. He has also served as an Economics Teaching Fellow at the NYU Stern School of Business. Harsh studied Business and Political Economy—with minors in Computer Science, Mathematics and Public Policy Management—at the Stern School of Business, New York University.

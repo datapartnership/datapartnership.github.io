@@ -1,6 +1,6 @@
 +++
 date = 2022-09-09T00:00:00.000+00:00
-title = "Communicating for Health: How Did Indians Get Informed About COVID-19 During the Pandemic?"
+title = "Communicating for Health: How Did Indians Get Informed about COVID-19 during the Pandemic?"
 authors = ["Sofia Imad"]
 categories = ["Case Study"]
 dev_partner = ["World Bank"]

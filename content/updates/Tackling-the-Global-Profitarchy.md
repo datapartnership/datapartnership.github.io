@@ -4,7 +4,7 @@ title = "Tackling the Global Profitarchy–Gender and the Choice of Business Sec
 authors = ["Sreelakshmi Papineni"]
 post_type = ["Case Study"]
 dev_partner = ["World Bank"]
-partner = ["Facebook"]
+partner = ["Meta"]
 tags = ["Gender", "Jobs and Development"]
 links = [
     "https://blogs.worldbank.org/voices/tackling-global-profitarchy-gender-and-choice-business-sector",

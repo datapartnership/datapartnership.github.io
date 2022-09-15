@@ -33,7 +33,7 @@ The World Bank Transport team combined datasets from [Unacast](https://www.unaca
 
 <figure align="center">
   <img src="/vitales_bogota_3.png"/>
-  <figcaption><center> Figure 3:Mapbox Reported Speeds During the Day for Main San Felipe Neighborhood Roads </center></figcaption>
+  <figcaption><center> Figure 3: Mapbox Reported Speeds During the Day for Main San Felipe Neighborhood Roads </center></figcaption>
 
  <figcaption><center> <a href="https://www.mapbox.com/data-products/">Mapbox Traffic Data </a> provided by <a href="https://www.mapbox.com">© Mapbox</a>
 

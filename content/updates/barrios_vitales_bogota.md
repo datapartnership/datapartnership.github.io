@@ -6,7 +6,6 @@ categories = ["Case Study"]
 dev_partner = ["World Bank"]
 partner= ["Waze", "Unacast", "Mapbox"]
 tags = ["Transport"]
-
 +++
 
 A data-driven framework to support the design, implementation, and evaluation of a superblock model in Bogotá from a speed management perspective and inform street design alternatives in the urban space.
@@ -28,15 +27,13 @@ Throughout the world, car-dependent city planning has resulted in high levels of
   <figcaption><center> Pilot Study of Vital Neighborhoods Project</center> </figcaption>
 </figure>
 
-
 ## Solution
-The World Bank Transport team combined datasets from [Unacast](https://www.unacast.com/), [Mapbox](https://www.mapbox.com/) and [Waze](https://www.waze.com/live-map/) to develop a toolkit that allows measuring [Bogota's Vital Neighborhoods initiative](https://www.movilidadbogota.gov.co/web/barrios_vitales) impact. The team assessed the traffic in the street network in a pre-intervention scenario for six selected areas scattered through Bogotá, and San Felipe was selected as the pilot neighborhood. To assess the pre-intervention scenario, the team estimated vehicle demand at the census tract scale using mobile location data from [Unacast](https://www.unacast.com/) and assigned the drivers to the available routes, using a cellular automata simulation tool that accounts for the shortest travel times and congestion. As a validation/calibration step, the team compared the estimated travel times (average speeds) in the road segments with the results of the [Mapbox Traffic Data](https://www.mapbox.com/data-products/) and with on ground collected volumes provided by Bogotá transport department. In addition, the team monitored the traffic jam length during the day, finding similar behavior between the simulated data and the Waze minute-to-minute jam reported data.  
 
+The World Bank Transport team combined datasets from [Unacast](https://www.unacast.com/), [Mapbox](https://www.mapbox.com/) and [Waze](https://www.waze.com/live-map/) to develop a toolkit that allows measuring [Bogota's Vital Neighborhoods initiative](https://www.movilidadbogota.gov.co/web/barrios_vitales) impact. The team assessed the traffic in the street network in a pre-intervention scenario for six selected areas scattered through Bogotá, and San Felipe was selected as the pilot neighborhood. To assess the pre-intervention scenario, the team estimated vehicle demand at the census tract scale using mobile location data from [Unacast](https://www.unacast.com/) and assigned the drivers to the available routes, using a cellular automata simulation tool that accounts for the shortest travel times and congestion. As a validation/calibration step, the team compared the estimated travel times (average speeds) in the road segments with the results of the [Mapbox Traffic Data](https://www.mapbox.com/data-products/) and with on ground collected volumes provided by Bogotá transport department. In addition, the team monitored the traffic jam length during the day, finding similar behavior between the simulated data and the Waze minute-to-minute jam reported data.
 
 <figure align="center">
   <img src="/vitales_bogota_3.png"/>
   <figcaption><center> Figure 3:Mapbox Reported Speeds During the Day for Main San Felipe Neighborhood Roads </center></figcaption>
-
 
  <figcaption><center> <a href="https://www.mapbox.com/data-products/">Mapbox Traffic Data </a> provided by <a href="https://www.mapbox.com">© Mapbox</a>
 
@@ -63,7 +60,6 @@ The World Bank Transport team combined datasets from [Unacast](https://www.unaca
   <figcaption><center> Figure 5: Through Traffic Percentage in San Felipe Neighborhood Roads</center> </figcaption>
  </center> </figcaption>
 </figure>
-
 
 ## Impact
 

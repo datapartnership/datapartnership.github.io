@@ -1,3 +1,3 @@
 ---
-name: Javier Pena
+name: Javier Penã
 ---

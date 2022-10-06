@@ -4,7 +4,7 @@ title = "Tackling COVID-19 Second Wave using Facebook Mobility Data in Vietnam"
 authors = ["Kai Kaiser", "Jacques Morisset", "Maham Khan"]
 post_type = "Case Study"
 dev_partner = ["World Bank"]
-partner = ["Facebook"]
+partner = ["Meta"]
 links = [
     "https://blogs.worldbank.org/eastasiapacific/confronting-covid-19-second-waves-how-big-data-good-can-inform-policy-vietnam",
 ]

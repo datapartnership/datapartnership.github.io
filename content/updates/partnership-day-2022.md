@@ -7,7 +7,13 @@ dev_parter = ["International Monetary Fund", "World Bank"]
 url ="partnershipday2022"
 +++
 
+
 [![](/partnership_day.jpg)](https://forms.office.com/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQkE0Q1pWOU0wUUtEWUpSN1UyVFRCVzZFVSQlQCN0PWcu&web=1&wdLOR=cBA60EE5E-333F-234C-979D-FE525D8EF93C)
+
+<iframe src="/development data partnership day.pdf#toolbar=0&statusbar=0" width="100%" height="900px">
+</iframe>
+
+
 
 This day is dedicated to addressing global climate, health, and food security challenges through public-private data science collaboration. Speakers from LinkedIn, Google, Meta, Cuebiq, Ookla, and Mapbox will share their latest experiences on data science collaboration for public good, while leadership and colleagues from the IDB, UNDP, IMF, and the World Bank will introduce project impacts. Presentations will be followed by a Call to Action, inviting participants to learn about and join an experimental, global data science collaboration to address urgent needs.
 

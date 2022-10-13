@@ -3,7 +3,7 @@ date = 2019-11-29T21:12:14Z
 title = "A New Predictive Model for More Accurate Electrical Grid Mapping"
 authors = ["Omari Sefu"]
 post_type = "Case Study"
-partner = ["Facebook"]
+partner = ["Meta"]
 dev_partner = ["World Bank"]
 links = [
     "https://engineering.fb.com/connectivity/electrical-grid-mapping/",

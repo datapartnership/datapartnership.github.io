@@ -2,7 +2,7 @@
 date = 2020-03-19T20:12:14Z
 title = "Addressing COVID-19 through Public-Private Data Partnerships: Where Do We Put New Testing Facilities?"
 authors = ["Bruno Nuno"]
-partner = ["Facebook", "Mapbox"]
+partner = ["Meta", "Mapbox"]
 dev_partner = ["World Bank"]
 tags = ["Health", "COVID-19"]
 +++

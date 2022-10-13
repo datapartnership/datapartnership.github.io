@@ -4,7 +4,7 @@ title = "Google, Apple, and Facebook: Understanding Mobility during Social Dista
 authors = ["Bruno Nuno", "Gabriel Vicente", "Maksim Pecherskiy"]
 post_type = "Article"
 dev_partner = ["World Bank"]
-partner = ["Facebook", "Google"]
+partner = ["Meta", "Google"]
 tags = ["Transport"]
 +++
 As countries around the world work to contain the spread and impact of COVID-19, the World Bank Group is moving quickly to [provide fast, flexible responses](https://www.worldbank.org/en/news/factsheet/2020/02/11/how-the-world-bank-group-is-helping-countries-with-covid-19-coronavirus) to help developing countries strengthen their pandemic response and health care systems.

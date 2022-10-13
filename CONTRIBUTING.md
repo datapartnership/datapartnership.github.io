@@ -6,7 +6,7 @@ First off, visit our [blog](https://datapartnership.org/updates/) to explore and
 
 - On each new pull request, a preview will be available. The deploy preview will be posted by the `netlify bot` on the comments.
 
-- On each commit to `main`, the website is published to https://datapartnership.org.
+- On each commit to `main`, the website is published to <https://datapartnership.org>.
 
 ## How to post/edit on the Partnership blog
 
@@ -52,7 +52,7 @@ For example, use the preamble below.
 title = "Addressing COVID-19 through Public-Private Data Partnerships: Where Do We Put New Testing Facilities?"
 authors = ["Bruno Nuno"]
 date = 2020-03-19T20:12:14Z
-partner = ["Facebook", "Mapbox"]
+partner = ["Meta", "Mapbox"]
 dev_partner = ["World Bank"]
 +++
 ```

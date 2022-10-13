@@ -1,6 +1,6 @@
 +++
 date = 2020-10-22T04:00:00Z
-partner = ["Facebook", "Mapbox"]
+partner = ["Meta", "Mapbox"]
 title = "Analyzing Spatial Accessibility of Health Facilities in Indonesia and Philippines "
 authors = ["Afeefah Syed", "Maksim Pecherskiy"]
 url = "planning-for-equitable-access-to-health-infrastructure"

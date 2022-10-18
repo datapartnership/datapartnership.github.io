@@ -7,6 +7,13 @@ dev_parter = ["International Monetary Fund", "World Bank"]
 url ="partnershipday2022"
 +++
 
+<p style="text-align:center">
+    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQkE0Q1pWOU0wUUtEWUpSN1UyVFRCVzZFVSQlQCN0PWcu&web=1&wdLOR=cBA60EE5E-333F-234C-979D-FE525D8EF93C"> Attend in Person</a>
+    </button>
+
+<p style="text-align:center">
+        <button type="button" class="btn btn-outline-info"><a href="https://linkedin.zoom.us/webinar/register/WN_vE6x_7KwSJymt_V6KPGIow"> Attend Virtually </a>
+        </button>
 
 [![](/partnership_day.jpg)](https://forms.office.com/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQkE0Q1pWOU0wUUtEWUpSN1UyVFRCVzZFVSQlQCN0PWcu&web=1&wdLOR=cBA60EE5E-333F-234C-979D-FE525D8EF93C)
 

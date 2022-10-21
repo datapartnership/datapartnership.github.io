@@ -18,8 +18,8 @@ Featured Data Partners:
 
 See our Data Partners and Bank staff in action, here:
 
-* Video from Data Collaboratives Event: http://bit.ly/2EgDrCr
-* PPT (large file due to many embedded videos): http://bit.ly/2TW42dz
+* Video from Data Collaboratives Event: <http://bit.ly/2EgDrCr>
+* PPT (large file due to many embedded videos): <http://bit.ly/2TW42dz>
 
 ![](/0.jpg)
 ![](/1.jpg)

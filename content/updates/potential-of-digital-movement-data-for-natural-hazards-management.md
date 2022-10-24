@@ -1,6 +1,6 @@
 +++
 date = 2022-10-20T00:00:00.000+00:00
-title = "Where did everyone go? Potential of digital movement data for natural hazards management"
+title = "Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management"
 authors = ["Nicholas Jones", "Takahiro Yabe"]
 categories = ["Case Study"]
 dev_partner = ["World Bank"]
@@ -12,7 +12,7 @@ links = [
 ]
 +++
 
-Taking the 2017 earthquake as a case study, recent work by our team at the [Global Facility for Disaster Reduction and Recovery (GFDRR)/World Bank](https://www.gfdrr.org/) is uncovering valuable applications for this digital movement data and building open-source tools to bring these methods into the mainstream of disaster risk management.
+Taking the 2017 earthquake as a case study, recent work by our team at the [Global Facility for Disaster Reduction and Recovery (GFDRR)/ World Bank](https://www.gfdrr.org/) is uncovering valuable applications for this digital movement data and building open-source tools to bring these methods into the mainstream of disaster risk management.
 
 ## Challenge
 
@@ -26,7 +26,7 @@ However, the lack of information on basic facts such as post-disaster displaceme
 
 ### Mobility data: a generational shift
 
-For this study, we use a dataset of about 200,000 anonymous smartphone users in Mexico who opted into sharing their GPS locations for defined purposes. The dataset was provided through the [Development Data Partnership](https) by technology firm [Cuebiq's Data for Good](https://www.cuebiq.com/about/data-for-good/) after the firm first applieed a privacy-protection algorithm.
+For this study, we use a dataset of about 200,000 anonymous smartphone users in Mexico who opted into sharing their GPS locations for defined purposes. The dataset was provided through the [Development Data Partnership](https) by technology firm [Cuebiq's Data for Good](https://www.cuebiq.com/about/data-for-good/) after the firm first applied a privacy-protection algorithm.
 
 While the value of cellphone data in emergency response has been proven at least since the Haiti earthquake of 2010, these methods remained relatively niche and data access highly challenging.
 

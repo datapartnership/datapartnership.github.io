@@ -6,7 +6,10 @@ categories = ["Case Study"]
 dev_partner = ["World Bank"]
 partner= ["Cuebiq"]
 tags = ["Disaster Risk Management"]
-
+links = [
+    "https://github.com/mindearth/mobilkit",
+    "https://mindearth.ch/2021/02/25/mobilkit-a-mobility-library-for-hfmd/",
+]
 +++
 
 Taking the 2017 earthquake as a case study, recent work by our team at the [Global Facility for Disaster Reduction and Recovery (GFDRR)/World Bank](https://www.gfdrr.org/) is uncovering valuable applications for this digital movement data and building open-source tools to bring these methods into the mainstream of disaster risk management.
@@ -23,7 +26,7 @@ However, the lack of information on basic facts such as post-disaster displaceme
 
 ### Mobility data: a generational shift
 
-For this study, we use a dataset of about 200,000 smartphone users in Mexico who opted into sharing their GPS locations for defined purposes. The dataset was provided through the [Development Data Partnership](https) by technology firm [Cuebiq's Data for Good](https://www.cuebiq.com/about/data-for-good/) after the firm first applies a privacy-protection algorithm.
+For this study, we use a dataset of about 200,000 anonymous smartphone users in Mexico who opted into sharing their GPS locations for defined purposes. The dataset was provided through the [Development Data Partnership](https) by technology firm [Cuebiq's Data for Good](https://www.cuebiq.com/about/data-for-good/) after the firm first applieed a privacy-protection algorithm.
 
 While the value of cellphone data in emergency response has been proven at least since the Haiti earthquake of 2010, these methods remained relatively niche and data access highly challenging.
 
@@ -41,13 +44,13 @@ First, we divide the city into grid cells and estimate home and work locations b
     <img src="/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig1.png" />
     <figcaption>
         <center> Figure 1: Estimating the density of home locations in Mexico City and adjacent regions using mean-shift
-            clustering. </center>
+            clustering. Source: GFDRR </center>
     </figcaption>
 </figure>
 
 Secondly, we identify displacement due to the earthquake by comparing population density the night of the earthquake with its average level over the preceding two months. For example, heavily affected areas such as Cuauhtemoc district ─ the site of many building collapses ─ showed abnormally low population suggesting residents departed to shelter elsewhere.
 
-Thirdly, we track the changes in the number of people spending the night away from their typical home locations. In the severely affected zones, around 3.5% of the population spent the night more than 500 meters away from their homes after the quake, returning to normal over a one-month period (Figure 2).
+Thirdly, we track the changes in the number of people spending the night away from their typical home census areas. In the severely affected zones, around 3.5% of the population spent the night more than 500 meters away from their homes after the quake, returning to normal over a one-month period (Figure 2).
 
 Fourthly, we map out the destinations (within Mexico City and nationwide) to which displaced users traveled. In widely studied cases such as the New Orleans floods in the U.S. and the Great East Japan earthquake and tsunami, it is frequently observed that residents of lower-income neighborhoods which often are in hazardous areas did not move, while residents of richer neighborhoods relocated to safer zones. Following this pattern, residents of poorer neighborhoods in Mexico City stayed closer to home.
 
@@ -58,7 +61,7 @@ Fourthly, we map out the destinations (within Mexico City and nationwide) to whi
         <center> Figure 2: Above: Anomaly of population density during the day (left) and night (right) on
             September 19, 2017 in Mexico City. Z scores indicate the number of standard deviations more/less
             compared to the pre-earthquake mean. Below: Timeline of population displacement for heavily
-            affected areas. </center>
+            affected areas. Source: GFDRR </center>
     </figcaption>
 </figure>
 
@@ -77,7 +80,7 @@ Human mobility datasets are increasingly ubiquitous and power many applications 
 <figure align="center">
     <img src="/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig4.png" />
     <figcaption>
-        <center> Figure 3: (left) Histogram of distance traveled by individuals from Cuauhtemoc district, Mexico City; (right) linear relationship of displacement rate with poverty level for affected districts.  </center>
+        <center> Figure 3: (left) Histogram of distance traveled by individuals from Cuauhtemoc district, Mexico City; (right) linear relationship of displacement rate with poverty level for affected districts. Source: GFDRR </center>
     </figcaption>
 </figure>
 

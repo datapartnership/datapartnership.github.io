@@ -12,17 +12,11 @@ links = [
 ]
 +++
 
-Taking the 2017 earthquake as a case study, recent work by our team at the [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/) is uncovering valuable applications for this digital movement data and building open-source tools to bring these methods into the mainstream of disaster risk management.
-
-## Challenge
-
 Every September 19th since the great earthquake of 1985, Mexico City conducts a major drill: people filing out of buildings in an orderly fashion. But just 90 minutes after the drill finished in 2017, a new magnitude 7.1 earthquake struck causing buildings to collapse and displacing hundreds of families.
 
 Disasters like earthquakes can strike at a moment's notice, but gathering information about how they affected communities can take weeks ─ leaving humanitarian response and reconstruction financing to take place in an information vacuum.
 
 However, the lack of information on basic facts such as post-disaster displacement may be changing thanks to new technologies. Indeed, the now-ubiquitous "location services" that allows Android or iPhone users to receive targeted weather forecasts or traffic alerts already record valuable data about movement patterns.
-
-## Solution
 
 ### Mobility data: a generational shift
 
@@ -71,8 +65,6 @@ Fourthly, we map out the destinations (within Mexico City and nationwide) to whi
         <center>Source: GFDRR </center>
     </figcaption>
 </figure>
-
-## Impact
 
 ### Mainstreaming mobility insights
 

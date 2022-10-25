@@ -1,0 +1,6 @@
+---
+name: Maurizio Bussolo
+---
+
+
+[Maurizio Bussolo](https://blogs.worldbank.org/team/maurizio-bussolo), lead economist in the [Chief Economist Office for South Asia](https://www.worldbank.org/en/region/sar/brief/office-of-the-chief-economist-south-asia-region), has been working on quantitative analyses of economic policy and development with research interests spanning both micro and macroeconomic topics. At the World Bank, he also worked in the Chief Economist Office for Europe and Central Asia and in the Development Economics Prospects Group; and he led operational teams in the aftermath of the 2008-09 crisis negotiating with Latin American and Caribbean governments the implementation of reforms to shield the most vulnerable. Before joining the World Bank in 2003, Bussolo worked at the OECD, at the Overseas Development Institute in London, and at Fedesarrollo and the Los Andes University in Colombia. He has extensively published in peer-reviewed journals on trade, growth, poverty and income distribution. He holds a PhD in economics from the University of Warwick.

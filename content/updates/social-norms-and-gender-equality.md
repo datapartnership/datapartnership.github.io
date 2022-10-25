@@ -22,7 +22,7 @@ The COVID-19 crisis has exacerbated existing gender disparities in South Asia.  
 
 Social norms are a complex construct and often difficult to measure. Social norms are defined as informal rules of behaviour that dictate what is acceptable or appropriate to do in a given situation within a given social context ([Bicchieri 2006](http://dx.doi.org/10.1017/CBO9780511616037)). Individuals tend to conform to a norm—that is, act a certain way—if they believe that most individuals within the group they consider their reference network, both conform to the norm and believe that everyone should conform to the norm ([Bicchieri 2017](http://dx.doi.org/10.1093/acprof:oso/9780190622046.001.0001)).
 
-Social norms rely on individual perceptions of others, namely they have a social component. They are distinct from personal attitudes, morals, and beliefs as these are unrelated to perceptions of others ([Cislaghi and Heise 2018](http://dx.doi.org/10.1186/s12992-018-0398-x)). For attitudes and beliefs, the motivating factor—the imperative to follow a certain behaviour—is internal to the individual. In the case of social norms, the imperative is the external, or social, influence of others. Unlike attitudes, social norms comprise two components—perceptions about how frequent or typical a behaviour is within a particular reference. group (i.e., a “descriptive norm” or “social empirical expectation”), and perceptions about how a member of the group ought to behave (i.e., an “injunctive norm” or “social normative expectation”) ([Bicchieri 2006](http://dx.doi.org/10.1017/CBO9780511616037), 2012; [Cialdini et al. 1991](http://dx.doi.org/10.1016/S0065-2601(08)60330-5)).
+Social norms rely on individual perceptions of others, namely they have a social component. They are distinct from personal attitudes, morals, and beliefs as these are unrelated to perceptions of others ([Cislaghi and Heise 2018](http://dx.doi.org/10.1186/s12992-018-0398-x)). For attitudes and beliefs, the motivating factor—the imperative to follow a certain behaviour—is internal to the individual. In the case of social norms, the imperative is the external, or social, influence of others. Unlike attitudes, social norms comprise two components—perceptions about how frequent or typical a behaviour is within a particular reference. group (i.e., a “descriptive norm” or “social empirical expectation”), and perceptions about how a member of the group ought to behave (i.e., an “injunctive norm” or “social normative expectation”) ([Bicchieri 2006](http://dx.doi.org/10.1017/CBO9780511616037), [2012](https://agora.unicef.org/course/info.php?id=2351); [Cialdini et al. 1991](http://dx.doi.org/10.1016/S0065-2601(08)60330-5)).
 
 Using early marriage as an example, table 1 shows a classification of beliefs (or expectations) according to whether they are social or not and whether they have or not a normative content. An early marriage social norm will exist in a specific society, or group within that society, if a large percentage of people share the same social belief about (a) what others do, and (b) what others think one should do. Unfortunately, most of the empirical work relies on non-social beliefs, the elements of the first column of Table 1. Without more precise measurements and data on the social elements, assessing how important the role of social norms is in explaining gender inequality is thus still quite imprecise (with few exceptions such as [Gauri et al. 2019](http://dx.doi.org/10.1596/1813-9450-8916)).
 
@@ -72,26 +72,3 @@ Data from the survey can be used to test some of these hypotheses. They can be u
 </figure>
 
 More results on the quantification of the links between social norms and gender outcomes can be found in [chapter 3](https://openknowledge.worldbank.org/bitstream/handle/10986/37121/9781464818578-CH3.pdf) of “[World Bank (2022)](https://openknowledge.worldbank.org/handle/10986/37121). Reshaping Norms: A New Way Forward. South Asia Economic Focus, Spring 2022. Washington, DC: World Bank”. The chapter also shows the norms-blindness of policies addressing the low female labor force participation rate in South Asia and pushes for a shift in incentives to change norms. Data such as those of the Facebook’s Survey on Gender Equality at Home can provide guidance in designing these incentives. 
-
-## References
-
-Bicchieri, C. 2006. The Grammar of Society: The Nature and Dynamics of Social Norms. Cambridge, UK: Cambridge University Press. http://dx.doi.org/10.1017/CBO9780511616037
-
-Bicchieri, C. 2012. “Social Norms, Social Change.” Lecture at the University of Pennsylvania-UNICEF Summer Program on Advances in Social Norms and Social Change. July. https://agora.unicef.org/course/info.php?id=2351. 
-
-Bicchieri, C. (2017). Measuring norms. Norms in the Wild: How to Diagnose, Measure, and Change Social Norms. http://dx.doi.org/10.1093/acprof:oso/9780190622046.001.0001
-
-Boserup, Ester. 1970. Woman’s Role in Economic Development. London: George Allen & Unwin Ltd. http://dx.doi.org/10.4324/9781315065892
-
-Cialdini, R. B., C. A. Kallgren, and R. R. Reno. 1991. “A Focus Theory of Normative Conduct: A Theoretical Refinement and Reevaluation of the Role of Norms in Human Behavior.” In Advances in Experimental Social Psychology, edited by M. Zanna, 24: 201-234. Cambridge, MA: Academic Press. http://dx.doi.org/10.1016/S0065-2601(08)60330-5
-
-Cislaghi, B., & Heise, L. (2018). Theory and practice of social norms interventions: eight common pitfalls. Globalization and health, 14(1), 1-10. http://dx.doi.org/10.1186/s12992-018-0398-x
-
-Durand, J. D. (1975). The labor force in economic development: a comparison of international census data, 1946-1966 (Vol. 1237). Princeton University Press.
-
-Gauri, V., Rahman, T., & Sen, I. K. (2019). Measuring social norms about female labor force participation in Jordan. World Bank Policy Research Working Paper, (8916). http://dx.doi.org/10.1596/1813-9450-8916
-
-Goldin, C. (1995). The U-Shaped Female Labor Force Function in Economic Development and Economic History. In Investment in Women’s Human Capital and Economic Development, edited by T. P. Schultz, 61-90. Chicago: University of Chicago Press.
-
-World Bank (2022). Reshaping Norms: A New Way Forward. South Asia Economic Focus, Spring 2022. Washington, DC: World Bank. 
-

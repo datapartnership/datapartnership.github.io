@@ -43,7 +43,10 @@ The team conducted geospatial analysis to advise on key questions that could inf
 <figure align="center">
     <img src="/images/updates/enhancing-health-planning-in-the-philippines/fig2.jpg" />
     <figcaption>
-        <center> Figure 2: Health facilities network in Bohol, PH. Source: Project team.</center>
+        <center> Figure 2: Health facilities network in Bohol, PH.</center>
+    </figcaption>
+    <figcaption>
+        <center>Source: Analysis by study team using the Mapbox Matrix API</center>
     </figcaption>
 </figure>
 
@@ -54,14 +57,20 @@ The maps and tables were presented to staff from the health ministry for the thr
 <figure align="center">
     <img src="/images/updates/enhancing-health-planning-in-the-philippines/fig3.png" />
     <figcaption>
-        <center> Figure 3: Health facilities network in Maguindanao, PH. Source: Project team.</center>
+        <center> Figure 3: Health facilities network in Maguindanao, PH.</center>
+    </figcaption>
+    <figcaption>
+        <center>Source: Analysis by study team using the Mapbox Matrix API</center>
     </figcaption>
 </figure>
 
 <figure align="center">
     <img src="/images/updates/enhancing-health-planning-in-the-philippines/fig4.png" />
     <figcaption>
-        <center> Figure 4: Health facilities network in Baguio, PH. Source: Project team.</center>
+        <center> Figure 4: Health facilities network in Baguio, PH.</center>
+    </figcaption>
+    <figcaption>
+        <center>Source: Analysis by study team using the Mapbox Matrix API</center>
     </figcaption>
 </figure>
 

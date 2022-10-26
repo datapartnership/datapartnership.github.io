@@ -1,7 +1,7 @@
 +++
 date = 2022-10-24T00:00:00.000+00:00
 title = "Buenos Aires Transport Demand Planning"
-authors = ["Aiga Stokenberga", "Javier Rodrigo Pena Bastidas","Javier Morales Sarriera" ]
+authors = ["Aiga Stokenberga","Javier Morales Sarriera",  "Javier Bastidas" ]
 categories = ["Case Study"]
 dev_partner = ["World Bank"]
 partner= ["Waze"]

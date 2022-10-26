@@ -9,7 +9,7 @@ categories = ["Case Study"]
 links = [
     "https://openknowledge.worldbank.org/handle/10986/37121",
 ]
-tags = ["Gender", "South Asia"]
+tags = ["Gender"]
 +++
 This blog highlights recent work from a larger body of research on gender equality carried out at the World Bank. The blog itself relies on Chapter 3 of this report [South Asia Economic Focus Reshaping Norms: A New Way Forward](https://openknowledge.worldbank.org/handle/10986/37121).
 

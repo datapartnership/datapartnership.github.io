@@ -1,6 +1,6 @@
 ---
 title: Premise
-logo: /images/partners/premise.svg
+logo: /partners/premise.svg
 ---
 
 

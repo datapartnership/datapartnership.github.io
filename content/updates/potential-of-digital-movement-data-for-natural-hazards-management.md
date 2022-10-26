@@ -8,20 +8,25 @@ partner= ["Cuebiq"]
 tags = ["Disaster Risk Management"]
 links = [
     "https://github.com/mindearth/mobilkit",
+    "https://mindearth.ch/2021/02/25/mobilkit-a-mobility-library-for-hfmd/",
 ]
 +++
 
+Taking the 2017 earthquake as a case study, recent work by our team at the [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/) is uncovering valuable applications for this digital movement data and building open-source tools to bring these methods into the mainstream of disaster risk management.
+
+## Challenge
+
 Every September 19th since the great earthquake of 1985, Mexico City conducts a major drill: people filing out of buildings in an orderly fashion. But just 90 minutes after the drill finished in 2017, a new magnitude 7.1 earthquake struck causing buildings to collapse and displacing hundreds of families.
 
-Disasters like earthquakes can strike at a moment's notice but gathering information about how they affected communities can take weeks ─ leaving humanitarian response and reconstruction financing to take place in an information vacuum.
+Disasters like earthquakes can strike at a moment's notice, but gathering information about how they affected communities can take weeks ─ leaving humanitarian response and reconstruction financing to take place in an information vacuum.
 
-However, the lack of information on basic facts such as post-disaster displacement may be changing thanks to new technologies. Indeed, the now-ubiquitous "location services" that allow Android or iPhone users to receive targeted weather forecasts or traffic alerts already record valuable data about movement patterns.
+However, the lack of information on basic facts such as post-disaster displacement may be changing thanks to new technologies. Indeed, the now-ubiquitous "location services" that allows Android or iPhone users to receive targeted weather forecasts or traffic alerts already record valuable data about movement patterns.
 
-Taking the 2017 earthquake as a case study, recent work by our team at the [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en)/World Bank is uncovering valuable applications for this digital movement data and building open-source tools to bring these methods into the mainstream of disaster risk management.
+## Solution
 
 ### Mobility data: a generational shift
 
-For this study, we use a dataset of about 200,000 anonymous smartphone users in Mexico who opted into sharing their GPS locations for defined purposes. The dataset was provided through the [Development Data Partnership](https) by the technology firm [Cuebiq's Data for Good](https://www.cuebiq.com/about/data-for-good/) after the application of a privacy-protection algorithm.
+For this study, we use a dataset of about 200,000 anonymous smartphone users in Mexico who opted into sharing their GPS locations for defined purposes. The dataset was provided through the [Development Data Partnership](https) by the technology firm [Cuebiq's Data for Good](https://www.cuebiq.com/about/data-for-good/) initiative after the application of a privacy-protection algorithm.
 
 While the value of cellphone data in emergency response has been proven at least since the Haiti earthquake of 2010, these methods remained relatively niche and data access highly challenging.
 
@@ -66,6 +71,8 @@ Fourthly, we map out the destinations (within Mexico City and nationwide) to whi
         <center>Source: GFDRR </center>
     </figcaption>
 </figure>
+
+## Impact
 
 ### Mainstreaming mobility insights
 

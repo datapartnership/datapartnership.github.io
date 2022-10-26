@@ -1,4 +1,8 @@
 ---
 name: Nicholas Jones
 ---
-Nicholas Jones is a Data Scientist based at GFDRR’s Tokyo Disaster Risk Management Hub. Since joining the World Bank in 2011, he has been stationed at the Brussels, New York and Washington DC offices, and has contributed to technical assistance and lending operations for disaster risk management in Caribbean, Pacific and African regions. He spent a sabbatical year as a fellow at New York University focused on applying advanced data analytics for improved urban policy and operations; during this time he also worked at the New York City Mayor's Office of Data Analytics and pursued his interests as a jazz pianist. Before joining the Bank he was lead analyst for South and Southeast Asia at UK consulting firm Oxford Analytics. He holds degrees from Cambridge University, Birkbeck College, and New York University.
+[Nicholas Jones](https://blogs.worldbank.org/team/nicholas-jones) is a Data Scientist in the Global Facility for Disaster Reduction and Recovery (GFDRR), where he focuses on climate resilient development.
+ 
+Nick joined the World Bank in 2011. In his last posting as World Bank liaison to the UN in New York, he helped to develop and launch two regional initiatives to build resilience in the Sahel and Horn of Africa. He has also worked extensively on climate change issues, including building a global coalition around carbon pricing and strengthening responses to the challenges faced by Small Island States.
+ 
+Nick works on developing and implementing programs to build resilience to climate change, including the Small Island States Resilience Initiative. Before joining the World Bank, he was head of South and Southeast Asia analysis at the research firm Oxford Analytica. He studied history and public policy at Cambridge University and the University of London.

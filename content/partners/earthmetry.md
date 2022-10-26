@@ -1,4 +1,4 @@
 ---
 title: Earthmetry
-logo: /images/partners/earthmetry.svg
+logo: /partners/earthmetry.svg
 ---

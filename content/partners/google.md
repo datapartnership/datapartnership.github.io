@@ -1,6 +1,6 @@
 ---
 title: Google
-logo: /images/partners/google.svg
+logo: /partners/google.svg
 ---
 
 

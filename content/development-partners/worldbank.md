@@ -1,6 +1,6 @@
 ---
 title: World Bank Group
-logo: /images/development-partners/worldbank.svg
+logo: /images/worldbank.svg
 link: https://worldbank.org
 ---
 ---

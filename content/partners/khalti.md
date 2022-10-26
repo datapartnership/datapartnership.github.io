@@ -1,6 +1,6 @@
 ---
 title: Khalti
-logo: /images/partners/khalti.svg
+logo: /partners/khalti.svg
 ---
 
 

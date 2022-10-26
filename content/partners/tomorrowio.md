@@ -1,5 +1,5 @@
 ---
 title: Tomorrow.io
-logo: /images/partners/tomorrowio.svg
+logo: /partners/tomorrowio.svg
 ---
 

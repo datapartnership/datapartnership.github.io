@@ -1,6 +1,6 @@
 ---
 title: SpaceKnow
-logo: /images/partners/spaceknow.svg
+logo: /partners/spaceknow.svg
 ---
 
 

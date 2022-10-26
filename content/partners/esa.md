@@ -1,6 +1,6 @@
 ---
 title: ESA
-logo: /images/partners/esa.svg
+logo: /partners/esa.svg
 ---
 
 

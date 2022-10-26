@@ -1,4 +1,4 @@
 ---
 title: Twitter
-logo: /partners/twitter.svg
+logo: /images/partners/twitter.svg
 ---

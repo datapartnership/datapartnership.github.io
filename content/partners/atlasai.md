@@ -1,5 +1,5 @@
 ---
 title: Atlas AI
-logo: /partners/atlasai.svg
+logo: /images/partners/atlasai.svg
 ---
 

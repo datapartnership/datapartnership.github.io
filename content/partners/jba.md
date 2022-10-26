@@ -1,4 +1,4 @@
 ---
 title: JBA
-logo: /partners/jba.svg
+logo: /images/partners/jba.svg
 ---

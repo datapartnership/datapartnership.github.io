@@ -1,4 +1,4 @@
 ---
 title: Quadrant
-logo: /partners/quadrant.svg
+logo: /images/partners/quadrant.svg
 ---

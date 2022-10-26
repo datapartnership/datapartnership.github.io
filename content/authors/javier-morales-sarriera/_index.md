@@ -1,0 +1,4 @@
+---
+name: Javier Morales Sarriera
+---
+[Javier Morales Sarriera](https://blogs.worldbank.org/team/javier-morales-sarriera) is an Economist in the World Bank’s Transport & ICT Global Practice. Javier is working on the implementation and coordination of transport impact evaluation in the World Bank. He has seven years of work experience in infrastructure economic analysis, having worked at Cambridge Systematics, a transport consulting firm, at the Inter-American Development Bank, and at the MIT Transit Lab, a research laboratory. Javier has received a Master of Science in Transportation from the Massachusetts Institute of Technology (US) and a Master of Science in Economics from Centro de Estudios Monetarios y Financieros (Spain).

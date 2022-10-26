@@ -1,4 +1,4 @@
 ---
 title: Microsoft
-logo: /partners/microsoft.svg
+logo: /images/partners/microsoft.svg
 ---

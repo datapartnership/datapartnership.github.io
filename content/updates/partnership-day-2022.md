@@ -1,5 +1,5 @@
 +++
-date =  2022-10-03T00:00:00Z
+date =  2022-10-25T00:00:00Z
 title = "Development Data Partnership Day 2022"
 authors = ["Claudia Calderon"]
 categories = ["Announcement"]
@@ -13,6 +13,8 @@ This day is dedicated to addressing global climate, health, and food security ch
     <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQkE0Q1pWOU0wUUtEWUpSN1UyVFRCVzZFVSQlQCN0PWcu&web=1&wdLOR=cBA60EE5E-333F-234C-979D-FE525D8EF93C"> Attend in Person</a>
     </button>
     <button type="button" class="btn btn-outline-info"><a href="https://linkedin.zoom.us/webinar/register/WN_vE6x_7KwSJymt_V6KPGIow"> Attend Virtually </a>
+    </button>
+    <button type="button" class="btn btn-outline-info"><a href="https://datapartnership.org/partnershipday2022agenda.pdf"> Full Agenda </a>
     </button>
 
 [![](/partnership-day.png)](https://forms.office.com/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQkE0Q1pWOU0wUUtEWUpSN1UyVFRCVzZFVSQlQCN0PWcu&web=1&wdLOR=cBA60EE5E-333F-234C-979D-FE525D8EF93C)

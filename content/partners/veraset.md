@@ -1,6 +1,6 @@
 ---
 title: Veraset
-logo: /partners/veraset.svg
+logo: /images/partners/veraset.svg
 ---
 
 

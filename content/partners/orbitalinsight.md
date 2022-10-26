@@ -1,6 +1,6 @@
 ---
 title: Orbital Insight
-logo: /partners/orbitalinsight.svg
+logo: /images/partners/orbitalinsight.svg
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Meta
-logo: /partners/meta.svg
+logo: /images/partners/meta.svg
 ---
 
 

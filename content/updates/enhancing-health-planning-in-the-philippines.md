@@ -5,7 +5,7 @@ authors = ["Andres Chamorro"]
 categories = ["Case Study"]
 dev_partner = ["World Bank"]
 partner= ["Mapbox"]
-tags = ["Health", "Urban Developement"]
+tags = ["Health", "Urban Development"]
 links = [
     "https://docs.mapbox.com/api/navigation/matrix",
 ]

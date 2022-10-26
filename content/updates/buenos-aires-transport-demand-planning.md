@@ -5,7 +5,7 @@ authors = ["Aiga Stokenberga","Javier Morales Sarriera",  "Javier Bastidas" ]
 categories = ["Case Study"]
 dev_partner = ["World Bank"]
 partner= ["Waze"]
-tags = ["Transport", "Urban Developement"]
+tags = ["Transport", "Urban Development"]
 links = [
     "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099210006232252568/p17720505bc7080c409f82092e88455b9d4",
 ]

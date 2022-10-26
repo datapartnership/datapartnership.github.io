@@ -1,0 +1,4 @@
+---
+name: Anaise Williams
+---
+[Anaise Williams](https://blogs.worldbank.org/team/anaise-williams) is a consultant at the South Asia Gender Innovation Lab and a PhD Candidate at the Johns Hopkins Bloomberg School of Public Health. Anaise’s research covers the areas of gender norms, reproductive health, mental health, and gender-based violence. Her doctoral work focuses on the link between economic empowerment and intimate partner violence in low-resourced settings. She has experience working full-time in Bangladesh, Ethiopia, Indonesia, and Thailand with the University of Oxford, the IRC, and the Child Protection in Crisis Learning Network. She holds a Master’s in Public Health from Columbia University.

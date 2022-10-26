@@ -2,7 +2,7 @@
 date = 2022-10-25
 partner = ["Meta"]
 title = "Social Norms and Gender Equality in South Asia"
-authors = ["Maurizio Bussolo", "Nele Warrinnier"]
+authors = [ "Ana Maria Munoz Boudet","Anaise Williams", "Jessy Amarachi","Maurizio Bussolo","Nele Warrinnier", "S Anukriti", "Tasmia Rahman"]
 url = "social-norms-and-gender-equality"
 dev_partner = ["World Bank"]
 categories = ["Case Study"]
@@ -11,8 +11,7 @@ links = [
 ]
 tags = ["Gender", "South Asia"]
 +++
-
-The work that this blog highlights is part of a larger body of research published in the World Bank report [South Asia Economic Focus Reshaping Norms: A New Way Forward](https://openknowledge.worldbank.org/handle/10986/37121). The blog itself relies on Chapter 3 of this report, “Reshaping Social Norms about Gender: A New Way Forward”. 
+This blog highlights recent work from a larger body of research on gender equality carried out at the World Bank. The blog itself relies on Chapter 3 of this report [South Asia Economic Focus Reshaping Norms: A New Way Forward](https://openknowledge.worldbank.org/handle/10986/37121).
 
 Despite decades of rapid economic growth, rising education, and declining fertility, women in South Asia continue to face greater disadvantages in accessing economic opportunities than in most of the developing world. Some progress has been made but improvements are slow and increasing income levels do not seem sufficient to reduce stubbornly high gender gaps across multiple dimensions in the region. Social norms about gender can be a key obstacle towards gender equality and these norms are particularly biased against women in South Asia. Many jobs and occupations are considered “men’s jobs,” and few women cross over ([World Bank 2022](https://openknowledge.worldbank.org/handle/10986/37121)). This concentration of employment in a few (mainly service) sectors exposes women to large employment losses when a crisis hits these sectors. Mobility restrictions further limit women’s ability to work outside the home. Social norms hinder women’s access to land, financial capital, and other assets. They also limit households’ investment in women’s human capital, reducing access to higher education, and constrain women’s influence over decision making, inside and outside the home.
 

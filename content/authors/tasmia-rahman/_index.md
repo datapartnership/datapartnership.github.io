@@ -1,0 +1,4 @@
+---
+name: Tasmia Rahman
+---
+[Tasmia Rahman](https://blogs.worldbank.org/team/tasmia-rahman) is an Economist at the World Bank’s Mind, Behavior & Development Unit (eMBeD), within the Poverty and Equity Global Practice. Her work includes designing and evaluating behavioral interventions across various policy areas, such as labor and entrepreneurship, social protection, financial inclusion, social norms, and health and nutrition. Prior to joining the Bank, she worked on impact evaluation and implementation of labor market, tax compliance, and digital finance projects in East and West Africa and South Asia with the Georgetown University Initiative on Innovation, Development and Evaluation (Gui2de) and BRAC. She holds a Masters in International Development Policy from Georgetown University.

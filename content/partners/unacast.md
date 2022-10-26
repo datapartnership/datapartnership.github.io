@@ -1,6 +1,6 @@
 ---
 title: Unacast
-logo: /partners/unacast.svg
+logo: /images/partners/unacast.svg
 ---
 
 

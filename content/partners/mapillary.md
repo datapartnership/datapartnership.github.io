@@ -1,6 +1,6 @@
 ---
 title: Mapillary
-logo: /partners/mapillary.svg
+logo: /images/partners/mapillary.svg
 ---
 
 

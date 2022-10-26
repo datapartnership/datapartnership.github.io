@@ -1,5 +1,5 @@
 ---
 title: The Rockefeller Foundation
-logo: /images/rockefellerfoundation.svg
+logo: /images/development-partners/rockefellerfoundation.svg
 link: https://rockefellerfoundation.org
 ---

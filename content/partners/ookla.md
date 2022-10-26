@@ -1,6 +1,6 @@
 ---
 title: Ookla
-logo: /partners/ookla.svg
+logo: /images/partners/ookla.svg
 ---
 
 

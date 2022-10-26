@@ -1,6 +1,6 @@
 ---
 title: Waze
-logo: /partners/waze.svg
+logo: /images/partners/waze.svg
 ---
 
 

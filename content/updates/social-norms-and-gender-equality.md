@@ -2,7 +2,7 @@
 date = 2022-10-25
 partner = ["Meta"]
 title = "Social Norms and Gender Equality in South Asia"
-authors = [ "Ana Maria Munoz Boudet","Anaise Williams", "Jessy Amarachi Ezebuihe","Maurizio Bussolo","Nele Warrinnier", "S Anukriti", "Tasmia Rahman"]
+authors = ["S Anukriti", "Maurizio Bussolo","Jessy Amarachi Ezebuihe","Ana Maria Munoz Boudet", "Tasmia Rahman","Nele Charlotte A Warrinnier","Anaise Williams"]
 url = "social-norms-and-gender-equality"
 dev_partner = ["World Bank"]
 categories = ["Case Study"]

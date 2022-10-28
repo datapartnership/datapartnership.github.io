@@ -17,7 +17,7 @@ This day is dedicated to addressing global climate, health, and food security ch
     <button type="button" class="btn btn-outline-info"><a href="https://datapartnership.org/partnershipday2022agenda.pdf"> Full Agenda </a>
     </button>
 
-[![](/partnership_day.png)](https://forms.office.com/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQkE0Q1pWOU0wUUtEWUpSN1UyVFRCVzZFVSQlQCN0PWcu&web=1&wdLOR=cBA60EE5E-333F-234C-979D-FE525D8EF93C)
+[![](/partnership_day.png)](https://linkedin.zoom.us/w/91930263467?tk=8BwItMARZRQffZ-lWqmCSYIQNCRExUG7YLt1HpGw-q8.DQMAAAAVZ3h_qxYyQjNhOWJHQ1FKdWh0bktqdXhiaVV3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA#success)
 
 <iframe src="/partnershipday2022agenda.pdf#toolbar=0&statusbar=0" width="100%" height="900px">
 </iframe>

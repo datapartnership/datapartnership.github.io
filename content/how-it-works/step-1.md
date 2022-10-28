@@ -1,8 +1,10 @@
 ---
-title: Partnership
+title: Partnership Data License Agreements
 date: 2019-02-26T21:52:59.000+00:00
 weight: "1"
 ---
-Standard data license templates are signed between Data Partners and each participating organization (e.g., World Bank, CAF, IMF, IDB,OECD).
+Master data license agreements are signed between Data Partners and Development Partners.
 
-{{< youtube zgylEKwW2Zc >}}
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/pRD1e7uaeUc?rel=0">
+</iframe>

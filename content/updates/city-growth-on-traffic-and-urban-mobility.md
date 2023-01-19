@@ -1,7 +1,7 @@
 +++
 date = 2023-01-19T00:00:00Z
 title = "The Effects of City Growth on Traffic and Urban Mobility"
-authors = ["Cal Poly"]
+authors = ["Cal Poly", "Gabriel Vicente"]
 categories = ["Case Study"]
 dev_partner = ["World Bank"]
 partner = ["Waze"]

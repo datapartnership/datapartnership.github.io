@@ -1,0 +1,4 @@
+---
+name: Cal Poly Digital Transformation Hub
+---
+The [Cal Poly Digital Transformation Hub](https://dxhub.calpoly.edu/) (DxHub) is a strategic relationship with Amazon Web Services (AWS) and is the world’s first cloud innovation center supported by AWS on a University campus. The primary goal of the DxHub is to provide real-world problem-solving experiences to students by immersing them in the application of proven innovation methods in combination with the latest technologies to solve important challenges in the public sector. The challenges being addressed cover a wide variety of topics including homelessness, evidence-based policing, digital literacy, virtual cybersecurity laboratories and many others. The DxHub leverages the deep subject matter expertise of government, education and non-profit organizations to clearly understand the customers affected by public sector challenges and develops solutions that meet the customer needs.

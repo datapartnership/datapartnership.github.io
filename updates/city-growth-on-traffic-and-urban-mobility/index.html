@@ -2,7 +2,7 @@
 <meta charset=utf-8>
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1">
-<title>Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management</title>
+<title>The Effects of City Growth on Traffic and Urban Mobility</title>
 <meta name=description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta name=google-site-verification content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8">
 <meta name=keywords content="datapartnership.com,international consortium,data consortium,data international development,data international public good,data public good,data global social impact,data social good,data partnership,public private data partnership">
@@ -14,13 +14,13 @@
 <link rel="shortcut icon" href=/favicon.ico type=image/x-icon>
 <link rel=icon href=/favicon.ico type=image/x-icon>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management">
+<meta property="og:title" content="The Effects of City Growth on Traffic and Urban Mobility">
 <meta property="og:description" content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta property="og:image" content="https://datapartnership.org/images/card.png">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:site content="@DevDataPship">
 <meta name=twitter:site content="@DevDataPship">
-<meta name=twitter:title content="Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management">
+<meta name=twitter:title content="The Effects of City Growth on Traffic and Urban Mobility">
 <meta name=twitter:description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta name=twitter:image content="https://datapartnership.org/images/card.png">
 <style id=antiClickjack>body{display:none!important}</style>
@@ -101,7 +101,7 @@
 <a class=text-light href=/updates/ aria-current=page>Updates</a>
 </li>
 <li class=breadcrumb-item>
-<a class=text-light href=/updates/potential-of-digital-movement-data-for-natural-hazards-management/ aria-current=page>Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management</a>
+<a class=text-light href=/updates/city-growth-on-traffic-and-urban-mobility/ aria-current=page>The Effects of City Growth on Traffic and Urban Mobility</a>
 </li>
 </nav>
 </div>
@@ -113,76 +113,36 @@
 <div class="container mt-5 mb-5">
 <div class=row>
 <div class="col-md-8 col-xs-12 single-content blog-content">
-<h1>Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management</h1>
-<time datetime=" 2022-10-20T00:00:00Z">
-October 20, 2022
+<h1>The Effects of City Growth on Traffic and Urban Mobility</h1>
+<time datetime=" 2023-01-19T00:00:00Z">
+January 19, 2023
 </time>
 <a>by</a>
-<a class=authors href=/authors/nicholas-jones/>Nicholas Jones</a>
-<a class=authors href=/authors/takahiro-yabe/>, Takahiro Yabe</a>
+<a class=authors href=/authors/cal-poly/>Cal Poly Digital Transformation Hub</a>
+<a class=authors href=/authors/gabriel-vicente/>, Gabriel Stefanini Vicente</a>
 <br>
-<span class="badge badge-info">Cuebiq</span>
+<span class="badge badge-info">Waze</span>
 <span class="badge badge-primary">Disaster Risk Management</span>
+<span class="badge badge-primary">Transport</span>
 <hr>
-<p>Every September 19th since the great earthquake of 1985, Mexico City conducts a major drill: people filing out of buildings in an orderly fashion. But just 90 minutes after the drill finished in 2017, a new magnitude 7.1 earthquake struck causing buildings to collapse and displacing hundreds of families.</p>
-<p>Disasters like earthquakes can strike at a moment&rsquo;s notice but gathering information about how they affected communities can take weeks ─ leaving humanitarian response and reconstruction financing to take place in an information vacuum.</p>
-<p>However, the lack of information on basic facts such as post-disaster displacement may be changing thanks to new technologies. Indeed, the now-ubiquitous &ldquo;location services&rdquo; that allow Android or iPhone users to receive targeted weather forecasts or traffic alerts already record valuable data about movement patterns.</p>
-<p>Taking the 2017 earthquake as a case study, recent work by our team at the <a href=https://www.gfdrr.org/en>Global Facility for Disaster Reduction and Recovery (GFDRR)</a>/World Bank is uncovering valuable applications for this digital movement data and building open-source tools to bring these methods into the mainstream of disaster risk management.</p>
-<h3 id=mobility-data-a-generational-shift>Mobility data: a generational shift</h3>
-<p>For this study, we use a dataset of about 200,000 anonymous smartphone users in Mexico who opted into sharing their GPS locations for defined purposes. The dataset was provided through the <a href=https>Development Data Partnership</a> by the technology firm <a href=https://www.cuebiq.com/about/data-for-good/>Cuebiq&rsquo;s Data for Good</a> after the application of a privacy-protection algorithm.</p>
-<p>While the value of cellphone data in emergency response has been proven at least since the Haiti earthquake of 2010, these methods remained relatively niche and data access highly challenging.</p>
-<p>Two factors have reshaped the landscape of mobility data. Firstly, unlike with earlier forms of phone-based movement data (Call Detail Records or CDR), users of today&rsquo;s smartphone apps now have explicit legal frameworks to opt in to sharing their data for a limited scope of uses under rules such as the EU&rsquo;s Global Data Protection Regulation (GDPR).</p>
-<p>Secondly, COVID-19 catalyzed the rapid development of new public-private partnerships and clearer government regulations around newly available mobility datasets.</p>
-<h3 id=assessing-population-displacement>Assessing population displacement</h3>
-<p>So how can human mobility datasets help disaster management agencies do their job? Our study documents key steps to translate a raw dataset of users' locations over time into actionable insights.</p>
-<p>First, we divide the city into grid cells and estimate home and work locations based on the locations users visit most frequently during sleep and work hours (Figure 1).</p>
-<figure align=center>
-<img src=/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig1.png>
-<figcaption>
-<center> Figure 1: Estimating the density of home locations in Mexico City and adjacent regions using mean-shift
-</center>
-</figcaption>
-<figcaption>
-<center>Source: GFDRR </center>
-</figcaption>
-</figure>
-<p>Secondly, we identify displacement due to the earthquake by comparing population density the night of the earthquake with its average level over the preceding two months. For example, heavily affected areas such as Cuauhtemoc district ─ the site of many building collapses ─ showed abnormally low population suggesting residents departed to shelter elsewhere.</p>
-<p>Thirdly, we track the changes in the number of people spending the night away from their typical home census areas. In the severely affected zones, around 3.5% of the population spent the night more than 500 meters away from their homes after the quake, returning to normal over a one-month period (Figure 2).</p>
-<p>Fourthly, we map out the destinations (within Mexico City and nationwide) to which displaced users traveled. In widely studied cases such as the New Orleans floods in the U.S. and the Great East Japan earthquake and tsunami, it is frequently observed that residents of lower-income neighborhoods which often are in hazardous areas did not move, while residents of richer neighborhoods relocated to safer zones. Following this pattern, residents of poorer neighborhoods in Mexico City stayed closer to home.</p>
-<figure align=center>
-<img src=/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig2.png>
-<img src=/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig3.png>
-<figcaption>
-<center> Figure 2: Above: Anomaly of population density during the day (left) and night (right) on
-September 19, 2017 in Mexico City. Z scores indicate the number of standard deviations more/less
-compared to the pre-earthquake mean. Below: Timeline of population displacement for heavily
-affected areas.
-</center>
-</figcaption>
-<figcaption>
-<center>Source: GFDRR </center>
-</figcaption>
-</figure>
-<h3 id=mainstreaming-mobility-insights>Mainstreaming mobility insights</h3>
-<p>Beyond understanding displacement and recovery trends, our study demonstrates several uses for risk-informed urban planning ─ such as estimating daily commute patterns within a metro area and quantifying how people&rsquo;s access to critical services is impacted by floods. In the open source toolkit - <a href=https://github.com/mindearth/mobilkit>mobilkit</a> - we provide code to automate these tasks.</p>
-<p>Just like satellite imagery opened an increasingly wide range of uses to analysts over the past 10 years, digital movement data offers an expanding set of ways to strengthen the evidence base for response, reconstruction and risk-informed urban planning.</p>
-<p>Such datasets can complement or replace costly surveys by understanding how people move across urban space. They can give parks authorities a picture of how far users travel to visit their facilities; and urban planners can use them to “reality check” land use schemes by grasping what time of day people visit areas zoned as residential or commercial.</p>
-<p>Human mobility datasets are increasingly ubiquitous and power many applications on our smartphones each day. Isn’t it time to realize their public value - starting with increased ability for disaster managers to respond to unfolding emergency situations?</p>
-<figure align=center>
-<img src=/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig4.png>
-<figcaption>
-<center> Figure 3: (left) Histogram of distance traveled by individuals from Cuauhtemoc district, Mexico City; (right) linear relationship of displacement rate with poverty level for affected districts.
-</center>
-</figcaption>
-<figcaption>
-<center>Source: GFDRR </center>
-</figcaption>
-</figure>
-<p><em>Acknowledgements: The team thanks the Spanish Fund for Latin America and the Caribbean (SFLAC), Disruptive Technologies for Development (DT4D) program, USAID, Cuebiq Inc, Mind Earth, Purdue University and the Development Data Partnership.</em></p>
+<p>The Romanian city of Cluj-Napoca has been deeply affected by urban sprawl, which has strained the city’s traffic system and caused increased congestion on roadways. The <a href=https://dxhub.calpoly.edu/>Cal Poly Digital Tranformation Hub</a> (DxHub) powered by <a href=https://aws.amazon.com/>Amazon Web Services</a> (AWS) collaborated with Cal Poly students and faculty from the Master of Science Quantitative Economics (MSQE) program and <a href=https://www.worldbank.org/en/home>World Bank</a> members from the Geospatial Operations Support Team (GOST), and Urban, Disaster Risk Management, Resilience and Land (SCAUR), Europe and Central Asia Region team to develop a better understanding of the causes of traffic congestion throughout Cluj-Napoca. The World Bank Data Lab’s University Fellow Program and the <a href=https://datapartnership.org>Development Data Partnership</a> provided the teams with access to Waze for Cities data, which enabled a novel approach to this challenge. Utilizing data from Waze for Cities, students created models which represented both temporal and spatial features of various regions in the city. These findings can be used to support policy officials in developing key infrastructure to reduce traffic congestion and inform future urban planning decisions.</p>
+<h2 id=challenge>Challenge</h2>
+<p>Urbanization has greatly impacted Romania’s many growing cities, with Cluj-Napoca no exception. As the fourth most populous city in the country, Cluj-Napoca has experienced severe congestion issues due to poor infrastructure and urban sprawl in the outskirts of the city. Cluj- Napoca residents often experience severe bottlenecks when trying to move from the suburbs to the city center and drive on old roads not designed for the high density of cars in recent decades. While there is a recognition that changes need to be made to the city’s current regional planning, there is limited research examining the specific causes of traffic throughout the city.</p>
+<p>For this challenge, students utilized Waze traffic data specific to the city of Cluj-Napoca. Waze is a free community-driven GPS navigation app that calculates road congestion by comparing current road conditions with historical road data. The data used in this study were provided through the Waze for Cities program, which included user-reported traffic alerts throughout Cluj-Napoca from 2019 through 2022. Students used the data provided as well as data scraped from various websites to create a predictive model of traffic alerts depending on a variety of covariates, such as weather, proximity to schools/hospitals, COVID-19 lockdown stringency, holidays, and more.</p>
+<h2 id=solution>Solution</h2>
+<p>This challenge was led by a group of Cal Poly MSQE students under the supervision of Dr. Carlos Flores of the MSQE program and Dr. Kurt Colvin of the Cal Poly DxHub. The students also worked closely with members of the Geospatial Operations Support Team (GOST) who provided their professional expertise and guidance throughout the collaboration. Students utilized an Amazon S3 bucket, which enabled them to store large amounts of Waze data and run various analytic models from the cloud. The students used the programming language, Python, to clean and aggregate the data, which took considerable time due to the volume of new and exploratory Waze data.</p>
+<p>Upon completing this work, the students utilized H3, a hexagonal hierarchical spatial index that enables the analysis of geographic information. Students segmented the city into seven “parent” hexagons which contained >2000 smaller “child” hexagons and utilized both regression analysis methods and machine learning techniques (lasso and random forest models) to determine feature importance. The model utilized temporal features, which included variables such as day of the week, month, daily precipitation, daily COVID-19 Stringency Index, major Romanian holidays, and sporting events. There were also spatial features, which were the number of schools, hospitals, and bus stops in a smaller “child” hexagon.</p>
+<h2 id=impact>Impact</h2>
+<p>While there are some unique data constraints, such as the impact of COVID-19 on available data, students were able to utilize the data available to them to create robust models that displayed traffic predictors across the city of Cluj-Napoca. For instance, students determined that spatial features were greater indicators of traffic congestion near city centers whereas temporal features had a larger impact in areas closer to city outskirts. While more research and data collection are necessary, this is an exciting and critical first step in developing a greater understanding of traffic patterns in Cluj-Napoca. Hopefully future research will further develop and revise these models so they are useful in examining traffic congestion and informing policy in other cities and regions around the world.</p>
+<br>
+<p><em>Originally published on the <a href=https://dxhub.calpoly.edu/>Cal Poly Digital Tranformation Hub&rsquo;s</a> blog.</em></p>
 <br>
 <h3>Read more</h3>
 <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentcolor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 104.243 4.243l1.828-1.829A3 3 0 008.586 5.5L8 6.086a1.002 1.002.0 00-.154.199 2 2 0 01.861 3.337L6.88 11.45A2 2 0 114.05 8.62l.793-.792a4.018 4.018.0 01-.128-1.287z"/><path d="M6.586 4.672A3 3 0 007.414 9.5l.775-.776a2 2 0 01-.896-3.346L9.12 3.55a2 2 0 112.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372A3 3 0 108.414 2.844L6.586 4.672z"/></svg>
-<a class=read-more href=https://github.com/mindearth/mobilkit>https://github.com/mindearth/mobilkit</a>
+<a class=read-more href=https://dxhub.calpoly.edu/challenges/city-growth-on-traffic-and-urban-mobility>https://dxhub.calpoly.edu/challenges/city-growth-on-traffic-and-urban-mobility</a>
+<br>
+<span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentcolor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 104.243 4.243l1.828-1.829A3 3 0 008.586 5.5L8 6.086a1.002 1.002.0 00-.154.199 2 2 0 01.861 3.337L6.88 11.45A2 2 0 114.05 8.62l.793-.792a4.018 4.018.0 01-.128-1.287z"/><path d="M6.586 4.672A3 3 0 007.414 9.5l.775-.776a2 2 0 01-.896-3.346L9.12 3.55a2 2 0 112.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372A3 3 0 108.414 2.844L6.586 4.672z"/></svg>
+<a class=read-more href=https://github.com/datapartnership/effects-of-city-growth-patterns-on-traffic-and-urban-mobility>https://github.com/datapartnership/effects-of-city-growth-patterns-on-traffic-and-urban-mobility</a>
 <br>
 </span>
 </div>

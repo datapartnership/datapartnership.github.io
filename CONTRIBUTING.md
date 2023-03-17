@@ -42,7 +42,7 @@ When writing about your project, consider the template and the [TOML](https://to
 - post_type: Select type, i.e. *"Case Study", "Article", "Events" or "Tutorial"*.
 - tags: Select one or more tags.
 - links: Select one or more external (Read more) links.
-- partner: Select Data Partner(s) associated with this project, e.g. `["Facebook, Mapbox"]`.
+- partner: Select Data Partner(s) associated with this project, e.g. `["Meta, Mapbox"]`.
 - dev_partner: Select Development Partner(s) associated with this project, e.g. `["World Bank"]`.
 
 For example, use the preamble below.
@@ -79,7 +79,7 @@ Describe in detail the challenge the project addressed.
 
 ## Solution
 
-Describe what solution the problem applied to address the challenge and what data dataset and data partners contributed to solving the problem!
+Describe what solution the problem applied to address the challenge and what data dataset and data partners contributed to solving the problem.
 
 ## Impact
 Tell us more about the impact of the project and the results obtained by implementing the solution. Please mention if the project plans to continue/expand or scale in other countries/sectors.

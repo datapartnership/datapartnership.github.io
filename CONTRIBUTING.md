@@ -71,15 +71,17 @@ links =
 date =
 +++
 
+Provide a brief introduction to the project and mention the Team/Global Practice/Sector and Development Partner. 
+
 ## Challenge
 
-Provide a brief introduction about the project and theme of study as well as describe the main problem related to it.
+Describe in detail the challenge the project addressed.
 
 ## Solution
 
-Describe into more details about the project and what solutions it proposes to solve a specific issue. Additionally, do not forget to describe a little bit about the dataset or data resource used on this initiative that was provided by a Data Partners.
+Describe what solution the problem applied to address the challenge and what data dataset and data partners contributed to solving the problem!
 
 ## Impact
+Tell us more about the impact of the project and the results obtained by implementing the solution. Please mention if the project plans to continue/expand or scale in other countries/sectors.
 
-The final and conclusive part of your text describes the achievement and results that were obtained by implementing the referred solution.
 ```

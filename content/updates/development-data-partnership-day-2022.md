@@ -3,8 +3,7 @@ date =  2022-10-25T00:00:00Z
 title = "Development Data Partnership Day 2022"
 authors = ["Claudia Calderon"]
 categories = ["Announcement"]
-dev_parter = ["International Monetary Fund", "World Bank", ]
-url ="partnershipday2022"
+dev_parter = ["International Monetary Fund", "World Bank"]
 +++
 
 This day is dedicated to addressing global climate, health, and food security challenges through public-private data science collaboration. Speakers from [LinkedIn](https://economicgraphchallenge.linkedin.com), [Google](https://about.google), [Data for Good at Meta](https://dataforgood.facebook.com/dfg/about), [Spectus](https://spectus.ai) (formerly Cuebiq), [Ookla for Good](https://www.ookla.com/ookla-for-good), and [Mapbox](https://www.mapbox.com/about/company/) will share their latest experiences on data science collaboration for public good, while leadership and colleagues from the [IDB](https://iadb.org), [UNDP](https://undp.org), [IMF](https://imf.org), and the [World Bank](https://worldbank.org) will introduce project impacts. Presentations will be followed by a Call to Action, inviting participants to learn about and join an experimental, global data science collaboration to address urgent needs.

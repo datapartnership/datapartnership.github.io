@@ -20,4 +20,4 @@ See how new data science collaborations between tech companies and international
 [![](/images/updates/partnership-day-2023/keynotes.png)](https://datapartnership.org/partnershipday2023/registration)
 
 
-
+The Strategic Advisory Group Meeting 2023, where representatives from member international organizations and data partners meet to discuss the next steps for the Partnership, will take place from 2:00 p.m. - 4:30 p.m. following the public Development Data Partnership Day event.

@@ -13,7 +13,7 @@ Join us for Development Data Partnership Day on Wednesday, May 10, 2023, from 9:
     <button type="button" class="btn btn-outline-info"><a href="https://datapartnership.org/partnershipday2023/registration"> Register Now </a>
     </button>
 
-[![](/images/updates/partnership-day-2023/invite_speakers.png)](https://datapartnership.org/partnershipday2023/registration)
+[![](/images/updates/partnership-day-2023/Keynotes2.png)](https://datapartnership.org/partnershipday2023/registration)
 
 
 The Strategic Advisory Group Meeting 2023, where representatives from member international organizations and data partners meet to discuss the next steps for the Partnership, will take place from 2:00 p.m. - 4:30 p.m. following the public Development Data Partnership Day event.

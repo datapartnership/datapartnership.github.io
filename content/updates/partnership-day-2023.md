@@ -7,11 +7,11 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 url ="partnershipday2023"
 +++
 
-Join us for Development Data Partnership Day on Wednesday, May 10, 2023, from 9:00 a.m. to 12:30 p.m. US ET in person at the World Bank HQ in Washington, DC.
+Join us for the Development Data Partnership Day on Wednesday, May 10, 2023, from 9:00 a.m. to 12:30 p.m. US ET in person at the World Bank HQ in Washington, DC.
 
 This is a unique opportunity to hear from the New York Times Chief Data Scientist, Google Chief Economist, and LinkedIn Chief Economist on the past, present, and future of data science collaboration for the public good. You'll have a chance to learn how international development organizations are adapting to new public-private data science collaboration from the IDB and World Bank Chief Economists, OECD and IMF Chief Statisticians, and UNDP Chief Analytics Officer.
 
-See how new data science collaborations between tech companies and international organizations are changing how we approach international development with collaboration highlights between IDB, IMF, Meta, Mapbox, Linkedln, Ookla, Premise, and the World Bank.
+See how new data science collaborations between tech companies and international organizations are changing how we approach international development with project collaboration from the IDB, IMF, Meta, Mapbox, Linkedln, Ookla, Premise, and the World Bank.
 
 <p style="text-align:center">
     <button type="button" class="btn btn-outline-info"><a href="https://datapartnership.org/partnershipday2023/registration"> Register Now </a>

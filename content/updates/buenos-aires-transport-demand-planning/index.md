@@ -30,8 +30,8 @@ They considered three different time periods in the study October 2019 (pre-pand
 It was seen that the Congestion Index was much higher in CABA than in GBA or AMBA in all three periods. Across AMBA, high congestion in October 2021 appears to have exceeded the October 2019 level during the highest activity hours (Figure 1 b) even though total traffic intensity measured across the entire day was 11% lower.
 
 <figure align="center">
-    <img src="/images/updates/buenos-aires-transport-demand-planning/fig1.png" width="360"/>
-    <img src="/images/updates/buenos-aires-transport-demand-planning/fig2.png" width="360"/>
+    <img src="fig1.png" width="360"/>
+    <img src="fig2.png" width="360"/>
     <figcaption>
         <center> Figure 1: Changes over time in "High" congestion index at peak rush hour (17:00).
         </center>
@@ -45,11 +45,11 @@ The team went on to analyse the traffic intensity changes disaggregated by highw
 
 <figure align="center">
     <h6>CABA vs. GBA</h6>
-    <img src="/images/updates/buenos-aires-transport-demand-planning/fig3.png" width="360"/>
-    <img src="/images/updates/buenos-aires-transport-demand-planning/fig4.png" width="360"/>
+    <img src="fig3.png" width="360"/>
+    <img src="fig4.png" width="360"/>
     <h6>Compared to CABA average (%) vs. Compared to GBA average (%)</h6>
-    <img src="/images/updates/buenos-aires-transport-demand-planning/fig5.png" width="360"/>
-    <img src="/images/updates/buenos-aires-transport-demand-planning/fig6.png" width="360"/>
+    <img src="fig5.png" width="360"/>
+    <img src="fig6.png" width="360"/>
     <figcaption>
         <center> Figure 2: Congestion index at peak rush hour (17:00): specific types of roads vs. CABA/GBA averages.</center>
     </figcaption>

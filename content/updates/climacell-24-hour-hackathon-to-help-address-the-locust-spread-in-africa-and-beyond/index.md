@@ -23,6 +23,6 @@ categories = ["Announcement"]
 
 (3) The team also prototyped alerting features that could support early warnings to farmers and communities in advance of incoming swarms, with recommendations on what action needs to be taken and when.
 
-![](/live-feedback-from-farmers.png)
+![](live-feedback-from-farmers.png)
 
 **Impact**: Activities leading up to the event involved problem scoping and sharing of insights by experts from the World Bank, FAO, and others. Critical input was also received from the Red Cross, as well as African farmers and pastoralists. During the event, rapid product iteration took place based on real time inputs from African farming and emergency response community members, leading to a community-built solution with the goal of being complementary and additive to existing solutions.

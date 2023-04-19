@@ -16,7 +16,7 @@ Connected and maintained transportation infrastructure are critical to sustainab
 
 Using traffic data from Mapbox and other open-source tools, the World Bank Sri Lanka Tourism and Poverty Teams developed a road targeting model to calculate the shortest path and lowest cost travel between a given set of origins and destinations. The most significant finding of the model is that road quality is likely _not_ the greatest factor impacting the tourism sector in Sri Lanka. The majority of underperforming road segments were identified as trafficked or congested and associated with lighted and non-lighted intersections or entrances to tourism sites. Figure 1 indicates the geographic dispersion of the targeted road segments, colorized by the time saved for traversing each.
 
-![](/sri-lanka.png)
+![](sri-lanka.png)
 
 _Fig 1: Map of the road segments improved by 20 seconds or more in Sri Lanka, by city origin._
 

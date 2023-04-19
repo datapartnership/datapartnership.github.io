@@ -40,22 +40,26 @@ googleAnalytics = "G-7L4XVWZBSB"
     name    = "About"
     url     = "/about"
     weight  = 1
+[[menu.nav]]
+    name    = "Portal"
+    url     = "https://portal.datapartnership.org"
+    weight  = 2
   [[menu.nav]]
     name    = "Documentation"
     url     = "https://docs.datapartnership.org"
-    weight  = 2
+    weight  = 3
   [[menu.nav]]
     name    = "Projects & News"
     url     = "/updates"
-    weight  = 3
+    weight  = 4
   [[menu.nav]]
     name    = "Topics"
     url     = "/tags"
-    weight  = 4
-  [[menu.nav]]
-    name    = "Get in touch"
-    url     = "mailto:datapartnership@worldbank.org"
     weight  = 5
+  [[menu.nav]]
+    name    = "Contact us"
+    url     = "mailto:datapartnership@worldbank.org"
+    weight  = 6
 
 [markup.goldmark.renderer]
 unsafe = true

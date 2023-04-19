@@ -1,4 +1,4 @@
 ---
 title: Premise
-logo: /images/partners/premise.svg
+logo: images/premise.svg
 ---

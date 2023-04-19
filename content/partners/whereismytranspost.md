@@ -1,6 +1,6 @@
 ---
 title: WhereIsMyTransport
-logo: /images/partners/whereismytransport.svg
+logo: images/whereismytransport.svg
 ---
 
 

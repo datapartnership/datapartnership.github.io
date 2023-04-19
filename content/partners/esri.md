@@ -1,6 +1,6 @@
 ---
 title: Esri
-logo: /images/partners/esri.svg
+logo: images/esri.svg
 ---
 
 

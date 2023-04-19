@@ -1,6 +1,6 @@
 ---
 title: LinkedIn
-logo: /images/partners/linkedin.svg
+logo: images/linkedin.svg
 ---
 
 

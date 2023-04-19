@@ -1,4 +1,4 @@
 ---
 title: Homebase
-logo: /images/partners/homebase.svg
+logo: images/homebase.svg
 ---

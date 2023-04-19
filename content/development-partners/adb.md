@@ -1,6 +1,6 @@
 ---
 title: Asian Develpment Bank
-logo: /images/development-partners/adb.svg
+logo: images/adb.svg
 link: https://www.adb.org/
 class: logo-large
 ---

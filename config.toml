@@ -49,9 +49,13 @@ googleAnalytics = "G-7L4XVWZBSB"
     url     = "/updates"
     weight  = 3
   [[menu.nav]]
+    name    = "Topics"
+    url     = "/tags"
+    weight  = 4
+  [[menu.nav]]
     name    = "Get in touch"
     url     = "mailto:datapartnership@worldbank.org"
-    weight  = 4
+    weight  = 5
 
 [markup.goldmark.renderer]
 unsafe = true

@@ -13,9 +13,9 @@ This is a unique opportunity to hear from the New York Times Chief Data Scientis
 See how new data science collaborations between tech companies and international organizations are changing how we approach international development with project collaborations from the IDB, IMF, Meta, Mapbox, Linkedln, Ookla, Premise, and the World Bank.
 
 <p style="text-align:center">
-    <button type="button" class="btn btn-outline-info"><a href="https://datapartnership.org/partnershipday2023/registration"> Register Now </a>
+    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQUwzSlBSUFZVNVc5STVFRVFOSlpOREk0QSQlQCN0PWcu"> Register Now </a>
     </button>
 
-[![](keynotes_update.png)](https://datapartnership.org/partnershipday2023/registration)
+[![](keynotes_update.png)](https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQUwzSlBSUFZVNVc5STVFRVFOSlpOREk0QSQlQCN0PWcu)
 
 The Strategic Advisory Group Meeting 2023, where representatives from member international organizations and data partners meet to discuss the next steps for the Partnership, will take place from 2:00 p.m. - 4:30 p.m. following the public Development Data Partnership Day event.

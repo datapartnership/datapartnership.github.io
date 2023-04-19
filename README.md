@@ -12,9 +12,4 @@ See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## License
 
-[World Bank Master Community License Agreement](LICENSE.md)
-
-<hr>
-<p align="center">
-  <img width="75" height="75" src="https://raw.githubusercontent.com/datapartnership/.github/main/images/logo.png">
-</p>
+[World Bank Master Community License Agreement](LICENSE)

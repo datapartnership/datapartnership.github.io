@@ -2,17 +2,17 @@
 
 🎉 Thanks for taking the time to contribute to the Development Data Partnership! 🎉
 
-First off, visit our [blog](https://datapartnership.org/updates/) to explore and learn more about news and projects. Our blog is a [Hugo](https://gohugo.io/) static site that is deployed on [GitHub Pages](https://pages.github.com) with [GitHub Actions](https://github.com/features/actions). If not familiar with Hugo, check out a [Quick Start](https://gohugo.io/getting-started/quick-start/).
+The [Development Data Partnership Partnership](https://datapartnership.org/) website is a [Hugo](https://gohugo.io/)-generated static website that is continuously deployed on [GitHub Pages](https://pages.github.com) via [GitHub Actions](https://github.com/features/actions). If not familiar with Hugo, please check out a [Quick Start](https://gohugo.io/getting-started/quick-start/).
+
+In summary, the continuous deployment (CD) works as follows:
 
 - On each new pull request, a preview will be available. The deploy preview will be posted by the `netlify bot` on the comments.
 
-- On each commit to `main`, the website is published to <https://datapartnership.org>.
+- On each commit to `main`, the website is published to [datapartnership.org](https://datapartnership.org). The domain is registed AWS Route 53 with the World Bank.
 
 ## How to post/edit on the Partnership blog
 
-All blog posts, published through this repository on [GitHub Pages](https://pages.github.com), are located under [updates](https://github.com/datapartnership/datapartnership.org/tree/master/content/updates). Follow the instructions below on how to create and have your story published.
-
-Alternatively, you can become an editor on [Forestry.io](https://forestry.io/). For more information, please reach out [datapartnership@worldbank.org](mailto:datapartnership@worldbank.org).
+All content is are located under [content](https://github.com/datapartnership/datapartnership.org/tree/master/content). Follow the instructions below on how to create and submit your story for publication.
 
 **Checklist**
 
@@ -71,7 +71,7 @@ links =
 date =
 +++
 
-Provide a brief introduction to the project and mention the Team/Global Practice/Sector and Development Partner. 
+Provide a brief introduction to the project and mention the Team/Global Practice/Sector and Development Partner.
 
 ## Challenge
 

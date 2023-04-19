@@ -1,5 +1,5 @@
 ---
 title: GitHub
-logo: /images/partners/github.svg
+logo: images/github.svg
 ---
 

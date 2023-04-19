@@ -19,7 +19,7 @@ With so many new sources of information, it can be difficult to know where to st
 
 Click below to explore the data!
 
-<a href="/pages/mobility-data-dashboard-main" target="_blank"><img src="/updates/mobility-dashboard/mobility-dashboard-optimized.gif" style="width:100%;"/></a>
+<a href="/pages/mobility-data-dashboard-main" target="_blank"><img src="mobility-dashboard-optimized.gif" style="width:100%;"/></a>
 
 _Visualization by Hellen Matarazzo, Data Scientist, Health Global Practice, The World Bank_
 
@@ -47,7 +47,7 @@ The Development Data Partnership has an agreement with four location intelligenc
 
 You can use the visualization below to pick which dataset suits your needs based on the country you want to analyze. We are working hard to structure the data across providers in a similar way, so that you can use the same code to analyze data from all providers.
 
-<a href="/pages/mobility-data-dashboard-by-country" target="_blank"><img src="/updates/mobility-dashboard/mobility-dashboard-bycountry-optimized.gif" style="width:100%;"/></a>
+<a href="/pages/mobility-data-dashboard-by-country" target="_blank"><img src="mobility-dashboard-bycountry-optimized.gif" style="width:100%;"/></a>
 
 #### **And...**
 

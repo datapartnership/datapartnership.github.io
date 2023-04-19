@@ -13,7 +13,6 @@ The COVID-19 pandemic saw an unprecedented amount of scientific information diss
 
 Despite significant efforts by governments and other groups to communicate latest evidence and guidelines, this situation triggered confusion and mistrust leading to low levels of uptake of COVID-19 appropriate behaviours including vaccination in some populations. Analysing communications for COVID-19, particularly trust and exposure to different sources of information, is therefore essential to understand how to build an effective mass communication campaign.
 
-
 ## Challenge
 
 The pandemic increased people’s anxiety and worry, affecting [their trust in other people and in institutions.](https://www.oecd.org/coronavirus/policy-responses/covid-19-protecting-people-and-societies-e5c9de1a/) In addition, the excess of information made it difficult to convey vital information to the general public. For instance, according to our analysis, 10.5% of adults in June 2021 had not taken the vaccine because they thought they were not eligible for the vaccines when the vaccination campaign was actually open to all adults. In this context, understanding where Indians get their information from and what they trust is essential.
@@ -43,4 +42,4 @@ Finally, the data shows a clear divide between urban areas where levels of trust
 _Author(s):_
 
 * Sofia Imad, Development Data Partnership Data Fellow
-* Anushka Bhansali  
+* Anushka Bhansali

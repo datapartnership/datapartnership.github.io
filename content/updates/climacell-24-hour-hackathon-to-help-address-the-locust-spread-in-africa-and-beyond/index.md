@@ -1,14 +1,15 @@
 +++
 date = 2020-06-24T13:12:14Z
-partner = ["Tomorrow"]
+partner = ["Tomorrow.io"]
 title = "Leveraging New Data Methods to Address an Ancient Challenge: Locusts"
 authors = ["Gabriel Vicente"]
-post_type = "Case Study"
+post_type = "Article"
 dev_partner = ["World Bank"]
 links = [
     "https://www.climacell.org/blog/climacell-completes-24-hour-hackathon-to-help-address-the-locust-spread-in-africa-and-beyond",
 ]
 tags = ["Agriculture and Food"]
+categories = ["Announcement"]
 +++
 **Challenge:** The worst locust upsurge in at least 25 years is hitting parts of Africa, the Arabian Peninsula and Western Asia, and over 40 million people who are already food insecure find their food supply and livelihoods threatened.
 

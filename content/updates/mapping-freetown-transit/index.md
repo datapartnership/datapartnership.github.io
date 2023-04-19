@@ -13,13 +13,13 @@ links = [
 
 **Challenge:** The resiliency of a transport network is a critical component to the stability and prosperity of a city. Freetown, prone to flooding and landslides, struggles to maintain services throughout the year. Compounding the challenges of weather and scarce resources, the government did not have a comprehensive map of its entire transport system, curtailing efforts to increase the resiliency of the system.
 
-![WIMT Project Stats](/WIMT_Stats.png)
+![WIMT Project Stats](WIMT_Stats.png)
 
 **Solution**: Working with Where Is My Transport, map Freetown’s formal and informal transport network, and make the data freely available to governments, academia, and NGOs.
 
 **Impact**: The local government can now identify and prioritize interventions that will enhance the resiliency of their transport system, to maximize economic and social benefits.
 
-![Freetown Flooding](/WIMT_Flood.png)
+![Freetown Flooding](WIMT_Flood.png)
 
 With 1 million people and 30% of Sierra Leone’s GDP, Freetown is a vibrant West African city with a growing population and economy. Much of the city's economy revolves around its natural deep-water harbor – one of largest in the world, supported by its network of formal and informal transit.
 
@@ -33,12 +33,12 @@ The Data Partnership had already partnered with [WhereIsMyTransport](https://www
 
 Because of this existing relationship with WhereIsMyTransport, the team in Sierra Leone was able to leapfrog a multi-month process of collecting and processing Freetown route data. The World Bank team worked with WhereIsMyTransport to train university students from Fourah Bay College to collect 4,038 km of formal and informal bus, taxi, and ferry tracks over the course of 13 days. Instead of months, the transport data collection and processing timeline happened within the matter of a few short weeks.
 
-![Freetown Mapping Students](/WIMT_Students.png)
+![Freetown Mapping Students](WIMT_Students.png)
 
 The Data Partnership platform allowed the government of Sierra Leone to begin a vulnerability assessment without data as a bottleneck. With the routes mapped, the government could now determine how, where, and when the supply of public transport is affected by climate impacts. As Arroyo Arroyo continued “I see that the world is changing so fast. We really need risky ideas to be able to catch up. We need innovation to come into our projects.”
 
 From infrastructure development to health services, the Freetown transport map is now critical to the work of city officials and university curriculum. The data has also become a resource for the public. Because a complete map of the informal and formal transit network is available for the very first time, several developers across all of West Africa are building apps to improve civic decision-making and journey-planning.
 
-![Freetown Transit Map](/WIMT_Map.png)
+![Freetown Transit Map](WIMT_Map.png)
 
 The more resilient transport services are to climate impact, the more a city is able to adapt, and the more people are able to access economic opportunity and social services regardless of change.

@@ -17,14 +17,14 @@ This study aims to highlight the efficacy of using alternative datasets to infor
 The COVID-19 second wave hit Maharashtra between February-July 2021 (Figure 1). The peak of the disease was during April-May 2021 resulting in various policy directives to curb the virus by the government of Maharashtra (Figure 2).
 
 <figure align="center">
-  <img src="/updates/lessons-from-covid-19-second-wave-in-maharashtra/maharashtra_1.png">
+  <img src="maharashtra_1.png">
   <figcaption> <center> Figure 1: Timeline Of The Second Wave Of Covid-19 In Maharashtra </center> </figcaption>
 </figure>
 
 <br>
 
 <figure align="center">
-  <img src="/updates/lessons-from-covid-19-second-wave-in-maharashtra/maharashtra_2.png">
+  <img src="maharashtra_2.png">
   <figcaption>  <center> Figure 2: Policy Directives During The Peak Of The Covid-19 Second Wave In Maharashtra</center> </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ For analysing movement, [Outlogic](https://outlogic.io/) anonymised, privacy pro
 The top ten districts of Maharashtra were identified based on their contribution to the state’s industrial GVA in 2019-20. District level Gross Domestic Product (GDP) data was sourced from the Directorate of Economics and Statistics, Government of Maharashtra. The ten districts outlined below contributed 71.5% of state GVA in 2019-20 (Table 1).
 
 <figure align="center">
-  <img src="/updates/lessons-from-covid-19-second-wave-in-maharashtra/maharashtra_3.png">
+  <img src="maharashtra_3.png">
   <figcaption>  <center> Table 1: Top 10 Industrial Districts in Maharashtra
   </center> </figcaption>
 </figure>
@@ -57,7 +57,7 @@ With the provided data, the following steps were taken to gauge the weekly react
 It was found that **mobility of people changed in anticipation of a policy, not when the policy itself was enforced** (Figure 3). If residents felt that lockdowns/restrictions were about to be imposed, they tended to move out of the district. This can be seen in the week of 22-28 March 2021, where all districts saw an increase in outward movement as compared to the previous week (Figure 3). Following the first round of Break the Chain restrictions on April 4, which signalled the official recognition of the second wave by the government, people ended up returning to their districts, with an increase in movement into each district.
 
 <figure align="center">
-  <img src="/updates/lessons-from-covid-19-second-wave-in-maharashtra/maharashtra_4.png">
+  <img src="maharashtra_4.png">
   <figcaption>  <center> Source: Outlogic - Positive Change == Inward Movement Into District
   <figcaption>  <center> Figure 3: Weekly Changes In Movement Patterns Across Districts (Average Of Districts== Line)
   </center> </figcaption>
@@ -68,7 +68,7 @@ The outflow of residents from districts in anticipation of restrictive policies 
 On the other hand, **industrial, construction and manufacturing indices always took a week or two to react to a change in policy** (Figure 4). The **construction industry seems to have been worst affected** when policy restrictions were enacted, with activity declining with the imposition of Section 144 being imposed in April 2021. After hitting a trough at the start of June 2021, it then rapidly improved with the state easing lockdown by the start of July.
 
 <figure align="center">
-  <img src="/updates/lessons-from-covid-19-second-wave-in-maharashtra/maharashtra_5.png">
+  <img src="maharashtra_5.png">
   <figcaption>  <center> Source: SpaceKnow Indices
   <figcaption>  <center> Figure 4: Weekly Changes In Economic Activity
   </center> </figcaption>

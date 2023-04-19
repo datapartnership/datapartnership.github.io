@@ -34,13 +34,13 @@ The dataset reported a significant drop in mobility in all three countries, with
 The analysis found that socio-economic factors played a key role in people’s ability to adhere to movement restrictions, and consequently their exposure to COVID-19. For instance, residents of urban areas and those with greater wealth moved less. Moreover, the research suggested that better fixed internet connections made it easier for people to adhere to pandemic-related movement restrictions.
 
 <figure align="center">
-  <img src="/images/updates/covid19-internet-speed-impact/covid19-internet-speed-impact-figure1.png"/>
+  <img src="covid19-internet-speed-impact-figure1.png"/>
   <figcaption>Figure 1: Fixed internet quality varied widely across Colombia, Ecuador, and El Salvador (2019/2020)</figcaption>
   <figcaption>Source: World Bank analysis of Ookla® Speedtest Intelligence® data</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/images/updates/covid19-internet-speed-impact/covid19-internet-speed-impact-figure2.png"/>
+  <img src="covid19-internet-speed-impact-figure2.png"/>
   <figcaption>Figure 2: Average fixed internet download speed by department (megabits per second)</figcaption>
   <figcaption>Source: World Bank analysis of movement range maps from Meta’s Data for Good Program.</figcaption>
 </figure>

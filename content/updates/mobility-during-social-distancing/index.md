@@ -27,13 +27,13 @@ Several studies of United States counties support this hypothesis:
 
 #### NYT
 
-![](/updates/mobility-metrics-in/NYT.png)
+![](NYT.png)
 
 [_NYT_](https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html) _with_ [_Cuebiq_](https://www.cuebiq.com/) _data: Census tract median of intra-day max extent of devices. 10% and 90% wealth percentiles. Wealthy counties essentially halted all movement and worked from home, while poorest counties trailed almost a week later, and with significant residual mobility as people could not afford to stay home._
 
 #### Reuters
 
-![](/updates/mobility-metrics-in/Reuters.png)
+![](Reuters.png)
 [_Reuters_](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA/qmypmkmwpra/) _and MIT. Wealthier counties had less mobility than poorer ones._
 
 ***
@@ -67,7 +67,7 @@ Let's start with exploring public mobility data from [Apple](https://www.apple.c
 
 ### Apple mobility data
 
-![png](/updates/mobility-metrics-in/output_10_0.png)
+![png](output_10_0.png)
 
 Apple's data is activity based, recording when people were walking and when they were driving. We can clearly see a sharp decline in walking / data activity recorded by Apple devices at the end of March. People with a higher income tend to own Apple devices. We can see this trend on the NYT study above, and below we also explore this hypothesis for India using Google and Facebook data.
 
@@ -75,7 +75,7 @@ Lastly, we see that in early May, people are starting to drive and walk more.
 
 ### Google mobility data
 
-![png](/updates/mobility-metrics-in/output_14_0.png)
+![png](output_14_0.png)
 
 Google's data is less about activity and more about location.  How much time did people spend in a given location?
 
@@ -91,7 +91,7 @@ However, once the initial drop happened, we still observe:
 
 ### Comparing Apple and Google Data
 
-![png](/updates/mobility-metrics-in/output_17_0.png)
+![png](output_17_0.png)
 
 Comparing Apple's activity data with Google location data, we make a few more observations:
 
@@ -109,7 +109,7 @@ Facebook Movement Range data contains two types of data:
 
 Let's explore first the relation between them on a scatter plot:
 
-![png](/updates/mobility-metrics-in/output_27_0.png)
+![png](output_27_0.png)
 
 It seems clear, and logical, that there is a proportional relation: The more stationary a region is, the less movement range we see. A higher cluster around `0` (no relative change), means that in these regions, there is more variability of stationary populations.
 
@@ -121,7 +121,7 @@ We also see that some regions tend to be in the same space of the plot, especial
 
 This data shows the average number of level 16 Bing tiles (0.6km by 0.6km) that a Facebook user (mobile app + location history) was present in during a 24 hour period compared to pre-crisis levels. This is called the Travel Range map.
 
-![png](/updates/mobility-metrics-in/output_30_0.png)
+![png](output_30_0.png)
 
 ALL regions see a significant decrease in range. The degree of change seems mostly constant, and some places twice than others.
 
@@ -139,11 +139,11 @@ We see that some regions see little change, while others see `~x15` increase. Th
 
 ### Break up by Indian State
 
-![png](/updates/mobility-metrics-in/output_38_0.png)
+![png](output_38_0.png)
 
 ## Comparing Apple, Google and Facebook data
 
-![png](/updates/mobility-metrics-in/output_40_0.png)
+![png](output_40_0.png)
 
 Apple mobility data (solid colored lines) tend to show among the strongest reduction of mobility, consistent with wealthier customers that can afford Apple products and can also work from home or restrict their mobility.
 

@@ -26,7 +26,7 @@ Social norms rely on individual perceptions of others, namely they have a social
 Using early marriage as an example, table 1 shows a classification of beliefs (or expectations) according to whether they are social or not and whether they have or not a normative content. An early marriage social norm will exist in a specific society, or group within that society, if a large percentage of people share the same social belief about (a) what others do, and (b) what others think one should do. Unfortunately, most of the empirical work relies on non-social beliefs, the elements of the first column of Table 1. Without more precise measurements and data on the social elements, assessing how important the role of social norms is in explaining gender inequality is thus still quite imprecise (with few exceptions such as [Gauri et al. 2019](http://dx.doi.org/10.1596/1813-9450-8916)).
 
 <figure align="center">
-    <img src="/images/updates/social-norms-and-gender-equality/gender_south_asia_attitude_table.png" />
+    <img src="gender_south_asia_attitude_table.png" />
     <figcaption>
         <center><b>Table 1: Normative and social components of beliefs</b></center>
     </figcaption>
@@ -43,7 +43,7 @@ The survey shows that social expectations of gender roles tend to be more conser
 If the external pressure from the reference group matters for individuals’ behaviour, it is possible that, even in the presence of less restrictive personal beliefs, gender inequality persists. Compared to other regions, South Asian countries appear to have the most conservative social normative expectations around women’s and men’s roles within the household (see figure 1). This is consistent with the high levels of gender inequality in South Asia. In addition, for the specific case of “A woman’s most important role is to take care of her home and children” there is convergence between what people believe and what they assume others’ beliefs. In such a situation, ‘correcting’ the social normative expectations by informing individuals that society’s views are indeed less restrictive than individuals believe is not possible and the social norms may have a stronger hold in maintaining gender inequality.
 
 <figure align="center">
-    <img src="/images/updates/social-norms-and-gender-equality/gender_south_asia_norms_chart.png" />
+    <img src="gender_south_asia_norms_chart.png" />
     <figcaption>
         <center><b>Figure 1: South Asian countries have the most conservative social normative expectations around women’s and men’s roles within the household</b></center>
     </figcaption>
@@ -54,7 +54,7 @@ If the external pressure from the reference group matters for individuals’ beh
 Data from the survey can be used to test some of these hypotheses. They can be used, for example, to assess whether the correlation between gender outcomes and social normative expectations is stronger than that between gender outcomes and personal beliefs. Clearly, other factors influence gender outcomes. Economic development, or the level of GDP per capita, has strong correlations with women’s time use for household chores, paid employment, and labour force participation ([Boserup, 1970](http://dx.doi.org/10.4324/9781315065892); [Durand 1975](https://press.princeton.edu/books/hardcover/9780691644639/the-labor-force-in-economic-development); [Goldin 1995](https://scholar.harvard.edu/goldin/publications/u-shaped-female-labor-force-function-economic-development-and-economic-history)). Using regression analysis, we can gauge the correlations of gender outcomes and social norms once the influence of GDP per capita has been controlled for. In other words, we can assess whether more conservative social norms—and, separately, for the social normative expectations and the personal beliefs component—are associated with worse gender outcomes in countries that are at the same level of development. The results of this analysis are shown in figure 2. Three main insights are highlighted: i) Social norms matter; this is because the ‘residual’ or how much more or less time women spend on household chores or in the labour market compared to women in countries with the same level of development is significantly correlated with social norms; ii) Social normative expectations matter more than personal beliefs; this is because the slope of the regression lines in the figures is steeper for social normative expectations than personal beliefs; iii) Social norms matter a lot in South Asia; this is because South Asian countries tend to have large residuals (for example, female labour force participation is 15 percent lower compared to equally developed countries) and restrictive social norms.
 
 <figure align="center">
-    <img src="/images/updates/social-norms-and-gender-equality/gender_south_asia_time_spent_chart.png" />
+    <img src="gender_south_asia_time_spent_chart.png" />
     <figcaption>
         <center><b>Figure 2: Women from countries with more conservative social norms spend more time at home on unpaid household chores and participate less in the labor force, at all levels of economic development</b></center>
     </figcaption>

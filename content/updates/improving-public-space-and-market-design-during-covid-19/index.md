@@ -19,7 +19,7 @@ COVID-19 has had a tremendous impact on Peru: the country has one of the highest
 The three major goals of this partnership were: (1) prevent contagion; (2) improve public health policies/services; and (3) provide recommendations for better public space design.
 
 <figure align="center">
-  <img src="/Improving-public-space-and-market1.jpg"/>
+  <img src="Improving-public-space-and-market1.jpg"/>
   <figcaption>Fig 1: Mesa Redonda market, Lima.</figcaption>
   <figcaption>Image source: creative commons licensed (BY-NC-ND) flickr photo by Martin Garcia: https://www.flickr.com/photos/martix/4213018055</figcaption>
 </figure>
@@ -29,12 +29,12 @@ The three major goals of this partnership were: (1) prevent contagion; (2) impro
 Using Veraset’s Movement data, the IDB’s [Housing and Urban Development](https://www.iadb.org/en/urban-development-and-housing/housing-and-urban-development) team analyzed visitors’ movement in market areas, identifying origin districts and activity hotspots throughout the day. By making a comparison between pre- and post-pandemic flows, the team was able to measure the population dynamic in different regions around Lima municipality.
 
 <figure align="center">
-  <img src="/Improving-public-space-and-market2.gif"/>
+  <img src="Improving-public-space-and-market2.gif"/>
   <figcaption>Fig 2: Hourly visitor flow into the Mesa Redonda area, Lima.</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/Improving-public-space-and-market3.jpg"/>
+  <img src="Improving-public-space-and-market3.jpg"/>
   <figcaption>Fig 3: Market area attendance: January 2020, before the COVID-19 pandemic, vs. April 2020, under restricted mobility.</figcaption>
 </figure>
 

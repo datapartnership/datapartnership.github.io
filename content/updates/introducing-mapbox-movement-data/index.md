@@ -13,7 +13,7 @@ Following the [Development Data Partnership launch event at the World Bank-IMF A
 
 The World Bank teams have been using Mapbox data across different sectors through the [Development Data Partnership](https://medium.com/r/?url=https%3A%2F%2Fdatapartnership.org%2F). The movement data is now available to help tackle global challenges to health, environment, and livelihoods.
 
-![](/mapbox-movement-india.png)
+![](mapbox-movement-india.png)
 
 [Mapbox Movement data](https://blog.mapbox.com/global-movement-data-for-mobility-insights-680955ee42d1 "Mapbox-movement-data-blog") is updated daily and monthly, and delivered as flat file data sets with a simple [schema](https://docs.mapbox.com/data/movement/overview/?utm_medium=blog&utm_source=mapbox-blog&utm_campaign=blog%7Cmapbox-blog%7CData%20Services%7Cglobal-movement-data-for-mobility-insights-680955ee42d1-20-10&utm_term=Data%20Services&utm_content=global-movement-data-for-mobility-insights-680955ee42d1). Mapbox released movement data from January to August 2020, with India to be available shortly.
 

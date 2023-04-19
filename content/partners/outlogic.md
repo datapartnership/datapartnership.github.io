@@ -1,4 +1,4 @@
 ---
 title: Outlogic
-logo: /images/partners/outlogic.svg
+logo: images/outlogic.svg
 ---

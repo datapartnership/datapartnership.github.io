@@ -30,7 +30,7 @@ Some of the conclusions are:
 * In contrast, LinkedIn hiring rates for Recreation & Travel, Education, Public Administration, and Design Industries were the most severely affected have not recovered to the levels seen in the pre-pandemic for the countries mentioned above at the same time period
 
 <figure align="center">
-  <img src="/Linkedln_evolucion_de-la-tasa-de-contratacion_en_LinkedIn_Abril_2021_compared_to_March_2020.png"/>
+  <img src=Linkedln_evolucion_de-la-tasa-de-contratacion_en_LinkedIn_Abril_2021_compared_to_March_2020.png"/>
   <figcaption> Evolution of the hiring rate on LinkedIn by country (April 2021 compared to March 2020)</figcaption>
   <figcaption> Yellow line: overall average </figcaption>
   <figcaption> Blue line: country average (Argentina)</figcaption>
@@ -40,7 +40,7 @@ Some of the conclusions are:
 <br>
 
 <figure align="center">
-  <img src="/LinkedIn_evolucion_de_la_tasa_de_contratacion_en_LinkedIn_by_industry.png"/>
+  <img src="LinkedIn_evolucion_de_la_tasa_de_contratacion_en_LinkedIn_by_industry.png"/>
   <figcaption> Evolution of the hiring rate on LinkedIn by industry (April 2021 compared to March 2020)</figcaption>
   <figcaption> Yellow line: overall average </figcaption>
   <figcaption> Blue line: industry average (Software and IT services) </figcaption>

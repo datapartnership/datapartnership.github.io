@@ -3,7 +3,6 @@ date = 2020-10-22T04:00:00Z
 partner = ["Meta", "Mapbox"]
 title = "Analyzing Spatial Accessibility of Health Facilities in Indonesia and Philippines "
 authors = ["Afeefah Syed", "Maksim Pecherskiy"]
-url = "planning-for-equitable-access-to-health-infrastructure"
 dev_partner = ["World Bank"]
 post_type = "Case Study"
 links = [
@@ -13,7 +12,7 @@ tags = ["Health", "Transport"]
 +++
 **Challenge**: Indonesia and the Philippines are archipelagos, where geographic and administrative boundaries are similar. The collection of islands is home to different concentrations of ethnic, cultural, linguistic, and socioeconomic groups, with an imbalanced distribution of health facilities and physicians.
 
-![](/analysis-ind.png)
+![](analysis-ind.png)
 
 **Solution**: Through geospatial analysis, the Development Data Partnership team examined how physically accessible hospitals and clinics are and how governments, in the short term, can efficiently allocate resources by setting up mobile health clinics that expand health accessibility to vulnerable populations. The interactive maps, which are produced by combining Facebook population density maps, Mapbox matrix API, and OpenStreetMap POIs, show the percentage of a population in a study region that cannot reach a health facility within 1 hour of travel time, by mode.
 

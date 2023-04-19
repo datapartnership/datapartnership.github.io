@@ -1,4 +1,4 @@
 ---
 title: Plume Labs
-logo: /images/partners/plumelabs.svg
+logo: images/plumelabs.svg
 ---

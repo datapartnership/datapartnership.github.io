@@ -17,7 +17,7 @@ As more data partners and contributors join the initiative and more methodologie
 
 To achieve the goal and to give the community a home, we are introducing the **Development Data Partnership on GitHub**!
 
-<img src="/data-partnership-knowledge-base-site.png" style="width:100%;"/><br>
+![](data-partnership-knowledge-base-site.png)
 
 On **GitHub**, the *Partnership* welcomes specialists, researchers, data scientists and contributors to collaborate, find code examples as well as open issues, start discussions and learn from colleagues by example.
 
@@ -25,11 +25,13 @@ Another component is our content curation. As more and more projects join the co
 
 ## Documentation
 
-Each *data partner* has a dedicated page on the documentation.
+For each *Data Partner*, the Partnership compiled a selection of tutorials and examples for each respective section on the *Documentation*.
 
-<img src="/data-partnership-knowledge-base-partner.png" style="width:100%;"/><br>
+![](data-partnership-knowledge-base-partner.png)
 
-Through the *Partnership*, you have access to a trove of data documentation, code snippets, collaboration tools and compute resources, all designed to help you get started on your project more quickly and effectively.
+Through the [Development Data Partnership](https://datapartnership.prg), you are now a contributor
+
+ access to a trove of data documentation, code snippets, collaboration tools and compute resources, all designed to help you get started on your project more quickly and effectively.
 
  We are not reinventing the wheel; inspired by the literate programming paradigm, the documentation offers a centralized place for references and examples as well as details about the datasets, such as how to access the data (**Getting Access**), terms and conditions of the master data license, **Summary** and **Examples**.
 
@@ -37,7 +39,7 @@ In addition, we are bringing the power of Jupyter Book to create a beautiful ren
 
 ### Projects
 
-<img src="/data-partnership-knowledge-base-projects.png" style="width:100%;"/><br>
+![](data-partnership-knowledge-base-projects.png)
 
 ### Getting Access
 

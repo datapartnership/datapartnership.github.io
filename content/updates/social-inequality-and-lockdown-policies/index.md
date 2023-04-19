@@ -15,7 +15,7 @@ links = [
 
  Lockdown policies such as stay-at-home orders and non-essential business closures are central to fighting the novel coronavirus. However, policy makers are having a hard time answering key questions about their efficacy. For example, have impacts differed over time and across district boundaries? And crucially, are vulnerable groups less able than others to comply with social distancing regulations?
 
-![Indonesia Data Analysis](/indonesia-analysis.png)
+![Indonesia Data Analysis](indonesia-analysis.png)
 
 ## Solution
 

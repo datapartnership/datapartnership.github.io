@@ -1,7 +1,7 @@
 ---
 title: Development Partner
 date: 2019-02-26T21:52:59.000+00:00
-icon: "pillars/DDPScience.svg"
+icon: images/DDPScience.svg
 weight: "2"
 
 ---

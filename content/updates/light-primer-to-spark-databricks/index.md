@@ -5,7 +5,6 @@ authors = ["Maksim Pecherskiy"]
 categories = ["Tutorial"]
 dev_partner = ["World Bank"]
 post_type =  "Tutorial"
-url = "light-primer-to-spark-databricks-1"
 +++
 
 [Databricks](https://databricks.com/) is a powerful platform for using Spark, a powerful data technology.

@@ -17,7 +17,7 @@ Haitian cities suffer from poor transportation services, and the lack of data fr
 The World Bank transport team decided to combine traditional and non-traditional data collection methods and approaches to overcome the data gaps and map urban mobility in Cap-Haïtien, Haiti's second-largest urban area.
 
 <figure align="center">
-  <img src="/cap_haitien_maps_1.png"/>
+  <img src="cap_haitien_maps_1.png"/>
   <figcaption> Credit: World Bank </figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ The World Bank transport team decided to combine traditional and non-traditional
 Leveraging data and technology provided by [WhereIsMyTransport](https://www.whereismytransport.com/), the World Bank's transport team drew the first-ever General Transit Feed Specification (GTFS) maps of Tap Taps for Cap-Haïtien. Using its local surveyors' network, WhereisMyTransport helped the team identifying stops along the main routes and their associated transit schedules, providing the team with valuable information to undertake additional data collection activities along the main routes.
 
 <figure align="center">
-  <img src="/cap_haitien_maps_2.png"/>
+  <img src="cap_haitien_maps_2.png"/>
   <figcaption>Overview of Tap-Tap Stops in the Cap-Haïtien Metropolitan Area</figcaption>
   <figcaption> Credit: World Bank</figcaption>
 </figure>

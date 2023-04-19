@@ -1,4 +1,4 @@
 ---
 title: Startlink
-logo: /images/partners/starlink.svg
+logo: images/starlink.svg
 ---

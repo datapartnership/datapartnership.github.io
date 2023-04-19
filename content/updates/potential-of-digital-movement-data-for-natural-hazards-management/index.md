@@ -36,7 +36,7 @@ So how can human mobility datasets help disaster management agencies do their jo
 First, we divide the city into grid cells and estimate home and work locations based on the locations users visit most frequently during sleep and work hours (Figure 1).
 
 <figure align="center">
-    <img src="/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig1.png" />
+    <img src="fig1.png" />
     <figcaption>
         <center> Figure 1: Estimating the density of home locations in Mexico City and adjacent regions using mean-shift
         </center>
@@ -53,8 +53,8 @@ Thirdly, we track the changes in the number of people spending the night away fr
 Fourthly, we map out the destinations (within Mexico City and nationwide) to which displaced users traveled. In widely studied cases such as the New Orleans floods in the U.S. and the Great East Japan earthquake and tsunami, it is frequently observed that residents of lower-income neighborhoods which often are in hazardous areas did not move, while residents of richer neighborhoods relocated to safer zones. Following this pattern, residents of poorer neighborhoods in Mexico City stayed closer to home.
 
 <figure align="center">
-    <img src="/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig2.png" />
-    <img src="/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig3.png" />
+    <img src="fig2.png" />
+    <img src="fig3.png" />
     <figcaption>
         <center> Figure 2: Above: Anomaly of population density during the day (left) and night (right) on
             September 19, 2017 in Mexico City. Z scores indicate the number of standard deviations more/less
@@ -78,7 +78,7 @@ Such datasets can complement or replace costly surveys by understanding how peop
 Human mobility datasets are increasingly ubiquitous and power many applications on our smartphones each day. Isn’t it time to realize their public value - starting with increased ability for disaster managers to respond to unfolding emergency situations?
 
 <figure align="center">
-    <img src="/images/updates/potential-of-digital-movement-data-for-natural-hazards-management/fig4.png" />
+    <img src="fig4.png" />
     <figcaption>
         <center> Figure 3: (left) Histogram of distance traveled by individuals from Cuauhtemoc district, Mexico City; (right) linear relationship of displacement rate with poverty level for affected districts.
         </center>

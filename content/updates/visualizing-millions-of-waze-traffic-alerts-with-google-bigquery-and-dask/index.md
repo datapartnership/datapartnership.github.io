@@ -21,12 +21,12 @@ In this first installlment of a *Partnership* series, we demonstrate how to anal
 
 [Waze](https://waze.com) has become an indispensable platform where over 140 million monthly drivers check and report accidents, slow downs, incidents and irregularities, adding up to billions of precious data points that could be better repurposed for improving public sector, transport and urban planning.
 
-![](/waze-for-cities.png)
+![](waze-for-cities.png)
 
 Since 2014, Waze has shared these data freely for government partners as part of the [Waze for Cities](https://www.waze.com/wazeforcities) program and providing a myriad of data and tools via [Google Cloud](https://support.google.com/waze/partners/answer/10715739). The available data feeds are **Traffic Alerts**, **Traffic Accidents** and **Traffic Irregularities**.
 
 <figure align="center">
-  <img src="/waze-cloud-resources.png"/>
+  <img src="waze-cloud-resources.png"/>
   <figcaption> Cloud Resources for Waze for Cities Partners</figcaption>
   <figcaption> Source: https://support.google.com/waze/partners/answer/10715739</figcaption>
 </figure>
@@ -40,7 +40,7 @@ Next, in this example, we will explore and visualize millions of Waze Traffic Al
 Waze makes its traffic data available through a historical archive on Google Cloud or a *live* GeoRSS feed that is updated every 2 minutes. For example, see below a live feed snapshot for Kiev, Ukraine.
 
 <figure align="center">
-  <img src="/waze-alerts.png"/>
+  <img src="waze-alerts.png"/>
   <figcaption> Waze Alerts reported in Kiev, Ukraine at 21:00 UTC on February 7th, 2022. Data provided by Waze App. Learn more at waze.com</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Starting in 2019, Waze has been providing access to a historical archive of traf
 Using BigQuery's [geography functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions), we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.
 
 <figure align="center">
-  <img src="/waze-big-query.png"/>
+  <img src="waze-big-query.png"/>
   <figcaption> Waze Alerts available via Google BigQuery, filtering São Paulo, Brazil.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ A *geospatial index* divides areas of the Earth creating a grid system of determ
 In our example, we use [H3: Hexagonal Hierarchical Spatial Index](https://github.com/uber/h3) developed and open-sourced by [Uber](https://eng.uber.com/h3/). See below an illustration of bucketing coordinates onto H3 hexagons.
 
 <figure align="center">
-  <img src="/waze-h3.png"/>
+  <img src="waze-h3.png"/>
   <figcaption>The maps above depict the process of bucketing points with H3</figcaption>
   <figcaption>Source: https://eng.uber.com/h3</figcaption>
 </figure>

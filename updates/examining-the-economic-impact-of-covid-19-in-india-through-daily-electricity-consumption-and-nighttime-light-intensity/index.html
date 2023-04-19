@@ -2,7 +2,7 @@
 <meta charset=utf-8>
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1">
-<title>Examining the Economic Impact of India’s Zone Classification to contain COVID-19</title>
+<title>Examining the Economic Impact of COVID-19 in India through Daily Electricity Consumption and Nighttime Light Intensity</title>
 <meta name=description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta name=google-site-verification content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8">
 <meta name=keywords content="datapartnership.com,international consortium,data consortium,data international development,data international public good,data public good,data global social impact,data social good,data partnership,public private data partnership">
@@ -14,13 +14,13 @@
 <link rel="shortcut icon" href=/favicon.ico type=image/x-icon>
 <link rel=icon href=/favicon.ico type=image/x-icon>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Examining the Economic Impact of India’s Zone Classification to contain COVID-19">
+<meta property="og:title" content="Examining the Economic Impact of COVID-19 in India through Daily Electricity Consumption and Nighttime Light Intensity">
 <meta property="og:description" content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta property="og:image" content="https://datapartnership.org/images/card.png">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:site content="@DevDataPship">
 <meta name=twitter:site content="@DevDataPship">
-<meta name=twitter:title content="Examining the Economic Impact of India’s Zone Classification to contain COVID-19">
+<meta name=twitter:title content="Examining the Economic Impact of COVID-19 in India through Daily Electricity Consumption and Nighttime Light Intensity">
 <meta name=twitter:description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta name=twitter:image content="https://datapartnership.org/images/card.png">
 <style id=antiClickjack>body{display:none!important}</style>
@@ -49,6 +49,9 @@
 </li>
 <li class=nav-item>
 <a class=nav-link href=/updates>Projects & News</a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/tags>Topics</a>
 </li>
 <li class=nav-item>
 <a class=nav-link href=mailto:datapartnership@worldbank.org>Get in touch</a>
@@ -101,7 +104,7 @@
 <a class=text-light href=/updates/ aria-current=page>Updates</a>
 </li>
 <li class=breadcrumb-item>
-<a class=text-light href=/updates/examining-the-economic-impact-of-covid-19-in-india-through-daily-electricity-consumption-and-nighttime-light-intensity/ aria-current=page>Examining the Economic Impact of India’s Zone Classification to contain COVID-19</a>
+<a class=text-light href=/updates/examining-the-economic-impact-of-covid-19-in-india-through-daily-electricity-consumption-and-nighttime-light-intensity/ aria-current=page>Examining the Economic Impact of COVID-19 in India through Daily Electricity Consumption and Nighttime Light Intensity</a>
 </li>
 </nav>
 </div>
@@ -113,23 +116,30 @@
 <div class="container mt-5 mb-5">
 <div class=row>
 <div class="col-md-8 col-xs-12 single-content blog-content">
-<h1>Examining the Economic Impact of India’s Zone Classification to contain COVID-19</h1>
-<time datetime=" 2020-11-09T05:00:00Z">
-November 09, 2020
+<h1>Examining the Economic Impact of COVID-19 in India through Daily Electricity Consumption and Nighttime Light Intensity</h1>
+<time datetime=" 2020-12-01T06:00:00Z">
+December 01, 2020
 </time>
 <a>by</a>
 <a class=authors href=/authors/robert-beyer/>Robert C. M. Beyer</a>
 <br>
 <span class="badge badge-info">Meta</span>
+<span class="badge badge-primary">Energy</span>
 <span class="badge badge-primary">Social Protection</span>
 <span class="badge badge-primary">COVID-19</span>
 <hr>
-<p><strong>Challenge:</strong> The COVID-19 pandemic has disrupted economic activity in India. When COVID-19 started to spread in India through domestic contagion, the Indian authorities enacted a series of measures to combat the pandemic, including a strict national lockdown from March 25 to May 4. Subsequently, the authorities classified all districts into three zones with varying containment measures. This study estimates the impact of this differential relaxation of containment measures (zone classification) on aggregate economic activity in India.</p>
-<p><img src=/india-bird-eye-view.jpg alt></p>
-<p><strong>Solution</strong>: Pandemic-era district level data are used from a range of novel sources – monthly nighttime lights from global satellites, mobility data from individual smartphone locations from Facebook, COVID-19 infections and high frequency household-level survey data on income and consumption. Using a difference-indifferences approach, the speed of recovery in the three zones after the uniform national lockdown is compared.</p>
-<p><strong>Impact</strong>: Nighttime light intensity in May was 12.4% lower for districts with the most severe restrictions and 1.7% lower for districts with intermediate restrictions, as compared to districts with the least restrictions. Facebook mobility data from cellphone locations indicates that restricted mobility is a plausible channel causing lower household income and consumption, which in turn explains the aggregate impact. Some districts are affected more affected by the restrictions than others. Stricter containment measures had larger impacts in more developed districts characterized by a greater population density with older residents, as well as more services employment and bank credit.</p>
+<h2 id=challenge>Challenge</h2>
+<p>The COVID-19 pandemic has disrupted economic activity in India. When COVID-19 started to spread in India through domestic contagion, the authorities enacted a series of measures to combat the pandemic, including a strict national lockdown from March 25 to May 4 that strongly disrupted economic activity. Adjusting containment measures and policy responses to mitigate their economic impact requires an assessment of the magnitude of the economic situation in near real-time. Since the impact can vary at different locations, an assessment at high spatial granularity is needed. Indicators traditionally used to monitor the economic situation are available only with substantial lags and often at the national level only, and hence provide little insight into the immediate effect of strong and sudden policy measures like a national lock-down. In response to such problems, economists have suggested different proxies that are available at a higher frequency and with shorter publication lags, as well as at a higher spatial granularity.</p>
+<p><img src=electricity-consumption.jpg alt></p>
+<h2 id=solution>Solution</h2>
+<p>Electricity is an input to activities throughout the economy, from industrial production to commerce and household activity, so changes in consumption reveal information about these activities in real-time. Similarly, nighttime light intensity contains information about economic activity at high spatial granularity. Both electricity consumption and nighttime light intensity closely track economic activity and have been employed to improve national account estimates of GDP. Both proxies have also been used to assess the economic impact of major policy measures. Nighttime light intensity, for example, allowed assessing the impact of India’s demonetization in 2016. Electricity consumption has also been shown to have closely tracked economic activity in regions like the US and the European Union. COVID-19 infections and district-level Facebook mobility data allow to identify the channels through which the pandemic affects economic activity.</p>
+<h2 id=impact>Impact</h2>
+<p>There was a strong impact of the national lockdown on India’s electricity consumption. It dropped on average 28.5 percent in the week after the implementation of the lockdown and was on average still 25.8 percent below normal throughout April. When some restrictions were eased in May, electricity consumption recovered, but it remained 14 percent below normal levels. Monthly averages remained below normal afterwards, suggesting a lingering drag on the economy. Not all Indian states and Union territories have been affected equally. While electricity consumption halved in some, it declined very little in others. Part of the heterogeneity is explained by the prevalence of COVID-19 infections, the share of manufacturing, and return migration. During the national lockdown (with uniform restrictions across the country), higher COVID-19 infection rates at the district level were associated with larger declines in mobility and nighttime light intensity. Without effectively reducing the risk of a COVID-19 infection, voluntary reductions of mobility will hence prevent a return to full economic potential even when restrictions are relaxed.</p>
 <br>
 <h3>Read more</h3>
+<span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentcolor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 104.243 4.243l1.828-1.829A3 3 0 008.586 5.5L8 6.086a1.002 1.002.0 00-.154.199 2 2 0 01.861 3.337L6.88 11.45A2 2 0 114.05 8.62l.793-.792a4.018 4.018.0 01-.128-1.287z"/><path d="M6.586 4.672A3 3 0 007.414 9.5l.775-.776a2 2 0 01-.896-3.346L9.12 3.55a2 2 0 112.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372A3 3 0 108.414 2.844L6.586 4.672z"/></svg>
+<a class=read-more href="https://www.sciencedirect.com/science/article/pii/S0305750X20304149?dgcid=author">https://www.sciencedirect.com/science/article/pii/S0305750X20304149?dgcid=author</a>
+<br>
 <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentcolor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 104.243 4.243l1.828-1.829A3 3 0 008.586 5.5L8 6.086a1.002 1.002.0 00-.154.199 2 2 0 01.861 3.337L6.88 11.45A2 2 0 114.05 8.62l.793-.792a4.018 4.018.0 01-.128-1.287z"/><path d="M6.586 4.672A3 3 0 007.414 9.5l.775-.776a2 2 0 01-.896-3.346L9.12 3.55a2 2 0 112.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372A3 3 0 108.414 2.844L6.586 4.672z"/></svg>
 <a class=read-more href=http://documents1.worldbank.org/curated/en/604661606761245743/pdf/Lights-Out-COVID-19-Containment-Policies-and-Economic-Activity.pdf>http://documents1.worldbank.org/curated/en/604661606761245743/pdf/Lights-Out-COVID-19-Containment-Policies-and-Economic-Activity.pdf</a>
 <br>
@@ -147,8 +157,8 @@ November 09, 2020
 <dt class=pb-4><a class="h5 text-light" href=/social-norms-and-gender-equality/>Social Norms and Gender Equality in South Asia</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/buenos-aires-transport-demand-planning/>Buenos Aires Transport Demand Planning</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/potential-of-digital-movement-data-for-natural-hazards-management/>Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management</a></dt>
-<dt class=pb-4><a class="h5 text-light" href=/updates/barrios_vitales_bogota/>A Data-Driven Framework to Support Bogota’s Barrios Vitales Project</a></dt>
-<dt class=pb-4><a class="h5 text-light" href=/updates/communicating-for-health-indian-covid-19/>Communicating for Health: How Did Indians Get Informed about COVID-19 during the Pandemic?</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/framework-to-support-bogota-barrios-vitales-project/>A Data-Driven Framework to Support Bogota’s Barrios Vitales Project</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/communicating-for-health-in-india.md/>Communicating for Health: How Did Indians Get Informed about COVID-19 during the Pandemic?</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/lessons-from-covid-19-second-wave-in-maharashtra/>Understanding Societal Responses to Policies Undertaken During Emergencies: Lessons from COVID-19’s Second Wave in Maharashtra</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/visualizing-millions-of-waze-traffic-alerts-with-google-bigquery-and-dask/>Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask</a></dt>
 </dl>

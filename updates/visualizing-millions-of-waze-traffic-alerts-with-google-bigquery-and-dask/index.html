@@ -51,6 +51,9 @@
 <a class=nav-link href=/updates>Projects & News</a>
 </li>
 <li class=nav-item>
+<a class=nav-link href=/tags>Topics</a>
+</li>
+<li class=nav-item>
 <a class=nav-link href=mailto:datapartnership@worldbank.org>Get in touch</a>
 </li>
 </ul>
@@ -128,10 +131,10 @@ February 08, 2022
 <p>In this first installlment of a <em>Partnership</em> series, we demonstrate how to analyze and visualize Waze for Cities data using <a href=https://cloud.google.com/bigquery>Google BigQuery</a>, <a href=https://h3geo.org>H3</a> and <a href=https://dask.org>Dask</a>.</p>
 <h2 id=waze-for-cities>Waze for Cities</h2>
 <p><a href=https://waze.com>Waze</a> has become an indispensable platform where over 140 million monthly drivers check and report accidents, slow downs, incidents and irregularities, adding up to billions of precious data points that could be better repurposed for improving public sector, transport and urban planning.</p>
-<p><img src=/waze-for-cities.png alt></p>
+<p><img src=waze-for-cities.png alt></p>
 <p>Since 2014, Waze has shared these data freely for government partners as part of the <a href=https://www.waze.com/wazeforcities>Waze for Cities</a> program and providing a myriad of data and tools via <a href=https://support.google.com/waze/partners/answer/10715739>Google Cloud</a>. The available data feeds are <strong>Traffic Alerts</strong>, <strong>Traffic Accidents</strong> and <strong>Traffic Irregularities</strong>.</p>
 <figure align=center>
-<img src=/waze-cloud-resources.png>
+<img src=waze-cloud-resources.png>
 <figcaption> Cloud Resources for Waze for Cities Partners</figcaption>
 <figcaption> Source: https://support.google.com/waze/partners/answer/10715739</figcaption>
 </figure>
@@ -140,7 +143,7 @@ February 08, 2022
 <p><strong>Waze Traffic Alerts</strong> include all traffic events and incidents reported by Waze users through the mobile application over a selected period of time, categorized into types, e.g. <em>ACCIDENT</em> or <em>JAM</em>, and subtypes, e.g. <em>JAM_MODERATE_TRAFFIC</em>, <em>JAM_HEAVY_TRAFFIC</em>, <em>JAM_STAND_STILL_TRAFFIC</em> or <em>JAM_LIGHT_TRAFFIC</em>. See <a href=https://docs.datapartnership.org/partners/waze/examples/waze.html#alerts-types>documentation</a>.</p>
 <p>Waze makes its traffic data available through a historical archive on Google Cloud or a <em>live</em> GeoRSS feed that is updated every 2 minutes. For example, see below a live feed snapshot for Kiev, Ukraine.</p>
 <figure align=center>
-<img src=/waze-alerts.png>
+<img src=waze-alerts.png>
 <figcaption> Waze Alerts reported in Kiev, Ukraine at 21:00 UTC on February 7th, 2022. Data provided by Waze App. Learn more at waze.com</figcaption>
 </figure>
 <p>Check out the live sneak peek on <a href=https://docs.datapartnership.org/pages/visualizations.html>visualizations</a>.</p>
@@ -148,7 +151,7 @@ February 08, 2022
 <p>Starting in 2019, Waze has been providing access to a historical archive of traffic data on Google Cloud&rsquo;s <strong>BigQuery</strong>. <a href=https://support.google.com/waze/partners/answer/10715739>BigQuery</a> is a fully-managed data tool that enables interactive SQL-like queries, while heavy lifting behind the curtains, and facilitating layering of Waze data with other datasets.</p>
 <p>Using BigQuery&rsquo;s <a href=https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions>geography functions</a>, we select a time frame and Region of Interest (RoI) to be exported onto compressed and partitioned files.</p>
 <figure align=center>
-<img src=/waze-big-query.png>
+<img src=waze-big-query.png>
 <figcaption> Waze Alerts available via Google BigQuery, filtering São Paulo, Brazil.</figcaption>
 </figure>
 <h2 id=processing-waze-data-with-dask>Processing Waze Data with Dask</h2>
@@ -172,7 +175,7 @@ ddf[<span style=color:#e6db74>&#34;dayofweek&#34;</span>] <span style=color:#f92
 <p>A <em>geospatial index</em> divides areas of the Earth creating a grid system of determined grid cells. Then, the spatial information is translated into a hierarchical index, that can be easily joined relationally with other datasets.</p>
 <p>In our example, we use <a href=https://github.com/uber/h3>H3: Hexagonal Hierarchical Spatial Index</a> developed and open-sourced by <a href=https://eng.uber.com/h3/>Uber</a>. See below an illustration of bucketing coordinates onto H3 hexagons.</p>
 <figure align=center>
-<img src=/waze-h3.png>
+<img src=waze-h3.png>
 <figcaption>The maps above depict the process of bucketing points with H3</figcaption>
 <figcaption>Source: https://eng.uber.com/h3</figcaption>
 </figure>
@@ -225,8 +228,8 @@ ddf[<span style=color:#e6db74>&#34;dayofweek&#34;</span>] <span style=color:#f92
 <dt class=pb-4><a class="h5 text-light" href=/social-norms-and-gender-equality/>Social Norms and Gender Equality in South Asia</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/buenos-aires-transport-demand-planning/>Buenos Aires Transport Demand Planning</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/potential-of-digital-movement-data-for-natural-hazards-management/>Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management</a></dt>
-<dt class=pb-4><a class="h5 text-light" href=/updates/barrios_vitales_bogota/>A Data-Driven Framework to Support Bogota’s Barrios Vitales Project</a></dt>
-<dt class=pb-4><a class="h5 text-light" href=/updates/communicating-for-health-indian-covid-19/>Communicating for Health: How Did Indians Get Informed about COVID-19 during the Pandemic?</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/framework-to-support-bogota-barrios-vitales-project/>A Data-Driven Framework to Support Bogota’s Barrios Vitales Project</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/communicating-for-health-in-india.md/>Communicating for Health: How Did Indians Get Informed about COVID-19 during the Pandemic?</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/lessons-from-covid-19-second-wave-in-maharashtra/>Understanding Societal Responses to Policies Undertaken During Emergencies: Lessons from COVID-19’s Second Wave in Maharashtra</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/visualizing-millions-of-waze-traffic-alerts-with-google-bigquery-and-dask/>Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask</a></dt>
 </dl>

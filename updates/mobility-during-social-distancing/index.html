@@ -51,6 +51,9 @@
 <a class=nav-link href=/updates>Projects & News</a>
 </li>
 <li class=nav-item>
+<a class=nav-link href=/tags>Topics</a>
+</li>
+<li class=nav-item>
 <a class=nav-link href=mailto:datapartnership@worldbank.org>Get in touch</a>
 </li>
 </ul>
@@ -136,10 +139,10 @@ May 11, 2020
 <p>However, areas with lower income and a more informal workforce will have a harder time following social distancing guidelines.</p>
 <p>Several studies of United States counties support this hypothesis:</p>
 <h4 id=nyt>NYT</h4>
-<p><img src=/updates/mobility-metrics-in/NYT.png alt></p>
+<p><img src=NYT.png alt></p>
 <p><a href=https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html><em>NYT</em></a> <em>with</em> <a href=https://www.cuebiq.com/><em>Cuebiq</em></a> <em>data: Census tract median of intra-day max extent of devices. 10% and 90% wealth percentiles. Wealthy counties essentially halted all movement and worked from home, while poorest counties trailed almost a week later, and with significant residual mobility as people could not afford to stay home.</em></p>
 <h4 id=reuters>Reuters</h4>
-<p><img src=/updates/mobility-metrics-in/Reuters.png alt>
+<p><img src=Reuters.png alt>
 <a href=https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA/qmypmkmwpra/><em>Reuters</em></a> <em>and MIT. Wealthier counties had less mobility than poorer ones.</em></p>
 <hr>
 <h2 id=private-sector-publicly-available-data>Private sector publicly available data</h2>
@@ -163,11 +166,11 @@ May 11, 2020
 <p>We will focus on India, one of the countries receiving COVID-19 support. However, this will work for any country where data is available.</p>
 <p>Let&rsquo;s start with exploring public mobility data from <a href=https://www.apple.com/covid19/mobility>Apple</a> and <a href=https://www.google.com/covid19/mobility/>Google</a>.</p>
 <h3 id=apple-mobility-data>Apple mobility data</h3>
-<p><img src=/updates/mobility-metrics-in/output_10_0.png alt=png></p>
+<p><img src=output_10_0.png alt=png></p>
 <p>Apple&rsquo;s data is activity based, recording when people were walking and when they were driving. We can clearly see a sharp decline in walking / data activity recorded by Apple devices at the end of March. People with a higher income tend to own Apple devices. We can see this trend on the NYT study above, and below we also explore this hypothesis for India using Google and Facebook data.</p>
 <p>Lastly, we see that in early May, people are starting to drive and walk more.</p>
 <h3 id=google-mobility-data>Google mobility data</h3>
-<p><img src=/updates/mobility-metrics-in/output_14_0.png alt=png></p>
+<p><img src=output_14_0.png alt=png></p>
 <p>Google&rsquo;s data is less about activity and more about location. How much time did people spend in a given location?</p>
 <p>Note the changes after the end of March:</p>
 <ul>
@@ -180,7 +183,7 @@ May 11, 2020
 <li>A drop in trips to retail locations, with a slight incrase in trips to grocery locations. From this, we can infer that people are decreasing retail spending and saving the money for groceries.</li>
 </ul>
 <h3 id=comparing-apple-and-google-data>Comparing Apple and Google Data</h3>
-<p><img src=/updates/mobility-metrics-in/output_17_0.png alt=png></p>
+<p><img src=output_17_0.png alt=png></p>
 <p>Comparing Apple&rsquo;s activity data with Google location data, we make a few more observations:</p>
 <ul>
 <li>An increase in people staying in residential locations is [correctly] correlated with people walking and driving less.</li>
@@ -194,13 +197,13 @@ May 11, 2020
 <li><strong>Stationary Share</strong>: The percentage of users always on the same map tile, relative to a baseline last months.</li>
 </ul>
 <p>Let&rsquo;s explore first the relation between them on a scatter plot:</p>
-<p><img src=/updates/mobility-metrics-in/output_27_0.png alt=png></p>
+<p><img src=output_27_0.png alt=png></p>
 <p>It seems clear, and logical, that there is a proportional relation: The more stationary a region is, the less movement range we see. A higher cluster around <code>0</code> (no relative change), means that in these regions, there is more variability of stationary populations.</p>
 <p>We also see that some regions tend to be in the same space of the plot, especially the most compliant with the lockdown.</p>
 <hr>
 <h3 id=mobility-range>Mobility range</h3>
 <p>This data shows the average number of level 16 Bing tiles (0.6km by 0.6km) that a Facebook user (mobile app + location history) was present in during a 24 hour period compared to pre-crisis levels. This is called the Travel Range map.</p>
-<p><img src=/updates/mobility-metrics-in/output_30_0.png alt=png></p>
+<p><img src=output_30_0.png alt=png></p>
 <p>ALL regions see a significant decrease in range. The degree of change seems mostly constant, and some places twice than others.</p>
 <hr>
 <h3 id=stationary-share>Stationary share</h3>
@@ -209,9 +212,9 @@ May 11, 2020
 <p>We see that some regions see little change, while others see <code>~x15</code> increase. The capital &ldquo;NCT of Delhi&rdquo; is the region with the highest increase of stationay users, while Himachal Pradesh, a remote mountainous region varely saw any change.</p>
 <hr>
 <h3 id=break-up-by-indian-state>Break up by Indian State</h3>
-<p><img src=/updates/mobility-metrics-in/output_38_0.png alt=png></p>
+<p><img src=output_38_0.png alt=png></p>
 <h2 id=comparing-apple-google-and-facebook-data>Comparing Apple, Google and Facebook data</h2>
-<p><img src=/updates/mobility-metrics-in/output_40_0.png alt=png></p>
+<p><img src=output_40_0.png alt=png></p>
 <p>Apple mobility data (solid colored lines) tend to show among the strongest reduction of mobility, consistent with wealthier customers that can afford Apple products and can also work from home or restrict their mobility.</p>
 <p>Google mobility data (dotted colored lines) breaks down mobility. We can see strongest reduction of mobility in retail and transit, comparable to Apple data. Groceries and workplaces remain with 40% mobility versus the baseline.</p>
 <p>Facebook data (black crosses and stars) is broken down into states, and shows a significant range. This is expected as some states are largely rural and some urban, with different livelihoods and mobility patterns.</p>
@@ -234,8 +237,8 @@ May 11, 2020
 <dt class=pb-4><a class="h5 text-light" href=/social-norms-and-gender-equality/>Social Norms and Gender Equality in South Asia</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/buenos-aires-transport-demand-planning/>Buenos Aires Transport Demand Planning</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/potential-of-digital-movement-data-for-natural-hazards-management/>Where Did Everyone Go? Potential of Digital Movement Data for Natural Hazards Management</a></dt>
-<dt class=pb-4><a class="h5 text-light" href=/updates/barrios_vitales_bogota/>A Data-Driven Framework to Support Bogota’s Barrios Vitales Project</a></dt>
-<dt class=pb-4><a class="h5 text-light" href=/updates/communicating-for-health-indian-covid-19/>Communicating for Health: How Did Indians Get Informed about COVID-19 during the Pandemic?</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/framework-to-support-bogota-barrios-vitales-project/>A Data-Driven Framework to Support Bogota’s Barrios Vitales Project</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/communicating-for-health-in-india.md/>Communicating for Health: How Did Indians Get Informed about COVID-19 during the Pandemic?</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/lessons-from-covid-19-second-wave-in-maharashtra/>Understanding Societal Responses to Policies Undertaken During Emergencies: Lessons from COVID-19’s Second Wave in Maharashtra</a></dt>
 <dt class=pb-4><a class="h5 text-light" href=/updates/visualizing-millions-of-waze-traffic-alerts-with-google-bigquery-and-dask/>Visualizing Millions of Waze Traffic Alerts with BigQuery, H3 and Dask</a></dt>
 </dl>

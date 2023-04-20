@@ -12,13 +12,14 @@
               </div>
             </div>
             <div class="main-title text-uppercase"></div>
-            <p class="mt-2">{{ .Site.Params.description }}</p>
+            <h4 class="mt-2">{{ .Site.Params.description }}</h4>
           </div>
-          <a href="{{ .Site.Params.portalURL }}" class="btn btn-primary mt-2 no-overlay">
-            Login to Portal
+          <a href="{{ .Site.Params.portalURL }}" class="btn btn-primary mt-4 no-overlay">
+            Log into the Development Data Partnership Portal
           </a>
         </div>
       </div>
+      {{- partial "projects.html" . -}}
     </div>
   </div>
 </section>

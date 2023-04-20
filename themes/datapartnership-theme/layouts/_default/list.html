@@ -1,9 +1,9 @@
 {{ define "main" }}
 
+{{ if eq .Page.RelPermalink "/updates/"}}
 <div class="container-fluid">
   <div class="container pb-3 pt-3">
     <div class="filters">
-
       <div class="ui-group col-lg-4">
         <select class="filter-select" value-group="data-partner">
           <option value="">Development Partner </option>
@@ -33,15 +33,14 @@
     </div>
   </div>
 </div>
+{{ end }}
 
 <div class="container-fluid bg-light pb-3 pt-3 card-grid-container">
   <div class="container pl-0 pr-0">
     <div class="card-grid">
 
       {{ range .Pages }}
-      {{ if isset .Params "exclude_from_updates_list" }}
-      {{ else }}
-      <div class="grid-card col-lg-4 col-md-6 col-sm-6 col-xs-12 
+      <div class="grid-card col-lg-4 col-md-6 col-sm-6 col-xs-12
         {{ if .Params.partner}} {{ delimit .Params.partner " +" | replaceRE " " "-" | replaceRE "\\+" " " | lower }} {{
         end }} {{ if .Params.dev_partner}} {{ delimit .Params.dev_partner "+" | replaceRE " " "-" | replaceRE "\\+" " "
         | lower }} {{ end }} {{ if .Params.tags }} {{ delimit .Params.tags "+" | lower | replaceRE " " "-" |
@@ -56,7 +55,7 @@
             </h3>
             {{ if .Params.categories }}
             {{ range .Param "categories" }}
-            <span class="badge badge-danger">{{ . }}</span>
+            <a class="badge badge-danger" href="/categories/{{ (urlize .) }}">{{ . }}</a>
             {{ end }}
             {{ end }}
             {{ if .Params.partner}}
@@ -66,20 +65,19 @@
             {{ end }}
             {{ if .Params.tags }}
             {{ range .Param "tags" }}
-            <span class="badge badge-primary">{{ . }}</span>
+            <a class="badge badge-primary" href="/tags/{{ (urlize .) }}">{{ . }}</a>
             {{ end }}
             {{ end }}<div class="w-100 bg-secondary h2px mb-3"></div>
             <div class="card-text">
               <p>{{ .Summary }}</p>
             </div>
             <div class="card-footer bg-white border-0 mt-2">
-              <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Learn More</a>
+              <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Read More</a>
             </div>
           </div><!-- end card body -->
         </div> <!-- end card -->
       </div>
       <!--end grid-card -->
-      {{ end }}
       {{ end }}
     </div>
   </div>

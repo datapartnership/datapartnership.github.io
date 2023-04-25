@@ -35,7 +35,7 @@ Addressing these challenges is vital to unleashing the continent’s potential t
 
 The [Digital Africa, Technological Transformation for Jobs](https://www.worldbank.org/en/region/afr/publication/digital-africa) report analyzed how digital technologies can enable economic transformation and boost jobs in the region, and what can be done to widen the availability and increase usage of digital technologies.
 
-In Chapter 4, the report utilized Speedtest Intelligence® data from [OOokla for Good™](https://www.ookla.com/ookla-for-good) to understand mobile broadband download speeds across Africa. Download speed refers to how quickly data can be pulled from a server on the internet to a device, measured in megabits per second (Mbps). This data is a valuable source of information on internet speeds in the region, with disaggregated information by geographic location within major cities, enabling a more detailed analysis than with conventional (aggregated) data sources.
+In Chapter 4, the report utilized Speedtest Intelligence® data from [Ookla for Good™](https://www.ookla.com/ookla-for-good) to understand mobile broadband download speeds across Africa. Download speed refers to how quickly data can be pulled from a server on the internet to a device, measured in megabits per second (Mbps). This data is a valuable source of information on internet speeds in the region, with disaggregated information by geographic location within major cities, enabling a more detailed analysis than with conventional (aggregated) data sources.
 
 ## Impact
 

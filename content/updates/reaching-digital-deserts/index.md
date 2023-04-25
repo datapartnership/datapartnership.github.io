@@ -12,6 +12,7 @@ links = [
 aliases = [
     "reaching_digital_deserts",
 ]
+thumbnail = "reaching_digital_deserts_1.jpg"
 +++
 
 The internet is crucial for us to access information, services, job opportunities, education, and more. However, while urban communities flourish in the online world, many rural communities have been left behind when it comes to ensuring fast and reliable internet access. This is in part, because of lack of access to information on digital speeds in rural areas. [The Organization for Economic Co-operation and Development (OECD)](https://www.oecd.org/)'s [Bridging digital divides in G20 countries ](https://www.oecd.org/publications/bridging-digital-divides-in-g20-countries-35c1d850-en.htm)leveraged data from the [Ookla for Good™](https://www.ookla.com/ookla-for-good) initiative in their evaluation of broadband speeds across urban and rural areas within EU and G20 countries. They found that fixed broadband download speeds in rural areas were close to 50% slower than those in cities. This study underscored the need to invest in new digital connections to bridge the connectivity divide.

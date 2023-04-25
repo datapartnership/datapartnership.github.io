@@ -47,12 +47,21 @@
         replaceRE "\\+" " " | lower }} {{ end }}">
 
         <div class="card border-0 rounded-0">
+          {{ if .Params.thumbnail }}
+          {{ $image := .Page.Resources.GetMatch .Params.thumbnail }}
+          <a href="{{.Permalink}}"><img src="{{ ($image.Fill "350x200 q100").RelPermalink }}"></a>
+          {{ end }}
           <div class="card-body">
+            <div class="card-content">
             <h3 class="card-title">
               <a class="text-primary" href="{{.Permalink}}">
                 {{ .Params.title }}
               </a>
             </h3>
+            <p class="card-text">
+              {{ .Summary }}
+            </p>
+            </div>
             {{ if .Params.categories }}
             {{ range .Param "categories" }}
             <a class="badge badge-danger" href="/categories/{{ (urlize .) }}">{{ . }}</a>
@@ -67,13 +76,7 @@
             {{ range .Param "tags" }}
             <a class="badge badge-primary" href="/tags/{{ (urlize .) }}">{{ . }}</a>
             {{ end }}
-            {{ end }}<div class="w-100 bg-secondary h2px mb-3"></div>
-            <div class="card-text">
-              <p>{{ .Summary }}</p>
-            </div>
-            <div class="card-footer bg-white border-0 mt-2">
-              <a href="{{.Permalink}}" class="btn btn-primary mt-2 no-overlay">Read More</a>
-            </div>
+            {{ end }}
           </div><!-- end card body -->
         </div> <!-- end card -->
       </div>

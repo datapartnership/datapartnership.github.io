@@ -32,7 +32,7 @@
           <a>by</a>
           {{ range $i, $e := .Params.authors }}
           {{ with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
-          <a class="authors" href="{{ .Permalink }}">{{ .Params.name }}</a>{{ if $i }},{{ end }}
+          <a class="authors" href="{{ .Permalink }}">{{ .Params.name }}</a>,
           {{ end }}
           {{ end }}
           <a>on</a>
@@ -49,7 +49,7 @@
           {{ end }}
           {{ if .Params.partner }}
           {{ range .Param "partner" }}
-          <span class="badge badge-info">{{ . }}</span>
+          <a class="badge badge-info" href="/partner/{{ (urlize .) }}">{{ . }}</a>
           {{ end }}
           {{ end }}
           {{ if .Params.tags }}

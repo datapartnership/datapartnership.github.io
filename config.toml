@@ -22,7 +22,7 @@ post_type = "post_type"
 
 [params]
 author = "Development Data Partnership"
-description = "Solving Development Challenges through Data Science Collaboration between Companies and International Organizations."
+description = "Solving development challenges through data science collaboration between companies and international organizations."
 portalURL = "https://portal.datapartnership.org"
 
 partnershipEmail = "mailto:datapartnership@worldbank.org"

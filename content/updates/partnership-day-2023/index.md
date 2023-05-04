@@ -16,6 +16,6 @@ See how new data science collaborations between tech companies and international
     <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQUwzSlBSUFZVNVc5STVFRVFOSlpOREk0QSQlQCN0PWcu"> Register Now </a>
     </button>
 
-[![](keynotes_update.png)](https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQUwzSlBSUFZVNVc5STVFRVFOSlpOREk0QSQlQCN0PWcu)
+[![](keynotes_new.png)](https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQUwzSlBSUFZVNVc5STVFRVFOSlpOREk0QSQlQCN0PWcu)
 
 The Strategic Advisory Group Meeting 2023, where representatives from member international organizations and data partners meet to discuss the next steps for the Partnership, will take place from 2:00 p.m. - 4:30 p.m. following the public Development Data Partnership Day event.

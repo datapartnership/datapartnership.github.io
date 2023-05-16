@@ -17,9 +17,7 @@ See how new data science collaborations between tech companies and international
     </a>
     </button>
     &nbsp;
-    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQUwzSlBSUFZVNVc5STVFRVFOSlpOREk0QSQlQCN0PWcu"> Register Now
-    </a>
-    </button>
+    
 </p>
 
 [![](keynotes_new.png)](https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUQUwzSlBSUFZVNVc5STVFRVFOSlpOREk0QSQlQCN0PWcu)

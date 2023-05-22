@@ -25,9 +25,9 @@ However, there are challenges to assessing road safety. For example, there can b
 Also, collecting data on road safety attributes through manual detection or special equipment can be costly, time-consuming, and complicated. In addition to the quality and availability of road safety data, preparing and analysing it can also be expensive, resource-intensive, and technically demanding.
 
 <figure align="center">
-    <img src="detecting-urban-clues-for-road-safety-thumbnail.jpg" width="600"/>
+    <img src="detecting-urban-clues-for-road-safety-thumbnail.png" width="600"/>
     <figcaption>
-        <center>Image by G.C. from Pixabay</center>
+        <center>Photo Credit: Arturo Rosenow from Getty Images</center>
     </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Road safety assessments may also require operating speeds of road segments. [Map
 
 ## Impact
 
-Finding valid and representative data can be challenging in evaluating road safety risks and reducing crash fatalities. With the support of [Mapillary](https://www.mapillary.com), [Mapbox](https://www.mapbox.com), and [Waze for Cities](https://www.waze.com/wazeforcities/) this publication demonstrated how big data and machine learning can be used to improve road safety analysis throughout the life cycle of World Bank projects.
+Poor quality of roads can lead to road accidents which themselves can lead to delays to successful emergency response efforts. It’s essential to understand that improving road quality can be life-saving. However, finding valid and representative data can be challenging in evaluating road safety risks and reducing crash fatalities. With the support of  [Mapillary](https://www.mapillary.com), [Mapbox](https://www.mapbox.com), and [Waze for Cities](https://www.waze.com/wazeforcities/), this publication demonstrated how big data and machine learning can be used to improve road safety analysis throughout the life cycle of World Bank projects.
 
 The team also produced a guidance note for task team leaders, showing them how this data could be incorporated into the World Bank project cycle and more specifically into the tools or models they already have in place to assess road safety.
 

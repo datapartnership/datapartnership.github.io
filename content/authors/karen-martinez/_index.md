@@ -1,0 +1,4 @@
+---
+name: Karen Martínez
+---
+Karen Martínez is a consultant in the Gender and Diversity Division at the Inter-American Development Bank (IDB). She holds a bachelor's degree in economics from the Catholic University of Bolivia and a master's degree in Economic Sciences with a specialization in econometrics from the University of Geneva. She is an independent researcher in gender economics, social inclusion, and development and has experience in designing and managing projects with social ends. Currently, Karen is the project manager for GDLab, the Gender and Diversity Knowledge Initiative of the IDB.

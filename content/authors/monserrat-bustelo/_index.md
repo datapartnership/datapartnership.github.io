@@ -1,0 +1,4 @@
+---
+name: Monserrat Bustelo
+---
+Monserrat Bustelo is a Senior Specialist in the Gender and Diversity Division of the Inter-American Development Bank (IDB). Since joining the Bank in 2011, Monserrat has led research projects in the area of women's economic empowerment, related to the provision of integrated services, active parenting, transmission of intergenerational violence, female participation at work and the future of work (among others). Prior to joining the IDB, he worked for the World Bank on projects related to poverty and labor markets in Latin America and the Caribbean. Monserrat is a Ph.D. in Applied Economics from the University of Illinois at Urbana-Champaign and a Master's in Economics from the Universidad Nacional de La Plata, Argentina.

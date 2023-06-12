@@ -18,7 +18,7 @@ The role of women and diverse populations, including indigenous peoples, persons
 
 The economic repercussions of climate change are devastating. In Latin America and the Caribbean, current carbon emission trends threaten inevitable and irreversible changes to the environment that could cost in the region of [US$100 billion annually by 2050 and the loss of up to 2.5 million jobs by 2030](https://publications.iadb.org/es/publicacion/16324/el-desafio-climatico-y-de-desarrollo-en-america-latina-y-el-caribe-opciones-para).
 
-The transition toward a future of zero net emissions is not only a global commitment to stabilize climate change, but also represents an important opportunity for job creation in the region. The creation of green jobs – that is, quality jobs that directly contribute to environmental stability, either by producing environmental goods or making more efficient use of natural resources1- generates opportunities to transform the economy, orienting it towards environmentally sustainable solutions and reducing the economic and environmental costs.
+The transition toward a future of zero net emissions is not only a global commitment to stabilize climate change, but also represents an important opportunity for job creation in the region. The creation of green jobs – that is, quality jobs that directly contribute to environmental stability, either by producing environmental goods or making more efficient use of natural resources [^1] generates opportunities to transform the economy, orienting it towards environmentally sustainable solutions and reducing the economic and environmental costs.
 
 Women and diverse population groups play a decisive role in the decarbonization process and in developing effective climate change resilience strategies. Access to green jobs not only presents an opportunity to drive a greener and more sustainable transition but also holds immense potential for empowering these population groups.
 
@@ -57,3 +57,6 @@ To ensure that the creation of green jobs in the region is inclusive and partici
 The rich LinkedIn data of (i) green hiring rates, (ii) growth of green skills, and (iii) green skills penetration provided crucial evidence for the GDLab to understand future trends and opportunities in the green economy for women in the region, contrast them with those in the rest of the world, and also identify the challenges that need to be addressed to ensure women's participation.
 
 This data is important for international development organizations and governments to implement effective policies to increase female representation in green jobs and unlock huge untapped potential for the green transition.
+
+
+[^1]: ILO, “World Employment and Social Outlook 2018: Greening with Jobs,” Report (International Labour Organization, May 14, 2018), http://www.ilo.org/global/publications/books/WCMS_628654/lang--en/index.htm

@@ -1,8 +1,6 @@
 # Contributing
 
-🎉 Thanks for taking the time to contribute to the Development Data Partnership! 🎉
-
-The [Development Data Partnership Partnership](https://datapartnership.org/) website is a [Hugo](https://gohugo.io/)-generated static website that is continuously deployed on [GitHub Pages](https://pages.github.com) via [GitHub Actions](https://github.com/features/actions). If not familiar with Hugo, please check out a [Quick Start](https://gohugo.io/getting-started/quick-start/).
+**Thanks for contributing to the Development Data Partnership!** The [Development Data Partnership](https://datapartnership.org/) website is a [Hugo](https://gohugo.io/)-generated static page that is continuously deployed on [GitHub Pages](https://pages.github.com) via [GitHub Actions](https://github.com/features/actions). If not familiar with Hugo, please check out a [Quick Start](https://gohugo.io/getting-started/quick-start/).
 
 In summary, the continuous deployment (CD) works as follows:
 
@@ -12,24 +10,24 @@ In summary, the continuous deployment (CD) works as follows:
 
 ## How to post/edit on the Partnership blog
 
-All content is are located under [content](https://github.com/datapartnership/datapartnership.org/tree/master/content). Follow the instructions below on how to create and submit your story for publication.
+All content is are located under [content/](https://github.com/datapartnership/datapartnership.org/tree/master/content). Follow the instructions below on how to create and submit your story for publication.
 
 **Checklist**
 
-- Finalize the text, including getting approval (if necessary) from Data Partners, on a Word document (include link on the issue).
-- [Create a issue](https://github.com/datapartnership/datapartnership.github.io/issues/new) with the title of the story, e.g,  [Digitalization and Resilience to COVID-19 Shocks: Evidence from Sub-Saharan Africa](https://github.com/datapartnership/datapartnership.github.io/issues/94).
-- Create a blog post file in Markdown under `updates`. See [Story Template](#story-template).
-- Create a branch and commit all changes, including additional materials. Please use `static` to upload any attachments and images.
+- Finalize the text on a Word document (include link on the issue). If necessary, coordinate Data Partner approval(s).
+- [Create an issue](https://github.com/datapartnership/datapartnership.github.io/issues/new) with the title of the story (e.g, #94) and link it to [Operations](https://github.com/orgs/datapartnership/projects/9).
+- Create a story folder under `updates/`, e.g. [content/updates/africa-digital-transformation](content/updates/africa-digital-transformation). Create a blog post `index.md` file in Markdown using the [Story Template](#story-template).
+- Create a branch and commit all changes, including additional materials. Please use folder you just created to upload any attachments and images.
 - [Open a pull request](https://github.com/datapartnership/datapartnership.github.io/pulls) and assign a [maintainer](https://github.com/orgs/datapartnership/teams/maintainers) as reviewer.
 
 ## How to upload a image/picture on your blog post
 
-To add an image to your story, upload a `.png` or `.jpeg` image to the [static](https://github.com/datapartnership/datapartnership.github.io/tree/master/static) and import it on the Markdown file ((don't forget the leading slash).
+To add an image to your story, upload a `.png` or `.jpeg` image to the story folder. Remember to use a relative path in Markdown.
 
 For example,
 
 ```{markdown}
-![Mapbox Spain](/Mapbox-Spain.png)
+![Mapbox Spain](Mapbox-Spain.png)
 ```
 
 ## Story Template

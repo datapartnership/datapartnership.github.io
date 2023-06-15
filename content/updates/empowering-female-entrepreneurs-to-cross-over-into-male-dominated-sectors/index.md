@@ -1,6 +1,6 @@
 +++
 title = "Empowering Female Entrepreneurs to Cross Over into Male-Dominated Sectors"
-authors = ["The World Bank Africa Gender Innovation Lab, the East Asia and Pacific Gender Innovation Lab", "Latin America and the Caribbean Gender Innovation Lab"]
+authors = ["Africa Gender Innovation Lab", "East Asia and Pacific Gender Innovation Lab", "Latin America and the Caribbean Gender Innovation Lab"]
 post_type = "Case Study"
 partner = ["Meta"]
 dev_partner = "World Bank"
@@ -32,7 +32,7 @@ However, very little research has been undertaken to identify the factors associ
 
 ## Solution
 
-[B]reaking Barriers: Female Entrepreneurs Who Cross Over to Male-Dominated Sectors](https://openknowledge.worldbank.org/server/api/core/bitstreams/7031b50b-f682-52f5-9a3a-24dc46c77942/content), produced by the World Bank Africa Gender Innovation Lab, the East Asia and Pacific Gender Innovation Lab, and the Latin America and the Caribbean Gender Innovation Lab used data from 10 low- and middle-income countries across three regions as well as a global survey of entrepreneurs in 97 countries through the Future of Business (FoB) survey by [Facebook](https://dataforgood.facebook.com/dfg/about?).
+[Breaking Barriers: Female Entrepreneurs Who Cross Over to Male-Dominated Sectors](https://openknowledge.worldbank.org/server/api/core/bitstreams/7031b50b-f682-52f5-9a3a-24dc46c77942/content), produced by the World Bank Africa Gender Innovation Lab, the East Asia and Pacific Gender Innovation Lab, and the Latin America and the Caribbean Gender Innovation Lab used data from 10 low- and middle-income countries across three regions as well as a global survey of entrepreneurs in 97 countries through the Future of Business (FoB) survey by [Facebook](https://dataforgood.facebook.com/dfg/about?).
 
 This data demonstrated the differences in profits among female entrepreneurs who cross over into MDS compared to those who remain in traditionally female-concentrated sectors (FCS) and offered a snapshot of the factors associated with female entrepreneurs who cross over to MDS. Finally, based on the data analysis, the team provided an overview of the types of policies and programs that can be implemented to support women entrepreneurs crossing over to the typically more profitable MDS.
 

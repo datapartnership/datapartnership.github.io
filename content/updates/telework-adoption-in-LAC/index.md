@@ -38,15 +38,6 @@ By using LinkedIn job postings data in Argentina, Brazil, Chile, Colombia, Costa
 
 Researchers found a common trend of sudden increase in telework adoption in the seven LAC countries at the beginning of the COVID-19 outbreak (first semester of 2020), followed by divergent patterns across countries in the subsequent months of 2021 and 2022.
 
-<figure align="center">
-    <img src="telework-adoption-in-LAC-figure1.png"/>
-    <figcaption>
-        <center>
-		Figure 1: Telework across LAC Countries after COVID-19 Outbreak
-		</center>
-    </figcaption>
-
-
 Here are the key findings of the study The Transition to Telework in Latin America and the Caribbean: Key Findings using LinkedIn data:
 
 •	Countries with more strict government containment measures were the ones that experienced higher telework rates during 2020.
@@ -56,6 +47,14 @@ Here are the key findings of the study The Transition to Telework in Latin Ameri
 •	Telework adoption reflects the dynamics of the labor demand and was driven mostly by the professional services economic sector.
 
 •	It appears that telework will not return to its pre-pandemic levels and it is here to stay.
+
+<figure align="center">
+    <img src="telework-adoption-in-LAC-figure1.png"/>
+    <figcaption>
+        <center>
+		Figure 1: Telework across LAC Countries after COVID-19 Outbreak
+		</center>
+    </figcaption>
 
 ## Impact
 Under this new post-pandemic context, where telework is a feasible alternative adopted in more economic sectors than before COVID-19, an opportunity to implement policies that support workers arises. Workers need skills to adapt to this transition either by acquiring new capacities or by transforming the ones they already have (reskilling); employment offices need new strategies to cope with the new labor market, and vulnerable populations need assiduous attention, so they will not be left behind.

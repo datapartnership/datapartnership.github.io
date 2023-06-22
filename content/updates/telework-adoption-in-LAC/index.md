@@ -45,8 +45,6 @@ Researchers found a common trend of sudden increase in telework adoption in the 
 		Figure 1: Telework across LAC Countries after COVID-19 Outbreak
 		</center>
     </figcaption>
-</figure>
-
 
 
 Here are the key findings of the study The Transition to Telework in Latin America and the Caribbean: Key Findings using LinkedIn data:

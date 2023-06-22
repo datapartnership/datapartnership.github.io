@@ -1,74 +1,85 @@
 # Contributing
 
-🎉 Thanks for taking the time to contribute to the Development Data Partnership! 🎉
-
-The [Development Data Partnership Partnership](https://datapartnership.org/) website is a [Hugo](https://gohugo.io/)-generated static website that is continuously deployed on [GitHub Pages](https://pages.github.com) via [GitHub Actions](https://github.com/features/actions). If not familiar with Hugo, please check out a [Quick Start](https://gohugo.io/getting-started/quick-start/).
+**Thanks for contributing to the Development Data Partnership!** The [Development Data Partnership](https://datapartnership.org/) website is a [Hugo](https://gohugo.io/)-generated static website that is deployed on [GitHub Pages](https://pages.github.com) via [GitHub Actions](https://github.com/features/actions). If not familiar with Hugo, please see this [Quick Start](https://gohugo.io/getting-started/quick-start/).
 
 In summary, the continuous deployment (CD) works as follows:
 
-- On each new pull request, a preview will be available. The deploy preview will be posted by the `netlify bot` on the comments.
+- On each new pull request (to any branch), a preview will be made available. The preview will be posted by the `netlify bot` as a PR comment.
 
-- On each commit to `main`, the website is published to [datapartnership.org](https://datapartnership.org). The domain is registed AWS Route 53 with the World Bank.
+- On each commit to `main`, the website will be published to [datapartnership.org](https://datapartnership.org). The domain is registed AWS Route 53 with the World Bank.
 
-## How to post/edit on the Partnership blog
+## How to contritute to the Partnership blog
 
-All content is are located under [content](https://github.com/datapartnership/datapartnership.org/tree/master/content). Follow the instructions below on how to create and submit your story for publication.
+The [Development Data Partnership](https://datapartnership.org/) website is published on and you will be required to use GitHub. If convenient for you, you may use [GitHub Desktop](https://desktop.github.com).
 
-**Checklist**
+## How to post on the Partnership blog
 
-- Finalize the text, including getting approval (if necessary) from Data Partners, on a Word document (include link on the issue).
-- [Create a issue](https://github.com/datapartnership/datapartnership.github.io/issues/new) with the title of the story, e.g,  [Digitalization and Resilience to COVID-19 Shocks: Evidence from Sub-Saharan Africa](https://github.com/datapartnership/datapartnership.github.io/issues/94).
-- Create a blog post file in Markdown under `updates`. See [Story Template](#story-template).
-- Create a branch and commit all changes, including additional materials. Please use `static` to upload any attachments and images.
-- [Open a pull request](https://github.com/datapartnership/datapartnership.github.io/pulls) and assign a [maintainer](https://github.com/orgs/datapartnership/teams/maintainers) as reviewer.
+Please follow the instructions below on how to submit your story for publication.
+
+1. Upon a [project's completion](https://github.com/orgs/datapartnership/projects/9), it is the time for dissemination.
+	- [Create an issue](https://github.com/datapartnership/datapartnership.github.io/issues/new) with the title of the story to keep track of the task (e.g., this [story issue](https://github.com/datapartnership/datapartnership.github.io/issues/157)). Please remember to  link the *story issue* to the *proposal issue* (e.g., this [proposal](https://github.com/datapartnership/operations/issues/134)) on [Operations](https://github.com/orgs/datapartnership/projects/9).
+	- Finalize the text (include link on the issue). If necessary, coordinate Development and Data Partner approval(s).
+1. Once the text is ready, it is now time to submit the story. We adopted the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). All content must be in [Markdown](https://daringfireball.net/projects/markdown/) (see [reference](https://www.markdownguide.org/cheat-sheet)) and must be located under [content](https://github.com/datapartnership/datapartnership.org/tree/master/content)
+	- Clone the [repository](https://github.com/datapartnership) (if you haven't already) and create a feature branch.
+	- On your local repository and on your feature branch, create a story folder under `content/updates/`, e.g. [content/updates/africa-digital-transformation](content/updates/africa-digital-transformation). Create a blog post `index.md` file in Markdown using the [Story Template](#story-template). TIP: you may use [word2md](https://word2md.com).
+	- Add figures to the same folder and use a relative path in Markdown (see below).
+	- [Open a pull request](https://github.com/datapartnership/datapartnership.github.io/pulls) and assign a [maintainer](https://github.com/orgs/datapartnership/teams/maintainers) as reviewer.
+3. The story will be published after the reviewer approves and merges the content to `main`.
 
 ## How to upload a image/picture on your blog post
 
-To add an image to your story, upload a `.png` or `.jpeg` image to the [static](https://github.com/datapartnership/datapartnership.github.io/tree/master/static) and import it on the Markdown file ((don't forget the leading slash).
+To add an image to your story, upload a `.png` or `.jpeg` image to the story folder. Remember to use a relative path in Markdown.
 
 For example,
 
 ```{markdown}
-![Mapbox Spain](/Mapbox-Spain.png)
+![Mapbox Spain](Mapbox-Spain.png)
 ```
 
 ## Story Template
 
-When writing about your project, consider the template and the [TOML](https://toml.io/en/) preamble below to create and include metadata about your story. All files are Markdown files (If you want to know more about the syntax, please visit [GitHub Markdown Cheatsheet page](https://guides.github.com/features/mastering-markdown/)).
+When writing about your project, please use the [TOML](https://toml.io/en/) preamble below to include metadata about your story. All files are Markdown files (If you want to know more about the syntax, please visit [GitHub Markdown Cheatsheet page](https://guides.github.com/features/mastering-markdown/)).
 
-- title: Select title
-- authors: Select authors
-- date: Select time reference when your post is published, e.g. `2020-03-19T20:12:14Z`
-- post_type: Select type, i.e. *"Case Study", "Article", "Events" or "Tutorial"*.
-- tags: Select one or more tags.
-- links: Select one or more external (Read more) links.
-- partner: Select Data Partner(s) associated with this project, e.g. `["Meta, Mapbox"]`.
+- title: Select title , e.g., `"Why We Should Accelerate the Use of Digital Technologies in Africa"`
+- date: Select time reference when your post is published, e.g. `YYYY-MM-DDTHH:MM:SSZ`
+- authors: Select authors, e.g., `["Holly Krambeck"]`
+- categories: Select type, i.e. *"Case Study", "Article", "Events" or "Tutorial"*.
 - dev_partner: Select Development Partner(s) associated with this project, e.g. `["World Bank"]`.
+- partner: Select Data Partner(s) associated with this project, e.g. `["Meta, Mapbox"]`.
+- tags: Select one or more tags, based on [World Bank Topics](https://www.worldbank.org/en/topic).
+- links: Select one or more external (Read more) links.
 
-For example, use the preamble below.
+For example, see below the preamble of [Why We Should Accelerate the Use of Digital Technologies in Africa](https://datapartnership.org/updates/africa-digital-transformation/).
 
-```{markdown}
+```{md}
 +++
-title = "Addressing COVID-19 through Public-Private Data Partnerships: Where Do We Put New Testing Facilities?"
-authors = ["Bruno Nuno"]
-date = 2020-03-19T20:12:14Z
-partner = ["Meta", "Mapbox"]
+title = "Why We Should Accelerate the Use of Digital Technologies in Africa"
+date = 2023-04-25T00:00:00.000+00:00
+authors = ["Clara Stinshoff", "Tania Begazo"]
+categories = ["Case Study"]
 dev_partner = ["World Bank"]
+partner= ["Ookla"]
+tags = ["Digital Development"]
+links = [
+    "https://www.worldbank.org/en/region/afr/publication/digital-africa",
+]
+thumbnail = "africa-digital-transformation.jpg"
 +++
 ```
 
 ### Case Study Template
 
-```{markdown}
+```{md}
 +++
 title =
+date =
 authors =
-post_type =
+categories =
+dev_partner
 partner =
-dev_partner =
 tags =
 links =
-date =
+thumbnail =
 +++
 
 Provide a brief introduction to the project and mention the Team/Global Practice/Sector and Development Partner.

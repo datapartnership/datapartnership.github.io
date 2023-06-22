@@ -42,7 +42,7 @@ Researchers found a common trend of sudden increase in telework adoption in the 
     <img src="telework-adoption-in-LAC-figure1.png"/>
     <figcaption>
         <center>
-		Figure 1: Figure 1: Telework across LAC Countries after COVID-19 Outbreak
+		Figure 1: Telework across LAC Countries after COVID-19 Outbreak
 		</center>
     </figcaption>
 </figure>

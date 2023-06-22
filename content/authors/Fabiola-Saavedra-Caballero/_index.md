@@ -1,0 +1,5 @@
+---
+name: Fabiola Saavedra Caballero
+---
+Fabiola Saavedra Caballero currently works as consultant in the Labor Markets and Social Security Division at the Inter-American Development Bank (IDB) where she is actively involved in projects and research focused on the design, implementation, and evaluation of initiatives aimed at fostering skills development. Previously, she worked as consultant at the World Bank, UN-Habitat, UNICEF, and held a position of Assistant Professor at the Department of Economics at EAFIT University. Her areas of expertise include the transition from higher education to the labor market, skills development, the impacts of public policies in high-informality settings, and the evaluation of social protection programs. Fabiola, a citizen of Bolivia, received his Ph.D. in Economics from the Unviersité Catholique de Louvain in Belgium, she holds a Master’s Degree in Economics from EAFIT University in Colombia and a Bachelor’s Degree in Economics from Universidad Católica Boliviana.
+

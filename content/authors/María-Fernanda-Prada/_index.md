@@ -1,1 +1,4 @@
-
+---
+name: María Fernanda Prada
+---
+María Fernanda Prada is an economist who has been working in the Education Division of the Inter-American Development Bank (IDB) since May 2016. In her role, she leads and collaborates on research, projects and operations related to skills for work, technical vocational education and training, skills development, and employability. Prior to joining the Education Division, she worked in the IDB's Labor Markets and Social Security Division. She has also worked at the Research Departments of both the IDB and the World Bank in Washington, DC, as well as at the Center for Economic Development Studies at the University of Los Andes in Bogotá, Colombia. Maria Fernanda holds a Ph.D. in Economics from the University of Maryland, and she is an Economist with a Master's Degree in Economics from the University of Los Andes in Bogotá, Colombia.

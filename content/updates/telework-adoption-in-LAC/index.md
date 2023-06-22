@@ -48,6 +48,7 @@ Researchers found a common trend of sudden increase in telework adoption in the 
 </figure>
 
 
+
 Here are the key findings of the study The Transition to Telework in Latin America and the Caribbean: Key Findings using LinkedIn data:
 
 •	Countries with more strict government containment measures were the ones that experienced higher telework rates during 2020.

@@ -1,7 +1,7 @@
 +++
 title = "Analyzing the Evolution of Telework Adoption in Latin America and the Caribbean"
 date = 2023-06-23T00:00:00.000+00:00
-authors = ["María Fernanda Prada", "Graciana Rucci", " Fabiola Saavedra-Caballero" ]
+authors = ["María Fernanda Prada", "Graciana Rucci", "Fabiola Saavedra Caballero" ]
 categories = ["Case Study"]
 dev_partner = ["Inter-American Development Bank"]
 partner= ["LinkedIn"]

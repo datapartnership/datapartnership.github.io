@@ -38,8 +38,10 @@ However, as revealed by complementary analysis conducted by the team using data 
     <img src="COVID-mobility-Buenos-Aires-figure1.png">
     <figcaption>
         <center>
-		Figure 1: Changes in Congestion Index in CABA in 2019 to 2021
-Source: Original figure produced for this publication, based on analysis by study team, using [Waze for Cities](https://www.waze.com/wazeforcities) data. Data provided by Waze App. Learn more at [waze.com](www.waze.com).
+		Figure 1: Changes in Congestion Index in CABA in 2019 to 2021 </center>
+      <center> Source: Original figure produced for this publication, based on analysis by study team, using Waze for Cities data.  
+      
+Data provided by Waze App. Learn more at [waze.com](www.waze.com).
 		</center>
     </figcaption>
 </figure>

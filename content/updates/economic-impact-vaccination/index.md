@@ -44,6 +44,7 @@ The figure's data covered the period of March-December 2021. Dependent variables
 * "In the past 4 weeks, did you do any work for pay? By work for pay, we mean any kind of business, farming, or other activity to earn money, even if only for one hour." (unemployment);
 * "How worried are you about having enough to eat in the next week?"(food security); and
 * "How worried are you about your household's finances in the next month?"(household finance security).
+</figure>
 
 ## Impact
 

@@ -38,13 +38,15 @@ The World Bank leveraged data from [Meta](https://dataforgood.facebook.com/dfg/a
 </center>
       <center> Source: EAP staff research, based on data from Meta's Global COVID-19 Trends and Impact Survey
 </center>  
-<br>
+
+</figure>
 The figure's data covered the period of March-December 2021. Dependent variables were derived from individual responses to the following questions in the survey: 
 
 * "In the past 4 weeks, did you do any work for pay? By work for pay, we mean any kind of business, farming, or other activity to earn money, even if only for one hour." (unemployment);
 * "How worried are you about having enough to eat in the next week?"(food security); and
 * "How worried are you about your household's finances in the next month?"(household finance security).
 </figure>
+
 
 ## Impact
 

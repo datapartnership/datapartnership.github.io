@@ -38,7 +38,7 @@ Mobile location data provide GPS locations over time that can help identify main
     <img src="informal-trade-Benin-figure1.png"/>
     <figcaption>
         <center>
-  Figure 1: Measuring linkages with GPS data (Source: Authors' calculations based on GPS data provided by Outlogic before August 2019)
+  Figure 1: Measuring linkages with GPS data. Source: Authors' calculations based on GPS data provided by Outlogic before August 2019
   </center>
     </figcaption>
 </figure>
@@ -47,7 +47,7 @@ Mobile location data provide GPS locations over time that can help identify main
     <img src="informal-trade-Benin-figure2.png"/>
     <figcaption>
         <center>
-  Figure 2: Detecting unofficial crossing zones by GPS data registered via mobile devices (Source: Outlogic and authors' computation)
+  Figure 2: Detecting unofficial crossing zones by GPS data registered via mobile devices. Source: Outlogic and authors' computation
   </center>
     </figcaption>
 </figure>

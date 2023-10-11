@@ -27,7 +27,7 @@ During the COVID-19 pandemic, vaccination became a prominent issue in the public
 
 ## Solution
 
-The World Bank's Poverty and Inequality Research team investigated the above questions in relation to the Middle East, for which they had both conventional survey data on COVID vaccination attitudes and a database of post (formerly known as tweets) that featured the most prominent COVID hashtags in Arabic (notably كورونا#) spanning the period from mid-December 2020 until mid-April 2021. X's open API was used to download the post. The resulting database was filtered for vocabulary related to vaccination.
+The World Bank's Poverty and Inequality Research team investigated the above questions in relation to the Middle East, for which they had both conventional survey data on COVID vaccination attitudes and a database of posts (formerly known as tweets) that featured the most prominent COVID hashtags in Arabic (notably كورونا#) spanning the period from mid-December 2020 until mid-April 2021. X's open API was used to download the post. The resulting database was filtered for vocabulary related to vaccination.
 
 The team found that anti-vaccine sentiment estimated from X data was surprisingly low in comparison to estimates obtained from survey data. Only about 3 percent of X accounts in their database were identified as anti-COVID-vaccination (compared to 20 to 30 percent of survey respondents). This difference can be explained by the following reasons.
 

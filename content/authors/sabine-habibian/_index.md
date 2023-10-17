@@ -1,0 +1,4 @@
+---
+name: Sabine Habibian
+---
+Sabine Habibian is an EdTech consultant at the World Bank where she supports digital and technology projects in the Mashreq region, aiming to improve the future for learners. She holds dual degrees from Ecole Supérieure des Affaires in Lebanon and NEOMA Business School in France. Sabine began her career in San Francisco in the startup “eCairn” where she produced analysis reports for diverse clients. She later joined the NGO Ecole Supérieure des Affaires (ESA) in Beirut. She first joined ESA as a Project Manager for international cooperation and SDG-related events initiatives. Amidst Lebanon's multiple crises, she took on the role of project manager for the “Agence Française de Développement” (AFD) funded project, implementing coding schools for disadvantaged populations.  

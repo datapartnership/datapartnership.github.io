@@ -6,7 +6,7 @@ partner = ["LinkedIn"]
 dev_partner = "World Bank"
 tags = ["Jobs and Development"]
 links = ["https://publications.iadb.org/en/360-digital-transformation-firms-latin-america-and-caribbean"]
-date = 2023-11-06T00:00:00Z
+date = 2023-11-20T00:00:00Z
 +++
 
 Are firms in Latin America and the Caribbean lagging in terms of their adoption of digital technologies? The Inter-American Development Bank's Competitiveness, Technology, and Innovation Division leveraged [LinkedIn](https://www.linkedin.com) data on the penetration of digital skills as part of an assessment on the adoption of technologies in the region.

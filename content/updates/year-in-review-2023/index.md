@@ -1,7 +1,7 @@
 +++
 title = "Development Data Partnership 2023 Year in Review"
 authors = ["Kwok Kin Lee"]
-date = 2023-12-13T00:00:00Z
+date = 2023-12-12T00:00:00Z
 +++
 
 It has been an extraordinary year for the Development Data Partnership. Before we start the new year, we wanted to take a moment to reflect and look back on what we have accomplished in 2023.

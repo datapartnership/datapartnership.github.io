@@ -1,15 +1,15 @@
 +++
 title = "How Digitalization Can Enhance Economic Resilience"
-authors = ["Alexander Copestake", "Julia Estefania Flores", "Julia Davide Furceri"]
+authors = ["Alexander Copestake","Julia Estefania Flores","Davide Furceri"]
 categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = "International Monetary Fund"
 tags = ["Digital Development", "Jobs and Development"]
 links = ["https://www.sciencedirect.com/science/article/pii/S0048733323002329"]
-date = 2024-02-06T00:00:00Z
+date = 2024-02-05T00:00:00Z
 +++
 
-The COVID-19 crisis has opened deep economic scars, leading to significant output losses. Can digitalization improve economic resilience to shocks such as the pandemic? The International Monetary Fund’s Asia-Pacific Department leveraged [LinkedIn](www.linkedin.com) data to examine the role of digitalization in supporting resilience in employment during the health crisis.
+The COVID-19 crisis has opened deep economic scars, leading to significant output losses. Can digitalization improve economic resilience to shocks such as the pandemic? The International Monetary Fund's Asia-Pacific Department leveraged [LinkedIn](www.linkedin.com) data to examine the role of digitalization in supporting resilience in employment during the health crisis.
 
 
 ## Challenge
@@ -25,7 +25,7 @@ However, this health crisis also drove the rapid adoption of new digital technol
 
 ## Solution
 
-As digital skills have become increasingly important, a trend accelerated by the pandemic, it is crucial to understand their impact on the labor market. The International Monetary Fund’s Asia-Pacific Department leveraged [LinkedIn](www.linkedin.com) data on skills penetration, career transitions, and hiring rates.
+As digital skills have become increasingly important, a trend accelerated by the pandemic, it is crucial to understand their impact on the labor market. The International Monetary Fund's Asia-Pacific Department leveraged [LinkedIn](www.linkedin.com) data on skills penetration, career transitions, and hiring rates.
 
 The IMF team revealed that digitalization supported resilience in employment: hiring rates were higher in industries using more digital skills, and those industries also attracted larger net inflows of workers.
 

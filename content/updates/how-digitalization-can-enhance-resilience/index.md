@@ -27,7 +27,7 @@ However, this health crisis also drove the rapid adoption of new digital technol
 
 As digital skills have become increasingly important, a trend accelerated by the pandemic, it is crucial to understand their impact on the labor market. The International Monetary Fund's Asia-Pacific Department leveraged [LinkedIn](www.linkedin.com) data on skills penetration, career transitions, and hiring rates.
 
-The IMF team revealed that digitalization supported resilience in employment: hiring rates were higher in industries using more digital skills, and those industries also attracted larger net inflows of workers.
+The team revealed that digitalization supported resilience in employment: hiring rates were higher in industries using more digital skills, and those industries also attracted larger net inflows of workers.
 
 Hiring rates are calculated using the share of LinkedIn members adding a new employer to their profile in the same month that the job begins, and digital skills usage is calculated using the proportion of such skills listed by users within a particular country-industry pair.
 
@@ -46,4 +46,4 @@ Figure 1 shows the differential effect of COVID-19 recessions on growth in hirin
 
 Digitalization can be a powerful force in mitigating scarring. Drawing on the [LinkedIn](www.linkedin.com) data, the International Monetary Fund found that more digitalized industries had higher hiring rates in the two years after pandemic-induced recessions, and experienced greater net inflows. These key results highlight the significant role of digitalization in mitigating scarring and improving firm resilience.
 
-As digitalization can help reduce the harmful effects of economic downturns, this IMF study provides support for efforts to promote the widespread adoption of digital technologies to mitigate scarring, including support for re-training and upskilling programs to help both employees and firms build resilience to future shocks.
+As digitalization can help reduce the harmful effects of economic downturns, this study provides support for efforts to promote the widespread adoption of digital technologies to mitigate scarring, including support for re-training and upskilling programs to help both employees and firms build resilience to future shocks.

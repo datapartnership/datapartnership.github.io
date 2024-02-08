@@ -6,7 +6,7 @@ partner = ["LinkedIn"]
 dev_partner = "International Monetary Fund"
 tags = ["Digital Development", "Jobs and Development"]
 links = ["https://www.sciencedirect.com/science/article/pii/S0048733323002329"]
-date = 2024-02-08T00:00:00Z
+date = 2024-02-07T00:00:00Z
 +++
 
 The COVID-19 crisis has opened deep economic scars, leading to significant output losses. Can digitalization improve economic resilience to shocks such as the pandemic? The International Monetary Fund's Asia-Pacific Department leveraged [LinkedIn](www.linkedin.com) data to examine the role of digitalization in supporting resilience in employment during the health crisis.

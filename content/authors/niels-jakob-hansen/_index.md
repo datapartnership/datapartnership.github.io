@@ -1,0 +1,4 @@
+---
+name: Niels-Jakob H. Hansen
+---
+Niels-Jakob H. Hansen is an economist in the World Economic Studies Division of the IMFÕs Research Department, where he contributes to chapters of the World Economic Outlook. Previously, he worked in the IMFÕs Asia Pacific Department and Finance Department. He has participate in missions to Korea, Cambodia, Czech Republic, and San Marino. He has also worked on issues related to Fund finances. His research interests include monetary and labor market issues, and has published in the Review of Economic Studies and Journal of Economic Inequality. He holds a Ph.D. in Economics from the Institute for International Economic Studies at Stockholm University, an MPhil in Economics from University of Cambridge, and an MSc in Economics from University of Copenhagen (cand polit).

@@ -12,13 +12,13 @@ post_type = "post_type"
 
 [server]
 [[server.headers]]
-  for = '/**.html'
-  [server.headers.values]
-    Content-Security-Policy = 'script-src localhost:1313'
-    Referrer-Policy = 'strict-origin-when-cross-origin'
-    X-Content-Type-Options = 'nosniff'
-    X-Frame-Options = 'DENY'
-    X-XSS-Protection = '1; mode=block'
+for = '/**.html'
+[server.headers.values]
+Content-Security-Policy = 'script-src localhost:1313'
+Referrer-Policy = 'strict-origin-when-cross-origin'
+X-Content-Type-Options = 'nosniff'
+X-Frame-Options = 'DENY'
+X-XSS-Protection = '1; mode=block'
 
 [params]
 author = "Development Data Partnership"
@@ -35,31 +35,27 @@ googleAnalytics = "G-7L4XVWZBSB"
 
 # Site Menus
 [menu]
-  # Navbar Menus
-  [[menu.nav]]
-    name    = "About"
-    url     = "/about"
-    weight  = 1
+# Navbar Menus
 [[menu.nav]]
-    name    = "Portal"
-    url     = "https://portal.datapartnership.org"
-    weight  = 2
-  [[menu.nav]]
-    name    = "Documentation"
-    url     = "https://docs.datapartnership.org"
-    weight  = 3
-  [[menu.nav]]
-    name    = "Projects & News"
-    url     = "/updates"
-    weight  = 4
-  [[menu.nav]]
-    name    = "Topics"
-    url     = "/tags"
-    weight  = 5
-  [[menu.nav]]
-    name    = "Contact us"
-    url     = "mailto:datapartnership@worldbank.org"
-    weight  = 6
+name = "About"
+url = "/about"
+weight = 1
+[[menu.nav]]
+name = "Portal"
+url = "https://portal.datapartnership.org"
+weight = 2
+[[menu.nav]]
+name = "Documentation"
+url = "https://docs.datapartnership.org"
+weight = 3
+[[menu.nav]]
+name = "Projects & News"
+url = "/updates"
+weight = 4
+[[menu.nav]]
+name = "Contact us"
+url = "mailto:datapartnership@worldbank.org"
+weight = 5
 
 [markup.goldmark.renderer]
 unsafe = true

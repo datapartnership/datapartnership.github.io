@@ -1,4 +1,4 @@
 ---
-name: Sehar Noir
+name: Sehar Noor
 ---
 

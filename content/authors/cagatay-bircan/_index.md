@@ -1,5 +1,5 @@
 ---
-name: Çağatay Bircan
+name: Cagatay Bircan
 ---
 Çağatay Bircan is a Lead Research Economist at the EBRD and Industrial Professor at the Institute for Finance and Technology at University College London (UCL).  Prior to joining the EBRD, Cagatay worked as a Fixed Income Strategist and Economist at Bank of America Merrill Lynch.  At EBRD, he worked both as a country economist and as research economist.
 

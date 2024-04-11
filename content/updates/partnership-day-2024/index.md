@@ -13,13 +13,13 @@ The Partnership Day is an exclusive event where tech leaders such as Nathan Naid
 We have insights on project collaborations between private companies and international organizations such as Meta, LinkedIn, Plume Labs, JBA, Planet, EBRD, OECD, IMF, IDB, and the World Bank, which are reshaping how we address international development. 
 
 <p style="text-align:center">
-    <button type="button" class="btn btn-outline-info"><a href="partnershipday2023agenda.pdf"> Registration
+    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Registration
     </a>
     </button>
     &nbsp;
     
 </p>
 
-![](2024_web.png)
+![](DDP-2024_web.png)
 
 The Strategic Advisory Group Meeting 2024, where representatives from member international organizations and data partners meet to discuss the next steps for the Partnership, will take place on Thrusday, May 16 from 2:30 p.m. - 6:30 p.m.

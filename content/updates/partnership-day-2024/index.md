@@ -8,9 +8,9 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 
 **Join us for the Development Data Partnership Day on Wednesday, May 15, 2023, from 1:30 p.m. to 5:30 p.m. in person at the [OECD Headquarters & Conference Centre](https://www.oecd.org/conference-centre/access/) in Paris, France.**
 
-The Partnership Day is an exclusive event where tech leaders such as Nathan Naido, Meta's Director of Public Policy, and Dr. Jason Hickey, Google's Head of Research, share their insights on how private-sector collaborations and artificial intelligence can help tackle development challenges. Additionally, Sophie Schmidt, Founder and Publisher of "Rest of World," will share her unique perspective on how AI impacts developing countries.
+The Partnership Day is an exclusive event where tech leaders such as Nathan Naido, **Meta's** Director of Public Policy, and Dr. Jason Hickey, **Google's** Head of Research, will share insights on how private-sector collaborations and artificial intelligence can help tackle development challenges. Additionally, Sophie Schmidt, Founder and Publisher of **Rest of World** will offer a unique perspective on how AI impacts developing countries.
 
-We have insights on project collaborations between private companies and international organizations such as Meta, LinkedIn, Plume Labs, JBA, Planet, EBRD, OECD, IMF, IDB, and the World Bank, which are reshaping how we address international development. 
+Hear how project collaborations between private companies and international organizations, such as Meta, LinkedIn, Plume Labs, JBA, Planet, EBRD, OECD, IMF, IDB, and the World Bank, reshape how we address international development. 
 
 <p style="text-align:center">
     <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Registration

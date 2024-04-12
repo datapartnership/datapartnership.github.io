@@ -14,17 +14,17 @@ Partnership Day will also feature our favorite tradition - relay lightning talks
 
 
 <p style="text-align:center">
-    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Registration
+    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Register Here
     </a>
     </button>
     &nbsp;
     
 </p>
 
-![](DDP-2024_web.png)
+![](Day_2024.png)
 
 <p style="text-align:center">
-    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Registration
+    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Register Here
     </a>
     </button>
     &nbsp;

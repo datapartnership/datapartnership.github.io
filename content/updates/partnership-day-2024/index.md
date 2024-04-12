@@ -21,7 +21,7 @@ Partnership Day will also feature our favorite tradition - relay lightning talks
     
 </p>
 
-![](Day_2024.png)
+![](2024_web.png)
 
 <p style="text-align:center">
     <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Register Here

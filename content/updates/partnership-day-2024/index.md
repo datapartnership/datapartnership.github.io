@@ -8,7 +8,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 
 **Join us for the Development Data Partnership Day on Wednesday, May 15, 2024, from 1:30 p.m. to 5:30 p.m. CET at the [OECD Headquarters & Conference Centre](https://www.oecd.org/conference-centre/access/) in Paris, France.**
 
-Partnership Day is a unique event where tech companies and international organizations meet to share insights and field stories about their collaborations for public good. At this year's Partnership Day, we will hear from Sophie Schmidt, Founder and Publisher of **"Rest of World,"** to learn how AI trends are being felt on the ground in developing countries, as well as Dr. Jason Hickey, **Google's** Head of Research, who will introduce AI-supported civic tools for decision making. We will also meet Nathan Naidoo, **Meta's** Director of Public Policy, who will share Meta's current and future plans for translating company data into meaningful social and economic insights. 
+Partnership Day is a unique event where tech companies and international organizations meet to share insights and field stories about their collaborations for public good. At this year's Partnership Day, we will hear from Sophie Schmidt, Founder and Publisher of **"Rest of World,"** to learn how AI trends are being felt on the ground in developing countries, as well as Dr. Jason Hickey, **Google's** Head of Research, who will introduce AI-supported civic tools for decision making. We will also meet Monica Allen, **Meta's** Director of Public Policy Campaigns and Programmes, who will share Meta's current and future plans for translating company data into meaningful social and economic insights. 
 
 Partnership Day will also feature our favorite tradition - relay lightning talks - where duos from companies and international organizations will proudly present the results of their collaborations. This year's relay talks will feature participants from Meta, LinkedIn, Plume Labs, JBA, EBRD, OECD, IMF, IDB, the World Bank, and others.
 
@@ -21,7 +21,7 @@ Partnership Day will also feature our favorite tradition - relay lightning talks
     
 </p>
 
-![](2024_web.png)
+![](2024_web.jpg)
 
 <p style="text-align:center">
     <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Register Here

@@ -49,7 +49,7 @@ This study will contribute to continued research on Amazonia360 Hub not only on 
 
 
 
-## About Amazonia Fever
+## About Amazonia Forever
 
 [Amazonia Forever](https://www.iadb.org/en/who-we-are/topics/amazonia)  is a holistic umbrella program that aims at protecting biodiversity and accelerating sustainable development in three lines of action: expanding funding, boosting knowledge exchange, and facilitating regional coordination among the eight Amazonian countries.  
  

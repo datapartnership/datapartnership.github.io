@@ -6,7 +6,7 @@ categories = ["Announcement"]
 dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "CAF" , "EBRD", "Asian Development Bank" ]
 +++
 
-**Join us for the Development Data Partnership Day on Wednesday, May 15, 2024, from 1:30 p.m. to 5:30 p.m. CET at the [OECD Headquarters & Conference Centre](https://www.oecd.org/conference-centre/access/) in Paris, France.**
+**Join us for Development Data Partnership Day, which will be live-streamed from the [OECD Headquarters & Conference Centre](https://www.oecd.org/conference-centre/access/) in Paris, France.**
 
 Partnership Day is a unique event where tech companies and international organizations meet to share insights and field stories about their collaborations for public good. At this year's Partnership Day, we will hear from Sophie Schmidt, Founder and Publisher of **"Rest of World,"** to learn how AI trends are being felt on the ground in developing countries, as well as Dr. Jason Hickey, **Google's** Head of Research, who will introduce AI-supported tools for social good. We will also meet Monica Allen, **Meta's** Director of Public Policy Campaigns and Programmes, who will share Meta's current and future plans for translating company data into meaningful social and economic insights. 
 
@@ -28,7 +28,7 @@ Partnership Day will also feature our favorite tradition - relay lightning talks
     
 </p>
 
-![](DDP_2024_web.jpg)
+![](DDP-2024_web_livestreamed.jpg)
 
 <section id="agenda">
 <iframe src="partnershipdayagenda2024.pdf#toolbar=0&statusbar=0&page=1" width="100%" height="900px">

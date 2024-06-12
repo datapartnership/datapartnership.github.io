@@ -14,25 +14,14 @@ Partnership Day will also feature our favorite tradition - relay lightning talks
 
 
 <p style="text-align:center">
-<button type="button" class="btn btn-outline-info"><a href="Agenda_2024.pdf"> Full Agenda </button>
-    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Register to Attend Virtually
-    </a>
-    </button>
-    
+<button type="button" class="btn btn-outline-info"><a href="Agenda_2024.pdf"> Full Agenda 
+</button>
 </p>
 
 ![](DDP-2024_web_livestreamed.jpg)
 
-<p style="text-align:center">
-    <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com.mcas.ms/pages/responsepage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UME01STJNWlFIV1U3TVcwNzRVRFpQVzY4Qy4u"> Register to Attend Virtually
-    </a>
-    </button>
-    
-</p>
 
 <section id="Full Agenda">
 <iframe src="Agenda_2024.pdf#toolbar=0&statusbar=0&page=1" width="100%" height="900px">
 </iframe>
 </section>
-
-The Strategic Advisory Group Meeting 2024, where representatives from member international organizations and data partners meet to discuss the next steps for the Partnership, will take place on Thursday, May 16 from 2:30 p.m. - 6:30 p.m. CET. 

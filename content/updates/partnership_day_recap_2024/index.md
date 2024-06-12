@@ -2,7 +2,6 @@
 date =  2024-06-10T00:00:00Z
 title = "Partnership Day 2024: Harnessing Data and Technology and Private-Public Sector Collaboration to Tackle Development Challenges"
 authors = ["Kwok Kin Lee", "Claudia Calderon"]
-categories = ["Announcement"]
 dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "CAF" , "EBRD", "Asian Development Bank" ]
 +++
 

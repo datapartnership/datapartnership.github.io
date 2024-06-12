@@ -1,5 +1,5 @@
 ---
 title: Earth Genome
-logo: images/earthgenome.svg
+logo: images/earthgenome_new.svg
 ---
 

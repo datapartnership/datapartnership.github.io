@@ -12,16 +12,16 @@ Partnership Day is a unique event where tech companies and international organiz
 
 Partnership Day will also feature our favorite tradition - relay lightning talks - where duos from companies and international organizations will proudly present the results of their collaborations. This year's relay talks will feature participants from Meta, LinkedIn, Ookla, JBA, EBRD, OECD, IMF, IDB, the World Bank, and others.
 
-
 <p style="text-align:center">
 <button type="button" class="btn btn-outline-info"><a href="Agenda_2024.pdf"> Full Agenda 
 </button>
+
 </p>
 
 ![](DDP-2024_web_livestreamed.jpg)
-
 
 <section id="Full Agenda">
 <iframe src="Agenda_2024.pdf#toolbar=0&statusbar=0&page=1" width="100%" height="900px">
 </iframe>
 </section>
+

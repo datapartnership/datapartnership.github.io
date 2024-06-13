@@ -44,7 +44,7 @@ Duos from companies and international organizations also presented the results o
  
 * Julia Diaz from the IDB and Jill Falman from Meta talked about [understanding mobility in the Amazonia by using Movement Distribution datasets from Meta](https://datapartnership.org/updates/understanding-people-mobility-in-amazonia/).
  
-* Lamya Kejji from the IMF and Ruha Devanesan from Google showed that the IMF is using Google trends data for macroeconomic monitoring and nowcasting of GDP.
+* Lamya Kejji from the IMF and Ruha Devanesan from Google showed that the IMF is using [Google trends data for macroeconomic monitoring and nowcasting of GDP](https://datapartnership.org/updates/macroeconomic-monitoring-with-google-trends/).
  
 * Michelle Marshalian from the OECD and Katherine Macdonald from Ookla shared [how the OECD is reaching digital desert using Ookla data](https://datapartnership.org/updates/reaching-digital-deserts/). 
  

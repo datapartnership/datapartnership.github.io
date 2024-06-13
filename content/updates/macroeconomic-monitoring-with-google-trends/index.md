@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Google"]
 dev_partner = "International Monetary Fund"
 tags = ["Jobs and Development"]
-date = 2024-05-14T00:00:00Z
+date = 2024-06-13T00:00:00Z
 links = [
 "https://www.imf.org/en/Publications/WP/Issues/2023/08/03/Panel-Nowcasting-for-Countries-Whose-Quarterly-GDPs-are-Unavailable-534455",
 "https://www.imf.org/en/Publications/WP/Issues/2022/05/07/Sub-Saharan-Africa-Economic-Activity-GDP-Machine-Learning-Nowcasting-COVID-19-517646",

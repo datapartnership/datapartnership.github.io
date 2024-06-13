@@ -23,16 +23,8 @@ In order to assess global economic conditions, and provide prompt policy recomme
 ## Solution
 
 Accessing people's Internet searches would provide an insight into their current interests, concerns, and intentions. Google provides a private API through the Data Partnership which allows the querying of a weekly search volume index (SVI) of a keyword or topic in a specific category or in general and is available globally.  Google SVI stretches back to 2004 and this makes it a powerful resource for conducting comprehensive analyses over extended periods. Furthermore, the SVI can be broken down to regional level which allows for a nuanced understanding of geographic variations in interests and trends.
-SVI measures how many times a keyword (or key words under a topic) has been submitted to the Google search engine. A search topic, rather than just a keyword, can be specified to deal with ambiguity of a search word due to homographs. Search results are normalized to the time and location of a query by a process called the normalization method, which can be found on the [Google Trends Documentation](https://support.google.com/trends/answer/4365533?hl=en).
-
-<figure align="center">
-<img src="understanding-people-mobility-in-amazonia-thumbnail.png"/>
-<figcaption>
-<center>
-Source: IDB analysis based on Meta's Data for Good (Oct-Nov 2023)
-</center>
-</figcaption>
-</figure>
+SVI measures the search interest in a keyword that has been submitted to the Google search engine.
+A search topic, rather than just a keyword, can be specified to deal with ambiguity of a search word due to homographs. Search results are normalized to the time and location of a query by a process called the normalization method, which can be found on the [Google Trends Documentation](https://support.google.com/trends/answer/4365533?hl=en).
 
 ## Impact
 
@@ -62,10 +54,10 @@ The statistics department is creating a Labor Market Tracker where Google SVI is
         <h4>
         Unemployment: Official data vs Google SVI
         </h4>
-        <img src="macroeconomic-monitoring-with-google-trends-photo1.png"/>
+        <img src="macroeconomic-monitoring-with-google-trends-photo2.png"/>
         <figcaption>
                 <center>
-                Source: BLS Google Trends and IMF Staff Caculation
+               Source: BLS Google Trends and IMF Staff Calculation
         </center>
         </figcaption>
 </figure>

@@ -6,7 +6,7 @@ partner = ["Ookla"]
 dev_partner = "World Bank"
 tags = ["Digital Development"]
 links = ["https://blogs.worldbank.org/en/digital-development/bridging-brazil-s-digital-divide--how-internet-inequality-mirror","https://arxiv.org/abs/2406.01113"]
-date = 2024-07-01T00:00:00Z
+date = 2024-07-10T00:00:00Z
 +++
 
 

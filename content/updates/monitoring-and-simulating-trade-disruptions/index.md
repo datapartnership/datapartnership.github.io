@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Esri"]
 dev_partner = "International Monetary Fund"
 tags = ["Digital Development"]
-date = 2024-07-18T00:00:00Z
+date = 2024-07-17T00:00:00Z
 +++
 
 Global supply chains are increasingly vulnerable to the impacts of climate change, natural hazards and geopolitical trade tensions. [The International Monetary Fund](https://www.imf.org/en/Home) and [the Environmental Change Institute](https://www.eci.ox.ac.uk/)at the University of Oxford established [PortWatch](https://portwatch.imf.org/) to help people assess the domestic and international trade impact of actual and future disruptions. [Esri](https://www.esri.com/en-us/home) provided essential technical support for the development and operation of PortWatch. 

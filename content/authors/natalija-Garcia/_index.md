@@ -1,8 +1,8 @@
 ---
 name: Natalija Gelvanovska-Garcia
 ---
-Niccolò Comini is an Economist in the Chief Economist’s Office of the Infrastructure Vice Presidency at the World Bank Group. He focuses on competition and regulatory issues in the ICT and digital industries in emerging countries. Examples of projects include advising governments on 5G network deployment, data infrastructure, and digital platforms businesses. 
+Ms. Natalija Gelvanovska-Garcia has joined the Bank in 2012 as Senior ICT Policy Specialist and a secondee from the Communications Regulatory Authority of the Republic of Lithuania (RRT). As part of World Bank’s Global Digital Development Practice, she is the Task Manager for several lending and technical assistance programs in the Europe and Central Asia region and globally.
+ 
+Ms. Gelvanovska-Garcia started her carrier near 20 years ago at Telia Lietuva (part of Telia Company Group). Prior to joining the Bank, Ms. Gelvanovska-Garcia was a Deputy Director for Electronic Communications at RRT and the Chair of the Working Group on Technical Regulatory Issues at CEPT grouping over 20 European countries. She has published numerous articles, chapters and books on policy and regulatory aspects of broadband network development.
 
-Prior to joining the World Bank Group, he worked at the OECD in Mexico City and Paris as a competition expert authoring several publications. Before that he worked in the Chief Economist’s Department of the UK Financial Conduct Authority and in the Economic Consulting team of Deloitte in London. 
-
-Niccolò is fluent in Italian, English and Spanish. He holds a MSc in Competition and Market Regulation from the Barcelona Graduate School of Economics and a M.A. in Law and Economics from the University of Bologna.
+Ms. Gelvanovska-Garcia studied Physics and holds a Master of Science from Vilnius University in Lithuania. She speaks Lithuanian, Polish, Russian, and English.

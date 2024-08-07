@@ -58,7 +58,7 @@ Note: C-Suite designates titles of top senior executives, such as CEOs.
 
 ## Impact
 
-Utilizing [LinkedIn]( https://www.linkedin.com/) data, the [study](https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/data-for-impact-primer-fall-2023.pdf) shows that technology skills are in demand in Argentina, but the adoption of disruptive technology skills lags behind. Additionally, the study identifies a gender gap with women underrepresented in high-level jobs.
+Utilizing [LinkedIn]( https://www.linkedin.com/) data, the study shows that technology skills are in demand in Argentina, but the adoption of disruptive technology skills lags behind. Additionally, the study identifies a gender gap with women underrepresented in high-level jobs.
 
 To help Argentina overcome these human capital challenges, the report suggests policy recommendations in different areas. They include offering lifelong learning programs to ensure reskilling and upskilling throughout people's working lives as their skills needs evolve, as well as expanding access to child and elderly care services for improving women participation in the labor market.
 

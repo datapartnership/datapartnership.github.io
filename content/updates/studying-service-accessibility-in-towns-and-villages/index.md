@@ -38,14 +38,11 @@ To this end, based on an existing dataset of travel times within Europe calculat
 
 Figure 1 shows a map of all smaller settlements (i.e. villages and towns) in the United States by their “Time to cities” classification. In the eastern half of the country, many smaller settlements are clustered around cities (dark purple and blue dots). Settlements that are green dots are 30-60 minutes from a city, while “Remote” settlements (lighter yellow dots) are located more than an hour from a city. In the west of the country (e.g. Montana and Utah), a larger fraction of towns and villages are classified as “Remote”.
 
-
 <figure align="center">
-    <img src="studying-service-accessibility-in-towns-and-villages-figure1.png" 
-    <figcaption>
-        <center>
-Figure 1: United States’ towns and villages by time to cities
-Source: Based on Mapbox Isochrone API, https://docs.mapbox.com/api/navigation/isochrone/. 
-  </center>
+    <img src="studying-service-accessibility-in-towns-and-villages-figure1.png" alt="Figure 1: United States’ towns and villages by time to cities">
+    <figcaption style="text-align:center;">
+        Figure 1: United States’ towns and villages by time to cities<br>
+        Source: Based on <a href="https://docs.mapbox.com/api/navigation/isochrone/">Mapbox Isochrone API</a>.
     </figcaption>
 </figure>
 

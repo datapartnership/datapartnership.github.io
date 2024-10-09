@@ -9,7 +9,7 @@ date = 2024-10-07T00:00:00Z
 
 +++
 
-Chennai has been facing various challenges like changes in land use patterns and urban population stress, and a growing risk from events like floods and heavy rains, which all put pressure on its transport infrastructure. [Unacast] (https://www.unacast.com/) and [Quadrant] (https://www.quadrant.io/) provided data support to the World Bank’s South Asia Transport team for a study on resilient transport investments.
+Chennai has been facing various challenges like changes in land use patterns and urban population stress, and a growing risk from events like floods and heavy rains, which all put pressure on its transport infrastructure. [Unacast](https://www.unacast.com/) and [Quadrant](https://www.quadrant.io/) provided data support to the World Bank’s South Asia Transport team for a study on resilient transport investments.
 
 
 
@@ -35,7 +35,7 @@ In addition, the COVID-pandemic also affected how people used public transport d
 
 ## Solution
 
-Through the Development Data Partnership, the World Bank’s South Asia Transport team utilized data from companies including [Unacast] (https://www.unacast.com/) and [Quadrant] (https://www.quadrant.io/) to conduct a study for accessible and resilient transit planning.
+Through the Development Data Partnership, the World Bank’s South Asia Transport team utilized data from companies including [Unacast](https://www.unacast.com/) and [Quadrant](https://www.quadrant.io/) to conduct a study for accessible and resilient transit planning.
 
 In this study, for the purpose of public transit demand analysis, the researchers used Quadrant GPS data to create detailed origin-destination matrices at various levels, including wards and individual stops. This revealed the busiest routes and stops across different times of day. The study also highlighted areas where demand outpaced available services.
 

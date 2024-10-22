@@ -5,12 +5,12 @@ categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["World Bank"]
 tags = ["Jobs and Development"]
-Link = ["https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099050624121033690/p18001211dc88000f19cfe1e75dadacd3e4"]
+links = ["https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099050624121033690/p18001211dc88000f19cfe1e75dadacd3e4"]
 date = 2024-10-18T00:00:00Z
 
 +++
 
-Technological advancements like artificial intelligence (AI) have the potential to shape labor markets in Central America and the Dominican Republic (CADR). But taking advantage of this progress will require developing workforces with the skills that complement these new technologies. The World Bank’s Social Protection and Labor Global Practice of the Latin America and Caribbean region used [LinkedIn] (https://www.linkedin.com/) data to gain a more nuanced picture of the technology-related skills of CADR workers.
+Technological advancements like artificial intelligence (AI) have the potential to shape labor markets in Central America and the Dominican Republic (CADR). But taking advantage of this progress will require developing workforces with the skills that complement these new technologies. The World Bank’s Social Protection and Labor Global Practice of the Latin America and Caribbean region used [LinkedIn](https://www.linkedin.com/) data to gain a more nuanced picture of the technology-related skills of CADR workers.
 
 
 ## Challenge
@@ -46,7 +46,7 @@ Figure 1:  Penetration of Technology and Disruptive Technology Skills, 2022
 
 Technological progress is a key component of development, allowing for increased productivity, new products and services, and access to new markets. 
 
-The [LinkedIn] (https://www.linkedin.com/) data enabled the World Bank team to find evidence that a lack of technology and disruptive technology skills could hold CADR countries back from taking advantage of the benefits of technological advancements. 
+The [LinkedIn](https://www.linkedin.com/) data enabled the World Bank team to find evidence that a lack of technology and disruptive technology skills could hold CADR countries back from taking advantage of the benefits of technological advancements. 
 
 To strengthen pathways for skills development and deployment in the region, CADR countries can develop labor market insight tools to collect, analyze, and disseminate information about labor market demand, build education and training systems adaptable to this demand, and deploy intermediation programs that link workers to training and, ultimately, to jobs. 
 

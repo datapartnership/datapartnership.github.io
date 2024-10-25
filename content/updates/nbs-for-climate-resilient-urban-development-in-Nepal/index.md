@@ -44,7 +44,6 @@ A catalogue of 45 locally relevant NbS measures was generated and analyzed using
 
 </figure>
 
-
 ## Impact
 
 Identifying flood risks is crucial for helping policymakers and vulnerable communities mitigate natural hazards. In Itahari, [JBA’s Global Flood Maps](https://www.jbafloodmaps.com/) enabled the World Bank team to conduct a data-driven analysis that prioritized investments in NbS for the city. The impact of the NbS package is expected to be transformative. By reducing flood risks and improving environmental sustainability, the initiative will enhance the quality of life for residents, protect critical infrastructure, and promote a healthier urban ecosystem. 

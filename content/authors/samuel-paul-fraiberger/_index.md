@@ -1,0 +1,5 @@
+---
+name: Samuel Paul Fraiberger 
+---
+
+Samuel is a data scientist and program lead for DIME AI at the World Bank, where he focuses on cutting-edge research and analytical tools to scale development impact using AI and machine learning. He established the first-ever partnership between the World Bank and Google.org, through which DIME AI was selected for the inaugural cohort of grantees in the Google.org Accelerator: Generative AI program. His research has appeared in leading academic journals (Science, Science Advances, The Proceedings of the National Academy of Sciences, The Journal of International Economics) and conferences across disciplines (ACL, EMNLP, KDD, ICWSM, TEDx), as we as in the popular press (The Wall Street Journal, The Economist, The Washington Post, Axios). He is also a visiting researcher at New York University’s Center for Data Science

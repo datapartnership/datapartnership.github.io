@@ -1,0 +1,5 @@
+---
+name: Nancy Lozano Gracia
+---
+
+Nancy Lozano Gracia is the Lead Economist for Sustainable Development in Latin America and the Caribbean, with over 20 years of experience in economic policy and research. She is also the co-lead for the Global Solutions Group on Spatial and Territorial Development. Nancy joined the Bank in 2009 and has worked extensively on designing and delivering major operationally relevant analytical pieces across all regions. Some of her recent work includes analysis at the intersection of pollution and competitiveness in cities with a focus on Africa, analysis on urban inequality in Mexico and Colombia, and ongoing work to help countries reorient their productive capacity to become more environmentally friendly and inclusive.  She has worked extensively on designing and using diagnostic tools to improve the understanding of sustainable development challenges and help identify priorities for action. She holds a doctorate in applied economics from University of Illinois and masters in environmental and agricultural and resource economics from University of Maryland and Universidad de los Andes, Colombia.

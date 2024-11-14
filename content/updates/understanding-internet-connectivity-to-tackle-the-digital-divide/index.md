@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Ookla"]
 dev_partner = ["World Bank", "Organisation for Economic Co operation and Development", "International Monetary Fund", ]
 tags = ["Digital Development"]
-date = 2024-11-14T00:00:00Z
+date = 2024-11-13T00:00:00Z
 
 +++
 

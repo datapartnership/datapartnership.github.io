@@ -2,7 +2,7 @@
 title = "Assessing Flood Risks in Peru"
 authors = ["Lorena Cano", "Melissa Barandiaran", "Adriana Zambrano Barreto"]
 categories = ["Case Study"]
-partner = ["Jba"]
+partner = ["JBA"]
 dev_partner = ["Inter American Development Bank"]
 tags = ["Digital Development"]
 date = 2024-11-18T00:00:00Z

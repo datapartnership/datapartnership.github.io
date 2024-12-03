@@ -1,0 +1,7 @@
+---
+name: Antti Moisio
+---
+
+Mr. Antti Moisio is a Senior Economist at the OECD Centre for Entrepreneurship, SMEs, Regions and Cities. His work encompasses various topics related to decentralisation, multi-level governance, and regional development, including municipal and territorial reforms, subnational government finance, subnational government fiscal data, inter-municipal cooperation, inter-governmental grant systems, municipal mergers, and regionalisation. Antti Moisio has authored several thematic and country-level multi-governance reports for the OECD.  
+
+Before joining the OECD, he worked as a Senior Adviser in the Finnish Prime Minister’s Office, where his responsibilities focused primarily on better regulation and legislative impact assessments. He has also worked for several years as Research Director and Principal Economist at the VATT Institute for Economic Research in Helsinki. Antti’s research has resulted in numerous publications on topics such as local public finance, public service efficiency, municipal mergers, and political economy. In addition to his research, Antti has taught courses in applied econometrics and local public finance at several universities, including the University of Jyväskylä, Université de Rennes 1, and Université de Fribourg. Antti Moisio holds a PhD in Economics from the University of Jyväskylä, Finland. 

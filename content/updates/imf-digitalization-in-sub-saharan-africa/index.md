@@ -17,11 +17,16 @@ The COVID-19 pandemic has brought major disruption to economic activities and hu
 Recent research has shown that digitalization increases firms' productivity and household welfare in Sub-Saharan countries. During the pandemic, digital technologies enable government, businesses, and society to continue to function during a time of physical distancing. Digital access to online banking, social assistance programs, and job market information allows households to smooth their consumption during the pandemic. The critical role digital access plays in increasing household resiliency has become aware to the governments, and many African countries are seizing this opportunity to improve their digital infrastructure.
 With the purpose of informing policymakers and facilitating policies that promote digital connectivity and building household resiliency, this empirical study assesses whether households with mobile connectivity withstood COVID-19 shocks better regarding income, employment, food security, and education.
 
-![Digitalization in Sub-Saharan Africa](/digitalization_SSA_1.PNG)
-_Source: Mobile coverage maps (3G and 4G) are based on authors’ calculations using CoverageRight™ data of 2019 Q4 provided by Ookla®._
+<figure style="text-align: center;">
+    <img src="digitalization_SSA_1.PNG">
+    <figcaption> Source: Mobile coverage maps (3G and 4G) are based on authors’ calculations using CoverageRight™ data of 2019 Q4 provided by Ookla®.</figcaption>
+</figure>
 
-![Digitalization in Sub-Saharan Africa](/digitalization_SSA_2.PNG)
-_Source: Based on authors’ calculations using CoverageRight™ data of 2021 Q2 provided by Ookla-®._
+<figure style="text-align: center;">
+    <img src="digitalization_SSA_2.PNG">
+    <figcaption> Source: Based on authors’ calculations using CoverageRight™ data of 2021 Q2 provided by Ookla</figcaption>
+</figure>
+
 
 ## Impact
 

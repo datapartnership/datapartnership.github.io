@@ -1,18 +1,18 @@
 +++
 title = "Analyzing the Adoption of Artificial Intelligence in Capital Market Activities"
-authors = ["Mohamed Diaby ", "Xiang Li Lim" ]
+authors = ["Mohamed Diaby", "Xiang Li Lim"]
 categories = ["Case Study"]
 partner = ["LinkedIn"]
-dev_partner = ["Jobs and Development"]
-link = ["https://www.imf.org/-/media/Files/Publications/GFSR/2024/October/English/ch3.ashx"]
+dev_partner = ["International Monetary Fund"]
+tags = ["Jobs and Development", "AI"]
+links = ["https://www.imf.org/-/media/Files/Publications/GFSR/2024/October/English/ch3.ashx"]
 date = 2024-12-13T00:00:00Z
 
 +++
 
+The analytical chapter (Chapter 3) of the [October 2024 Global Financial Stability Report](https://www.imf.org/en/Publications/GFSR/Issues/2024/10/22/global-financial-stability-report-october-2024) aims to assess the potential impact of Artificial Intelligence (AI) on capital markets. Given that the use of AI in capital market activities is relatively nascent, the chapter draws from a number of alternative data sources, including data from job markets.
 
-The analytical chapter (Chapter 3) of the October 2024 Global Financial Stability Report aims to assess the potential impact of Artificial Intelligence (AI) on capital markets. Given that the use of AI in capital market activities is relatively nascent, the chapter draws from a number of alternative data sources, including data from job markets.
-
-The use of AI offers numerous benefits to the financial sector, but it can also introduce new forms of financial stability risks.  The International Monetary Fund’s Monetary and Capital Markets (MCM) Department used job market data including data from [LinkedIn] (https://www.linkedin.com/) to gather insight into the pace of AI adoption in capital markets activities.
+The use of AI offers numerous benefits to the financial sector, but it can also introduce new forms of financial stability risks.  The International Monetary Fund’s Monetary and Capital Markets (MCM) Department used job market data including data from [LinkedIn](https://www.linkedin.com/) to gather insight into the pace of AI adoption in capital markets activities.
 
 
 
@@ -36,27 +36,21 @@ The datasets obtained from LinkedIn and Indeed bolstered the broader analysis an
 
 Specifically, using the LinkedIn datasets made available through the Development Data Partnership, the report highlights two main insights on AI talent demand and supply:
 
-•	On talent supply: Although only a small share of workers claim to possess AI skills, the talent pool within the financial services industry appears to be growing. Notably, talent concentration in AEs consistently exceeds that of EMs, with AEs also experiencing a faster growth pace in recent years. Moreover, it was discovered that quantitative researchers and analyst profiles in the US financial industry frequently list AI skills—such as machine learning, natural language processing, and deep learning—among their top competencies.
+- **On talent supply: Although only a small share of workers claims to possess AI skills, the talent pool within the financial services industry appears to be growing. Notably, talent concentration in AEs consistently exceeds that of EMs, with AEs experiencing a faster growth pace in recent years. Moreover, it was discovered that quantitative researchers and analyst profiles in the US financial industry frequently list AI skills—such as machine learning, natural language processing, and deep learning—among their top competencies.**
 
 
-<figure align="centre">
+<figure style="text-align: center;">
     <img src="analyzing-the-adoption-of-artificial-intelligence-in-capital-market-activities_figure1.png" 
-    <figcaption>
-        <center>
-  </center>
-    </figcaption>
+    width="500">
 </figure>
 
 
-•	On talent demand: The share of job postings in the financial services industry requiring AI skills has outpaced the overall share of AI-related job postings in the broader US economy, indicating a more rapid adoption compared to other industries. front office roles in financial services, which have more direct implications for capital markets, do not outpace as much when compared to the broader financial sector.
+- **On talent demand: The share of job postings in the financial services industry requiring AI skills has outpaced the overall share of AI-related job postings in the broader US economy, indicating a more rapid adoption compared to other industries. front office roles in financial services, which have more direct implications for capital markets, do not outpace as much when compared to the broader financial sector.**
 
-
-<figure align="centre">
+<figure style="text-align: center;">
     <img src="analyzing-the-adoption-of-artificial-intelligence-in-capital-market-activities_figure2.png" 
-    <figcaption>
-        <center>
-  </center>
-    </figcaption>
+    width="500">
+ 
 </figure>
 
 Together with additional supporting insights beyond the labor market, these trends provide some early evidence of increasing adoption of AI in capital market activities. Both supply (job profiles) and demand (job postings) for AI skills have grown over time, but it should be noted that these measures cannot be compared directly, as demand is measured as a stock-variable, and demand as a flow-variable. The GFSR chapter incorporates these findings with other evidence and analyses to assess AI-related financial stability risks in capital markets, and provides policy recommendations.

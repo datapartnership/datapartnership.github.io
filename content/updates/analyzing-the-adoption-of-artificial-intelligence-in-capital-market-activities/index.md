@@ -36,7 +36,7 @@ The datasets obtained from LinkedIn and Indeed bolstered the broader analysis an
 
 Specifically, using the LinkedIn datasets made available through the Development Data Partnership, the report highlights two main insights on AI talent demand and supply:
 
-- **On talent supply: Although only a small share of workers claims to possess AI skills, the talent pool within the financial services industry appears to be growing. Notably, talent concentration in AEs consistently exceeds that of EMs, with AEs experiencing a faster growth pace in recent years. Moreover, it was discovered that quantitative researchers and analyst profiles in the US financial industry frequently list AI skills—such as machine learning, natural language processing, and deep learning—among their top competencies.**
+- **On talent supply:** Although only a small share of workers claims to possess AI skills, the talent pool within the financial services industry appears to be growing. Notably, talent concentration in AEs consistently exceeds that of EMs, with AEs experiencing a faster growth pace in recent years. Moreover, it was discovered that quantitative researchers and analyst profiles in the US financial industry frequently list AI skills—such as machine learning, natural language processing, and deep learning—among their top competencies.
 
 
 <figure style="text-align: center;">
@@ -45,7 +45,7 @@ Specifically, using the LinkedIn datasets made available through the Development
 </figure>
 
 
-- **On talent demand: The share of job postings in the financial services industry requiring AI skills has outpaced the overall share of AI-related job postings in the broader US economy, indicating a more rapid adoption compared to other industries. front office roles in financial services, which have more direct implications for capital markets, do not outpace as much when compared to the broader financial sector.**
+- **On talent demand:** The share of job postings in the financial services industry requiring AI skills has outpaced the overall share of AI-related job postings in the broader US economy, indicating a more rapid adoption compared to other industries. front office roles in financial services, which have more direct implications for capital markets, do not outpace as much when compared to the broader financial sector.
 
 <figure style="text-align: center;">
     <img src="analyzing-the-adoption-of-artificial-intelligence-in-capital-market-activities_figure2.png" 

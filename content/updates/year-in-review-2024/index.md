@@ -5,7 +5,7 @@ date = 2024-12-18T00:00:00Z
 
 +++
 
-This has proven to be a busy yet fulfilling year for the [Development Data Partnership](www.datapartnerhsip.org) (the Partnership).  As we bid farewell to 2024, we reflect on a year marked by impactful projects and fruitful partnerships. Join us as we look at this year's key highlights.
+This has proven to be a busy yet fulfilling year for the [Development Data Partnership](https://datapartnership.org/updates/) (the Partnership).  As we bid farewell to 2024, we reflect on a year marked by impactful projects and fruitful partnerships. Join us as we look at this year's key highlights.
 
 
 ## Fostering Collaborative Success 

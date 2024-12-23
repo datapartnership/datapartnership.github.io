@@ -10,7 +10,7 @@ This has proven to be a busy yet fulfilling year for the [Development Data Partn
 
 ## Fostering Collaborative Success 
 
-Collaboration is crucial to our work as we cannot achieve our goals alone. The Partnership has continued to collaborate with its network of data and development partners. This year, we have introduced a new agreement to facilitate data sharing between international organizations. We have also welcomed our new partners: [IDB Invest](www.idbinvest.org/en), [EarthGenome](earthgenome.org), [Costellar](www.constellr.com/), [QuantCube](www.quant-cube.com/), and [VesselBot](www.vesselbot.com/). 
+Collaboration is crucial to our work as we cannot achieve our goals alone. The Partnership has continued to collaborate with its network of data and development partners. This year, we have introduced a new agreement to facilitate data sharing between international organizations. We have also welcomed our new partners: [IDB Invest](www.idbinvest.org/en), [EarthGenome](earthgenome.org), [Constellr](www.constellr.com/), [QuantCube](www.quant-cube.com/), and [VesselBot](www.vesselbot.com/). 
 
 We are excited to have such great partnerships that reflect our dedication to unleashing the power of data sharing for the public good. Our current and new partners represent diverse sectors, and their contributions have extended our reach within the data community, strengthening our impact.
 

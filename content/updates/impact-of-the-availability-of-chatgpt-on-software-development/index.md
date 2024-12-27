@@ -6,7 +6,7 @@ partner = ["GitHub"]
 dev_partner = ["World Bank"]
 tags = ["Digital Development", "AI"]
 links = ["https://arxiv.org/abs/2406.11046", "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/"]
-date = 2024-12-31T00:00:00Z
+date = 2024-12-27T00:00:00Z
 
 +++
 

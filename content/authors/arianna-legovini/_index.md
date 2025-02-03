@@ -1,0 +1,5 @@
+---
+name: Arianna Legovini
+---
+
+Arianna Legovini is the Director of the Development Impact Evaluation (DIME) department at the World Bank. She created the DIME model to transform the way data and impact evaluation evidence is generated and channeled into policy action. Arianna has dedicated the last decade to develop a new institutional approach to closing the gap between operations and research to build knowledge on the mechanisms that explain policy success and to use experiments to improve the effectiveness of government policies. Previously, Arianna established the Africa Impact Evaluation Initiative for the Africa region of the World Bank. She also developed the Africa Results Monitoring System, the first World Bank system to monitor Bank results. Before joining the World Bank, Arianna was acting chief of the Poverty Unit at the Inter-American Development Bank, and coordinator of the Network of Inequality and Poverty of the Latin American and Caribbean Economic Association (LACEA). She conducted her PhD studies in economics at the University of Maryland and has several academic publications including journal articles and chapters in edited volumes.

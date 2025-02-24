@@ -1,10 +1,12 @@
 +++
 title = "Unleashing the Power of Data to Tackle Traffic Congestion and Promote Road Safety"
-author = ["Kwok Kin Lee"]
+authors = ["Kwok Kin Lee"]
 categories = ["Case Study"]
-partners = ["Mapbox","Mapillary", "Waze"]
+partner = ["Mapbox", "Mapillary", "Waze"]
 dev_partner = ["World Bank"]
 tag = ["Transport"]
+date = 2025-02-24T00:00:00Z
+links = ["https://datapartnership.org/updates/traffic-congestion-argentina/", "https://datapartnership.org/updates/detecting-urban-clues-for-road-safety/","https://datapartnership.org/updates/leveraging-social-media-data-to-map-road-traffic-crashes/"]
 
 
 +++
@@ -13,7 +15,7 @@ As the global population is constantly increasing, building modern and sustainab
 
 However, traffic congestion, a persistent global problem in many cities, poses a complicated challenge with significant repercussions for the achievement of the Sustainable Development Goals (SDGs). This issue affects not only the efficiency of urban transport systems but also the health, environment, and overall sustainability of cities.
 
-Another integral element of sustainable development is road safety. For the creation of a sustainable city, roads need to be safer for everyone to use so that we can prevent deaths and accidents from road accidents. The Sustainable Development Goal 3 seeks to “Ensure healthy lives and promote well-being for all at all ages”, which includes the aim of cutting the number of road crashes by half by 2030.
+Another integral element of sustainable development is road safety. For the creation of a sustainable city, roads need to be safer for everyone to use so that we can prevent deaths and accidents from road accidents. The [Sustainable Development Goal 3](https://sdgs.un.org/goals/goal3) seeks to “Ensure healthy lives and promote well-being for all at all ages”, which includes the aim of cutting the number of road crashes by half by 2030.
 
 Reliable and robust data analysis is thus essential for policymakers and international development organizations to study how to improve people’s daily lives and the sustainability of cities, such as easing traffic bottlenecks and improving road safety.
 
@@ -30,10 +32,12 @@ Through the Development Data Partnership, the World Bank leveraged data from tec
 
 An increase in daily traffic jams across all metropolitan areas was observed in the study. While traffic jams decreased during the COVID-19 pandemic in 2020, they have been steadily increasing since the end of 2021. This trend was consistent across cities, although with some variations in the intensity and spatial distribution of congestion. 
 
-figure align="centre">
-    <img src="unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety_figure1.png" 
-    <figcaption>
-        <center>
+<figure align="centre">
+    <img
+    src="unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety_figure1.png"
+
+<figcaption>
+<center>
 Figure 1: Number of daily traffic jams, Nov 2019 to May 2023. The study’s own calculation based on Waze for Cities data.
   </center>
     </figcaption>
@@ -57,7 +61,7 @@ Social media can also play an essential role in improving road safety. Through t
 
 As a result, the team produced publicly available data on the time and location of 30,000 crashes across Nairobi. Mapping crashes has enabled the identification of blackspots and high-risk corridors in the Kenyan capital. For example, the map below shows crashes concentrated in Nairobi’s Central Business District as well as along major roads, such as Thika Road.
 
-figure align="centre">
+<figure align="centre">
     <img src="unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety_figure2.png" 
     <figcaption>
         <center>
@@ -71,6 +75,3 @@ Figure 2: Number of crashes from 2020 through 2023 in Nairobi
 The above World Bank projects in Argentina, Colombia and Kenya were able to provide valuable insights with the support of our data partners. These insights could help city planners identify where the problems are and how big they are, and devise solutions.
 
 As data is key to making our roads safer and addressing traffic congestion, the Development Data Partnership continues to work with tech companies and provide data support for international development projects to make cities more sustainable.
-
-
-

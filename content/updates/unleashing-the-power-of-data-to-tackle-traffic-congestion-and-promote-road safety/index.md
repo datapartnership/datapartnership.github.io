@@ -32,14 +32,12 @@ Through the Development Data Partnership, the World Bank leveraged data from tec
 
 An increase in daily traffic jams across all metropolitan areas was observed in the study. While traffic jams decreased during the COVID-19 pandemic in 2020, they have been steadily increasing since the end of 2021. This trend was consistent across cities, although with some variations in the intensity and spatial distribution of congestion. 
 
-<figure align="centre">
-    <img
-    src="unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety_figure1.png"
-
-<figcaption>
-<center>
-Figure 1: Number of daily traffic jams, Nov 2019 to May 2023. The study’s own calculation based on Waze for Cities data.
-  </center>
+<figure align="center">
+    <img src="unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety_figure1.png" />
+    <figcaption>
+        <center>
+            <a href="https://datapartnership.org/updates/traffic-congestion-argentina/">Figure 1: Number of daily traffic jams, Nov 2019 to May 2023. The study’s own calculation based on Waze for Cities data.</a>
+        </center>
     </figcaption>
 </figure>
 
@@ -61,12 +59,12 @@ Social media can also play an essential role in improving road safety. Through t
 
 As a result, the team produced publicly available data on the time and location of 30,000 crashes across Nairobi. Mapping crashes has enabled the identification of blackspots and high-risk corridors in the Kenyan capital. For example, the map below shows crashes concentrated in Nairobi’s Central Business District as well as along major roads, such as Thika Road.
 
-<figure align="centre">
-    <img src="unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety_figure2.png" 
+<figure align="center">
+    <img src="unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety_figure2.png" />
     <figcaption>
         <center>
-Figure 2: Number of crashes from 2020 through 2023 in Nairobi
-  </center>
+            <a href="https://datapartnership.org/updates/leveraging-social-media-data-to-map-road-traffic-crashes/">Figure 2: Number of crashes from 2020 through 2023 in Nairobi</a>
+        </center>
     </figcaption>
 </figure>
 

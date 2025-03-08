@@ -1,12 +1,11 @@
 +++
 title = "Advancing Women’s Empowerment Through Data"
-author = ["Kwok Kin Lee"]
+authors = ["Kwok Kin Lee"]
 categories = ["Case Study"]
 partners = ["Meta", "Linkedin"]
 dev_partner = ["World Bank", "Inter American Development Bank"]
 tag = ["Gender"]
 date = 2025-03-07T00:00:00Z
-
 
 +++
 
@@ -14,7 +13,7 @@ Data plays a fundamental role in identifying the challenges women are facing and
 
 Read about the following Development Data Partnership-supported projects to understand how international organizations leveraged data from the private sector to identify challenges and opportunities for women’s empowerment.
 
-## [Empowering female entrepreneurs to thrive in male-dominated sectors](https://datapartnership.org/updates/empowering-female-entrepreneurs-to-cross-over-into-male-dominated-sectors/)
+<span style="font-size: 25px; font-weight: bold;">[Empowering female entrepreneurs to thrive in male-dominated sectors](https://datapartnership.org/updates/empowering-female-entrepreneurs-to-cross-over-into-male-dominated-sectors/)</span>
 
 [Women represent a larger proportion of entrepreneurs globally than ever before.](https://openknowledge.worldbank.org/server/api/core/bitstreams/7031b50b-f682-52f5-9a3a-24dc46c77942/content) Despite an increased number of women-led companies worldwide, women operate smaller businesses and concentrate in less profitable sectors than men.
 
@@ -35,7 +34,7 @@ Some of the recommendations from [the study](https://datapartnership.org/updates
     </figcaption>
 </figure>
 
-## [Revealing gender gaps in the green economy](https://datapartnership.org/updates/green-jobs-for-women-and-diverse-groups-help-promote-equality-and-climate-resilience/) 
+<span style="font-size: 25px; font-weight: bold;"> [Revealing gender gaps in the green economy](https://datapartnership.org/updates/green-jobs-for-women-and-diverse-groups-help-promote-equality-and-climate-resilience/) </span>
 
 Women play an essential role in facilitating the decarbonization process and developing climate change resilience strategies. However, gender and inclusion gaps exist in the distribution of current and projected green jobs.
 
@@ -55,4 +54,3 @@ This study recommends implementing effective policies to increase female represe
 </figure>
 
 In conclusion, the two projects discussed above showcase the importance of filling data gaps through collaboration between the private sector and international organizations to identify areas and industries where women can thrive. 
-

@@ -19,7 +19,7 @@ From climate change to overfishing, overhunting and pollution, our plant and ani
 African governments are increasingly turning to private nongovernmental organizations (NGOs) for assistance. These NGOs may manage parks differently than governments, such as by providing better training to rangers. However, there are concerns over their legitimacy. In addition, thorough assessments of private sector involvement in protected area management are limited.
 
 <figure align="center">
-    <img src="/can-private-management-of-african-protected-areas-improve-socioeconomic-and-wildlife-outcomes_thumbnail.png" alt="Thumbnail">
+    <img src="can-private-management-of-african-protected-areas-improve-socioeconomic-and-wildlife-outcomes_thumbnail.png">
 </figure>
 
 ## Solution

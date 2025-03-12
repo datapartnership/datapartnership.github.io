@@ -18,15 +18,9 @@ From climate change to overfishing, overhunting and pollution, our plant and ani
 
 African governments are increasingly turning to private nongovernmental organizations (NGOs) for assistance. These NGOs may manage parks differently than governments, such as by providing better training to rangers. However, there are concerns over their legitimacy. In addition, thorough assessments of private sector involvement in protected area management are limited.
 
-<figure align="centre">
-    <img src="can-private-management-of-african-protected-areas-improve-socioeconomic-and-wildlife-outcomes_thumbnail.png" 
-    <figcaption>
-        <center>
-  </center>
-    </figcaption>
+<figure align="center">
+    <img src="can-private-management-of-african-protected-areas-improve-socioeconomic-and-wildlife-outcomes_thumbnail.png" alt="Thumbnail">
 </figure>
-
-
 
 ## Solution
 
@@ -49,7 +43,7 @@ The study’s results on other dimensions suggest that private management augmen
 
 A multi-dimensional understanding of how the performance of private sector management compares to government management will lead to a better understanding that could improve the effectiveness of wildlife conservation in Africa. This study demonstrated how to employ geospatial data on economic well-being in addition to other factors through appropriate statistical methods.
 
-This [study's]("https://www.pnas.org/doi/10.1073/pnas.2401814121")findings reveal a complex interplay between conservation, economic development, and security under privately managed protected areas in the continent. The findings also underscore the need to strengthen the involvement of local communities in private protected area management, which may help realize the full potential benefits of protected areas for both wildlife and people.
+This [study's]("https://www.pnas.org/doi/10.1073/pnas.2401814121") findings reveal a complex interplay between conservation, economic development, and security under privately managed protected areas in the continent. The findings also underscore the need to strengthen the involvement of local communities in private protected area management, which may help realize the full potential benefits of protected areas for both wildlife and people.
 
 
 

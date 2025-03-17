@@ -19,12 +19,9 @@ The Amazon is a region abundant in ecological and cultural wealth, yet it faces 
 
 Boosting the bioeconomy, which involves economic activities safeguarding forests, can lead to sustainable livelihood improvements. However, this potential is hindered by significant infrastructure challenges: poor transportation networks, unreliable energy access, and limited digital connectivity. To realize the potential of its bioeconomy, we need to address these issues while protecting Amazon's unique ecosystems.
 
-
 <figure align="center">
-    <img src="how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-amazon_thumbnail.png">
+    <img src="how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-Amazon_thumbnail.png">
 </figure>
-
-
 
 ## Solution
 
@@ -35,7 +32,7 @@ By analyzing satellite images, Google's [Open Buildings Dataset](https://sites.r
 For instance, they discovered that 5% of the areas are high connectivity/urban areas with strong transport and digital connections. They are the cities that serve as hubs for services, infrastructure, and commerce, but they are surrounded by numerous isolated communities. By increasing investment in these cities, we can transform them into drivers of regional development, helping to connect rural areas and promote inclusive growth throughout the Amazon.
 
 <figure align="center">
-    <img src="how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-amazon_figure1.png">
+    <img src="how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-Amazon_figure1.png">
 </figure>
 
 In contrast, 9% of the areas have no connectivity/remote settlements. They lack transport or digital infrastructure, leading to severe isolation, although this has limited impact due to the low population. Without reliable access, the people living here face food shortages and economic challenges. Given the low population density, investments should prioritize affordable, scalable, and community-driven solutions to improve basic services and strengthen resilience.
@@ -51,7 +48,7 @@ The World Bank team also discovered that digital connectivity in the Amazon is s
 Also, in the most remote areas, 38% of the Amazon has low building density and low internet speed, showing severe connectivity issues for dispersed communities.  Additionally, 42% of the region lacks comprehensive data coverage, making it difficult to assess digital infrastructure needs.
 
 <figure align="center">
-    <img src="how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-amazon_figure2.png">
+    <img src="how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-Amazon_figure2.png">
 </figure>
 
 For this Amazon project, the team also utilized [Meta](https://dataforgood.facebook.com/) Movement Data and [Mapbox](https://www.mapbox.com/) Movement Data through the Development Data Partnership. The [Meta](https://dataforgood.facebook.com/) data included movement patterns and population density changes while the [Mapbox](https://www.mapbox.com/) data included measuring activity remotely that enabled mapping activities on transportation or river networks.

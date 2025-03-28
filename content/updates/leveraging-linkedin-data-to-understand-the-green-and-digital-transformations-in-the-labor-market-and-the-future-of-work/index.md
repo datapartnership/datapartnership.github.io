@@ -5,7 +5,8 @@ categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["Inter American Development Bank", "International Monetary Fund", "World Bank"]
 tags = ["Jobs and Development"]
-date = 2025-03-27T00:00:00Z
+date = 2025-03-28T00:00:00Z
+links = ["https://datapartnership.org/updates/digital-transformation-lac/","https://datapartnership.org/updates/digital-skills-gap-mena","https://datapartnership.org/updates/greener-labor-market","https://datapartnership.org/updates/analyzing-the-adoption-of-artificial-intelligence-in-capital-market-activities"]
 
 +++
 

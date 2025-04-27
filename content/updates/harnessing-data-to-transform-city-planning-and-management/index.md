@@ -41,13 +41,11 @@ By analyzing data from Waze for Cities spanning from 2019 to 2023, the team obse
 
 <figure>
   <img src="harnessing-data-to-transform-city-planning-and-management_figure1.png" alt="Number of daily traffic jams in Argentina, Nov 2019 to May 2023" style="max-width: 100%; height: auto;">
-    <center>
-  <figcaption>
+  <figcaption style="text-align: center;">
     <a href="https://datapartnership.org/updates/traffic-congestion-argentina/">
       Figure 1: Number of daily traffic jams, Nov 2019 to May 2023. The team’s own calculation based on Waze for Cities data.
     </a>
   </figcaption>
-</center>
 </figure>
 
 The insights gained from the analysis of traffic congestion using Waze for Cities data carry significant implications for urban mobility planning. The findings underscore the urgent need for enhanced public transport and cycling infrastructure to offer viable alternatives to car travel. By concentrating on alleviating congestion on primary access routes and improving job accessibility through sustainable transport modes, urban areas can enhance overall mobility and lessen car dependency. Learn more [here](https://datapartnership.org/updates/traffic-congestion-argentina/).
@@ -58,13 +56,11 @@ In the case study of Bogotá, Colombia, a machine-learning-based framework was i
 
 <figure>
   <img src="harnessing-data-to-transform-city-planning-and-management_figure2.png" alt="Hotspot analysis of major crashes reported by Waze users" style="max-width: 100%; height: auto;">
- <center>
-    <figcaption>    
+     <figcaption style="text-align: center;">  
     <a href="https://datapartnership.org/updates/detecting-urban-clues-for-road-safety/" target="_blank">
       Figure 2: Hotspot analysis of major crashes reported by Waze application users
     </a>      
   </figcaption>
-  </center>
 </figure>
 
 The findings demonstrated that the framework accurately identified low-risk road segments 70% of the time and high-risk segments 75% of the time, showcasing the potential of big data and machine learning to enhance road safety analysis. Read more about the project [here](https://datapartnership.org/updates/detecting-urban-clues-for-road-safety/).

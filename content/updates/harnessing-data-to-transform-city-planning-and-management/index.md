@@ -6,6 +6,7 @@ partner = ["Waze"]
 dev_partner = ["World Bank"]
 tags = ["Transport", "Urban Development"]
 date = "2025-04-27T00:00:00Z"
+links = ["https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/", "https://datapartnership.org/updates/traffic-congestion-argentina/", "https://datapartnership.org/updates/detecting-urban-clues-for-road-safety/"]
 
 +++
 
@@ -27,7 +28,7 @@ As part of [this study](https://datapartnership.org/updates/role-of-traffic-rela
 
 The data was collected from an aggregation of Waze app users' locations and speed, covering the period from 2019 to 2021. This dataset had information on speed and waiting times for each road segment in Tbilisi at 5-minute intervals.
 
-The team found that traffic jams were more concentrated near the city center. As the distance from the city center increased, the intensity of congestion decreased. [This study(https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/) also revealed a significant link between traffic congestion and air pollution. As the frequency of traffic jam days rose, there was a corresponding and consistent increase in air pollution levels.
+The team found that traffic jams were more concentrated near the city center. As the distance from the city center increased, the congestion intensity decreased. [This study](https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/) also revealed a significant link between traffic congestion and air pollution. As the frequency of traffic jam days rose, there was a corresponding and consistent increase in air pollution levels.
 
 To tackle air pollution in Tbilisi, the team recommended policies such as adopting carbon pricing to reduce the number of vehicles on roads and incentivizing public transport. Read more [here](https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/).
 
@@ -38,15 +39,14 @@ The World Bank’s Transport Global Practice in Latin America utilized data from
 By analyzing data from Waze for Cities spanning from 2019 to 2023, the team observed an increase in daily traffic jams across all four metropolitan areas. While traffic jams decreased during the COVID-19 pandemic in 2020, they have been steadily increasing since the end of 2021. This trend was consistent across cities, with some variations in the intensity and spatial distribution of congestion.
 
 
-<figure align="centre">
-    <img src="harnessing-data-to-transform-city-planning-and-management_figure1.png"
-    <figcaption>
-        <center>
-Figure 1: [Number of daily traffic jams, Nov 2019 to May 2023. The team’s own calculation based on Waze for Cities data.](https://datapartnership.org/updates/traffic-congestion-argentina/)
-  </center>
-    </figcaption>
+<figure style="text-align: center;">
+  <img src="harnessing-data-to-transform-city-planning-and-management_figure1.png" alt="Number of daily traffic jams in Argentina, Nov 2019 to May 2023" style="max-width: 100%; height: auto;">
+  <figcaption>
+    <a href="https://datapartnership.org/updates/traffic-congestion-argentina/">
+      Figure 1: Number of daily traffic jams, Nov 2019 to May 2023. The team’s own calculation based on Waze for Cities data.
+    </a>
+  </figcaption>
 </figure>
-
 
 The insights gained from the analysis of traffic congestion using Waze for Cities data carry significant implications for urban mobility planning. The findings underscore the urgent need for enhanced public transport and cycling infrastructure to offer viable alternatives to car travel. By concentrating on alleviating congestion on primary access routes and improving job accessibility through sustainable transport modes, urban areas can enhance overall mobility and lessen car dependency. Learn more [here](https://datapartnership.org/updates/traffic-congestion-argentina/).
 
@@ -64,11 +64,6 @@ Figure 2: [Hotspot analysis of major crashes reported by Waze application users]
     </figcaption>
 </figure>
 
-
 The findings demonstrated that the framework accurately identified low-risk road segments 70% of the time and high-risk segments 75% of the time, showcasing the potential of big data and machine learning to enhance road safety analysis. Read more about the project [here](https://datapartnership.org/updates/detecting-urban-clues-for-road-safety/).
 
 To conclude, these three studies illustrate how data plays an essential role in alleviating traffic congestion, its associated air pollution, and bolstering road safety. The support of [Waze for Cities](https://www.waze.com/wazeforcities/) is crucial as it equips researchers, city planners, and urban developers with insightful data analytics. This support informs strategic city planning and management, enabling a more effective allocation of resources and infrastructure investments for sustainable development.
-
-
-
-

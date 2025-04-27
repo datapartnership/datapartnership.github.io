@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Waze"]
 dev_partner = ["World Bank"]
 tags = ["Transport", "Urban Development"]
-
+date = ["2025-04-27T00:00:00Z"]
 
 +++
 

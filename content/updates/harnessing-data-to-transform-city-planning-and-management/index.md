@@ -5,13 +5,13 @@ categories = ["Case Study"]
 partner = ["Waze"]
 dev_partner = ["World Bank"]
 tags = ["Transport", "Urban Development"]
-date = ["2025-04-27T00:00:00Z"]
+date = "2025-04-27T00:00:00Z"
 
 +++
 
-With the ongoing growth of the global population, cities are increasingly emerging as hubs of economic activity and innovation. However, if urbanization is not well-planned, it can result in a wide range of problems such as traffic jams.
+With the ongoing growth of the global population, cities are increasingly emerging as hubs of economic activity and innovation. However, if urbanization is not well-planned, it can result in a wide range of problems, such as traffic jams.
 
-Traffic congestion on road networks adversely affects sustainability and the economy in many cities across the world in different ways including worsening air pollution, hindering efficient transportation, and increasing operational costs and reducing productivity for businesses.
+Traffic congestion on road networks adversely affects sustainability and the economy in many cities across the world in different ways, including worsening air pollution, hindering efficient transportation, increasing operational costs, and reducing productivity for businesses.
 
 Effective traffic management enables road users to steer clear of congested areas, thereby reducing both pollutant concentration and time wasted in traffic. Through the Development Data Partnership, [Waze for Cities](https://www.waze.com/wazeforcities/) provides valuable data sets for international organizations, which can be utilized to develop smart and sustainable transportation solutions in urban environments.
 
@@ -27,7 +27,7 @@ As part of [this study](https://datapartnership.org/updates/role-of-traffic-rela
 
 The data was collected from an aggregation of Waze app users' locations and speed, covering the period from 2019 to 2021. This dataset had information on speed and waiting times for each road segment in Tbilisi at 5-minute intervals.
 
-The team found that traffic jams were more concentrated near the city center. As the distance from the city center increased, the intensity of congestion decreased. [This study](https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/) also revealed a significant link between traffic congestion and air pollution. As the frequency of traffic jam days rose, there was a corresponding and consistent increase in air pollution levels.
+The team found that traffic jams were more concentrated near the city center. As the distance from the city center increased, the intensity of congestion decreased. [This study(https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/) also revealed a significant link between traffic congestion and air pollution. As the frequency of traffic jam days rose, there was a corresponding and consistent increase in air pollution levels.
 
 To tackle air pollution in Tbilisi, the team recommended policies such as adopting carbon pricing to reduce the number of vehicles on roads and incentivizing public transport. Read more [here](https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/).
 

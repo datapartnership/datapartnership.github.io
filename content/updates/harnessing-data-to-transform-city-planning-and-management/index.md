@@ -2,8 +2,8 @@
 title = "Harnessing Data to Transform City Planning and Management"
 authors = ["Kwok Kin Lee"]
 categories = ["Case Study"]
-partner = ["Waze"]
-dev_partner = ["World Bank"]
+partners = ["Waze"]
+dev_partners = ["World Bank"]
 tags = ["Transport", "Urban Development"]
 date = "2025-04-27T00:00:00Z"
 links = ["https://datapartnership.org/updates/role-of-traffic-related-emissions-on-air-pollution-in-tbilisi/", "https://datapartnership.org/updates/traffic-congestion-argentina/", "https://datapartnership.org/updates/detecting-urban-clues-for-road-safety/"]

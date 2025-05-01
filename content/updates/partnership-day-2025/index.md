@@ -17,7 +17,7 @@ This day will focus on connecting with tech companies and international organiza
 
 </p>
 
-![](DDP_2025.png)
+![](DDP-2025.png)
 
 <p style="text-align:center">
 <button type="button" class="btn btn-outline-info"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1URDM4Mkk5SFU0NFlRSzdERDJLSVFXTUVWTy4u"> Register Here 

@@ -1,0 +1,4 @@
+---
+name: Michael Anyala
+---
+Dr. Michael Anyala serves as the Senior Transport Specialist (Road Asset Management) within the Emerging Areas Team at the Transport Sector Office of the Asian Development Bank’s Sectors Group. With a wealth of international experience in the transport sector, Dr. Anyala collaborates with development organizations, government entities, private sector firms, and research institutions. His ADB efforts are particularly concentrated on advancing transport’s emerging areas, such as climate resilience, infrastructure asset management, eco-friendly road solutions, and road safety. 

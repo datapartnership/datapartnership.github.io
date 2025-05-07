@@ -1,0 +1,4 @@
+---
+name: Travis Waller
+---
+Travis Waller is Managing Director of Mobility Thinking Pty Ltd which engages with the Asian Development Bank on AI-driven rapid estimation of regional and national traffic network models.  He is also Lighthouse Professor and Chair of Transport Modelling and Simulation at TU Dresden, Germany as well as an Honorary Professor at the Australian National University and an Honorary Professor at UNSW, Sydney.  His research focuses on the automation of transport modelling via machine learning, complex network analysis such as loss estimation and criticality, as well as the quantification of social considerations including equity and environmental justice. 

@@ -27,8 +27,11 @@ This day will focus on connecting with tech companies and international organiza
 
 ![](DDP-2025-05-23-2.png)
 
-<p style="text-align:center">
-<button type="button" class="btn btn-outline-info"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1URDM4Mkk5SFU0NFlRSzdERDJLSVFXTUVWTy4u"> Register Here 
-</button>
+<div style="text-align:center; font-weight:bold;">
+  <button type="button" class="btn btn-outline-info" style="margin: 10px;">
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1URDM4Mkk5SFU0NFlRSzdERDJLSVFXTUVWTy4u" style="text-decoration: none; color: inherit; font-weight: bold;">
+      Register Here
+    </a>
+  </button>
 
-</p>
+</div>

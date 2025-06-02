@@ -25,7 +25,7 @@ This day will focus on connecting with tech companies and international organiza
 </div>
 
 
-![](DDP-2025-05-23-2.png)
+![](DDP_2025_June.png)
 
 <div style="text-align:center; font-weight:bold;">
   <button type="button" class="btn btn-outline-info" style="margin: 10px;">

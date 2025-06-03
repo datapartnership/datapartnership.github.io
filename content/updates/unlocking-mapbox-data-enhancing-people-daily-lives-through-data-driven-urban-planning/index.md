@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Mapbox"]
 dev_partner = ["World Bank"]
 tags = ["Urban Development", "Transport"]
-date = 2025-05-30T00:00:00Z
+date = 2025-06-01T00:00:00Z
 
 +++
 
@@ -52,9 +52,3 @@ Photo: World Bank
 The successful application of Mapbox data in various World Bank projects across Peru, Indonesia, and the Philippines underscores the importance of robust data partnerships in addressing development challenges. Collaborative efforts between international organizations and private sector entities can significantly impact the quality of life for individuals in low-income countries.
 
 The Development Data Partnership will continue to facilitate collaborations, ensuring that data-driven solutions are leveraged for the public good. By harnessing the power of data, we can work toward building more sustainable urban environments that enhance the daily lives of all citizens.
-
-
-
-
-
-

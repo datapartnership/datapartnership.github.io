@@ -15,16 +15,20 @@ Data-driven urban planning plays a crucial role in enabling cities to prioritize
 
 Since March 2020, [Mapbox](https://www.mapbox.com/), a global location platform, through the Development Data Partnership, has been providing movement data and traffic data to international organizations, such as the World Bank, the International Monetary Fund, the Inter-American Development Bank, and the Organisation for Economic Co-operation and Development. This data captures anonymized aggregated activity and daily live traffic data, giving insights into where people are moving the most, and how. 
 
-<figure align="center">
-  <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure1.png" width="60%">
-
+<figure style="text-align: center;">
+  <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure1.png" width="60%" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 1.</strong> Mapbox typical speeds in Padang, Indonesia on Thursday, 5:00 p.m. to 6:00 p.m. <br>
-    <em>Source: </em> Original figure from <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank"><em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning </em></a>  based on data by <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
+    <em>Source:</em> Original figure from 
+    <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank">
+      <em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning</em>
+    </a> 
+    based on data by 
+    <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
   </figcaption>
 </figure>
 
-<p style="font-size: 16px; font-weight: bold;">
+<p style="font-size: 18px; font-weight: bold;">
   Improving Transportation Networks: The Case of Lima
 </p>
 
@@ -32,7 +36,7 @@ For instance, [Mapbox supported the World Bank’s Transport Global Practice to 
 
 This project helped the Peruvian government and Lima’s transportation agencies to improve traffic flow, enhance road safety, lower carbon emissions, and promote a shift toward walking, cycling, and public transport.
 
-<p style="font-size: 16px; font-weight: bold;">
+<p style="font-size: 18px; font-weight: bold;">
   Enhancing Health Facility Accessibility
 </p>
 
@@ -44,13 +48,13 @@ In [this project](https://datapartnership.org/updates/health-planning-in-the-phi
 
 This project was well received by local government staff in the Philippines and helped frame discussions about optimal ways to register citizens with healthcare providers.
 
-<figure align="centre">
-    <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure2.png" width="60%">
-    <figcaption>
-        <center>
-Photo: World Bank
-    </figcaption>
+<figure align="center">
+  <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure2.png" width="60%">
+  <figcaption>
+    Photo: World Bank
+  </figcaption>
 </figure>
+
 
 The successful application of Mapbox data in various World Bank projects across Peru, Indonesia, and the Philippines underscores the importance of robust data partnerships in addressing development challenges. Collaborative efforts between international organizations and private sector entities can significantly impact the quality of life for individuals in low-income countries.
 

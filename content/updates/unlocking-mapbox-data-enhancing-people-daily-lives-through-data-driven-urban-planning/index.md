@@ -20,11 +20,11 @@ Since March 2020, [Mapbox](https://www.mapbox.com/), a global location platform,
 
   <figcaption>
     <strong>Figure 1.</strong> Mapbox typical speeds in Padang, Indonesia on Thursday, 5:00 p.m. to 6:00 p.m. <br>
-    <em>Source: </em>Original figure from <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank"><em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning </em></a> based on data by <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
+    <em>Source: </em> Original figure from <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank"><em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning </em></a>  based on data by <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
   </figcaption>
 </figure>
 
-<p style="font-size: 24px; font-weight: bold;">
+<p style="font-size: 16px; font-weight: bold;">
   Improving Transportation Networks: The Case of Lima
 </p>
 
@@ -32,7 +32,7 @@ For instance, [Mapbox supported the World Bank’s Transport Global Practice to 
 
 This project helped the Peruvian government and Lima’s transportation agencies to improve traffic flow, enhance road safety, lower carbon emissions, and promote a shift toward walking, cycling, and public transport.
 
-<p style="font-size: 24px; font-weight: bold;">
+<p style="font-size: 16px; font-weight: bold;">
   Enhancing Health Facility Accessibility
 </p>
 
@@ -45,7 +45,7 @@ In [this project](https://datapartnership.org/updates/health-planning-in-the-phi
 This project was well received by local government staff in the Philippines and helped frame discussions about optimal ways to register citizens with healthcare providers.
 
 <figure align="centre">
-    <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure2.png"
+    <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure2.png" width="60%">
     <figcaption>
         <center>
 Photo: World Bank

@@ -2,7 +2,7 @@
 <meta charset=utf-8>
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1">
-<title>The Effects of City Growth on Traffic and Urban Mobility</title>
+<title>Unlocking Mapbox Data: Enhancing People’s Daily Lives through Data-Driven Urban Planning</title>
 <meta name=description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta name=google-site-verification content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8">
 <meta name=keywords content="datapartnership.com,international consortium,data consortium,data international development,data international public good,data public good,data global social impact,data social good,data partnership,public private data partnership">
@@ -14,13 +14,13 @@
 <link rel="shortcut icon" href=/favicon.ico type=image/x-icon>
 <link rel=icon href=/favicon.ico type=image/x-icon>
 <meta property="og:type" content="website">
-<meta property="og:title" content="The Effects of City Growth on Traffic and Urban Mobility">
+<meta property="og:title" content="Unlocking Mapbox Data: Enhancing People’s Daily Lives through Data-Driven Urban Planning">
 <meta property="og:description" content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta property="og:image" content="https://datapartnership.org/images/card.png">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:site content="@DevDataPship">
 <meta name=twitter:site content="@DevDataPship">
-<meta name=twitter:title content="The Effects of City Growth on Traffic and Urban Mobility">
+<meta name=twitter:title content="Unlocking Mapbox Data: Enhancing People’s Daily Lives through Data-Driven Urban Planning">
 <meta name=twitter:description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
 <meta name=twitter:image content="https://datapartnership.org/images/card.png">
 <style id=antiClickjack>body{display:none!important}</style>
@@ -104,7 +104,7 @@
 <a class=text-light href=/updates/ aria-current=page>Updates</a>
 </li>
 <li class=breadcrumb-item>
-<a class=text-light href=/updates/city-growth-on-traffic-and-urban-mobility/ aria-current=page>The Effects of City Growth on Traffic and Urban Mobility</a>
+<a class=text-light href=/updates/unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning/ aria-current=page>Unlocking Mapbox Data: Enhancing People’s Daily Lives through Data-Driven Urban Planning</a>
 </li>
 </nav>
 </div>
@@ -116,37 +116,49 @@
 <div class="container mt-5 mb-5">
 <div class=row>
 <div class="col-md-8 col-xs-12 single-content blog-content">
-<h1>The Effects of City Growth on Traffic and Urban Mobility</h1>
-<time datetime=" 2023-01-19T00:00:00Z">
-January 19, 2023
+<h1>Unlocking Mapbox Data: Enhancing People’s Daily Lives through Data-Driven Urban Planning</h1>
+<time datetime=" 2025-06-01T00:00:00Z">
+June 01, 2025
 </time>
 <a>by</a>
-<a class=authors href=/authors/cal-poly/>Cal Poly Digital Transformation Hub</a>
-<a class=authors href=/authors/gabriel-vicente/>, Gabriel Stefanini Vicente</a>
+<a class=authors href=/authors/kwok-kin-lee/>Kwok Kin Lee</a>
 <br>
-<span class="badge badge-info">Waze</span>
-<span class="badge badge-primary">Disaster Risk Management</span>
+<span class="badge badge-info">Mapbox</span>
+<span class="badge badge-primary">Urban Development</span>
 <span class="badge badge-primary">Transport</span>
 <hr>
-<p>The Romanian city of Cluj-Napoca has been deeply affected by urban sprawl, which has strained the city’s traffic system and caused increased congestion on roadways. The <a href=https://dxhub.calpoly.edu/>Cal Poly Digital Tranformation Hub</a> (DxHub) powered by <a href=https://aws.amazon.com/>Amazon Web Services</a> (AWS) collaborated with Cal Poly students and faculty from the Master of Science Quantitative Economics (MSQE) program and <a href=https://www.worldbank.org/en/home>World Bank</a> members from the Geospatial Operations Support Team (GOST), and Urban, Disaster Risk Management, Resilience and Land (SCAUR), Europe and Central Asia Region team to develop a better understanding of the causes of traffic congestion throughout Cluj-Napoca. The World Bank Data Lab’s University Fellow Program and the <a href=https://datapartnership.org>Development Data Partnership</a> provided the teams with access to Waze for Cities data, which enabled a novel approach to this challenge. Utilizing data from Waze for Cities, students created models which represented both temporal and spatial features of various regions in the city. These findings can be used to support policy officials in developing key infrastructure to reduce traffic congestion and inform future urban planning decisions.</p>
-<h2 id=challenge>Challenge</h2>
-<p>Urbanization has greatly impacted Romania’s many growing cities, with Cluj-Napoca no exception. As the fourth most populous city in the country, Cluj-Napoca has experienced severe congestion issues due to poor infrastructure and urban sprawl in the outskirts of the city. Cluj- Napoca residents often experience severe bottlenecks when trying to move from the suburbs to the city center and drive on old roads not designed for the high density of cars in recent decades. While there is a recognition that changes need to be made to the city’s current regional planning, there is limited research examining the specific causes of traffic throughout the city.</p>
-<p>For this challenge, students utilized Waze traffic data specific to the city of Cluj-Napoca. Waze is a free community-driven GPS navigation app that calculates road congestion by comparing current road conditions with historical road data. The data used in this study were provided through the Waze for Cities program, which included user-reported traffic alerts throughout Cluj-Napoca from 2019 through 2022. Students used the data provided as well as data scraped from various websites to create a predictive model of traffic alerts depending on a variety of covariates, such as weather, proximity to schools/hospitals, COVID-19 lockdown stringency, holidays, and more.</p>
-<h2 id=solution>Solution</h2>
-<p>This challenge was led by a group of Cal Poly MSQE students under the supervision of Dr. Carlos Flores of the MSQE program and Dr. Kurt Colvin of the Cal Poly DxHub. The students also worked closely with members of the Geospatial Operations Support Team (GOST) who provided their professional expertise and guidance throughout the collaboration. Students utilized an Amazon S3 bucket, which enabled them to store large amounts of Waze data and run various analytic models from the cloud. The students used the programming language, Python, to clean and aggregate the data, which took considerable time due to the volume of new and exploratory Waze data.</p>
-<p>Upon completing this work, the students utilized H3, a hexagonal hierarchical spatial index that enables the analysis of geographic information. Students segmented the city into seven “parent” hexagons which contained >2000 smaller “child” hexagons and utilized both regression analysis methods and machine learning techniques (lasso and random forest models) to determine feature importance. The model utilized temporal features, which included variables such as day of the week, month, daily precipitation, daily COVID-19 Stringency Index, major Romanian holidays, and sporting events. There were also spatial features, which were the number of schools, hospitals, and bus stops in a smaller “child” hexagon.</p>
-<h2 id=impact>Impact</h2>
-<p>While there are some unique data constraints, such as the impact of COVID-19 on available data, students were able to utilize the data available to them to create robust models that displayed traffic predictors across the city of Cluj-Napoca. For instance, students determined that spatial features were greater indicators of traffic congestion near city centers whereas temporal features had a larger impact in areas closer to city outskirts. While more research and data collection are necessary, this is an exciting and critical first step in developing a greater understanding of traffic patterns in Cluj-Napoca. Hopefully future research will further develop and revise these models so they are useful in examining traffic congestion and informing policy in other cities and regions around the world.</p>
-<br>
-<p><em>Originally published on the <a href=https://dxhub.calpoly.edu/>Cal Poly Digital Tranformation Hub&rsquo;s</a> blog.</em></p>
-<br>
-<h3>Read more</h3>
-<span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentcolor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 104.243 4.243l1.828-1.829A3 3 0 008.586 5.5L8 6.086a1.002 1.002.0 00-.154.199 2 2 0 01.861 3.337L6.88 11.45A2 2 0 114.05 8.62l.793-.792a4.018 4.018.0 01-.128-1.287z"/><path d="M6.586 4.672A3 3 0 007.414 9.5l.775-.776a2 2 0 01-.896-3.346L9.12 3.55a2 2 0 112.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372A3 3 0 108.414 2.844L6.586 4.672z"/></svg>
-<a class=read-more href=https://dxhub.calpoly.edu/challenges/city-growth-on-traffic-and-urban-mobility>https://dxhub.calpoly.edu/challenges/city-growth-on-traffic-and-urban-mobility</a>
-<br>
-<span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentcolor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 104.243 4.243l1.828-1.829A3 3 0 008.586 5.5L8 6.086a1.002 1.002.0 00-.154.199 2 2 0 01.861 3.337L6.88 11.45A2 2 0 114.05 8.62l.793-.792a4.018 4.018.0 01-.128-1.287z"/><path d="M6.586 4.672A3 3 0 007.414 9.5l.775-.776a2 2 0 01-.896-3.346L9.12 3.55a2 2 0 112.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372A3 3 0 108.414 2.844L6.586 4.672z"/></svg>
-<a class=read-more href=https://github.com/datapartnership/effects-of-city-growth-patterns-on-traffic-and-urban-mobility>https://github.com/datapartnership/effects-of-city-growth-patterns-on-traffic-and-urban-mobility</a>
-<br>
+<p>Cities around the globe confront significant challenges in providing infrastructure, essential services, and access to public transportation. In response, many urban areas are striving to enhance their infrastructure to improve the daily lives of their citizens. This endeavor ranges from developing more efficient transport networks to ensuring health facilities are more accessible to the populations they serve.</p>
+<p>Data-driven urban planning plays a crucial role in enabling cities to prioritize investments to create sustainable environments for their residents. However, one of the most persistent challenges is the scarcity of up-to-date and high-frequency data in low-income countries. To address this issue, the Development Data Partnership facilitates collaboration between international organizations and technology companies to analyze and tackle urban challenges in these regions.</p>
+<p>Since March 2020, <a href=https://www.mapbox.com/>Mapbox</a>, a global location platform, through the Development Data Partnership, has been providing movement data and traffic data to international organizations, such as the World Bank, the International Monetary Fund, the Inter-American Development Bank, and the Organisation for Economic Co-operation and Development. This data captures anonymized aggregated activity and daily live traffic data, giving insights into where people are moving the most, and how.</p>
+<figure style=text-align:center>
+<img src=unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure1.png width=60% style="display:block;margin:0 auto">
+<figcaption style=text-align:center;margin-top:8px>
+<strong>Figure 1.</strong> Mapbox typical speeds in Padang, Indonesia on Thursday, 5:00 p.m. to 6:00 p.m.<br>
+Source: Original figure from
+<a href=https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf target=_blank> Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning</a> <br>
+based on data by <a href=https://www.mapbox.com/about/maps target=_blank> ©Mapbox</a>.
+</figcaption>
+</figure>
+<p style=font-size:18px;font-weight:700>
+Improving Transportation Networks: The Case of Lima
+</p>
+<p>For instance, <a href=https://datapartnership.org/updates/mobility-data-lima/>Mapbox supported the World Bank’s Transport Global Practice to inform interventions to improve the transport network in Lima</a>, where less than 1 in 10 residents report feeling satisfied with public transport quality. In this project, the World Bank team was able to identify the number of trips between different areas of the city, average distances traveled, travel times, average speeds, and congestion hotspots, which are all helpful in a context where no recent traditional mobility survey data is available.</p>
+<p>This project helped the Peruvian government and Lima’s transportation agencies to improve traffic flow, enhance road safety, lower carbon emissions, and promote a shift toward walking, cycling, and public transport.</p>
+<p style=font-size:18px;font-weight:700>
+Enhancing Health Facility Accessibility
+</p>
+<p>In addition to transportation, analyzing and enhancing the accessibility of health facilities is paramount for improving people’s lives. <a href=https://datapartnership.org/updates/planning-for-equitable-access-to-health-infrastructure/>With Mapbox’s data support, the World Bank tested hundreds of origin-destination pairs in Indonesia and the Philippines to find the closest hospital or clinic to each origin and calculate the associated travel time</a>. This enabled the team to examine how hospitals and clinics are practically accessed and how governments, in the short term, can efficiently allocate resources by setting up mobile health clinics that expand health accessibility to vulnerable populations in the two countries.</p>
+<p>Another World Bank <a href=https://datapartnership.org/updates/health-planning-in-the-philippines/>project</a> in the Philippines also received data support from Mapbox. This project leveraged <a href=https://www.mapbox.com/matrix-api>the Mapbox Matrix API</a> to calculate people’s access to health services in this Southeast Asian country where the delivery of health services is highly fragmented across different levels of administration. The team’s work was presented to staff from the health ministry in the Philippines to identify optimal ways to register citizens with health care providers.</p>
+<p>In <a href=https://datapartnership.org/updates/health-planning-in-the-philippines/>this project</a>, researchers used <a href=https://www.mapbox.com/matrix-api>the Mapbox Matrix API</a> to record the time it takes to travel from every 1km grid cell in the region to the nearest health clinic or hospital. The API provided an efficient way to query travel time estimates without having to compile and refine road networks and create naive assumptions for travel speed.</p>
+<p>This project was well received by local government staff in the Philippines and helped frame discussions about optimal ways to register citizens with healthcare providers.</p>
+<figure style=text-align:center>
+<img src=unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure2.png width=60% style="display:block;margin:0 auto">
+<figcaption style=text-align:center>
+Photo: World Bank
+</figcaption>
+</figure>
+<p>The successful application of Mapbox data in various World Bank projects across Peru, Indonesia, and the Philippines underscores the importance of robust data partnerships in addressing development challenges. Collaborative efforts between international organizations and private sector entities can significantly impact the quality of life for individuals in low-income countries.</p>
+<p>The Development Data Partnership will continue to facilitate collaborations, ensuring that data-driven solutions are leveraged for the public good. By harnessing the power of data, we can work toward building more sustainable urban environments that enhance the daily lives of all citizens.</p>
 </span>
 </div>
 <div class="col-md-3 offset-md-1 col-xs-12"><div class="bg-sidebar text-light p-3">

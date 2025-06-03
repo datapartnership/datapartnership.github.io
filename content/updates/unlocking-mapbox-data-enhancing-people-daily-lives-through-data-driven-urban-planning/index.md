@@ -16,17 +16,21 @@ Data-driven urban planning plays a crucial role in enabling cities to prioritize
 Since March 2020, [Mapbox](https://www.mapbox.com/), a global location platform, through the Development Data Partnership, has been providing movement data and traffic data to international organizations, such as the World Bank, the International Monetary Fund, the Inter-American Development Bank, and the Organisation for Economic Co-operation and Development. This data captures anonymized aggregated activity and daily live traffic data, giving insights into where people are moving the most, and how. 
 
 <figure style="text-align: center;">
-  <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure1.png" width="60%" style="display: block; margin: 0 auto;">
-  <figcaption>
-    <strong>Figure 1.</strong> Mapbox typical speeds in Padang, Indonesia on Thursday, 5:00 p.m. to 6:00 p.m. <br>
-    <em>Source:</em> Original figure from 
-    <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank">
-      <em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning</em>
-    </a> 
-    based on data by 
-    <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
-  </figcaption>
-</figure>
+    <img 
+      src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure1.png" 
+      width="60%" 
+      style="display: block; margin: 0 auto;"
+    >
+    <figcaption style="text-align: center; margin-top: 8px;">
+      <strong>Figure 1.</strong> Mapbox typical speeds in Padang, Indonesia on Thursday, 5:00 p.m. to 6:00 p.m.<br>
+      <em>Source:</em> Original figure from 
+      <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank">
+        <em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning</em>
+      </a> 
+      based on data by 
+      <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
+    </figcaption>
+  </figure>
 
 <p style="font-size: 18px; font-weight: bold;">
   Improving Transportation Networks: The Case of Lima
@@ -48,9 +52,9 @@ In [this project](https://datapartnership.org/updates/health-planning-in-the-phi
 
 This project was well received by local government staff in the Philippines and helped frame discussions about optimal ways to register citizens with healthcare providers.
 
-<figure align="center">
-  <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure2.png" width="60%">
-  <figcaption>
+<figure style="text-align: center;">
+  <img src="unlocking-mapbox-data-enhancing-people-daily-lives-through-data-driven-urban-planning_figure2.png" width="60%" style="display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;">
     Photo: World Bank
   </figcaption>
 </figure>

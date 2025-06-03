@@ -20,17 +20,21 @@ Since March 2020, [Mapbox](https://www.mapbox.com/), a global location platform,
 
   <figcaption>
     <strong>Figure 1.</strong> Mapbox typical speeds in Padang, Indonesia on Thursday, 5:00 p.m. to 6:00 p.m. <br>
-    <em>Source:</em> Original figure from <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank"><em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning</em></a> based on data by <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
+    <em>Source: </em>Original figure from <a href="https://documents1.worldbank.org/curated/en/099200002152227482/pdf/P170812026cd2b0550acec0ef8165301833.pdf" target="_blank"><em>Detecting Urban Clues for Road Safety: Leveraging Big Data and Machine Learning </em></a> based on data by <a href="https://www.mapbox.com/about/maps" target="_blank">©Mapbox</a>.
   </figcaption>
 </figure>
 
-**Improving Transportation Networks: The Case of Lima**
+<p style="font-size: 24px; font-weight: bold;">
+  Improving Transportation Networks: The Case of Lima
+</p>
 
 For instance, [Mapbox supported the World Bank’s Transport Global Practice to inform interventions to improve the transport network in Lima](https://datapartnership.org/updates/mobility-data-lima/), where less than 1 in 10 residents report feeling satisfied with public transport quality. In this project, the World Bank team was able to identify the number of trips between different areas of the city, average distances traveled, travel times, average speeds, and congestion hotspots, which are all helpful in a context where no recent traditional mobility survey data is available. 
 
 This project helped the Peruvian government and Lima’s transportation agencies to improve traffic flow, enhance road safety, lower carbon emissions, and promote a shift toward walking, cycling, and public transport.
 
-**Enhancing Health Facility Accessibility**
+<p style="font-size: 24px; font-weight: bold;">
+  Enhancing Health Facility Accessibility
+</p>
 
 In addition to transportation, analyzing and enhancing the accessibility of health facilities is paramount for improving people’s lives.  [With Mapbox’s data support, the World Bank tested hundreds of origin-destination pairs in Indonesia and the Philippines to find the closest hospital or clinic to each origin and calculate the associated travel time](https://datapartnership.org/updates/planning-for-equitable-access-to-health-infrastructure/). This enabled the team to examine how hospitals and clinics are practically accessed and how governments, in the short term, can efficiently allocate resources by setting up mobile health clinics that expand health accessibility to vulnerable populations in the two countries.
 

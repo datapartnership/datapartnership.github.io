@@ -18,7 +18,7 @@ This day will focus on connecting with tech companies and international organiza
   </button>
 
   <button type="button" class="btn btn-outline-info" style="margin: 10px;">
-    <a href="Agenda_2025.pdf" style="text-decoration: none; color: inherit; font-weight: bold;">
+    <a href="Agenda_2025_June3.pdf" style="text-decoration: none; color: inherit; font-weight: bold;">
       Full Agenda
     </a>
   </button>

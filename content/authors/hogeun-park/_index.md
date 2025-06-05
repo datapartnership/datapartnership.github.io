@@ -1,0 +1,4 @@
+---
+name: Hogeun Park
+---
+Hogeun Park is an Urban Specialist with the Middle East and North Africa (MENA) region of the World Bank’s Urban, Resilience, and Land Practice. His work focuses on the intersection of urban planning and spatial analytics, which enabled him to deliver the projects with empirical and rigorous evidence. Hogeun has extensively worked in Yemen, Jordan, Egypt, and Saudi Arabia since 2019 and has co-authored multiple flagship reports. Prior to joining the Bank, hogeun was a Big Pixel postdoctoral fellow at UC San Diego. He has published widely in leading peer-reviewed journals on urban development, spatial analytics, and remote sensing. He completed his PhD in Planning from Michigan State University with a fellowship from the Korean government. 

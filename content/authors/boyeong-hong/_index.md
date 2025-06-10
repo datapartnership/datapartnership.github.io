@@ -1,0 +1,4 @@
+---
+name: Boyeong Hong
+---
+Boyeong Hong is a Data Engineer at MK Analytics with a decade of experience in civic analytics and consulting and she has worked for the World Bank as a short-term consultant. A skilled strategist and analyst, Boyeong excels at developing frameworks and products for data-driven urban problem solving. With a strong background in urban planning and data science, Boyeong has led and managed multiple projects across sectors, turning initiatives into impactful real-world solutions. Boyeong’s areas of focus include applying data science and informatics to address urban challenges and improve quality of life. Boyeong’s prior work at academic institutions and international organizations involved predictive city analytics, using Big Data and Machine Learning to optimize city services in collaboration with municipal agencies. Boyeong holds a Ph.D. in Civil and Urban Engineering, specializing in Urban Informatics, from New York University.

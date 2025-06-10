@@ -25,61 +25,53 @@ To better understand these discrepancies between planned and actual land use, we
 
 Here are our key findings:
 
-1.	Land Use Patterns Vary Sharply by Type
+<b><u>1.	Land Use Patterns Vary Sharply by Type </b></u>
 
 Urban activity in Amman shows distinct temporal patterns across land use types:
 
-• **Residential** areas exhibit consistent behavior across weekdays and weekends, with low morning activity and evening peaks—likely reflecting post-work routines.
-• **Commercial** zones are busiest on weekdays, peaking in the early afternoon.
-• **Industrial** zones follow a clear 8-to-5 weekday schedule, with reduced activity on weekend evenings.
-• **Recreational** areas show less fluctuation but are more active during evening and nighttime hours.
+- **Residential** areas exhibit consistent behavior across weekdays and weekends, with low morning activity and evening peaks—likely reflecting post-work routines.
+- **Commercial** zones are busiest on weekdays, peaking in the early afternoon.
+- **Industrial** zones follow a clear 8-to-5 weekday schedule, with reduced activity on weekend evenings.
+- **Recreational** areas show less fluctuation but are more active during evening and nighttime hours.
 
-
-<figure align="centre">
-    <img src="bridging-the-gap-between-plans-an-reality-a-data-driven-look-at-urban-lan-use-in-amman_figure1.png"
-    <figcaption>
-        <center>
-**Figure 1**: Urban activity patterns in different land uses
-  </center>
-    </figcaption>
+<figure align="center">
+    <img src="bridging-the-gap-between-plans-an-reality-a-data-driven-look-at-urban-lan-use-in-amman_figure1.png">
+    <figcaption><strong>Figure 1</strong>: Urban activity patterns in different land uses</figcaption>
 </figure>
+<br>
+<br>
 
-
-2. Residential Doesn’t Always Mean Residential
+<b><u>2. Residential Doesn’t Always Mean Residential</u></b>
 
 A deeper dive into residential zones revealed three distinct activity clusters using k-means clustering:
 
-• **Group 1** peaked between 4–5 AM, suggesting labor or low-income housing given their longer-commuting distances.
-• **Group 2** followed typical residential patterns, with evening peaks.
-• **Group 3** mirrored commercial or light industrial activity, despite being zoned residential.
+- **Group 1** peaked between 4–5 AM, suggesting labor or low-income housing given their longer-commuting distances.
+- **Group 2** followed typical residential patterns, with evening peaks.
+- **Group 3** mirrored commercial or light industrial activity, despite being zoned residential.
 
 These findings suggest that one-third of “residential” areas are functionally mixed-use, challenging the validity of current zoning classifications.
 
-<figure align="centre">
-    <img src="bridging-the-gap-between-plans-an-reality-a-data-driven-look-at-urban-lan-use-in-amman_figure2.png"
-    <figcaption>
-        <center>
-**Figure 2**: Distinct urban activity patterns in residential land use
-  </center>
-    </figcaption>
+<figure align="center">
+    <img src="bridging-the-gap-between-plans-an-reality-a-data-driven-look-at-urban-lan-use-in-amman_figure2.png">
+    <figcaption><strong>Figure 2</strong>: Distinct urban activity patterns in residential land use</figcaption>
 </figure>
 
-
-3. Outside Zoned Areas Are Functionally Active
-
+<br>
+<br>
+<b><u>3. Outside Zoned Areas Are Functionally Active</b></u>
+<br>
+<br>
 Although not formally designated for development, “Outside Zoned Areas” exhibited structured activity patterns:
 
-• One cluster resembled recreational zones with weekend afternoon peaks.
-• Another followed weekday work patterns, likely linked to roads and retail.
-• A third showed nighttime activity consistent with residential use.
-• A fourth combined early morning peaks from both residential and retail activity, indicating mixed-use neighborhoods.
+- One cluster resembled recreational zones with weekend afternoon peaks.
+- Another followed weekday work patterns, likely linked to roads and retail.
+- A third showed nighttime activity consistent with residential use.
+- A fourth combined early morning peaks from both residential and retail activity, indicating mixed-use neighborhoods.
 
-<figure align="centre">
-    <img src="bridging-the-gap-between-plans-an-reality-a-data-driven-look-at-urban-lan-use-in-amman_figure3.png"
-    <figcaption>
-        <center>
-**Figure 3**: Distinct urban activity patterns outside of zoned areas
-  </center>
+<figure align="center">
+    <img src="bridging-the-gap-between-plans-an-reality-a-data-driven-look-at-urban-lan-use-in-amman_figure3.png">
+    <figcaption style="text-align: center;">
+<strong>Figure 3</strong>: Distinct urban activity patterns outside of zoned areas
     </figcaption>
 </figure>
 

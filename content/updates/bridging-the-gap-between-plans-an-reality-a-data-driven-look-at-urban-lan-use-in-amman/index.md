@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Veraset"]
 dev_partner = ["World Bank"]
 tags = ["Urban Development"]
-date = 2025-06-06T00:00:00Z
+date = 2025-06-09T00:00:00Z
 +++
 
 Urban landscapes are transforming rapidly, often outpacing the capabilities of traditional planning tools. In Amman, Jordan—a city shaped by swift population growth and complex migration flows—this challenge is particularly acute. By leveraging data from [Veraset](https://www.veraset.com/), our recent study investigates how actual land use patterns diverge from official zoning plans and how data-driven approaches can help cities respond more effectively.
@@ -55,7 +55,6 @@ A deeper dive into residential zones revealed three distinct activity clusters u
 
 These findings suggest that one-third of “residential” areas are functionally mixed-use, challenging the validity of current zoning classifications.
 
-
 <figure align="centre">
     <img src="bridging-the-gap-between-plans-an-reality-a-data-driven-look-at-urban-lan-use-in-amman_figure2.png"
     <figcaption>
@@ -85,7 +84,6 @@ Although not formally designated for development, “Outside Zoned Areas” exhi
 </figure>
 
 
-
 ## Impact
 
 The observed discrepancies between planned and actual land use underscore the limitations of static zoning maps. Many neighborhoods operate in ways that existing plans fail to appreciate, revealing the need for more flexible, responsive planning strategies. By integrating real-time data and urban informatics, cities like Amman can better align infrastructure, services, and regulations with how people actually live and work. To bridge the gap between plans and reality, we propose the following:
@@ -101,6 +99,3 @@ Involve residents in zoning reforms through consultations and participatory plan
 
 4. **Integrate Informal Areas**
 Recognize and support the economic and social roles of informal settlements through targeted infrastructure and policy interventions.
-
-
-

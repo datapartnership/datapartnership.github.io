@@ -5,8 +5,8 @@ categories = ["Case Study"]
 partner = ["Ookla"]
 dev_partner = ["Asian Development Bank"]
 tags = ["Digital Development"]
-link = ["https://www.adb.org/sites/default/files/institutional-document/1052731/adpr2025bp-mobile-internet-connectivity-philippines.pdf"]
-date = 2025-06-10T00:00:00Z
+links = ["https://www.adb.org/sites/default/files/institutional-document/1052731/adpr2025bp-mobile-internet-connectivity-philippines.pdf"]
+date = 2025-06-09T00:00:00Z
 +++
 
 The rapid expansion of mobile internet has resulted in significant economic and social impacts. Therefore, it is essential to comprehend how policymakers can maximize the economic benefits of internet accessibility. [Ookla®](https://www.ookla.com/ookla-for-good) data was leveraged as part of a study by the Asian Development Bank (ADB) to understand the importance of internet access quality to enhance household wealth.
@@ -19,9 +19,8 @@ Although extensive research exists on the economic effects of mobile internet ac
 
 
 <figure align="center">
-    <img src="mobile-internet-connectivity-and-household-wealth-in-the-philippines_thumbnail.png"> 
+    <img src="mobile-internet-connectivity-and-household-wealth-in-the-philippines_thumbnail.png" width="500">
 </figure>
-
 
 ## Solution
 
@@ -32,7 +31,6 @@ To conduct a comprehensive assessment of internet access in the Philippines, as 
 The team’s findings showed that mobile internet access has a significant and positive impact on household wealth, particularly in rural areas and among lower-educated households. Additionally, they found that an increase in internet quality (measured either in upload or download speeds) leads to an increase in overall household wealth.
 
 
-
 ## Impact
 
 [This study](https://www.adb.org/sites/default/files/institutional-document/1052731/adpr2025bp-mobile-internet-connectivity-philippines.pdf) offers key insights for policymakers aiming to utilize mobile internet access to foster inclusive economic development. 
@@ -40,7 +38,3 @@ The team’s findings showed that mobile internet access has a significant and p
 For instance, the study reveals that internet quality—assessed by upload and download speeds—is just as significant as geographical proximity to mobile towers. Policymakers could therefore encourage telecommunication providers to enhance existing infrastructure to deliver high-speed and dependable connectivity. 
 
 Although expanding internet infrastructure is crucial, the research also underscores the importance of targeted, context-sensitive interventions to guarantee equitable advantages across various geographic and demographic groups. Initiatives like subsidies for upgrading network technology in rural areas or enforcing minimum speed standards could help mitigate disparities in internet quality, particularly in regions far from submarine cable hubs.
-
-
-
-

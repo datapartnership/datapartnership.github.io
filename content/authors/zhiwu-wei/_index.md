@@ -1,0 +1,6 @@
+---
+name: Zhiwu Wei
+---
+Zhiwu Wei is a Leverhulme Trust and Issac Newton Trust Early Career Fellow at the Department of Land Economy, University of Cambridge where he received his Ph.D. in Land Economy in 2024. In the past, he was an occasional research officer at the International Inequalities Institute and the Department of Geography and Environment at the London School of Economics. He also held roles as a research assistant at Cambridge Judge Business School, Tsinghua University’s Institute for China Sustainable Urbanization, and Peking University’s Institute of New Structural Economics. Outside of academia, he has worked and provided consulting services for international organizations including the OECD and the Asian Development Bank. 
+
+His research applies big data, GIS, and causal inference to understand the causes and consequences of spatial inequality. His recent work has examined digital inequality in developing countries, spatial disparities in remote work uptake, and the long-run economic and socio-political impacts of residential location.

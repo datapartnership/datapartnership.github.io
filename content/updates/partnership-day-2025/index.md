@@ -18,21 +18,15 @@ This day will focus on connecting with tech companies and international organiza
   </button>
 
   <button type="button" class="btn btn-outline-info" style="margin: 10px;">
-    <a href="Agenda2025.pdf" style="text-decoration: none; color: inherit; font-weight: bold;">
+    <a href="FULLagenda2025.pdf" style="text-decoration: none; color: inherit; font-weight: bold;">
       Full Agenda
     </a>
   </button>
 </div>
 
-
-
 ![](DDP_2025_June.png)
 
-<div style="text-align:center; font-weight:bold;">
-  <button type="button" class="btn btn-outline-info" style="margin: 10px;">
-    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1URDM4Mkk5SFU0NFlRSzdERDJLSVFXTUVWTy4u" style="text-decoration: none; color: inherit; font-weight: bold;">
-      Register Here
-    </a>
-  </button>
-
-</div>
+<section id="Full Agenda">
+<iframe src="FULLagenda2025.pdf#toolbar=0&statusbar=0&page=1" width="100%" height="900px">
+</iframe>
+</section>

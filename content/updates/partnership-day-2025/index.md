@@ -10,13 +10,6 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 
 This day will focus on connecting with tech companies and international organizations working together to harness the power of data collaboration for the public good and discover new perspectives and insights on how to transform data into meaningful stories that inspire action.
 
-<div style="text-align:center; font-weight:bold;">
-  <button type="button" class="btn btn-outline-info" style="margin: 10px;">
-    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1URDM4Mkk5SFU0NFlRSzdERDJLSVFXTUVWTy4u" style="text-decoration: none; color: inherit; font-weight: bold;">
-      Register Here
-    </a>
-  </button>
-
   <button type="button" class="btn btn-outline-info" style="margin: 10px;">
     <a href="FULLagenda2025.pdf" style="text-decoration: none; color: inherit; font-weight: bold;">
       Full Agenda

@@ -15,11 +15,8 @@ This day will focus on connecting with tech companies and international organiza
       Full Agenda
     </a>
   </button>
-</div>
 
 ![](DDP_2025_June.png)
 
 <section id="Full Agenda">
-<iframe src="FULLagenda2025.pdf#toolbar=0&statusbar=0&page=1" width="100%" height="900px">
-</iframe>
 </section>

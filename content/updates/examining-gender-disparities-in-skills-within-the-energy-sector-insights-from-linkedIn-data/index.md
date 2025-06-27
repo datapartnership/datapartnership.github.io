@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["Organisation for Economic Co Operation and Development"]
 tags = ["Gender", "Jobs and Development"]
-date = 2025-06-27T00:00:00Z
+date = 2025-06-26T00:00:00Z
 
 +++
 

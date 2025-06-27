@@ -6,7 +6,7 @@ partner = ["LinkedIn"]
 dev_partner = ["Organisation for Economic Co Operation and Development"]
 tags = ["Gender", "Jobs and Development"]
 date = 2025-06-26T00:00:00Z
-
+links = ["https://datapartnership.org/updates/partnership-day-2025/Impact%20Stories_Kalogianni_2025.pdf"]
 +++
 
 Analyzing gender differences in skills in the energy sector offers insights into disparities and facilitates better future planning. [The International Energy Agency (IEA)](https://www.oecd.org/en/topics/policy-areas/energy.html), a sister entity to the Organisation for Economic Co-operation and Development, utilized [LinkedIn](https://www.linkedin.com/) data for [the Gender and Energy Data Explorer](https://www.iea.org/data-and-statistics/data-tools/gender-and-energy-data-explorer?Topic=Skills&Indicator=Most+prominent+skills+by+region+and+category), a platform which provides information on gender gaps in the energy sector related to employment, wages, senior management, entrepreneurship, and innovation.

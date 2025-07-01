@@ -47,14 +47,13 @@ Panel focused on Scaling and Sustaining Public-Private Collaboration for the Pub
 
 The event also provided an opportunity to learn about the impact of the Development Data Partnership. Duos from tech companies and international organizations presented the results of their collaborations.
 
-•	Andrew Hassanali from Planet and Devaki Ghose from the World Bank discussed [the use of Planet data to understand the economic implications of Sri Lanka’s fertilizer import ban in 2021.](https://datapartnership.org/updates/leveraging-satellite-data-to-understand-the-economic-implications-of-sri-lanka-fertilizer-import-ban-in-2021/) 
-•	Katherine Macdonald from Ookla and Yohan Iddawela from the Asian Development Bank talked about [measuring mobile internet access and wealth inequality in the Philippines by leveraging Ookla data.](https://datapartnership.org/updates/mobile-internet-connectivity-and-household-wealth-in-the-philippines/) 
-•	Salim Sawaya from ESRI and Yves Lesenfants from the Inter-American Development Bank introduced their project for supporting the AmazoniaForever360+ platform.
-•	LinkedIn’s Rosie Hood and Akash Kaura joined Konstantina Kalogianni from the International Energy Agency and Patricia Yañez-Pagans from IDB Invest to discuss [how LinkedIn data was used to study gender inequality in the energy sector](https://datapartnership.org/updates/examining-gender-disparities-in-skills-within-the-energy-sector-insights-from-linkedin-data/) and structural barriers to career mobility for women in Latin America and the Caribbean.
-•	Alex Minett from JBA Consulting and Mac Cordel from the Asian Development Bank gave a presentation on [monitoring weather-related movements toward inclusive climate resilience.](https://datapartnership.org/updates/mapping-vulnerability-and-mobility-leveraging-digital-data-to-inform-flood-displacement-and-resilience-planning/) 
-•	Anna Carter from Google and Dharana Rijal from the International Monetary Fund spoke about the use of open-source building data for economic measurement.
-•	Sahiti Sarva and Maria Sol Tadeo from the World Bank presented a new training course developed to teach how to utilize Partnership data and open data for monitoring the economic impact of crises.
-
+- Andrew Hassanali from Planet and Devaki Ghose from the World Bank discussed [the use of Planet data to understand the economic implications of Sri Lanka’s fertilizer import ban in 2021.](https://datapartnership.org/updates/leveraging-satellite-data-to-understand-the-economic-implications-of-sri-lanka-fertilizer-import-ban-in-2021/)
+- Katherine Macdonald from Ookla and Yohan Iddawela from the Asian Development Bank talked about [measuring mobile internet access and wealth inequality in the Philippines by leveraging Ookla data.](https://datapartnership.org/updates/mobile-internet-connectivity-and-household-wealth-in-the-philippines/)
+- Salim Sawaya from ESRI and Yves Lesenfants from the Inter-American Development Bank introduced their project for supporting the AmazoniaForever360+ platform.
+- LinkedIn’s Rosie Hood and Akash Kaura joined Konstantina Kalogianni from the International Energy Agency and Patricia Yañez-Pagans from IDB Invest to discuss [how LinkedIn data was used to study gender inequality in the energy sector](https://datapartnership.org/updates/examining-gender-disparities-in-skills-within-the-energy-sector-insights-from-linkedin-data/) and structural barriers to career mobility for women in Latin America and the Caribbean.
+- Alex Minett from JBA Consulting and Mac Cordel from the Asian Development Bank gave a presentation on [monitoring weather-related movements toward inclusive climate resilience.](https://datapartnership.org/updates/mapping-vulnerability-and-mobility-leveraging-digital-data-to-inform-flood-displacement-and-resilience-planning/)
+- Anna Carter from Google and Dharana Rijal from the International Monetary Fund spoke about the use of open-source building data for economic measurement.
+- Sahiti Sarva and Maria Sol Tadeo from the World Bank presented a new training course developed to teach how to utilize Partnership data and open data for monitoring the economic impact of crises.
 
 <figure align="centre">
     <img src="partnership-day-2025-leveraging-partnerships-for-the-public-good_figure3.jpeg"
@@ -68,7 +67,8 @@ Global Impact Stories
 In his closing remarks, Momar Kouta, Senior Statistics Information Systems Officer at the African Development Bank, emphasized the success of collaboration and innovation. He acknowledged the contributions of partners and highlighted the importance of transforming data into action for addressing interconnected issues like health, climate change, and economic inclusion.
 
 <figure align="center">
-    <img src="partnership-day-2025-leveraging-partnerships-for-the-public-good_figure4.jpeg"
+<img src="partnership-day-2025-leveraging-partnerships-for-the-public-good_figure4.jpeg"
+</center>
 </figure>
 
 All in all, this year’s Partnership Day was a vibrant event filled with insightful talks and engaging discussions that collectively fostered a rich environment for sharing knowledge and inspiration. Attendees gained valuable insights into how we can harness data partnerships to enhance and sustain initiatives benefiting the public good.

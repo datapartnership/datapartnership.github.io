@@ -37,7 +37,7 @@ Alexander Diaz, Head of AI for Social Impact at Google and a panellist, spoke to
 
 
 <figure align="centre">
-    <img src="partnership-day-2025-leveraging-partnerships-for-the-public-good:partnership-day-2025-leveraging-partnerships-for-the-public-good_figure2.jpeg"
+    <img src="partnership-day-2025-leveraging-partnerships-for-the-public-good_figure2.jpeg"
     <figcaption>
         <center>
 Panel focused on Scaling and Sustaining Public-Private Collaboration for the Public Good
@@ -56,7 +56,7 @@ The event also provided an opportunity to learn about the impact of the Developm
 - Sahiti Sarva and Maria Sol Tadeo from the World Bank presented a new training course developed to teach how to utilize Partnership data and open data for monitoring the economic impact of crises.
 
 <figure align="centre">
-    <img src="partnership-day-2025-leveraging-partnerships-for-the-public-good:partnership-day-2025-leveraging-partnerships-for-the-public-good_figure3.jpeg"
+    <img src="partnership-day-2025-leveraging-partnerships-for-the-public-good_figure3.jpeg"
     <figcaption>
         <center>
 Global Impact Stories 
@@ -67,7 +67,7 @@ Global Impact Stories
 In his closing remarks, Momar Kouta, Senior Statistics Information Systems Officer at the African Development Bank, emphasized the success of collaboration and innovation. He acknowledged the contributions of partners and highlighted the importance of transforming data into action for addressing interconnected issues like health, climate change, and economic inclusion.
 
 <figure align="center">
-<img src="partnership-day-2025-leveraging-partnerships-for-the-public-good:partnership-day-2025-leveraging-partnerships-for-the-public-good_figure4.jpeg"
+<img src="partnership-day-2025-leveraging-partnerships-for-the-public-good_figure4.jpeg"
 </center>
 </figure>
 

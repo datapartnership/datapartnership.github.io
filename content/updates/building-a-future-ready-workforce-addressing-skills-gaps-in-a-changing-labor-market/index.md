@@ -22,7 +22,7 @@ Understanding the challenges facing labor markets and addressing them effectivel
 
 <figure style="text-align: center;">
   <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_thumnail.png" alt="Building a future-ready workforce" style="max-width: 100%;">
-  <figcaption style="font-size: 0.9em; color: #555;">Photo: World Bank</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">Photo: World Bank</figcaption>
 </figure>
 
 ## Solution
@@ -35,20 +35,18 @@ The Development Data Partnership provides international organizations with acces
 
 <figure style="text-align: center;">
   <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_figure1.png" alt="Figure 1" style="max-width: 100%;">
-  <figcaption style="font-size: 0.95em; margin-top: 0.5em;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">
     Figure 1: Penetration of Technology and Disruptive Technology Skills, 2022
   </figcaption>
 </figure>
 
 [Turning to the Middle East and North Africa (MENA), a World Bank analysis of digital skills highlights distinct national trends in the Software & IT Services sector, underscoring both shared priorities and localized specialization.](https://datapartnership.org/updates/digital-skills-gap-mena/) Programming languages such as Bootstrap, Git, JavaScript, and Object-Oriented Programming were most characteristic in Morocco, Lebanon, Jordan, and Egypt. In contrast, Qatar and the United Arab Emirates ranked Microsoft Azure—Microsoft’s cloud computing platform—as the most prominent skill (see Figure 2).
 
-<figure align="centre">
-    <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_figure2.png"
-    <figcaption>
-        <center>
-Figure 2: Top three most characteristic skills for the Software & IT Services Industry per country (MENA only) in 2021
-  </center>
-    </figcaption>
+<figure style="text-align: center;">
+  <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_figure2.png" alt="Figure 2" style="max-width: 100%;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">
+    Figure 2: Top three most characteristic skills for the Software & IT Services Industry per country (MENA only) in 2021
+  </figcaption>
 </figure>
 
 ## Impact
@@ -58,10 +56,3 @@ The insights derived from LinkedIn data, accessed through the Development Data P
 Further, by using these data-driven insights, policymakers can develop strategies that close skills gaps, enhance gender inclusivity, and better prepare workers for the demands of the digital and green transitions.
 
 As these transitions continue to reshape the global economy, timely labor market data is essential for equipping workers with the skills and opportunities they need. With the support of targeted policies and inclusive initiatives, we can build a resilient and future-ready workforce.
-
-
-
-
-
-
-

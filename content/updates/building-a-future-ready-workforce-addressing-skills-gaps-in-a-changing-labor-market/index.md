@@ -20,16 +20,10 @@ Yet inclusion remains a persistent challenge, particularly in emerging green sec
 
 Understanding the challenges facing labor markets and addressing them effectively is therefore essential for adapting to the changes brought about by digitalization and the green energy transition.
 
-
-<figure align="centre">
-    <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_thumnail.png"
-    <figcaption>
-        <center>
-Photo: World Bank
-  </center>
-    </figcaption>
+<figure style="text-align: center;">
+  <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_thumnail.png" alt="Building a future-ready workforce" style="max-width: 100%;">
+  <figcaption style="font-size: 0.9em; color: #555;">Photo: World Bank</figcaption>
 </figure>
-
 
 ## Solution
 
@@ -39,13 +33,11 @@ The Development Data Partnership provides international organizations with acces
 
 [Apart from gender disparities, LinkedIn data also shed light on broader digital skills gaps in Latin America and Central America.](https://datapartnership.org/updates/prevalence-of-technology-skills-in-cadr/) For instance, the World Bank found that Costa Rica and Panama lagged in the technology and disruptive technology skills most closely associated with new technologies, with technology skills penetration scores that are around 75 percent of the global average and disruptive technology scores that are lower than this. In particular, Costa Rica and Panama performed substantially lower than the global average in the penetration of technology skills such as digital literacy, graphic design, and mobile app and web development as well as in disruptive technology skills such as AI, data science, and robotics.
 
-<figure align="centre">
-    <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_figure1.png"
-    <figcaption>
-        <center>
-Figure 1: Penetration of Technology and Disruptive Technology Skills, 2022
-  </center>
-    </figcaption>
+<figure style="text-align: center;">
+  <img src="building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market_figure1.png" alt="Figure 1" style="max-width: 100%;">
+  <figcaption style="font-size: 0.95em; margin-top: 0.5em;">
+    Figure 1: Penetration of Technology and Disruptive Technology Skills, 2022
+  </figcaption>
 </figure>
 
 [Turning to the Middle East and North Africa (MENA), a World Bank analysis of digital skills highlights distinct national trends in the Software & IT Services sector, underscoring both shared priorities and localized specialization.](https://datapartnership.org/updates/digital-skills-gap-mena/) Programming languages such as Bootstrap, Git, JavaScript, and Object-Oriented Programming were most characteristic in Morocco, Lebanon, Jordan, and Egypt. In contrast, Qatar and the United Arab Emirates ranked Microsoft Azure—Microsoft’s cloud computing platform—as the most prominent skill (see Figure 2).
@@ -66,6 +58,7 @@ The insights derived from LinkedIn data, accessed through the Development Data P
 Further, by using these data-driven insights, policymakers can develop strategies that close skills gaps, enhance gender inclusivity, and better prepare workers for the demands of the digital and green transitions.
 
 As these transitions continue to reshape the global economy, timely labor market data is essential for equipping workers with the skills and opportunities they need. With the support of targeted policies and inclusive initiatives, we can build a resilient and future-ready workforce.
+
 
 
 

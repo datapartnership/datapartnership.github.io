@@ -5,12 +5,10 @@ categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["Organisation for Economic Co Operation and Development", "World Bank"]
 tags = ["Jobs and Development"]
-date = 2025-08-08T00:00:00Z
+date = 2025-08-07T00:00:00Z
 +++
 
-Employment reduces poverty by offering opportunities for financial stability and mobility. As the global labor market evolves with digitalization and green energy shifts, new jobs and skill requirements emerge, but challenges like gender disparities and skills gaps persist. Through the Development Data Partnership, international organizations access [LinkedIn](https://www.linkedin.com/)  data to analyze these trends and inform policies that help workers adapt and bridge skills gaps.
-
-
+Employment reduces poverty by offering opportunities for financial stability and mobility. As the global labor market evolves with digitalization and green energy shifts, new jobs and skill requirements emerge, but challenges like gender disparities and skills gaps persist. Through the Development Data Partnership, international organizations access [LinkedIn](https://economicgraph.linkedin.com/)  data to analyze these trends and inform policies that help workers adapt and bridge skills gaps.
 
 ## Challenge
 
@@ -61,7 +59,6 @@ Figure 2: Top three most characteristic skills for the Software & IT Services In
     </figcaption>
 </figure>
 
-
 ## Impact
 
 The insights derived from LinkedIn data, accessed through the Development Data Partnership, can play a pivotal role in shaping effective labor market responses. By identifying skill gaps and regional trends, international organizations can recommend targeted upskilling initiatives in areas most in need.
@@ -69,6 +66,7 @@ The insights derived from LinkedIn data, accessed through the Development Data P
 Further, by using these data-driven insights, policymakers can develop strategies that close skills gaps, enhance gender inclusivity, and better prepare workers for the demands of the digital and green transitions.
 
 As these transitions continue to reshape the global economy, timely labor market data is essential for equipping workers with the skills and opportunities they need. With the support of targeted policies and inclusive initiatives, we can build a resilient and future-ready workforce.
+
 
 
 

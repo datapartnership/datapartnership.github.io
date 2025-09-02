@@ -24,15 +24,10 @@ However, digital infrastructure—the physical and organizational systems that e
 
 Understanding these dynamics is a major challenge, especially in countries or regions where there is limited access to infrastructure performance data.
 
-
-<figure align="centre">
-    <img src="enhancing-e-health-accessibility-bridging-the-digital-divide-in-healthcare-services-in-least-developed-countries_thumnail.png"
-    <figcaption>
-        <center>
-  </center>
-    </figcaption>
+<figure style="text-align: center;">
+  <img src="enhancing-e-health-accessibility-bridging-the-digital-divide-in-healthcare-services-in-least-developed-countries_thumnail.png" alt="Enhancing e-health accessibility" style="max-width: 100%;">
+  <figcaption style="font-size: 0.9em; color: #555;">Figure 1: Enhancing e-health accessibility</figcaption>
 </figure>
-
 
 ## Solution
 
@@ -44,16 +39,10 @@ Some of the findings from this study include the fact that not all populated reg
 
 Moreover, across nearly all the countries studied - including Peru and South Africa – the team found that the infrastructure generally does not support the most advanced telemedicine services. Services such as video calls tend to be limited to urban areas, while simpler communication services, such as messaging or basic electronic communication, have coverage that approaches 100%.
 
-<figure align="centre">
-    <img src="enhancing-e-health-accessibility-bridging-the-digital-divide-in-healthcare-services-in-least-developed-countries_figure1.png"
-    <figcaption>
-        <center>
-Figure:  E-Health services in South Africa
-  </center>
-    </figcaption>
+<figure style="text-align: center;">
+  <img src="enhancing-e-health-accessibility-bridging-the-digital-divide-in-healthcare-services-in-least-developed-countries_figure1.png" alt="E-Health services in South Africa" style="max-width: 100%;">
+  <figcaption style="font-size: 0.9em; color: #555;">Figure: E-Health services in South Africa</figcaption>
 </figure>
-
-
 
 ## Impact
 
@@ -64,6 +53,7 @@ The Ookla data played an essential role in the project as it served as one of th
 Through the team’s analysis, they were able to identify which services could be delivered to the population and to quantify how many people are located in areas with sufficient connectivity to support such services, and also which health facilities are located in similar areas.
 
 In conclusion, as the demand for e-health services continues to grow, it is imperative that policymakers prioritize the enhancement of digital infrastructure to ensure equitable access to healthcare for all, especially during times of crisis.
+
 
 
 

@@ -23,7 +23,7 @@ Here are a few examples of how the Development Data Partnership is turning data 
 The Asian Development Bank (ADB) conducted a study utilizing [Ookla](https://www.ookla.com/ookla-for-good) data to assess the impact of mobile internet connectivity on household wealth in the Philippines, a lower-middle-income archipelagic nation. The study revealed that enhanced internet quality significantly boosts household wealth, especially in rural areas and among households with lower education levels, highlighting the critical role of both internet access and quality in promoting economic development. [Discover more](https://datapartnership.org/updates/mobile-internet-connectivity-and-household-wealth-in-the-philippines).
 
 <figure style="text-align: center;">
-  <img src="data-for-impact-south-south-cooperation-in-action_photo1.png" alt="South-South Cooperation Thumbnail" style="max-width: 100%;">
+  <img src="data-for-impact-south-south-cooperation-in-action_thumbnail.png" alt="South-South Cooperation Thumbnail" style="max-width: 100%;">
 </figure>
 
 **How Atlas AI Helped Assess Economic Well-Being Around African Parks**
@@ -45,4 +45,5 @@ The World Bank utilized data from [Google](https://www.google.com), [Mapbox](htt
 </figure>
 
 The impacts of these projects across various regions highlight the crucial role of our data partners. Their collaboration with international organizations enables the effective use of diverse data sources, turning information into valuable insights that tackle development challenges. Through these partnerships, sustainable development initiatives across the Global South can become more focused, effective, and resilient, demonstrating that strong data partnerships are essential for building a better future.
+
 

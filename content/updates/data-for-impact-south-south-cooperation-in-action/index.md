@@ -24,7 +24,6 @@ The Asian Development Bank (ADB) conducted a study utilizing [Ookla](https://www
 
 <figure style="text-align: center;">
   <img src="content/updates/data-for-impact-south-south-cooperation-in-action/data-for-impact-south-south-cooperation-in-action_photo1.png" alt="South-South Cooperation Thumbnail" style="max-width: 100%;">
-  <figcaption><em>Figure: Data for Impact – South-South Cooperation</em></figcaption>
 </figure>
 
 **How Atlas AI Helped Assess Economic Well-Being Around African Parks**
@@ -43,10 +42,6 @@ The World Bank utilized data from [Google](https://www.google.com), [Mapbox](htt
 
 <figure style="text-align: center;">
   <img src="data-for-impact-south-south-cooperation-in-action_photo1.png" alt="South-South Cooperation Photo" style="max-width: 100%;">
-  <figcaption><em>Figure: Collaborative data projects across the Global South</em></figcaption>
 </figure>
 
 The impacts of these projects across various regions highlight the crucial role of our data partners. Their collaboration with international organizations enables the effective use of diverse data sources, turning information into valuable insights that tackle development challenges. Through these partnerships, sustainable development initiatives across the Global South can become more focused, effective, and resilient, demonstrating that strong data partnerships are essential for building a better future.
-
-
-

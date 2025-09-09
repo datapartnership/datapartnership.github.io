@@ -2,7 +2,7 @@
 title = "Data for Impact: South-South Cooperation in Action"
 authors = ["Kwok Kin Lee"]
 categories = ["Case Study"]
-partner = ["Ookla", "Atlasai", "Jba", "Google", "Mapbox", "Meta" ]
+partner = ["Ookla", "AtlasAI", "JBA", "Google", "Mapbox", "Meta" ]
 dev_partner = ["Asian Development Bank", "World Bank", "Inter American Development Bank"]
 tags = ["Digital Development", "Inequality and Shared Prosperity", "Disaster Risk Management", "Transport"]
 date = 2025-09-08T00:00:00Z
@@ -42,7 +42,8 @@ The Inter-American Development Bank (IDB) used [JBA’s Global Flood Maps](https
 The World Bank utilized data from [Google](https://www.google.com), [Mapbox](https://www.mapbox.com), [Meta](https://dataforgood.facebook.com), and [Ookla](https://www.ookla.com/ookla-for-good) to analyze infrastructure gaps in the Amazon regions of Brazil, Colombia, and Peru. Google’s satellite imagery and Open Buildings Dataset helped assess population density and connectivity, while Ookla provided internet speed metrics to reveal significant digital disparities. Meta contributed movement data to understand population dynamics, and Mapbox offered tools for mapping transportation networks. This collaborative effort identified critical infrastructure challenges and investment opportunities, emphasizing the need for tailored solutions to enhance connectivity and support sustainable development in the Amazon. [Read more](https://datapartnership.org/updates/how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-amazon).
 
 <figure align="center">
-    <img src="data-for-impact-south-south-cooperation-in-action_photo1.png">
+    <img src="data-for-impact-south-south-cooperation-in-action_photo1">
 </figure>
 
 The impacts of these projects across various regions highlight the crucial role of our data partners. Their collaboration with international organizations enables the effective use of diverse data sources, turning information into valuable insights that tackle development challenges. Through these partnerships, sustainable development initiatives across the Global South can become more focused, effective, and resilient, demonstrating that strong data partnerships are essential for building a better future.
+

@@ -22,10 +22,10 @@ Here are a few examples of how the Development Data Partnership is turning data 
 
 The Asian Development Bank (ADB) conducted a study utilizing [Ookla](https://www.ookla.com/ookla-for-good) data to assess the impact of mobile internet connectivity on household wealth in the Philippines, a lower-middle-income archipelagic nation. The study revealed that enhanced internet quality significantly boosts household wealth, especially in rural areas and among households with lower education levels, highlighting the critical role of both internet access and quality in promoting economic development. [Discover more](https://datapartnership.org/updates/mobile-internet-connectivity-and-household-wealth-in-the-philippines).
 
-<figure align="center">
-    <img src="data-for-impact-south-south-cooperation-in-action_thumbnail.png">
+<figure style="text-align: center;">
+  <img src="data-for-impact-south-south-cooperation-in-action_thumbnail.png" alt="South-South Cooperation Thumbnail" style="max-width: 100%;">
+  <figcaption><em>Figure: Data for Impact – South-South Cooperation</em></figcaption>
 </figure>
-
 
 **How Atlas AI Helped Assess Economic Well-Being Around African Parks**
 
@@ -41,9 +41,11 @@ The Inter-American Development Bank (IDB) used [JBA’s Global Flood Maps](https
 
 The World Bank utilized data from [Google](https://www.google.com), [Mapbox](https://www.mapbox.com), [Meta](https://dataforgood.facebook.com), and [Ookla](https://www.ookla.com/ookla-for-good) to analyze infrastructure gaps in the Amazon regions of Brazil, Colombia, and Peru. Google’s satellite imagery and Open Buildings Dataset helped assess population density and connectivity, while Ookla provided internet speed metrics to reveal significant digital disparities. Meta contributed movement data to understand population dynamics, and Mapbox offered tools for mapping transportation networks. This collaborative effort identified critical infrastructure challenges and investment opportunities, emphasizing the need for tailored solutions to enhance connectivity and support sustainable development in the Amazon. [Read more](https://datapartnership.org/updates/how-to-leverage-data-for-better-transport-digital-connectivity-and-sustainable-development-in-the-amazon).
 
-<figure align="center">
-    <img src="data-for-impact-south-south-cooperation-in-action_photo1">
+<figure style="text-align: center;">
+  <img src="data-for-impact-south-south-cooperation-in-action_photo1.png" alt="South-South Cooperation Photo" style="max-width: 100%;">
+  <figcaption><em>Figure: Collaborative data projects across the Global South</em></figcaption>
 </figure>
 
 The impacts of these projects across various regions highlight the crucial role of our data partners. Their collaboration with international organizations enables the effective use of diverse data sources, turning information into valuable insights that tackle development challenges. Through these partnerships, sustainable development initiatives across the Global South can become more focused, effective, and resilient, demonstrating that strong data partnerships are essential for building a better future.
+
 

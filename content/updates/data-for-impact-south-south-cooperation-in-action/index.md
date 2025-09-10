@@ -33,7 +33,7 @@ The World Bank collaborated with [Atlas AI](https://www.atlasai.co) to assess th
 
 **Leveraging JBA’s Global Flood Maps: Enhancing Flood Risk Assessment for Infrastructure Projects in Peru**
 
-The Inter-American Development Bank (IDB) used [JBA’s Global Flood Maps](https://www.jbarisk.com/products/global-flood-maps) to assess flood risks in Peru’s Puno region, which is prone to natural hazards like floods. Utilizing JBA’s high-resolution flood maps, the IDB was able to identify areas at risk before implementing a project aimed at improving water and sanitation infrastructure for over 500,000 residents. The maps provided essential data for understanding the extent of potential floods over various return periods, enhancing project resilience and helping local governments prioritize resources effectively while mitigating flood risks. [Learn more](https://datapartnership.org/updates/assessing-flood-risks-in-peru).
+The Inter-American Development Bank (IDB) used [JBA’s Global Flood Maps](https://jbagr.com/digital-tools/global-flood-maps/) to assess flood risks in Peru’s Puno region, which is prone to natural hazards like floods. Utilizing JBA’s high-resolution flood maps, the IDB was able to identify areas at risk before implementing a project aimed at improving water and sanitation infrastructure for over 500,000 residents. The maps provided essential data for understanding the extent of potential floods over various return periods, enhancing project resilience and helping local governments prioritize resources effectively while mitigating flood risks. [Learn more](https://datapartnership.org/updates/assessing-flood-risks-in-peru).
 
 
 **Bridging the Amazon’s Infrastructure Gap: Insights from Google, Mapbox, Meta, and Ookla**
@@ -45,5 +45,6 @@ The World Bank utilized data from [Google](https://www.google.com), [Mapbox](htt
 </figure>
 
 The impacts of these projects across various regions highlight the crucial role of our data partners. Their collaboration with international organizations enables the effective use of diverse data sources, turning information into valuable insights that tackle development challenges. Through these partnerships, sustainable development initiatives across the Global South can become more focused, effective, and resilient, demonstrating that strong data partnerships are essential for building a better future.
+
 
 

@@ -1,4 +1,0 @@
----
-name: Ximena Velandia Villamil
----
-Ximena Velandia Villamil, MSc, is a civil engineer and transport specialist with over 8 years of experience in sustainable mobility, traffic engineering, and resilient infrastructure planning across Latin America. She currently serves as a consultant to the World Bank. Her work spans the design of public transport systems, traffic demand studies, and the development of sustainable mobility plans in Colombia, Ecuador, Peru, Bolivia, and Mexico. She specializes in the analysis of official datasets and the strategic exploration of alternative data sources to enhance decision-making in public sector transport infrastructure planning. Her work focuses on leveraging big data methodologies to improve the accuracy of mobility diagnostics, optimize operational costs, and support evidence-based policy design for national and local governments.

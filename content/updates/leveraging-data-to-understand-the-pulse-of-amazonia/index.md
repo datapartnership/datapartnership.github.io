@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Esri", "Meta", "Ookla"]
 dev_partner = ["Inter American Development Bank"]
 tags = ["Urban Development"]
-date = 2025-10-01T00:00:00Z
+date = 2025-09-29T00:00:00Z
 +++
 
 The vastness and complexity of Amazonia present distinct challenges for both development and conservation efforts. The AmazoniaForever360+ platform, currently under development by the Inter-American Development Bank (IDB), aims to support global and regional stakeholders by providing a comprehensive array of geospatial intelligence and territorial insights about the region. [Esri](https://www.esri.com/en-us/home) technology and data from [Meta](https://dataforgood.facebook.com/) and [Ookla®](https://www.ookla.com/ookla-for-good) play an important role in supporting this platform.
@@ -47,3 +47,4 @@ This collaboration is important to ensure that the AmazoniaForever360+ platform 
 Looking ahead, the IDB team aims to expand the platform by integrating datasets from across the DDP, broadening its scope, deepening its insights, and fostering stronger collaboration with both current and future partners.
 
 Together, we are empowering communities and fostering growth for a brighter digital future.
+

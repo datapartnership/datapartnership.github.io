@@ -2,10 +2,10 @@
 title = "Harnessing Data to Build Resilience: Spotlight on Flood Risk Projects with JBA"
 authors = ["Kwok Kin Lee"]
 categories = ["Case Study"]
-partner = ["Jba"]
+partner = ["JBA"]
 dev_partner = ["World Bank", "Asian Development Bank", "Inter American Development Bank"]
 tags = ["Disaster Risk Management"]
-date = 2025-10-07T00:00:00Z
+date = 2025-10-06T00:00:00Z
 +++
 
 Extreme weather events are occurring with greater intensity and frequency around the world. From devastating floods to prolonged droughts and heatwaves, vulnerable communities are facing increasing risks that threaten lives, livelihoods, and economic stability. Disaster risk reduction has become more vital than ever—not only to respond to emergencies, but to build long-term resilience and safeguard development gains.
@@ -38,4 +38,5 @@ In Peru’s Puno region, the Inter-American Development Bank (IDB) used JBA’s 
 These projects in the Western Balkans, Thailand, and Peru demonstrate the transformative power of data partnerships in reducing disaster risk. By combining global flood hazard data with socioeconomic, mobility, and infrastructure information, we are shifting from reactive crisis response to proactive disaster risk reduction—saving lives and building resilience. 
 
 As the frequency and severity of natural hazards increase, prioritizing investments in data-driven resilience strategies becomes crucial. This is no longer optional; it is necessary to effectively prepare for, respond to, and recover from such threats, ultimately safeguarding vulnerable communities and critical infrastructure. 
+
 

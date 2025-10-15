@@ -1,0 +1,217 @@
+<!doctype html><html><head>
+<meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>Using Traffic Data to Build Resilience: How Waze Supports Smarter Disaster Risk Management</title>
+<meta name=description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
+<meta name=google-site-verification content="JobK4G6UDyfYh8ELvb0lfeHQK3_N3TJFKWAM5SWudd8">
+<meta name=keywords content="datapartnership.com,international consortium,data consortium,data international development,data international public good,data public good,data global social impact,data social good,data partnership,public private data partnership">
+<link rel=stylesheet href=https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css integrity=sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z crossorigin=anonymous>
+<link rel=stylesheet href=/css/main.css>
+<link rel=" preconnect" href=https://fonts.gstatic.com>
+<link href="https://fonts.googleapis.com/css2?family=Asap+Condensed&display=swap" rel=stylesheet>
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel=stylesheet>
+<link rel="shortcut icon" href=/favicon.ico type=image/x-icon>
+<link rel=icon href=/favicon.ico type=image/x-icon>
+<meta property="og:type" content="website">
+<meta property="og:title" content="Using Traffic Data to Build Resilience: How Waze Supports Smarter Disaster Risk Management">
+<meta property="og:description" content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
+<meta property="og:image" content="https://datapartnership.org/images/card.png">
+<meta name=twitter:card content="summary_large_image">
+<meta name=twitter:site content="@DevDataPship">
+<meta name=twitter:site content="@DevDataPship">
+<meta name=twitter:title content="Using Traffic Data to Build Resilience: How Waze Supports Smarter Disaster Risk Management">
+<meta name=twitter:description content="Solving Development Challenges through Data Science Collaboration between Companies and International Organizations.">
+<meta name=twitter:image content="https://datapartnership.org/images/card.png">
+<style id=antiClickjack>body{display:none!important}</style>
+<script type=text/javascript>if(self===top){var antiClickjack=document.getElementById("antiClickjack");antiClickjack.parentNode.removeChild(antiClickjack)}else top.location=self.location</script>
+<script type=text/javascript src=https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js></script>
+<script src=https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js></script>
+<script src=https://cdn.jsdelivr.net/npm/@deck.gl/jupyter-widget@~8.5.*/dist/index.js></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7L4XVWZBSB"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-7L4XVWZBSB')</script>
+<script type=text/javascript src=/js/ga.js></script>
+</head><nav class="navbar navbar-expand-lg site-navigation">
+<button class=navbar-toggler type=button data-toggle=collapse data-target=.container aria-controls=container aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class=container>
+<a class="collapse navbar-collapse navbar-brand" href=/>
+<img src=/images/logo.svg width=70 height=70>
+</a>
+<div class="collapse navbar-collapse" id=sitenavbar>
+<ul class="navbar-nav main-nav">
+<li class=nav-item>
+<a class=nav-link href=/about>About</a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=https://portal.datapartnership.org>Portal</a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=https://docs.datapartnership.org>Documentation</a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/updates>Projects & News</a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=mailto:datapartnership@worldbank.org>Contact us</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="collapse navbar-collapse">
+<a class=nav-detail>
+<img src=/images/topbannerdetail.svg width=300>
+</a>
+</div>
+<div class="collapse navbar-collapse navbar-nav-scroll">
+<ul class="navbar-nav bd-navbar-nav flex-row">
+<li class=nav-item>
+<a class="nav-link p-2" href=https://www.linkedin.com/company/development-data-partnership/ target=_blank rel=noopener aria-label=Twitter><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentcolor" class="bi bi-linkedin" viewBox="0 0 16 16"><path d="M0 1.146C0 .513.526.0 1.175.0h13.65C15.474.0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487.0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837.0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822.0-1.359.54-1.359 1.248.0.694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869.0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274.0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54.0 01.016-.025V6.169h-2.4c.03.678.0 7.225.0 7.225h2.4z"/></svg>
+</a>
+</li>
+<li class=nav-item>
+<a class="nav-link p-2" href=https://twitter.com/DevDataPship target=_blank rel=noopener aria-label=Twitter><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentcolor" class="bi bi-twitter" viewBox="0 0 16 16"><path d="M5.026 15c6.038.0 9.341-5.003 9.341-9.334.0-.14.0-.282-.006-.422A6.685 6.685.0 0016 3.542a6.658 6.658.0 01-1.889.518 3.301 3.301.0 001.447-1.817 6.533 6.533.0 01-2.087.793A3.286 3.286.0 007.875 6.03 9.325 9.325.0 011.108 2.601a3.289 3.289.0 001.018 4.382A3.323 3.323.0 01.64 6.575v.045a3.288 3.288.0 002.632 3.218 3.203 3.203.0 01-.865.115 3.23 3.23.0 01-.614-.057 3.283 3.283.0 003.067 2.277A6.588 6.588.0 01.78 13.58 6.32 6.32.0 010 13.535 9.344 9.344.0 005.026 15z"/></svg>
+</a>
+</li>
+<li class=nav-item>
+<a class="nav-link p-2" href=https://devdatapship.slack.com/join/signup target=_blank rel=noopener aria-label=Slack><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentcolor" class="bi bi-slack" viewBox="0 0 16 16"><path d="M3.362 10.11c0 .926-.756 1.681-1.681 1.681S0 11.036.0 10.111C0 9.186.756 8.43 1.68 8.43h1.682v1.68zm.846.0c0-.924.756-1.68 1.681-1.68s1.681.756 1.681 1.68v4.21c0 .924-.756 1.68-1.68 1.68a1.685 1.685.0 01-1.682-1.68v-4.21zM5.89 3.362c-.926.0-1.682-.756-1.682-1.681S4.964.0 5.89.0s1.68.756 1.68 1.68v1.682H5.89zm0 .846c.924.0 1.68.756 1.68 1.681S6.814 7.57 5.89 7.57H1.68C.757 7.57.0 6.814.0 5.89c0-.926.756-1.682 1.68-1.682h4.21zm6.749 1.682c0-.926.755-1.682 1.68-1.682.925.0 1.681.756 1.681 1.681s-.756 1.681-1.68 1.681h-1.681V5.89zm-.848.0c0 .924-.755 1.68-1.68 1.68A1.685 1.685.0 018.43 5.89V1.68C8.43.757 9.186.0 10.11.0c.926.0 1.681.756 1.681 1.68v4.21zm-1.681 6.748c.926.0 1.682.756 1.682 1.681S11.036 16 10.11 16s-1.681-.756-1.681-1.68v-1.682h1.68zm0-.847c-.924.0-1.68-.755-1.68-1.68.0-.925.756-1.681 1.68-1.681h4.21c.924.0 1.68.756 1.68 1.68.0.926-.756 1.681-1.68 1.681h-4.21z"/></svg>
+</a>
+</li>
+<li class=nav-item>
+<a class="nav-link p-2" href=https://github.com/datapartnership target=_blank rel=noopener aria-label=GitHub><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentcolor" class="bi bi-github" viewBox="0 0 16 16"><path d="M8 0C3.58.0.0 3.58.0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38.0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95.0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12.0.0.67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15.0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48.0 1.07-.01 1.93-.01 2.2.0.21.15.46.55.38A8.012 8.012.0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+</li>
+</ul>
+</div>
+<a class="collapse navbar-collapse nav-link btn btn-sm btn-primary btn-sm-rounded" href=https://portal.datapartnership.org>
+<span class=btn-area>
+<span data-text="Sign in"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentcolor" class="bi bi-box-arrow-in-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 3.5a.5.5.0 01.5-.5h8a.5.5.0 01.5.5v9a.5.5.0 01-.5.5h-8a.5.5.0 01-.5-.5v-2a.5.5.0 00-1 0v2A1.5 1.5.0 006.5 14h8a1.5 1.5.0 001.5-1.5v-9A1.5 1.5.0 0014.5 2h-8A1.5 1.5.0 005 3.5v2a.5.5.0 001 0v-2z"/><path fill-rule="evenodd" d="M11.854 8.354a.5.5.0 000-.708l-3-3a.5.5.0 10-.708.708L10.293 7.5H1.5a.5.5.0 000 1h8.793l-2.147 2.146a.5.5.0 00.708.708l3-3z"/></svg>
+</span>
+</a>
+</nav><body>
+<div id=content>
+<div id=content>
+<section>
+<div class="container-fluid bg-secondary">
+<div class=container>
+<div class=row>
+<div class=col-lg-23>
+<nav aria-label="breadcrumb text-light">
+<ol class="breadcrumb bg-secondary m-0">
+<li class=breadcrumb-item><a class=text-light href=/ aria-current=page>Home</a></li>
+<li class=breadcrumb-item>
+<a class=text-light href=/updates/ aria-current=page>Updates</a>
+</li>
+<li class=breadcrumb-item>
+<a class=text-light href=/updates/using-traffic-data-to-build-resilience-how-waze-supports-smarter-disaster-risk-management/ aria-current=page>Using Traffic Data to Build Resilience: How Waze Supports Smarter Disaster Risk Management</a>
+</li>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="container mt-5 mb-5">
+<div class=row>
+<div class="col-md-8 col-xs-12 single-content blog-content">
+<h1>Using Traffic Data to Build Resilience: How Waze Supports Smarter Disaster Risk Management</h1>
+<time datetime=" 2025-10-15T00:00:00Z">
+October 15, 2025
+</time>
+<a>by</a>
+<a class=authors href=/authors/paolo-avner/>Paolo Avner</a>
+<a class=authors href=/authors/jun-rentschler/>, Jun Rentschler</a>
+<a class=authors href=/authors/neave-oclery/>, Neave O'Clery</a>
+<a class=authors href=/authors/sukankana-chakraboty/>, Sukankana Chakraborty</a>
+<a class=authors href=/authors/shaun-hoang/>, Shaun Hoang</a>
+<br>
+<span class="badge badge-info">Waze</span>
+<span class="badge badge-primary">Disaster Risk Management</span>
+<span class="badge badge-primary">Transport</span>
+<hr>
+<p>With the support of <a href=https://www.waze.com/wazeforcities>Waze</a>, the World Bank validated a new traffic simulation model that identifies the most critical road segments in developing cities, helping governments prioritize climate-proofing and resilience investments.</p>
+<h2 id=challenge>Challenge</h2>
+<p>Floods and various other hazards are becoming increasingly costly for societies worldwide. These costs extend beyond direct damages to assets and infrastructure; they also encompass more subtle yet significant impacts, such as the loss of access to jobs, educational institutions, and healthcare facilities, when transportation routes are disrupted.</p>
+<p>Developing countries are particularly vulnerable as rapid urbanization and climate change exacerbate the impact of extreme weather events. Given the constraints of limited resources and strained public budgets, it is crucial for Disaster Risk Management (DRM) strategies to focus on climate-proofing the key parts of the transportation network. Prioritizing the most critical road segments—those vital for maintaining consistent transport services—can significantly reduce the societal disruptions caused by natural hazards. By safeguarding these crucial routes, communities can ensure quicker recovery, maintain economic stability, and enhance resilience against future climate-related events.</p>
+<p>Identifying which roads are the most critical, however, is not straightforward. The traditional methodology of betweenness centrality metrics, often used in network analysis, has clear limitations in this context. These metrics measure how often a road lies on the shortest routes across a network, but they do not consider where people actually live, work, or access services. This makes them less reliable for capturing the real-world importance of transport links, especially in rapidly growing urban areas of developing countries. In addition, they are also extremely computationally intensive when applied to large cities with large complex road networks.</p>
+<figure style=text-align:center>
+<img src=using-traffic-data-to-build-resilience-how-waze-supports-smarter-disaster-risk-management_thumbnail.png alt="traffic data Waze Thumbnail" style=max-width:100%>
+</figure>
+<h2 id=solution>Solution</h2>
+<p>Through the Development Data Partnership, the World Bank’s Global Facility for Disaster Reduction and Recovery (GFDRR) team leveraged the Waze for Cities dataset for Medellín—which provides road traffic jam data from February 2020—as a validation dataset for a traffic simulation methodology they developed. This approach, which exhibits good computational efficiency, identifies critical roads by sampling and simulating trips between areas with high home and job density.</p>
+<p>The team’s preliminary findings show that their algorithm&rsquo;s predictions of critical roads matched Waze data with a correlation of approximately 0.3 to 0.4, which reflects a 10–15% improvement over standard edge-betweenness centrality method. It also requires significantly less time and computational power. This encouraging pilot result cautiously suggests the potential of our traffic simulation approach and its scalability, with further testing to be conducted.</p>
+<figure style=text-align:center>
+<img src=using-traffic-data-to-build-resilience-how-waze-supports-smarter-disaster-risk-management_figure1.png alt="Correlation with Waze data-derived Road Criticality Index" style=max-width:100%>
+<figcaption style=text-align:center;font-size:.9em;color:#555>The simulation outperforms the edge-betweenness centrality method. Results further improve with a distance aversion parameter that penalises unrealistically long trips.</figcaption>
+</figure>
+<h2 id=impact>Impact</h2>
+<p>The Waze dataset was instrumental to this project, serving as the key ground-truthing resource against which the performance of several methodologies for identifying critical road segments in a real-world developing city was evaluated. Given the global ubiquity of Waze data, it holds significant potential for scaling such analyses, enabling more targeted disaster risk management strategies that help mitigate transport disruptions from flooding and deliver tangible benefits to communities.</p>
+<p>All in all, this project could support policymakers in designing more effective DRM strategies and deciding where to invest limited resources for climate-proofing. By pinpointing the road segments most critical for keeping people connected to jobs, schools, and healthcare, it offers a pathway to reducing everyday disruptions and safeguarding lives and livelihoods during disasters.</p>
+</span>
+</div>
+<div class="col-md-3 offset-md-1 col-xs-12"><div class="bg-sidebar text-light p-3">
+<h4 class=mb-4> You can also read </h4>
+<hr>
+<dl>
+<dt class=pb-4><a class="h5 text-light" href=/updates/using-traffic-data-to-build-resilience-how-waze-supports-smarter-disaster-risk-management/>Using Traffic Data to Build Resilience: How Waze Supports Smarter Disaster Risk Management</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/harnessing-data-to-build-resilience-spotlight-on-flood-risk-projects-with-jba/>Harnessing Data to Build Resilience: Spotlight on Flood Risk Projects with JBA</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/leveraging-data-to-understand-the-pulse-of-amazonia/>Leveraging Data to Understand the Pulse of Amazonia</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/aprovechando-el-big-data-sobre-velocidades-de-viaje-y-patrones-de-movilidad-para-actualizar-el-modelo-nacional-de-transporte-de-ecuador/>Aprovechando el Big Data sobre Velocidades de Viaje y Patrones de Movilidad para Actualizar el Modelo Nacional de Transporte de Ecuador</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/leveraging-big-data-on-travel-speeds-and-mobility-patterns-to-update-ecuador-national-transport-model/>Leveraging Big Data on Travel Speeds and Mobility Patterns to Update Ecuador’s National Transport Model</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/data-for-impact-south-south-cooperation-in-action/>Data for Impact: South-South Cooperation in Action</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/enhancing-e-health-accessibility-bridging-the-digital-divide-in-healthcare-services-in-least-developed-countries/>Enhancing E-Health Accessibility: Bridging the Digital Divide in Healthcare Services in Least Developed Countries</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/building-a-future-ready-workforce-addressing-skills-gaps-in-a-changing-labor-market/>Building a Future-Ready Workforce: Addressing Skills Gaps in a Changing Labor Market</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/partnership-day-2025-leveraging-partnerships-for-the-public-good/>Partnership Day 2025: Leveraging Partnerships for the Public Good</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/examining-gender-disparities-in-skills-within-the-energy-sector-insights-from-linkedin-data/>Examining Gender Disparities in Skills within the Energy Sector: Insights from LinkedIn Data</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/leveraging-satellite-data-to-understand-the-economic-implications-of-sri-lanka-fertilizer-import-ban-in-2021/>Leveraging Satellite Data to Understand the Economic Implications of Sri Lanka’s Fertilizer Import Ban in 2021</a></dt>
+<dt class=pb-4><a class="h5 text-light" href=/updates/mapping-vulnerability-and-mobility-leveraging-digital-data-to-inform-flood-displacement-and-resilience-planning/>Mapping Vulnerability and Mobility: Leveraging Digital Data to Inform Flood Displacement and Resilience Planning</a></dt>
+</dl>
+</div></div>
+</div>
+</div>
+<hr>
+</section>
+</div>
+</div>
+</body>
+<footer>
+<div class=container>
+<div class=row>
+<div class="col-sm-12 col-md-4">
+<h6>About</h6>
+<p>
+The <a href=/about>Development Data Partnership</a> is a collaboration
+between international organizations and
+technology companies, facilitating the efficient and responsible use of third-party data in
+international development.
+</p>
+</div>
+<div class="col-sm-6 col-md-3">
+<h6>Quick Links</h6>
+<ul class=footer-links>
+<li><a href=https://docs.datapartnership.org/pages/community.html>Community</a></li>
+<li><a href=https://docs.datapartnership.org>Documentation</a></li>
+<li><a href=/updates>Projects & News</a></li>
+</ul>
+</div>
+<div class="col-sm-12 col-md-3">
+<h6>Contact</h6>
+<ul class=footer-links>
+<li>
+<a style=padding-left:5px href=mailto:datapartnership@worldbank.org target=_blank rel=noopener aria-label=Contact><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentcolor" class="bi bi-envelope" viewBox="0 0 16 16"><path d="M0 4a2 2 0 012-2h12a2 2 0 012 2v8a2 2 0 01-2 2H2a2 2 0 01-2-2V4zm2-1A1 1 0 001 4v.217l7 4.2 7-4.2V4a1 1 0 00-1-1H2zm13 2.383-4.758 2.855L15 11.114v-5.73zm-.034 6.878L9.271 8.82 8 9.583 6.728 8.82l-5.694 3.44A1 1 0 002 13h12a1 1 0 00.966-.739zM1 11.114l4.758-2.876L1 5.383v5.73z"/></svg> datapartnership@worldbank.org
+</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-6 col-md-2">
+<h6>Legal</h6>
+<ul class=footer-links>
+<li><a href=https://www.worldbank.org/en/about/legal>Privacy Policy</a></li>
+</ul>
+</div>
+<hr>
+</div>
+</div>
+</footer></html>

@@ -1,0 +1,4 @@
+---
+name: Sukankana Chakraborty
+---
+Dr. Sukankana Chakraborty is a Research Fellow at the Centre for Advanced Spatial Analysis (CASA) at University College London (UCL). Her research focuses on applying AI methodologies to support evidence-based policymaking. At UCL, her work integrates machine learning, complexity science, and geospatial methods to analyse urban structures in cities and to design data-driven policies that advance urban development and economic growth. Sukankana was previously a Turing Research Fellow at the Alan Turing Institute (UK). She holds a PhD in Computer Science from the University of Southampton.

@@ -1,0 +1,4 @@
+---
+name: Jun Rentschler
+---
+Jun Rentschler is a Senior Economist at the World Bank, working at the intersection of climate change, urbanization, and sustainable resilient development. Prior to joining The World Bank in 2012, he served as an Economic Adviser at the German Foreign Ministry. He also spent two years at the European Bank for Reconstruction and Development (EBRD) working on private sector investment projects in resource efficiency and climate change. Before that he worked on projects with Grameen Microfinance Bank in Bangladesh and the Partners for Financial Stability Program by USAID in Poland. He is a Visiting Fellow at the Payne Institute for Public Policy, following previous affiliations with the Oxford Institute for Energy Studies and the Graduate Institute for Policy Studies in Tokyo. Jun holds a PhD in Economics from University College London (UCL), specializing in development, climate, and energy. 

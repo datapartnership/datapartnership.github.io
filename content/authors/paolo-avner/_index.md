@@ -1,0 +1,4 @@
+---
+name: Paolo Avner
+---
+Paolo Avner is a Senior Economist with the World Bank and the Global Facility for Disaster Reduction and Recovery (GFDRR), where he co-leads the Disaster Risk Analytics and Resilient Infrastructure thematic areas. His current work in GFDRR focuses on the economics of resilience and disaster risk management in developing countries. He has worked on a number of analytical products including Urbanization Reviews and flagship reports and is the author of several policy-oriented research papers. Prior to joining the Bank, Paolo worked in France as a researcher in LEPII (Grenoble) before joining the Center for International Research in Environment and Development (Paris). Paolo has graduated from La Sorbonne University and from University Paris X - Nanterre as an economist and holds a doctorate from EHESS – École des Hautes Etudes en Sciences Sociales, Paris.  

@@ -8,7 +8,7 @@ tags = ["Disaster Risk Management", "Transport"]
 date = 2025-10-15T00:00:00Z
 +++
 
-With the support of [Waze](https://www.waze.com/wazeforcities), the World Bank validated a new traffic simulation model that identifies the most critical road segments in developing cities, helping governments prioritize climate-proofing and resilience investments.
+With [Waze](https://www.waze.com/wazeforcities)’s support, the World Bank, in collaboration with University College London, validated a new traffic simulation model that identifies the most critical road segments in developing cities, helping governments prioritize climate-proofing and resilience investments. 
 
 
 ## Challenge
@@ -40,4 +40,5 @@ The team’s preliminary findings show that their algorithm's predictions of cri
 The Waze dataset was instrumental to this project, serving as the key ground-truthing resource against which the performance of several methodologies for identifying critical road segments in a real-world developing city was evaluated. Given the global ubiquity of Waze data, it holds significant potential for scaling such analyses, enabling more targeted disaster risk management strategies that help mitigate transport disruptions from flooding and deliver tangible benefits to communities.
 
 All in all, this project could support policymakers in designing more effective DRM strategies and deciding where to invest limited resources for climate-proofing. By pinpointing the road segments most critical for keeping people connected to jobs, schools, and healthcare, it offers a pathway to reducing everyday disruptions and safeguarding lives and livelihoods during disasters.
+
 

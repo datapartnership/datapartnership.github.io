@@ -1,6 +1,6 @@
 +++
 title = "Investing in the Future: Connecting Guatemala’s Schools to the Internet"
-authors = ["Enrique Iglesias", "Sébastien Peytrignet", "Walid Mathlouthi"]
+authors = ["Enrique Iglesias", "Sebastien Peytrignet", "Walid Mathlouthi"]
 categories = ["Case Study"]
 partner = ["Ookla"]
 dev_partner = ["Inter American Development Bank "]
@@ -63,5 +63,6 @@ Additionally, the benefits go far beyond classrooms. Expanding fiber infrastruct
 All in all, investing in school connectivity is not just about improving education; it’s about building a stronger, more inclusive digital economy for the entire country.
 
 Learn about ITU’s Digital Infrastructure Investment Initiative: [https://www.itu.int/hub/2025/01/digital-infrastructure-investment-the-school-connection](https://www.itu.int/hub/2025/01/digital-infrastructure-investment-the-school-connection) 
+
 
 

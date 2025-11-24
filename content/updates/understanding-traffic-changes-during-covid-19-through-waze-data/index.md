@@ -27,7 +27,7 @@ Yet, the expansion of transport networks, whether by road, air, or sea, comes wi
 
 The [Atlas of Sustainable Development Goals 2023](https://datatopics.worldbank.org/sdgatlas/?lang=en) features interactive storytelling and data visualizations about the 17 Sustainable Development Goals. It showcases trends for specific targets within each goal and explains how certain SDGs are measured.
 
-As part of the chapter on SDG 9, a chapter which focuses on transport among other topics, the World Bank team examined the COVID-19 pandemic's impact on various transportation modes. Once COVID-19 was officially declared a global pandemic, many countries issued stay-at-home orders or recommendations, which caused an immediate drop in the number of cars on the roads.
+As part of the [chapter on SDG 9](https://datatopics.worldbank.org/sdgatlas/goal-9-industry-innovation-and-infrastructure?lang=en), a chapter which focuses on transport among other topics, the World Bank team examined the COVID-19 pandemic's impact on various transportation modes. Once COVID-19 was officially declared a global pandemic, many countries issued stay-at-home orders or recommendations, which caused an immediate drop in the number of cars on the roads.
 
 City-level, real-time traffic data can provide insights into travel patterns during the pandemic. Through the Development Data Partnership, the World Bank’s Development Data Group leveraged Waze data to examine changes in road traffic volume in New York, Bogotá, Mumbai, and Manila following the implementation of lockdowns.
 
@@ -42,6 +42,7 @@ City-level, real-time traffic data can provide insights into travel patterns dur
 By using Waze’s data, the World Bank was able to capture how city traffic changed following pandemic restrictions. In places like New York, Bogotá, Mumbai, and Manila, traffic volume dropped sharply during lockdowns, then gradually rebounded as economies reopened. These shifts reveal how quickly urban mobility can respond to policy changes caused by crises.
 
 When mobility data from platforms like Waze is combined with economic and environmental indicators, it enables more informed decisions about infrastructure planning, public transit investment, and urban development. Ultimately, this helps create more sustainable, inclusive, and resilient transportation systems, bringing countries closer to the goal of sustainable development.
+
 
 
 

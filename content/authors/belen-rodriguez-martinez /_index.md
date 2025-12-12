@@ -1,0 +1,4 @@
+---
+name: Belen Rodriguez Martinez
+---
+Belen Rodriguez Martinez is a Digital Analyst in the World Bank’s West and Central Africa team, where she supports the design and implementation of regional and national investment projects, as well as analytical initiatives across the region. Prior to joining the World Bank, she worked in the private sector and at the Embassy of Spain in Washington, D.C., promoting the participation of Spanish companies in development finance institution–funded projects. She holds a BSc in Economics from the University of Oviedo and a Master’s degree in Digital Transformation.

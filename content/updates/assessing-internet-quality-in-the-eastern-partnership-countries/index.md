@@ -48,12 +48,13 @@ To address these challenges, the World Bank through the EU4Digital program has d
 
 The improved understanding of internet quality and accessibility across the EaP countries will guide policy reforms and investment decisions aimed at closing the digital divide. By identifying gaps and bottlenecks, the assessment supports governments in:
 
-•	Designing targeted incentives that promote broadband expansion.
-•	Implementing regulatory reforms that encourage fair competition.
-•	Mobilizing private capital to diversify international backbone routes and strengthen network resilience; and
-•	Enhancing digital inclusion, ensuring that individuals, businesses, and institutions across the region can participate in and benefit from the digital economy.
+- Designing targeted incentives that promote broadband expansion.
+- Implementing regulatory reforms that encourage fair competition.
+- Mobilizing private capital to diversify international backbone routes and strengthen network resilience.
+- Enhancing digital inclusion, ensuring that individuals, businesses, and institutions across the region can participate in and benefit from the digital economy.
 
 Ultimately, this initiative contributes to greater economic resilience, regional integration, and social inclusion. By combining innovative data analysis with strategic policymaking, the World Bank and its partners are helping to build a more connected, competitive, and digitally empowered region.
+
 
 
 

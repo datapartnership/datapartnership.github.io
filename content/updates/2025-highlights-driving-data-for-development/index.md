@@ -6,7 +6,7 @@ date = 2025-12-15T00:00:00Z
 
 2025 has been a year of meaningful progress for the Development Data Partnership. Together with our data and development partners, we have grown our community, expanded the scope and scale of project impacts, and promoted the responsible use of private sector data and AI models for development.
 
-The Partnership has supported more than 100 projects in 2025, each contributing towards our shared Sustainable Development Goals. You can learn more about them through the 2025 published [impact stories](https://datapartnership.org/updates/) listed below, which demonstrate the outcomes of public-private collaboration.   
+The Partnership has supported more than 100 projects in 2025, each contributing towards our shared Sustainable Development Goals. You can learn more about them through the 2025 published [impact stories](###Impact-Stories-from-2025) listed below, which demonstrate the outcomes of public-private collaboration.   
 
 ## Expanding Partnerships and Collaborations
 In 2025, we have been excited to welcome [GrabMaps](https://grabmaps.grab.com/), [Kido Dynamics](https://www.kidodynamics.com/) and [Irys](https://irys.us/), who bring new sources of mobility and imagery, telecom, and location data to the Partnership, as well as technical expertise and a shared commitment to using data for the public good.
@@ -26,7 +26,15 @@ A key highlight of 2025 has been this year’s [Development Data Partnership Day
 </figure>
 In addition to the annual Development Data Partnership Day, we hosted our annual Strategic Advisory Group Meeting at UNDP HQ to bring together all our members, including companies and international organizations, to discuss our mission and new strategic goals for 2030.
 
-## 2025 Impact Stories
+## Looking Ahead
+As we approach 2026, we are excited to continue delivering on our new strategic goals. We are excited to advance the new Global Generative AI Index, and help governments unlock siloed underrepresented language media content for training AI models. We will continue to expand our outreach, strengthen existing partnerships, and foster new collaborations that will be essential to our journey ahead.
+
+We are grateful for the continued enthusiasm for the Partnership and the remarkable work of our partners and the data community and cannot wait to see what you do next!
+
+Thank you again for being an integral part of this remarkable 2025 journey.
+
+### Impact Stories from 2025
+
 - To support the EU4Digital Phase II program, the World Bank’s Digital Europe and Central Asia unit leveraged Ookla® Speedtest Intelligence data to strengthen digital connectivity and resilience across the Eastern Partnership countries—Armenia, Azerbaijan, Georgia, Moldova, and Ukraine. [Learn more here.](https://datapartnership.org/updates/assessing-internet-quality-in-the-eastern-partnership-countries/)
 
 - The Rwanda Sustainable Landscape Management Investment Framework sets out a long-term plan to promote sustainable land use and restore degraded ecosystems. The World Bank leveraged data from JBA Global Resilience to support the Framework for catchment management and ecological restoration, particularly in flood-prone areas. [Find out more here.](https://datapartnership.org/updates/leveraging-jba-data-for-flood-risk-assessment-in-rwanda-sustainable-landscape-management-framework/) 
@@ -81,12 +89,8 @@ In addition to the annual Development Data Partnership Day, we hosted our annual
 
 - Leveraging the Twitter (now X) API, the Smart and Safe Kenya Transport (smarTTrans) team at the World Bank translated crowdsourced crash reports from @Ma3Route into structured data on crashes for Nairobi. [Read more here.](https://datapartnership.org/updates/leveraging-social-media-data-to-map-road-traffic-crashes/)   
 
-## Looking Ahead
-As we approach 2026, we are excited to continue delivering on our new strategic goals. We are excited to advance the new Global Generative AI Index, and help governments unlock siloed underrepresented language media content for training AI models. We will continue to expand our outreach, strengthen existing partnerships, and foster new collaborations that will be essential to our journey ahead.
 
-We are grateful for the continued enthusiasm for the Partnership and the remarkable work of our partners and the data community and cannot wait to see what you do next!
 
-Thank you again for being an integral part of this remarkable 2025 journey.
 
 
 

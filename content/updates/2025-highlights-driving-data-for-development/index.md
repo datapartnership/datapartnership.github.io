@@ -26,6 +26,7 @@ A key highlight of 2025 has been this year’s [Development Data Partnership Day
 </figure>
 In addition to the annual Development Data Partnership Day, we hosted our annual Strategic Advisory Group Meeting at UNDP HQ to bring together all our members, including companies and international organizations, to discuss our mission and new strategic goals for 2030.
 
+<br>
 ## 2025 Impact Stories
 - To support the EU4Digital Phase II program, the World Bank’s Digital Europe and Central Asia unit leveraged Ookla® Speedtest Intelligence data to strengthen digital connectivity and resilience across the Eastern Partnership countries—Armenia, Azerbaijan, Georgia, Moldova, and Ukraine. [Learn more here.](https://datapartnership.org/updates/assessing-internet-quality-in-the-eastern-partnership-countries/)
 
@@ -87,3 +88,4 @@ As we approach 2026, we are excited to continue delivering on our new strategic 
 We are grateful for the continued enthusiasm for the Partnership and the remarkable work of our partners and the data community and cannot wait to see what you do next!
 
 Thank you again for being an integral part of this remarkable 2025 journey.
+

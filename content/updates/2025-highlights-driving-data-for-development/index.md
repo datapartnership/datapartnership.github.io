@@ -6,7 +6,7 @@ date = 2025-12-15T00:00:00Z
 
 2025 has been a year of meaningful progress for the Development Data Partnership. Together with our data and development partners, we have grown our community, expanded the scope and scale of project impacts, and promoted the responsible use of private sector data and AI models for development.
 
-The Partnership has supported more than 100 projects in 2025, each contributing towards our shared Sustainable Development Goals. You can learn more about them through the 2025 published [impact stories](###Impact-Stories-from-2025) listed below, which demonstrate the outcomes of public-private collaboration.   
+The Partnership has supported more than 100 projects in 2025, each contributing towards our shared Sustainable Development Goals. You can learn more about them through the 2025 published [impact stories]([https://datapartnership.org/updates/) listed below, which demonstrate the outcomes of public-private collaboration.   
 
 ## Expanding Partnerships and Collaborations
 In 2025, we have been excited to welcome [GrabMaps](https://grabmaps.grab.com/), [Kido Dynamics](https://www.kidodynamics.com/) and [Irys](https://irys.us/), who bring new sources of mobility and imagery, telecom, and location data to the Partnership, as well as technical expertise and a shared commitment to using data for the public good.
@@ -88,6 +88,7 @@ Thank you again for being an integral part of this remarkable 2025 journey.
 - With the global population continually rising, it is essential to develop modern, sustainable cities with transport infrastructure that can serve everyone. The World Bank utilized data from tech companies to address traffic congestion and enhance road safety in low-income countries. [Find out more here.](https://datapartnership.org/updates/unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety/)  
 
 - Leveraging the Twitter (now X) API, the Smart and Safe Kenya Transport (smarTTrans) team at the World Bank translated crowdsourced crash reports from @Ma3Route into structured data on crashes for Nairobi. [Read more here.](https://datapartnership.org/updates/leveraging-social-media-data-to-map-road-traffic-crashes/)   
+
 
 
 

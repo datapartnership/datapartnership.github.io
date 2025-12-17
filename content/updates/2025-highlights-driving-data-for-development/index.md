@@ -1,4 +1,3 @@
-Clean markdown code only:
 +++
 title = "2025 Highlights: Driving Data for Development"
 authors = ["Kwok Kin Lee", "Holly Krambeck"]
@@ -88,5 +87,6 @@ As we approach 2026, we are excited to continue delivering on our new strategic 
 We are grateful for the continued enthusiasm for the Partnership and the remarkable work of our partners and the data community and cannot wait to see what you do next!
 
 Thank you again for being an integral part of this remarkable 2025 journey.
+
 
 

@@ -1,6 +1,6 @@
 +++
 title = "2025 Highlights: Driving Data for Development"
-authors = ["Kwok Kin Lee", "Holly Krambeck"]
+authors = ["Kwok Kin Lee", "Holly Krambeck", "Claudia Calderon"]
 date = 2025-12-15T00:00:00Z
 +++
 
@@ -87,4 +87,5 @@ Thank you again for being an integral part of this remarkable 2025 journey.
 - **Unleashing the Power of Data to Tackle Traffic Congestion and Promote Road Safety**: With the global population continually rising, it is essential to develop modern, sustainable cities with transport infrastructure that can serve everyone. The World Bank utilized data from tech companies to address traffic congestion and enhance road safety in low-income countries. [Find out more here.](https://datapartnership.org/updates/unleashing-the-power-of-data-to-tackle-traffic-congestion-and-promote-road-safety/)  
 
 - **Leveraging Social Media Data to Map Road Traffic Crashes**: Leveraging the Twitter (now X) API, the Smart and Safe Kenya Transport (smarTTrans) team at the World Bank translated crowdsourced crash reports from @Ma3Route into structured data on crashes for Nairobi. [Read more here.](https://datapartnership.org/updates/leveraging-social-media-data-to-map-road-traffic-crashes/)   
+
 

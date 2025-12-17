@@ -1,46 +1,32 @@
 +++
 title = "2025 Highlights: Driving Data for Development"
-authors = ["Kwok Kin Lee", "Claudia Calderon"]
+authors = ["Kwok Kin Lee", "Holly Krambeck"]
 date = 2025-12-15T00:00:00Z
 +++
 
-2025 has been a year of meaningful progress for the Development Data Partnership (the Partnership). Together with our data and development partners, we have expanded collaboration, grown our community, and promoted the responsible use of data and AI models for development. 
+2025 has been a year of meaningful progress for the Development Data Partnership. Together with our data and development partners, we have grown our community, expanded the scope and scale of project impacts, and promoted the responsible use of private sector data and AI models for development.
+
+The Partnership has supported more than 100 projects in 2025, each contributing towards our shared Sustainable Development Goals. You can learn more about these through our published [impact stories]( https://datapartnership.org/updates/) that demonstrate the outcomes from public-private collaboration.  Check below is a list of this year’s impact stories that illustrate the power of collaboration. 
 
 ## Expanding Partnerships and Collaborations
-  
-Partnership has been at the core of our success this year. During 2025, we have strengthened ties across our network of development organizations and private-sector data partners, fostering collaboration that turns shared data into shared progress. 
+In 2025, we have been excited to welcome [GrabMaps](https://grabmaps.grab.com/), [Kido Dynamics](https://www.kidodynamics.com/) and [Irys](https://irys.us/), who bring new sources of mobility and imagery, telecom, and location data to the Partnership, as well as technical expertise and a shared commitment to using data for the public good.
 
-We were also excited to welcome [GrabMaps](https://grabmaps.grab.com/), [Kido Dynamics](https://www.kidodynamics.com/) and [Irys](https://irys.us/) who bring new sources of mobility and imagery, telecom, and location data to the Partnership, as well as technical expertise and a shared commitment to using data for the public good. 
+## Building a Global Generative AI Index
+This year, the Partnership convened a roundtable of Chief Economists from OpenAI, Anthropic, Google, and LinkedIn, as well as Directors and Principal Researchers from Microsoft, Meta, and GitHub. Together, these competing companies agreed to collaborate on the first-of-its-kind program to measure global generative AI adoption. The initiative marks a new chapter in the Partnership's story, building on our governance, technical, and legal frameworks to build new, needed public data goods that individual organizations couldn't create on their own.
 
+## Piloting Partnerships with Media Houses to Train AI Models on Under-Represented Languages
+Nearly 4 billion people worldwide speak languages that do not have a sufficient internet presence to train generative AI models. To meet this challenge, the Partnership is extending its public-private data sharing model to governments, designing a system for partnering with media houses to build national digital language libraries for training AI models. The project, supported by the Gates Foundation, is being piloted in Malawi in collaboration with the Ministry of ICT and National Statistical Office, as well as the country's largest newspapers, broadcasters, and radio stations.
 
 ## Bringing the Data Community Together
-
-A key highlight of 2025 has been this year’s [Development Data Partnership Day](https://datapartnership.org/updates/partnership-day-2025-leveraging-partnerships-for-the-public-good), held in June at Google’s St. John's Terminal - New York office. The event brought together technology companies, multilateral institutions, and the broader data community to share experiences and explore how collaboration can accelerate progress toward global development goals. 
-
-Through discussions and the sharing of impact stories, participants demonstrated how data can be turned into insights that lead to meaningful change. The day also highlighted the value of the Partnership’s strong technical, legal, and governance foundations, which are vital elements that continue to shape our collective response to today’s changing development challenges. [Discover more about the event here](https://datapartnership.org/updates/partnership-day-2025-leveraging-partnerships-for-the-public-good). 
-
+A key highlight of 2025 has been this year’s [Development Data Partnership Day](https://datapartnership.org/updates/partnership-day-2025-leveraging-partnerships-for-the-public-good), held in June at Google’s New York office. The event brought together technology companies, multilateral institutions, and the broader data community to share project outcomes and explore how collaboration can accelerate progress toward global development goals amid changing priorities. [Discover more about the event here](https://datapartnership.org/updates/partnership-day-2025-leveraging-partnerships-for-the-public-good). 
 
 <figure style="text-align: center;">
   <img src="2025-highlights-driving-data-for-development_thumnail.jpeg" alt="025 highlights Thumbnail" style="max-width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #555;">Members of the Development Data Partnership</figcaption>
 </figure>
+In addition to the annual Development Data Partnership Day, we hosted our annual Strategic Advisory Group Meeting at UNDP HQ to bring together all our members, including companies and international organizations, to discuss our mission and new strategic goals for 2030.
 
-
-## Building a Global Generative AI Index 
-
-During the [World Bank - IMF Annual meetings](https://www.worldbank.org/en/meetings/splash/annual), the Partnership convened a roundtable of Chief Economists from the OpenAI, Anthropic, Google, and LinkedIn, as well as Directors and Senior Researchers from Microsoft, Meta, and GitHub. Together, these competing companies agreed to collaborate on the first global program to measure generative AI adoption with direct data. The initiative, to be supported by Schmidt Sciences and the Gates Foundation, marks a new chapter in the Partnership's story, building on our governance, technical, and legal frameworks to build new, needed public data goods that individual organizations couldn't create on their own.  
-
-
-## Piloting Partnerships with Media Houses to Train AI Models on Under-Represented Languages 
-
-Nearly 4 billion people worldwide speak languages that do not have a sufficient internet presence to train generative AI models. So that half the world is not left behind, the Partnership is extending its public-private data sharing model to governments, designing a system for partnering with media houses to build national digital language libraries for training AI models. The project, supported by the Gates Foundation, is being piloted in Malawi in collaboration with the Ministry of ICT and National Statistical Office, as well as the country's largest newspapers, broadcasters, and radio stations. 
-
-## Harnessing Data for Sustainable Development 
-
-Data is an essential driver for fostering sustainable development worldwide. In this effort, technology companies play a pivotal role by offering high-quality data to data scientists and policymakers across various sectors. The Partnership has supported over 100 projects in 2025, each contributing to addressing some of the key development challenges. 
-
-This year, in addition to project support, we published nearly 30 impact stories that showcase the outcomes and collaborations with the private sector. Below is a list of this year’s impact stories that illustrate the power of collaboration. 
-
+## 2025 Impact Stories
 • To support the EU4Digital Phase II program, the World Bank’s Digital Europe and Central Asia unit leveraged Ookla® Speedtest Intelligence data to strengthen digital connectivity and resilience across the Eastern Partnership countries—Armenia, Azerbaijan, Georgia, Moldova, and Ukraine. Learn more here. 
 
 • The Rwanda Sustainable Landscape Management Investment Framework sets out a long-term plan to promote sustainable land use and restore degraded ecosystems. The World Bank leveraged data from JBA Global Resilience to support the Framework for catchment management and ecological restoration, particularly in flood-prone areas. [Find out more here.](https://datapartnership.org/updates/leveraging-jba-data-for-flood-risk-assessment-in-rwanda-sustainable-landscape-management-framework/) 
@@ -95,11 +81,11 @@ This year, in addition to project support, we published nearly 30 impact stories
 
 • Leveraging the Twitter (now X) API, the Smart and Safe Kenya Transport (smarTTrans) team at the World Bank translated crowdsourced crash reports from @Ma3Route into structured data on crashes for Nairobi. [Read more here.](https://datapartnership.org/updates/leveraging-social-media-data-to-map-road-traffic-crashes/)   
 
+<img width="468" height="639" alt="image" src="https://github.com/user-attachments/assets/bd6f1263-5634-425b-b539-a84d52a6a5c5" />
 
-## Looking Ahead: 
+## Looking Ahead
+As we approach 2026, we are excited to continue delivering on our new strategic goals. We are excited to advance the new Global Generative AI Index, and help governments unlock siloed underrepresented language media content for training AI models. We will continue to expand our outreach, strengthen existing partnerships, and foster new collaborations that will be essential to our journey ahead.
 
-As we approach 2026, we are excited to build on the support we've received to create a new Global Generative AI Index. We will continue our efforts to train AI models on underrepresented languages, emphasizing the importance of data collaborations between the private sector and international organizations. Expanding our outreach, strengthening existing partnerships, and fostering new collaborations will be essential to our journey ahead. 
+We are grateful for the continued enthusiasm for the Partnership and the remarkable work of our partners and the data community and cannot wait to see what you do next!
 
-We are grateful for the continued support of our partners and the data community. 
-
-Thank you again for being an integral part of this remarkable 2025 journey! 
+Thank you again for being an integral part of this remarkable 2025 journey.

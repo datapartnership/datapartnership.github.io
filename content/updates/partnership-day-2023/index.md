@@ -4,6 +4,7 @@ title = "Development Data Partnership Day 2023"
 authors = ["Claudia Calderon"]
 categories = ["Announcement"]
 dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "CAF" , "EBRD", "Asian Development Bank" ]
+thumbnail = "keynotes.png"
 +++
 
 **Join us for the Development Data Partnership Day on Wednesday, May 10, 2023, from 9:00 a.m. to 12:30 p.m. US ET in person at the World Bank HQ in Washington, DC.**

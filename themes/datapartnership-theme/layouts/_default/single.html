@@ -29,33 +29,39 @@
       <div class="row">
         <div class="col-md-8 col-xs-12 single-content blog-content">
           <h1>{{ .Params.title }}</h1>
+          <a>by</a>
+          {{ range $i, $e := .Params.authors }}
+          {{ with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
+          <a class="authors" href="{{ .Permalink }}">{{ .Params.name }}</a>,
+          {{ end }}
+          {{ end }}
+          <a>on</a>
           {{ if .Date }}
           <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">
             {{ .Date.Format "January 02, 2006"}}
           </time>
-          <a>by</a>
-          {{ range $i, $e := .Params.authors }}
-          {{ with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
-          <a class="authors" href="{{ .Permalink }}">{{ if $i }}, {{ end }}{{ .Params.name }}</a>
-          {{ end }}
-          {{ end }}
           {{ end }}
           <br>
+          {{ if .Params.categories }}
+          {{ range .Param "categories" }}
+          <a class="badge badge-danger" href="/categories/{{ (urlize .) }}">{{ . }}</a>
+          {{ end }}
+          {{ end }}
           {{ if .Params.partner }}
           {{ range .Param "partner" }}
-          <span class="badge badge-info">{{ . }}</span>
+          <a class="badge badge-info" href="/partner/{{ (urlize .) }}">{{ . }}</a>
           {{ end }}
           {{ end }}
           {{ if .Params.tags }}
           {{ range .Param "tags" }}
-          <span class="badge badge-primary">{{ . }}</span>
+          <a class="badge badge-primary" href="/tags/{{ (urlize .) }}">{{ . }}</a>
           {{ end }}
           {{ end }}
-          <hr>
+          <br><br>
           {{ .Content | safeHTML }}
           {{ if .Params.links }}
           <br>
-          <h3>Read more</h3>
+          <h3>References</h3>
           {{ range .Params.links }}
           <span>
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg"

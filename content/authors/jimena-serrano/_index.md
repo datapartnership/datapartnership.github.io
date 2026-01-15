@@ -1,0 +1,5 @@
+---
+name: Jimena Serrano
+---
+
+Jimena Serrano is a gender, diversity and inclusion officer in the IDB Invest Advisory Services team in Washington DC. Since 2015, she has advised IDB Invest clients in promoting practices to ensure equal access to opportunities for men and women in the business world, including leadership positions, value chains, and strategies to meet the needs of underrepresented groups as a market opportunity. She has designed gender programs tied to results in the context of blended finance and was one of the leaders in the design of a business tool based on the Women's Empowerment Principles (known as the WEP tool). Before her arrival at IDB Invest, Jimena worked in the public policy consulting area of ​​The Economist Intelligence Unit; she was also part of the core team that prepared the Report on the Full Participation of Women and Girls for the Gates Foundation and the Clinton Foundation. She is a lawyer from the Universidad de Los Andes in Colombia and has a master's degree in international economics from Johns Hopkins University School of Advanced International Studies (SAIS).

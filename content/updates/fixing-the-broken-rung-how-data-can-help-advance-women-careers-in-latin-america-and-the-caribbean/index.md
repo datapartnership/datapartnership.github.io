@@ -1,6 +1,6 @@
 +++
 title = "Fixing the Broken Rung: How Data Can Help Advance Women’s Careers in Latin America and the Caribbean"
-authors = ["Patricia Yañez Pagans", "Jimena Serrano", "Mattia Chiapello", "Magdalena Barafanis","Casey Weston", "Silvia Lara", "Alejandra Barrientos"]
+authors = ["Patricia Yañez Pagans", "Jimena Serrano", "Mattia Chiapello", "Magdalena Barafani","Casey Weston", "Silvia Lara", "Alejandra Barrientos"]
 categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["IDB Invest"]

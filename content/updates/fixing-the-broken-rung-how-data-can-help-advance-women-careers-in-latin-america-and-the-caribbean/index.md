@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["IDB Invest"]
 tags = ["Gender", "Jobs and Development"]
-link= ["https://idbinvest.org/en/blog/gender/fixing-broken-rung-how-data-can-help-advance-womens-careers-latin-america-and-caribbean"]
+links = ["https://idbinvest.org/en/blog/gender/fixing-broken-rung-how-data-can-help-advance-womens-careers-latin-america-and-caribbean"]
 date = 2026-01-15T00:00:00Z
 +++
 
@@ -72,6 +72,7 @@ While LinkedIn data serves as a critical input for designing public policies tai
 In addition to this analysis, IDB Invest has developed specific tools to help companies advance women’s leadership, including “[A Roadmap to Advance Women’s Leadership in Latin America and the Caribbean](https://www.idbinvest.org/en/publications/roadmap-womens-leadership-development-latin-america-and-caribbean?_ga=2.263320520.579527197.1765612216-2052156124.1765291362)”. This toolkit guides firms in implementing effective programs through senior management commitment, clear internal targets, and training that combines mentoring and coaching, all supported by monitoring and evaluation.
 
 As we deepen our analysis and understanding of the women’s career landscape across the LAC region, we will continue to advise and support our private sector partners, drawing on our experience to deliver even more tailored, data driven solutions.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-name: Patricia Yañez-Pagans
+name: Patricia Yanez Pagans
 ---
 
 Patricia Yañez-Pagans is a Principal Economist in the Development Effectiveness Division of IDB Invest. With extensive experience in impact measurement across multiple areas, both in the public and private sectors, she currently leads the work on ex-post evaluation for the IDB Invest portfolio and the impact knowledge agenda. Patricia joined the IDB Group under the Young Professionals Program and served as an Economist in the IDB's Office of Strategic Planning and Development Effectiveness and as Research Fellow for IDB’s Research Department. She has also worked as a consultant for different institutions, such as the World Bank, UNICEF and the Ministry of Development Planning of Bolivia, and as a Professor of Economics at the Universidad Católica Boliviana. Patricia has a Ph.D. in Applied Economics from the University of Wisconsin-Madison, a Master’s in Applied Economics from Pompeu Fabra University, and a Master’s in Social Policy and Development from The London School of Economics and Political Science.

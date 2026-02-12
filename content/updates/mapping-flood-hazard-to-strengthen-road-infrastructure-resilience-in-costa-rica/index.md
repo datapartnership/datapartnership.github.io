@@ -32,13 +32,9 @@ To better understand flood risk along National Route 35, the study used high-res
 
 The map below showcases flood susceptibility along Costa Rica’s National Route 35 (Bernardo Soto–Florencia section). It combines flood susceptibility with mapped flood-prone areas to highlight the road segments more exposed to flooding.
 
-
 <figure style="text-align: center;">
   <img src="mapping-flood-hazard-to-strengthen-road-infrastructure-resilience-in-costa-rica_figure1.png" style="max-width: 100%;">
 </figure>
-
-content/updates/
-
 
 ## Impact
 
@@ -47,3 +43,4 @@ By identifying flood-prone areas along the Bernardo Soto–Florencia corridor, t
 In addition, the analysis supported the identification, anticipation, prevention, and mitigation of potential project-related impacts on the community, in line with the IDB Environmental and Social Policy Framework. Where necessary, it also informed refinements to the hydraulic design of specific sections and elements of the corridor.
 
 More broadly, the study aligns with the IDB’s regional efforts to strengthen disaster and climate risk analysis across project identification, preparation, and implementation, supporting more integrated risk and resilience assessments and helping vulnerable countries advance their sustainable development and adaptation goals.
+

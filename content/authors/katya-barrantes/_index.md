@@ -1,4 +1,4 @@
 ---
 name: Katya Barrantes
 ---
-
+Katya Barrantes is an environmental and biodiversity specialist. She currently works as an Environmental and Social Officer at IDB Invest, where she supports private sector operations in Latin America and the Caribbean, with a focus on environmental and social origination and supervision. Previously, Katya worked for over three years as an Environmental and Social Consultant in the Environmental and Social Solutions Unit in IDB, supporting public sector operations across the region. Her experience spans multiple sectors, including water and sanitation, transport, energy, and infrastructure, with a strong focus on environmental and social supervision. She is a biologist and holds a Master’s degree in Sustainable Development, with an emphasis on Biological Resource Conservation, from the University of Costa Rica.

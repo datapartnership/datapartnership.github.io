@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["World Bank"]
 tags = ["Jobs and Development"]
-link = ["https://openknowledge.worldbank.org/entities/publication/8f5d2cb9-92d4-42fd-a4ad-fa538f081488"]
+links = ["https://openknowledge.worldbank.org/entities/publication/8f5d2cb9-92d4-42fd-a4ad-fa538f081488"]
 date = 2026-03-02T00:00:00Z
 +++
 
@@ -44,6 +44,3 @@ The study reveals that highly skilled digital talent enjoys global mobility and 
 The findings above highlight the need for countries experiencing outflows of digital talent to cultivate and retain it. Governments can integrate digital skills into formal education curricula, collaborate with educational technology providers to expand access, align training programs with labor market demands, subsidize training for underserved populations and small and medium-sized enterprises, and implement policies to attract and retain digital talent, including streamlined visa processes. Leveraging diaspora digital talent facilitates access to skills and knowledge transfer that can drive economic growth.
 
 For this study, LinkedIn data provided a snapshot of high-skilled talent inflow and outflow ratios, offering a partial view of cross-country mobility patterns among highly skilled workers. To more accurately assess the scale of brain drain and brain gain, these insights need to be complemented with other data sources, preferably administrative and representative datasets.
-
-
-

@@ -1,0 +1,5 @@
+---
+name: Saloni Khurana 
+---
+
+Saloni Khurana is an Economist in the Digital and AI Vertical of the World Bank Group, specializing in AI and digital skills, digital economy research, labor markets, trade, and applied micro-econometrics. She has co-authored multiple World Bank flagship reports, including the Digital Progress and Trends Report 2025 and Cities and Jobs in India: Unlocking Employment Potential through Urbanization (2026), and provides analytical inputs and policy advisory on digital jobs and skills across South Asia, the Middle East, Central Asia, East Asia, and Africa. Beyond the World Bank, she has consulted for institutions such as Ashoka University and Qatar University, and founded Data with Saloni, an econometrics advisory and mentoring practice. Her research has been published in peer-reviewed journals, and she has contributed to book chapters with Oxford University Press and Routledge. She holds a Ph.D. in Economics (expected 2026) from the Indian Institute of Foreign Trade, New Delhi.

@@ -17,9 +17,8 @@ The Development Data Partnership brings together international organizations and
 In celebration of International Women’s Day (March 8), we highlight two projects supported through the Development Data Partnership that use [LinkedIn](https://economicgraph.linkedin.com) data to better understand gender gaps and inform solutions. 
 
 <figure style="text-align: center;">
-  <img src="turning-data-into-insights-for-women-empowerment_thumbnail.png" alt="IWD thumbnail" style="max-width: 100%;">
+  <img src="turning-data-into-insights-for-women-empowerment.png" alt="IWD thumbnail" style="max-width: 100%;">
 </figure>
-
 
 ## Mapping Gender Gaps in the Energy Sector 
 
@@ -34,6 +33,7 @@ In Europe’s utilities sector, the contrast was more pronounced: women predomin
 
 
 ## Addressing the “Broken Rung” in Women’s Career Progression 
+
 
 Across Latin America and the Caribbean, one of the most significant barriers to women’s career advancement occurs during the transition from entry-level roles to managerial positions. Understanding where women’s participation declines along the career ladder is critical for designing policies and initiatives that support their advancement.  
 

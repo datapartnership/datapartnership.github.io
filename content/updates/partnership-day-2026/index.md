@@ -1,6 +1,6 @@
 +++
-date =  2025-04-30T00:00:00Z
-title = "Development Data Partnership Day 2025"
+date =  2026-03-09T00:00:00Z
+title = "Development Data Partnership Day 2026"
 authors = ["Claudia Calderon"]
 categories = ["Announcement"]
 dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "EBRD", "Asian Development Bank", "Asian Development Bank","IDB Invest", "UNICEF"]

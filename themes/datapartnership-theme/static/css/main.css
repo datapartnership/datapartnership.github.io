@@ -334,11 +334,19 @@ a.btn-primary {
 }
 
 .grid-card {
-  height: 500px;
+  height: 650px;
 }
 
 .card {
-  height: 480px;
+  height: 600px;
+}
+
+.card-content {
+  height: 320px;
+}
+
+.card-text {
+	line-height: 1.5em;
 }
 
 .card-footer {

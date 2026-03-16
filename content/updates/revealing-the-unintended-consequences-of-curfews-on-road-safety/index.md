@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Waze"]
 dev_partner = ["World Bank" ]
 tags = ["Transport"]
-link= ["https://openknowledge.worldbank.org/entities/publication/1d9b6863-f65e-42e9-8179-a8ee4e64aaee"]
+links= ["https://openknowledge.worldbank.org/entities/publication/1d9b6863-f65e-42e9-8179-a8ee4e64aaee"]
 date = 2026-03-16T00:00:00Z
 +++
 

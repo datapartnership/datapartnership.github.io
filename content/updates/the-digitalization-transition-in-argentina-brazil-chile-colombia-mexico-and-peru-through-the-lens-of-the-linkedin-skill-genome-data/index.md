@@ -1,6 +1,6 @@
 +++
 title = "The Digitalization Transition in Argentina, Brazil, Chile, Colombia, Mexico and Peru Through the Lens of the LinkedIn Skill Genome Data"
-authors = ["Niccolò Comini", "Nicolò Gozzi", "Nicola Perra"]
+authors = ["Niccolo Comini", "Nicolo Gozzi", "Nicola Perra"]
 categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["World Bank"]
@@ -29,12 +29,15 @@ Yet this transformation has not been experienced equally. In Latin America, the 
 Through the Development Data Partnership, we investigated the emergence, evolution, and adoption of advanced digital skills in Argentina, Brazil, Chile, Colombia, Mexico, and Peru by exploring the LinkedIn Skill Genome.  This unique dataset provided us with the top 10 representative skills each year from 2017 to 2023 for 19 industries in each country. The data was extracted by LinkedIn from the profiles of users located in each country.
 
 Here are some of the key findings:
+- On average, digital skills counted for only 6% of total skills. Chile, Colombia, and Peru showed the largest growth of digital skills by the end of 2023. Furthermore, these countries are those that deviated the most in the post-COVID-19 period with respect to previous years.
 
-•	On average, digital skills counted for only 6% of total skills. Chile, Colombia and Peru showed the largest growth of digital skills by the end of 2023. Furthermore, these countries are those that deviated the most in the post-COVID-19 period with respect to the previous years.
-•	Mexico was the country with the least number of digital skills by the end of the observation period, which, however, might be due to the relatively low penetration of LinkedIn in the country.
-•	We observed some digital skills that were present in all countries by the end of 2023, such as AutoCAD, Git, JavaScript, Node.js, Revit, and SQL. These are all software/programming languages relevant for web applications and data analytics (Git, JavaScript, Node.js, SQL) or for engineering (AutoCAD and Revit).
-•	All countries, except for Mexico, featured a set of unique digital skills that suggest specialization in specific sectors. For example, in Brazil, we observed a concentration of digital skills related to programming for web interactive platforms (i.e., JavaScript).
-•	Overall, we observed the highest level of digital skills penetration in three industries: Technology and Media, Construction, and Professional Services.
+- Mexico was the country with the least number of digital skills by the end of the observation period, which, however, might be due to the relatively low penetration of LinkedIn in the country.
+
+- We observed some digital skills that were present in all countries by the end of 2023, such as AutoCAD, Git, JavaScript, Node.js, Revit, and SQL. These are all software/programming languages relevant for web applications and data analytics (Git, JavaScript, Node.js, SQL) or for engineering (AutoCAD and Revit).
+
+- All countries, except for Mexico, featured a set of unique digital skills that suggest specialization in specific sectors. For example, in Brazil, we observed a concentration of digital skills related to programming for web interactive platforms (i.e., JavaScript).
+
+- Overall, we observed the highest level of digital skills penetration in three industries: Technology and Media, Construction, and Professional Services.
 
 Our analysis comes with several limitations. For instance, the analysis relies on self-reported LinkedIn data, which may not fully capture workers’ actual skill levels. Additionally, LinkedIn usage varies significantly across countries and sectors, potentially biasing results toward more formal, knowledge-intensive industries and underrepresenting informal employment.
 

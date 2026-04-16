@@ -10,6 +10,14 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 
 <section>
 
+  <button type="button" class="btn btn-outline-info" style="margin: 10px;">
+    <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu" style="text-decoration: none; color: inherit; font-weight: bold;">
+      EVENT REGISTRATION HERE
+    </a>
+  </button>
+
 ![](DDPweb2026_March10.png)
 
+
 </section>
+

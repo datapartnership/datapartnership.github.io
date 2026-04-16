@@ -26,7 +26,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
      "
      onmouseover="this.style.transform='scale(1.07)'"
      onmouseout="this.style.transform='scale(1)'">
-    EVENT REGISTRATION HERE
+    REGISTER TO ATTEND HERE 
   </a>
 
   ![](DDPweb2026_March10.png)
@@ -47,7 +47,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
      "
      onmouseover="this.style.transform='scale(1.07)'"
      onmouseout="this.style.transform='scale(1)'">
-    EVENT REGISTRATION HERE
+     REGISTER TO ATTEND HERE
   </a>
 
 </section>

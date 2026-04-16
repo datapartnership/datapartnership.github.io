@@ -8,24 +8,46 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 
 **Join us for Development Data Partnership Day on Wednesday, June 3, 2026, from 8:30 a.m. to 1:00 p.m. US ET at the Preston Auditorium at the World Bank Group Headquarters in Washington, DC.**
 
-<section>
+<section style="text-align: center;">
 
-  <div style="text-align: center;">
-    <button type="button" class="btn btn-outline-info" style="margin: 10px;">
-      <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu" style="text-decoration: none; color: inherit; font-weight: bold;">
-        REGISTER TO ATTEND HERE
-      </a>
-    </button>
-  </div>
+  <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
+     style="
+       display: inline-block;
+       margin: 20px;
+       padding: 16px 32px;
+       font-size: 20px;
+       font-weight: 700;
+       border-radius: 40px;
+       background: linear-gradient(135deg, #0dcaf0, #0a58ca);
+       color: white;
+       text-decoration: none;
+       box-shadow: 0 6px 18px rgba(13, 202, 240, 0.4);
+       transition: all 0.2s ease-in-out;
+     "
+     onmouseover="this.style.transform='scale(1.07)'"
+     onmouseout="this.style.transform='scale(1)'">
+    🚀 EVENT REGISTRATION HERE
+  </a>
 
   ![](DDPweb2026_March10.png)
 
-  <div style="text-align: center;">
-    <button type="button" class="btn btn-outline-info" style="margin: 10px;">
-      <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu" style="text-decoration: none; color: inherit; font-weight: bold;">
-         REGISTER TO ATTEND HERE
-      </a>
-    </button>
-  </div>
+  <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
+     style="
+       display: inline-block;
+       margin: 20px;
+       padding: 16px 32px;
+       font-size: 20px;
+       font-weight: 700;
+       border-radius: 40px;
+       background: linear-gradient(135deg, #0dcaf0, #0a58ca);
+       color: white;
+       text-decoration: none;
+       box-shadow: 0 6px 18px rgba(13, 202, 240, 0.4);
+       transition: all 0.2s ease-in-out;
+     "
+     onmouseover="this.style.transform='scale(1.07)'"
+     onmouseout="this.style.transform='scale(1)'">
+    🚀 EVENT REGISTRATION HERE
+  </a>
 
 </section>

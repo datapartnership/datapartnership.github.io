@@ -29,7 +29,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
     REGISTER TO ATTEND HERE 
   </a>
 
-  ![](DDP_2026.png)
+  ![](DDP2026.png)
 
   <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
      style="

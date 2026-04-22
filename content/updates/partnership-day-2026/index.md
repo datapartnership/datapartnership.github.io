@@ -50,4 +50,23 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
      REGISTER TO ATTEND HERE
   </a>
 
+<a agenda.pdf"
+     style="
+       display: inline-block;
+       margin: 20px;
+       padding: 16px 32px;
+       font-size: 20px;
+       font-weight: 700;
+       border-radius: 40px;
+       background: linear-gradient(135deg, #3eacad, #2f8f90);
+       color: white;
+       text-decoration: none;
+       box-shadow: 0 6px 18px rgba(62, 172, 173, 0.4);
+       transition: all 0.2s ease-in-out;
+     "
+     onmouseover="this.style.transform='scale(1.07)'"
+     onmouseout="this.style.transform='scale(1)'">
+    AGENDA 
+  </a>
+
 </section>

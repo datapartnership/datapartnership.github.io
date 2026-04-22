@@ -50,7 +50,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
      REGISTER TO ATTEND HERE
   </a>
 
-<a agenda.pdf"
+<a href="https://datapartnership.org/updates/partnership-day-2026/agenda.pdf"
      style="
        display: inline-block;
        margin: 20px;

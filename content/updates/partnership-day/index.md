@@ -47,7 +47,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
      "
      onmouseover="this.style.transform='scale(1.07)'"
      onmouseout="this.style.transform='scale(1)'">
-    AGENDA  
+    AGENDA PARTNERSHIP DAY
   </a>
 
 <a href="https://datapartnership.org/updates/partnership-day/training.pdf"

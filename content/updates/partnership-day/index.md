@@ -17,7 +17,7 @@ Join researchers and practitioners from leading technology companies and interna
 **Hands-On Training**<br>
 June 5, 2026
 
-Free, instructor-led courses on June 5 will give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited — use the registration link to secure your in-person spot. See training schedule below.
+Free, instructor-led courses on June 5 will give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited — use the registration link to secure your spot. See training schedule below.
 
 <section style="text-align: center;">
 

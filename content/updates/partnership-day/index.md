@@ -10,6 +10,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 
 Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they're headed. See agenda, below. 
 
+<br><br>
 **Hands-On Training | June 5th**
 Free, instructor-led courses on June 5th will give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited — use the registration link to secure your in-person spot. See training schedule, below. 
 

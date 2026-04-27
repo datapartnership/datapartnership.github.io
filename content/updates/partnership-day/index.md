@@ -6,13 +6,19 @@ categories = ["Announcement"]
 dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "EBRD", "EIB", "CAF", "Asian Development Bank", "Asian Development Bank","IDB Invest", "UNICEF"]
 +++
 
-**Development Data Partnership Day | June 3, 2026 8:30 a.m. – 1:00 p.m. ET | Preston Auditorium, World Bank Group Headquarters, Washington, DC**
+**Development Data Partnership Day**<br>
+June 3, 2026<br>
+8:30 a.m. – 1:00 p.m. ET<br>
+Preston Auditorium, World Bank Group Headquarters, Washington, DC
 
-Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they're headed. See agenda, below. 
+Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they're headed. See agenda below.
 
-<br><br>
-**Hands-On Training | June 5th**
-Free, instructor-led courses on June 5th will give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited — use the registration link to secure your in-person spot. See training schedule, below. 
+<br>
+
+**Hands-On Training**<br>
+June 5, 2026
+
+Free, instructor-led courses on June 5 will give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited — use the registration link to secure your in-person spot. See training schedule below.
 
 <section style="text-align: center;">
 

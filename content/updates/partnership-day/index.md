@@ -7,8 +7,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
 +++
 
 **Development Data Partnership Day**<br>
-June 3, 2026<br>
-8:30 a.m. – 1:00 p.m. ET<br>
+June 3, 2026 | 8:30 a.m. – 1:00 p.m. ET<br>
 Preston Auditorium, World Bank Group Headquarters, Washington, DC
 
 Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they're headed. See agenda below.

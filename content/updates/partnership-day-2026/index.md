@@ -1,5 +1,5 @@
 +++
-date =  2026-03-09T00:00:00Z
+date =  2026-04-26T00:00:00Z
 title = "Development Data Partnership Day 2026"
 authors = ["Claudia Calderon"]
 categories = ["Announcement"]

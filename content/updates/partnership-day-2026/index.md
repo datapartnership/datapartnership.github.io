@@ -6,7 +6,8 @@ categories = ["Announcement"]
 dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "EBRD", "EIB", "CAF", "Asian Development Bank", "Asian Development Bank","IDB Invest", "UNICEF"]
 +++
 
-**Join us for Development Data Partnership Day on Wednesday, June 3, 2026, from 8:30 a.m. to 1:00 p.m. US ET at the Preston Auditorium at the World Bank Group Headquarters in Washington, DC.**
+Development Data Partnership Day | June 3, 2026 | 8:30 a.m. – 1:00 p.m. ET
+Preston Auditorium, World Bank Group Headquarters, Washington, DC Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they’re headed. See agenda below.
 
 <section style="text-align: center;">
 

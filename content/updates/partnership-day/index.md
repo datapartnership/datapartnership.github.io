@@ -66,7 +66,7 @@ dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Devel
      "
      onmouseover="this.style.transform='scale(1.07)'"
      onmouseout="this.style.transform='scale(1)'">
-    AGENDA TRAINING SESSIONS 
+    SCHEDULE TRAINING SESSIONS 
   </a>
 
 

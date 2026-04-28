@@ -36,7 +36,7 @@ Free, instructor-led courses on June 5 will give you practical skills for workin
     REGISTER TO ATTEND HERE 
   </a>
 
-  ![](DDP_2026.png)
+  ![](2026.png)
 
   <a href="https://datapartnership.org/updates/partnership-day-2026/agenda.pdf"
      style="

@@ -10,18 +10,17 @@ dev_partner = ["International Monetary Fund", "World Bank", "Inter-American Deve
 Preston Auditorium, World Bank Group Headquarters, Washington, DC<br>
 
 The Development Data Partnership Day will feature Dr. Aisha Walcott-Bryant from Google Research Africa, alongside leading economists and researchers from Anthropic, OpenAI, Microsoft, Google, the World Bank, OECD, and the IMF. Discussions will focus on the real effects of AI on jobs, productivity, and global labor markets. The day will conclude with impact stories highlighting collaboration, including expanding school connectivity in Guatemala and mapping flood risk in Asia.  
-[**View Agenda**](https://datapartnership.org/updates/partnership-day/training.pdf)
+[**View Agenda**](https://datapartnership.org/updates/partnership-day-2026/agenda.pdf)
 
 <div style="text-align:center; margin: 20px auto;">
 
-<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u"
+<a https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
    style="display:inline-block; width:360px; margin:6px; padding:12px 16px; font-size:15px; font-weight:700; border-radius:30px; background:#3eacad; color:#ffffff; text-decoration:none;">
 REGISTRATION — PARTNERSHIP DAY
 </a>
 
 </div>
 
-<br>
 
 **Hands-On Training | June 5, 2026**<br>
 
@@ -37,6 +36,5 @@ REGISTRATION - TRAINING SESSIONS
 
 </div>
 
-<br>
 
 ![](2026.png)

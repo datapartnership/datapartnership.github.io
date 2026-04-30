@@ -7,9 +7,9 @@ dev_partner = ["International Monetary Fund", "World Bank", "Inter-American Deve
 +++
 
 **Development Data Partnership Day | June 3, 2026 | 8:30 a.m. – 1:00 p.m. ET**<br>
-Preston Auditorium, World Bank Group Headquarters, Washington, DC<br>
+Preston Auditorium, World Bank Group Headquarters, Washington, DC <br>
 
-The Development Data Partnership Day will feature Dr. Aisha Walcott-Bryant from Google Research Africa, alongside leading economists and researchers from Anthropic, OpenAI, Microsoft, Google, the World Bank, OECD, and the IMF. Discussions will focus on the real effects of AI on jobs, productivity, and global labor markets. The day will conclude with impact stories highlighting collaboration, including expanding school connectivity in Guatemala and mapping flood risk in Asia.  
+The Partnership Day will feature Dr. Aisha Walcott-Bryant from Google Research Africa, alongside leading economists and researchers from Anthropic, OpenAI, Microsoft, Google, the World Bank, OECD, and the IMF. Discussions will focus on the real effects of AI on jobs, productivity, and global labor markets. The day will conclude with impact stories highlighting collaboration, including expanding school connectivity in Guatemala and mapping flood risk in Asia.  
 [**View Agenda**](https://datapartnership.org/updates/partnership-day-2026/agenda.pdf)
 
 <div style="text-align:center; margin: 20px auto;">

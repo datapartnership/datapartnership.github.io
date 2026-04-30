@@ -1,80 +1,57 @@
 +++
-date =  2026-03-09T00:00:00Z
+date = 2026-03-09T00:00:00Z
 title = "Development Data Partnership Day and Trainings"
 authors = ["Claudia Calderon"]
 categories = ["Announcement"]
-dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "EBRD", "EIB", "CAF", "Asian Development Bank", "Asian Development Bank","IDB Invest", "UNICEF"]
+dev_partner = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP", "OECD", "EBRD", "EIB", "CAF", "Asian Development Bank", "IDB Invest", "UNICEF"]
 +++
 
 **Development Data Partnership Day | June 3, 2026 | 8:30 a.m. – 1:00 p.m. ET**<br>
 Preston Auditorium, World Bank Group Headquarters, Washington, DC
-Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they're headed. See agenda below.
 
-<br>
+The Partnership Day will feature Dr. Aisha Walcott-Bryant from Google Research Africa, alongside leading economists and researchers from Anthropic, OpenAI, Microsoft, Google, the World Bank, OECD, and the IMF. Discussions will focus on the real effects of AI on jobs, productivity, and global labor markets. The day will conclude with impact stories highlighting collaboration, including expanding school connectivity in Guatemala and mapping flood risk in Asia. [**View Agenda**](https://datapartnership.org/updates/partnership-day-2026/agenda.pdf)
+
+<div style="text-align:center; margin: 20px auto;">
+
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
+   style="display:inline-block; width:360px; margin:6px; padding:12px 16px; font-size:15px; font-weight:700; border-radius:30px; background:#3eacad; color:#ffffff; text-decoration:none;">
+REGISTRATION — PARTNERSHIP DAY
+</a>
+
+</div>
+
 
 **Hands-On Training | June 5, 2026**<br>
-Free, instructor-led courses on June 5 will give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited — use the registration link to secure your spot. See training schedule below.
+Free, instructor-led courses to give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited.
+[**View Training Schedule**](https://datapartnership.org/updates/partnership-day/training.pdf)
 
-<section style="text-align: center;">
+<div style="text-align:center; margin: 20px auto;">
 
-  <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u"
-     style="
-       display: inline-block;
-       margin: 20px;
-       padding: 16px 32px;
-       font-size: 20px;
-       font-weight: 700;
-       border-radius: 40px;
-       background: linear-gradient(135deg, #3eacad, #2f8f90);
-       color: white;
-       text-decoration: none;
-       box-shadow: 0 6px 18px rgba(62, 172, 173, 0.4);
-       transition: all 0.2s ease-in-out;
-     "
-     onmouseover="this.style.transform='scale(1.07)'"
-     onmouseout="this.style.transform='scale(1)'">
-    REGISTER TO ATTEND HERE 
-  </a>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u"
+   style="display:inline-block; width:360px; margin:6px; padding:12px 16px; font-size:15px; font-weight:700; border-radius:30px; background:#3eacad; color:#ffffff; text-decoration:none;">
+REGISTRATION - TRAINING SESSIONS
+</a>
 
-  ![](2026.png)
-
-  <a href="https://datapartnership.org/updates/partnership-day-2026/agenda.pdf"
-     style="
-       display: inline-block;
-       margin: 20px;
-       padding: 16px 32px;
-       font-size: 20px;
-       font-weight: 700;
-       border-radius: 40px;
-       background: linear-gradient(135deg, #3eacad, #2f8f90);
-       color: white;
-       text-decoration: none;
-       box-shadow: 0 6px 18px rgba(62, 172, 173, 0.4);
-       transition: all 0.2s ease-in-out;
-     "
-     onmouseover="this.style.transform='scale(1.07)'"
-     onmouseout="this.style.transform='scale(1)'">
-    AGENDA PARTNERSHIP DAY
-  </a>
-
-<a href="https://datapartnership.org/updates/partnership-day/training.pdf"
-     style="
-       display: inline-block;
-       margin: 20px;
-       padding: 16px 32px;
-       font-size: 20px;
-       font-weight: 700;
-       border-radius: 40px;
-       background: linear-gradient(135deg, #3eacad, #2f8f90);
-       color: white;
-       text-decoration: none;
-       box-shadow: 0 6px 18px rgba(62, 172, 173, 0.4);
-       transition: all 0.2s ease-in-out;
-     "
-     onmouseover="this.style.transform='scale(1.07)'"
-     onmouseout="this.style.transform='scale(1)'">
-    SCHEDULE TRAINING SESSIONS 
-  </a>
+</div>
 
 
-</section>
+![](2026.png)
+
+<div style="text-align:center; margin: 20px auto;">
+
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
+   style="display:inline-block; width:360px; margin:6px; padding:12px 16px; font-size:15px; font-weight:700; border-radius:30px; background:#3eacad; color:#ffffff; text-decoration:none;">
+REGISTRATION — PARTNERSHIP DAY
+</a>
+
+</div>
+
+
+<div style="text-align:center; margin: 20px auto;">
+
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u"
+   style="display:inline-block; width:360px; margin:6px; padding:12px 16px; font-size:15px; font-weight:700; border-radius:30px; background:#3eacad; color:#ffffff; text-decoration:none;">
+REGISTRATION - TRAINING SESSIONS
+</a>
+
+</div>

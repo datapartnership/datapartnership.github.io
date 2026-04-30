@@ -10,10 +10,13 @@ dev_partner = ["International Monetary Fund", "World Bank", "Inter-American Deve
 Preston Auditorium, World Bank Group Headquarters, Washington, DC<br>
 Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they're headed. See agenda below.
 
-<button type="button" class="btn btn-outline-info"><a href="Agenda_2024.pdf"> Full Agenda 
-</button>
-<button type="button" class="btn btn-outline-info"><a href="Agenda_2024.pdf"> Full Agenda 
-</button>
+
+<div style="text-align:center; margin: 25px auto; max-width: 760px;">
+
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u" style="display:inline-block; width:300px; margin:8px; padding:14px 18px; font-size:16px; font-weight:700; border-radius:40px; background:#3eacad; color:#ffffff; text-decoration:none;">REGISTER HERE FOR PARTNERSHIP DAY</a>
+
+</div>
+
 
 <br>
 
@@ -22,7 +25,7 @@ Free, instructor-led courses on June 5 will give you practical skills for workin
 
 <div style="text-align:center; margin: 25px auto; max-width: 760px;">
 
-<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u" style="display:inline-block; width:300px; margin:8px; padding:14px 18px; font-size:16px; font-weight:700; border-radius:40px; background:#3eacad; color:#ffffff; text-decoration:none;">REGISTRATION PARTNERSHIP DAY<br>JUNE 3</a>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u" style="display:inline-block; width:300px; margin:8px; padding:14px 18px; font-size:16px; font-weight:700; border-radius:40px; background:#3eacad; color:#ffffff; text-decoration:none;">REGISTER HER FOR TRAINING SESSIONS </a>
 
 </div>
 

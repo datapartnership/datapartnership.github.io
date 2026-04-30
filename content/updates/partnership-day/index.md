@@ -1,13 +1,13 @@
 +++
-date =  2026-03-09T00:00:00Z
+date = 2026-03-09T00:00:00Z
 title = "Development Data Partnership Day and Trainings"
 authors = ["Claudia Calderon"]
 categories = ["Announcement"]
-dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "EBRD", "EIB", "CAF", "Asian Development Bank", "Asian Development Bank","IDB Invest", "UNICEF"]
+dev_partner = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP", "OECD", "EBRD", "EIB", "CAF", "Asian Development Bank", "IDB Invest", "UNICEF"]
 +++
 
 **Development Data Partnership Day | June 3, 2026 | 8:30 a.m. – 1:00 p.m. ET**<br>
-Preston Auditorium, World Bank Group Headquarters, Washington, DC
+Preston Auditorium, World Bank Group Headquarters, Washington, DC<br>
 Join researchers and practitioners from leading technology companies and international organizations to explore what public-private data partnerships are delivering — and where they're headed. See agenda below.
 
 <br>
@@ -15,9 +15,11 @@ Join researchers and practitioners from leading technology companies and interna
 **Hands-On Training | June 5, 2026**<br>
 Free, instructor-led courses on June 5 will give you practical skills for working with private sector data. Instructors come from OpenAI, LinkedIn, Esri, and others. Seats are limited — use the registration link to secure your spot. See training schedule below.
 
+<br>
+
 <section>
 
-<div style="max-width: 900px; margin: 0 auto;">
+<div style="max-width: 900px; margin: 0 auto 30px auto;">
 
   <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: nowrap;">
 
@@ -63,13 +65,13 @@ Free, instructor-led courses on June 5 will give you practical skills for workin
 
 </div>
 
+![](2026.png)
 
-  ![](2026.png)
+<div style="text-align: center; margin-top: 20px;">
 
   <a href="https://datapartnership.org/updates/partnership-day-2026/agenda.pdf"
      style="
        display: inline-block;
-       margin: 20px;
        padding: 16px 32px;
        font-size: 20px;
        font-weight: 700;
@@ -80,10 +82,11 @@ Free, instructor-led courses on June 5 will give you practical skills for workin
        box-shadow: 0 6px 18px rgba(62, 172, 173, 0.4);
        transition: all 0.2s ease-in-out;
      "
-     onmouseover="this.style.transform='scale(1.07)'"
+     onmouseover="this.style.transform='scale(1.05)'"
      onmouseout="this.style.transform='scale(1)'">
     AGENDA PARTNERSHIP DAY
   </a>
 
+</div>
 
 </section>

@@ -14,7 +14,7 @@ The Development Data Partnership Day will feature Dr. Aisha Walcott-Bryant from 
 
 <div style="text-align:center; margin: 20px auto;">
 
-<a https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNtgdePFm-edDiPXPftZ-c2VUOUc3UllKU1RXWkhTNTBXWDAxNldMS1IwTyQlQCN0PWcu"
    style="display:inline-block; width:360px; margin:6px; padding:12px 16px; font-size:15px; font-weight:700; border-radius:30px; background:#3eacad; color:#ffffff; text-decoration:none;">
 REGISTRATION — PARTNERSHIP DAY
 </a>

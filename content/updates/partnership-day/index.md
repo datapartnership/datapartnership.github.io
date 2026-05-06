@@ -35,7 +35,7 @@ REGISTRATION - TRAINING SESSIONS
 </div>
 
 
-![](2026.png)
+![](DDP_2026.png)
 
 <div style="text-align:center; margin: 20px auto;">
 

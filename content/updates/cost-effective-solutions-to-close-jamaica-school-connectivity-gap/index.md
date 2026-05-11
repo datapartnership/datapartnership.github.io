@@ -1,6 +1,6 @@
 +++
 title = "Cost-Effective Solutions to Close Jamaica’s School Connectivity Gap"
-authors = ["Pau Puig Gabarró", "Nicolas Albornoz Basto"]
+authors = ["Pau Puig Gabarro", "Nicolas Albornoz Basto"]
 categories = ["Case Study"]
 partner = ["Ookla"]
 dev_partner = ["Inter American Development Bank"]

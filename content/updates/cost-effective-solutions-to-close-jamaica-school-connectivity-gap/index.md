@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["Ookla"]
 dev_partner = ["Inter American Development Bank"]
 tags = ["Digital Development"]
-date = 2026-05-06T00:00:00Z
+date = 2026-05-11T00:00:00Z
 +++
 
 Reliable internet access is essential for achieving quality education. To help close Jamaica’s school connectivity gap, the Inter-American Development Bank (IDB) is partnering with the International Telecommunication Union (ITU)’s Future Networks and Spectrum (FNS) Division to help governments devise cost-effective connectivity solutions. Using data and insights from [Ookla®](https://www.ookla.com/ookla-for-good), this collaboration provides evidence-based solutions to improve internet access for schools across the country.

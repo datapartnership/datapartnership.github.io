@@ -20,7 +20,7 @@ Yet in many low-income countries, thousands of schools remain offline. Closing t
 
 <figure style="text-align: center;">
   <img src="cost-effective-solutions-to-close-jamaica-school-connectivity-gap_thumbnail.png" alt="jamaica connectivity thumbnail" style="max-width: 100%;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">Photo credit: IDB, El Salvador.</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">Photo: Jamaica</figcaption>
 </figure>
 
 

@@ -50,7 +50,8 @@ REGISTRATION — PARTNERSHIP DAY
 
 <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wP6iMWsmZ0y1bieW2PWcNnFCsHhxqiNJllqArA6vm_1UMVFWWDZIOEQ5T0ExMFgzTk9PVVdTUlQ0NS4u"
    style="display:inline-block; width:360px; margin:6px; padding:12px 16px; font-size:15px; font-weight:700; border-radius:30px; background:#3eacad; color:#ffffff; text-decoration:none;">
-REGISTRATION - TRAINING SESSIONS
+REGISTRATION — TRAINING SESSIONS
 </a>
+
 
 </div>

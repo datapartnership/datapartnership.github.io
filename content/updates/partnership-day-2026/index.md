@@ -30,7 +30,7 @@ Preston Auditorium, World Bank Group Headquarters, Washington, DC Join researche
     REGISTER TO ATTEND HERE 
   </a>
 
- <a href="https://datapartnership.org/updates/partnership-day-2026/agenda.pdf"
+ <a href="https://datapartnership.org/updates/partnership-day-2026/agenda2026.pdf"
      style="
        display: inline-block;
        margin: 20px;

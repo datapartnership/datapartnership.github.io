@@ -11,8 +11,7 @@ Preston Auditorium, World Bank Group Headquarters, Washington, DC Join researche
 
 <section style="text-align: center;">
 
-
- <a href="https://datapartnership.org/updates/partnership-day-2026/agenda2026.pdf"
+  <a href="https://datapartnership.org/updates/partnership-day-2026/agenda2026.pdf"
      style="
        display: inline-block;
        margin: 20px;
@@ -28,8 +27,33 @@ Preston Auditorium, World Bank Group Headquarters, Washington, DC Join researche
      "
      onmouseover="this.style.transform='scale(1.07)'"
      onmouseout="this.style.transform='scale(1)'">
-    AGENDA  
+    AGENDA
   </a>
+
+  <a href="https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m9096c8e764cab4938d60467d17947468"
+     style="
+       display: inline-block;
+       margin: 20px;
+       padding: 16px 32px;
+       font-size: 20px;
+       font-weight: 700;
+       border-radius: 40px;
+       background: linear-gradient(135deg, #3eacad, #2f8f90);
+       color: white;
+       text-decoration: none;
+       box-shadow: 0 6px 18px rgba(62, 172, 173, 0.4);
+       transition: all 0.2s ease-in-out;
+     "
+     onmouseover="this.style.transform='scale(1.07)'"
+     onmouseout="this.style.transform='scale(1)'">
+    WATCH ONLINE
+  </a>
+
+  <br><br>
+
+  <img src="DDP_2026.png" alt="Development Data Partnership Day 2026" style="max-width:100%; height:auto;">
+
+</section>
 
   ![](DDP_2026.png)
 

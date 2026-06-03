@@ -31,7 +31,7 @@ Preston Auditorium, World Bank Group Headquarters, Washington, DC Join researche
     AGENDA  
   </a>
 
-  <a “https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m9096c8e764cab4938d60467d17947468”
+  <a href=“https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m9096c8e764cab4938d60467d17947468”
 
      style="
        display: inline-block;

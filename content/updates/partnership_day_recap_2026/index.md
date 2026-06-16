@@ -11,7 +11,7 @@ The [Development Data Partnership Day](https://datapartnership.org/) highlighted
 The event took place on June 3, 2026, at the World Bank Group Headquarters in Washington, D.C. It gathered technology companies, international organizations, researchers, and members of the data community to exchange their understanding of how data and AI can support development. Throughout the day, speakers shared approaches to measuring AI adoption, understanding skills and labor market changes, and applying private-sector data to development challenges such as digital connectivity, flood risk, carbon emissions, and transportation planning.
 
  <figure align="center">
-    <img src="event_1.png"/>
+    <img src="event_1.jpge"/>
     <figcaption align="center">The event brought together representatives from international organizations, technology companies, the research community, and the broader data community to exchange insights on how data and AI can support development.<br/>Credit: Ian Foulk / World Bank Group</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Haishan Fu, Chief Statistician and Director of the World Bank Group, opened the 
 Next up, Dr. Aisha Walcott-Bryant, Head of Google Research Africa, delivered the keynote speech on how AI, data, and partnerships can address development challenges. She drew on examples from malaria control, mapping buildings and communities using remote sensing and satellite imagery, and developing language datasets. Her remarks emphasized that effective partnerships must be grounded in local needs, community ownership, and the people they are designed to serve.
 
  <figure align="center">
-    <img src="event_2.jpg"/>
+    <img src="event_2.jpge"/>
     <figcaption align="center">Dr. Aisha Walcott-Bryant, Head of Google Research Africa, delivers the keynote speech.<br/>Credit: Ian Foulk / World Bank Group</figcaption>
 </figure>
 
@@ -29,14 +29,14 @@ Following this, Holly Krambeck, Program Manager of the [Development Data Partner
 The event also featured two panel discussions. Moderated by Rosie Hood, Lead Data Scientist at LinkedIn's Economic Graph Research Institute, the first panel discussion explored how LinkedIn data can complement official statistics by providing more timely and granular insights into skills, hiring, AI exposure, and talent mobility. El Iza Mohamedou, Dushyanth Raju, and Sheryl Lee from the OECD, World Bank Group, and IMF highlighted that while private-sector data cannot replace official statistics, it can help policymakers better understand fast-changing labor markets and inform responses to skills gaps, reskilling needs, AI adoption, and workforce transitions.
 
  <figure align="center">
-    <img src="event_3.jpg"/>
+    <img src="event_3.jpge"/>
     <figcaption align="center">Panel discussion focused on how LinkedIn data can complement official statistics on skills, hiring, and labor markets.<br/>Credit: Ian Foulk / World Bank Group</figcaption>
 </figure>
 
 The second panel discussion brought together Ruth Appel from Anthropic, Drew Johnston from OpenAI, and Steph Spielman from Microsoft AI in conversation with Indermit Gill, World Bank Group Chief Economist, to discuss how AI usage data can help explain the technology's impact on economies, jobs, skills, and learning. The speakers highlighted their work, while emphasizing the need for data which is privacy-preserving, comparable, and more representative, so as to understand not only who is using AI and how, but also who may be left behind as the technology evolves.
 
  <figure align="center">
-    <img src="event_4.jpg"/>
+    <img src="event_4.jpge"/>
     <figcaption align="center">Panel discussion focused on the impact of AI on work, featuring representatives from Anthropic, OpenAI, and Microsoft AI.<br/>Credit: Ian Foulk / World Bank Group</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ The audience also had the opportunity to learn about the impact of the [Partners
 * Laura McGorman from Meta, Andrew Stober from Google Geo, and Maria Sol Tadeo from the World Bank Group discussed how data from Meta and Waze is helping reimagine transportation planning for a World Bank Group project in Bali, which also received data support from GrabMaps and Mapbox.
 
  <figure align="center">
-    <img src="event_5.jpg"/>
+    <img src="event_5.png"/>
     <figcaption align="center">Speakers from technology companies and international organizations shared the results of their projects, highlighting how private-sector data is supporting real-world development work across sectors and regions.<br/>Credit: Ian Foulk / World Bank Group</figcaption>
 </figure>
 

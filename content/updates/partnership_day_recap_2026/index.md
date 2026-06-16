@@ -1,8 +1,8 @@
 +++
-date = 2026-06-13T00:00:00Z
+date = 2026-06-16T00:00:00Z
 title = "Development Data Partnership Day 2026: Data, AI, and Partnerships for the Public Good"
 authors = ["Kwok Kin Lee"]
-dev_parter = ["World Bank", "Inter-American Development Bank", "UNDP", "OECD", "IMF", "Asian Development Bank", "African Development Bank"]
+dev_parter = ["International Monetary Fund", "World Bank", "Inter-American Development Bank", "UNDP" , "OECD" , "EBRD", "Asian Development Bank", "Asian Development Bank","IDB Invest", "UNICEF"]
 +++
 
 The [Development Data Partnership Day](https://datapartnership.org/updates/partnership-day-2026/) highlighted the significance of bringing together international organizations and technology companies to identify emerging trends, support policy decisions, and turn data into valuable insights for the public good as AI becomes increasingly crucial to development.

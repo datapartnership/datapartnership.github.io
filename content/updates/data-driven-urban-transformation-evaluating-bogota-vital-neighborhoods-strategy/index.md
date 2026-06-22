@@ -18,13 +18,15 @@ Over the last half-century, cities in Colombia have undergone rapid urbanization
 
 As the country’s capital and largest urban center, Bogotá accounts for 25.3 percent of national GDP, the highest contribution among all cities in Colombia (DANE, 2021). However, the city has been facing a range of challenges, including rising traffic congestion and air pollution, an increase in road accidents, and a lack of resilience to climate disasters.
 
-
 <figure style="text-align: center;">
-  <img src="data-driven-urban-transformation-evaluating-bogota-vital-neighborhoods-strategy_thumbnail.png" alt="bogota thumbnail" style="max-width: 100%;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">Photo Credit: [Alcaldia Bogota](https://bogota.gov.co/que-hacer/cultura/el-circuito-san-felipe-llega-nuevamente-al-distrito-creativo)
-</figcaption>
+  <img src="data-driven-urban-transformation-evaluating-bogota-vital-neighborhoods-strategy_thumbnail.png" alt="Bogotá thumbnail" style="max-width: 100%;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #555;">
+    Photo Credit:
+    <a href="https://bogota.gov.co/que-hacer/cultura/el-circuito-san-felipe-llega-nuevamente-al-distrito-creativo" target="_blank" rel="noopener noreferrer">
+      Alcaldía Bogotá
+    </a>
+  </figcaption>
 </figure>
-
 
 ## Solution
 

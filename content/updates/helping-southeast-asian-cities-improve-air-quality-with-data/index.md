@@ -2,13 +2,13 @@
 title = "Helping Southeast Asian Cities Improve Air Quality with Data"
 authors = ["Sebastian Mueller"]
 categories = ["Case Study"]
-partner = ["Grab", "Quadrant", "VesselBot"]
+partner = ["GrabMaps", "Quadrant", "VesselBot"]
 dev_partner = ["Asian Development Bank"]
 tags = ["Transport"]
-date = 2026-08-04T00:00:00Z
+date = 2026-08-27T00:00:00Z
 +++
 
-Traffic congestion is not only a mobility challenge. In many cities, it is also a public health challenge. An Asian Development Bank (ADB) project leverages data from [Grab](https://grabmaps.grab.com), [Quadrant](https://www.quadrant.io), and [VesselBot](https://www.vesselbot.com) to model traffic and emissions in Southeast Asian cities, with the aim of helping policymakers better understand the impact of their transport policies.
+Traffic congestion is not only a mobility challenge. In many cities, it is also a public health challenge. An Asian Development Bank (ADB) project leverages data from [GrabMaps](https://grabmaps.grab.com), [Quadrant](https://www.quadrant.io), and [VesselBot](https://www.vesselbot.com) to model traffic and emissions in Southeast Asian cities, with the aim of helping policymakers better understand the impact of their transport policies.
 
 
 ## Challenge
@@ -31,7 +31,7 @@ ADB has built a scalable simulation pipeline that can model traffic flows and em
 
 The approach combines a transport model with an emissions model. The first stage uses an equilibrium-based transport model, drawing on GPS data, traffic data, road networks, and fleet composition to estimate traffic volumes and speeds. These outputs are then used in the second stage - an emissions model that applies locally calibrated emission factors to estimate pollutants such as carbon monoxide, nitrogen oxides, hydrocarbons, and particulate matter.
 
-Mobile location data from Quadrant helps identify travel patterns and create origin-destination matrices for the transport model. Traffic data from Grab helps validate and calibrate the model against observed traffic conditions. Vessel emission data from VesselBot is combined with road traffic emissions to quantify port-related emissions.
+Mobile location data from Quadrant helps identify travel patterns and create origin-destination matrices for the transport model. Traffic data from GrabMaps helps validate and calibrate the model against observed traffic conditions. The data is anonymized, aggregated, or stripped of personally identifiable information (PII). Vessel emission data from VesselBot is combined with road traffic emissions to quantify port-related emissions.
 
 The model can simulate different low-emission zone scenarios, including restrictions based on vehicle types, time of day, or emission standards. It can also quantify traffic and emissions impacts in and around the zones, with results available at the road-segment level for major roads and for different times of day.
 

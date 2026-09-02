@@ -53,10 +53,15 @@ Meta’s high-resolution population density maps helped identify where people li
 The analysis found that:
  
 •	Peak-hour travel speeds fell as low as 15 kilometers per hour in parts of southern Bali, compared with 30 kilometers per hour at midnight in Denpasar City. 
+
 •	Intra-island travel times ranged from 2.5 to 4 hours across north-south and east-west corridors. 
+
 •	Congestion was concentrated in Sarbagita (Denpasar, Badung, Gianyar, and Tabanan), overlapping with tourism hubs such as Kuta, Seminyak, and Ubud.
+
 •	Accident hotspots were concentrated in the Kuta, Denpasar, and Ubud corridors, overlapping with major congestion and tourism areas.
+
 •	Road safety risks persisted through most of the day, from 11 a.m. to 8 p.m., peaking between 3 p.m. and 4 p.m.
+
 •	Kuta recorded 455 accidents per 100,000 people, while Ubud recorded 135 per 100,000 people. 
 
 

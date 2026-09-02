@@ -1,6 +1,6 @@
 +++
 title = "Using Private-Sector Data to Support Transportation Planning in Bali"
-authors = ["Maria Sol Tadeo", "Luis Miguel Triveno Chan Jan", "Abril Rodriguez" ]
+authors = ["Maria Sol Tadeo", "Luis Jan", "Abril Rodriguez" ]
 categories = ["Case Study"]
 partner = ["Meta", "Waze", "Mapbox", "GrabMaps"]
 dev_partner = ["World Bank"]

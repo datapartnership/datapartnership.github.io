@@ -9,6 +9,7 @@ links = [
 	"https://blogs.worldbank.org/digital-development/did-internet-speed-impact-exposure-covid-19"
 ]
 date = 2023-04-06T00:00:00Z
+thumbnail = "covid19-internet-speed-impact-figure1.png"
 +++
 
 During the height of the COVID-19 pandemic, governments-imposed movement restrictions to curb the spread of the disease. With access to the internet, people could work or study remotely, therefore making it easier for them to adhere to pandemic-related movement restrictions. However, this was not the case in places where internet speed was slow and unreliable. The Digital Development Global Practice of the World Bank and the University of Greenwich used data provided by [Ookla for Good](https://www.ookla.com/ookla-for-good)™ and [Meta](https://dataforgood.facebook.com/dfg/about) to examine how differences in internet quality affect exposure to COVID-19 in Colombia, Ecuador, and El Salvador.

@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Development Data Partnership"
 theme = "datapartnership-theme"
-summaryLength = 20
+summaryLength = 15
 [taxonomies]
 author = "authors"
 tag = "tags"
@@ -22,7 +22,7 @@ X-XSS-Protection = '1; mode=block'
 
 [params]
 author = "Development Data Partnership"
-description = "Solving Development Challenges through Data Science Collaboration between Companies and International Organizations."
+description = "Solving development challenges through data science collaboration between companies and international organizations."
 portalURL = "https://portal.datapartnership.org"
 
 partnershipEmail = "mailto:datapartnership@worldbank.org"

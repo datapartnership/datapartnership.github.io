@@ -5,7 +5,7 @@ categories = ["Case Study"]
 partner = ["GrabMaps", "Quadrant", "VesselBot"]
 dev_partner = ["Asian Development Bank"]
 tags = ["Transport"]
-date = 2026-08-27T00:00:00Z
+date = 2026-09-10T00:00:00Z
 +++
 
 Traffic congestion is not only a mobility challenge. In many cities, it is also a public health challenge. An Asian Development Bank (ADB) project leverages data from [GrabMaps](https://grabmaps.grab.com), [Quadrant](https://www.quadrant.io), and [VesselBot](https://www.vesselbot.com) to model traffic and emissions in Southeast Asian cities, with the aim of helping policymakers better understand the impact of their transport policies.

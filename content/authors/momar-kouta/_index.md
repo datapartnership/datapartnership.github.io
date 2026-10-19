@@ -1,0 +1,5 @@
+---
+name: Momar Kouta
+
+---
+Momar Kouta holds a Master 2 diploma in computer engineering and information and communication technology from the University of Gaston Berger, Senegal, earned in 2011. He currently serves as the Statistics Information Systems Officer at the Statistics Department of the African Development Bank. In this role, he is leading the Bank's flagship initiative, the Africa Information Highway (AIH). This initiative is designed to assist all African countries in improving their data collection, management, dissemination, and reporting processes. It achieves this through the implementation of various key components, including The Open Data Platform, which serves as the primary data dissemination platform used in African countries, the adoption of the Statistical Data and Metadata eXchange (SDMX) in Africa and the implementation of the Data Innovation Lab, aimed at fostering the utilization of novel data sources throughout Africa.

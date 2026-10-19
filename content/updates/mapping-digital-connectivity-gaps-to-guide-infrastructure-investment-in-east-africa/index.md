@@ -32,6 +32,7 @@ A key part of the methodology is accounting for where people actually live. A si
 <figure style="text-align: center;">
   <img src="mapping-digital-connectivity-gaps-to-guide-infrastructure-investment-in-east-africa_figure1.png" alt="afdb figure1" style="max-width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #555;">Figure 1: Population-weighted connectivity across the 11 countries, 2022–2026
+
 Note: When Speedtests are weighted by where people actually live, they show which areas are ahead, which are behind, and which aren’t improving. A simple count of tests can hide these patterns.
 </figcaption>
 </figure>

@@ -1,0 +1,7 @@
+---
+name: Mohamed Ali Hadj Taieb
+
+---
+Dr. Mohamed Ali HADJ TAIEB is a Senior Data Scientist consultant at the African Development Bank’s, where he supports the development of AI-driven solutions and the use of non-traditional data sources to inform strategic planning and sustainable development across African countries. He has played a central role in strengthening AfDB’s engagement with the Development Data Partnership, building in-house capacity in Big Data and Artificial Intelligence, and designing innovative data use cases.
+
+He holds a PhD (2014) and an HDR (2025) in Computer Science from the University of Sfax, Tunisia, and serves as Associate Professor at the Faculty of Sciences of Sfax, where he co-founded the Data Engineering and Semantics Research Unit — a bridge between academic, industrial, and entrepreneurial environments. His research spans Big Data architectures, knowledge engineering, semantic technologies, graph embedding, and applied AI, with extensive publications in leading international journals and active service as a reviewer for outlets such as Knowledge-Based Systems, Artificial Intelligence Review, and Engineering Applications of Artificial Intelligence. He is an IEEE Senior Member and a certified Big Data instructor.

@@ -16,7 +16,7 @@ Official statistics, administrative records and other public data provide an ess
 
 
 <figure style="text-align: center;">
-  <img src="how-private-sector-data-can-inform-decisions-for-sustainable-cities_thumbnail.png" alt="Cities Day 2026 thumbnail" style="max-width: 100%;">
+  <img src="how-private-sector-data-can-inform-decisions-for-sustainable-cities.png" alt="Cities Day 2026 thumbnail" style="max-width: 100%;"> 
 </figure>
 
 

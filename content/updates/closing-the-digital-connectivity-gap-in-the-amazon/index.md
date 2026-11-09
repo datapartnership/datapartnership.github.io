@@ -6,7 +6,7 @@ partner = ["Ookla"]
 dev_partner = ["World Bank"]
 tags = ["Digital Development"]
 links = ["https://blogs.worldbank.org/en/latinamerica/harnessing-digital-innovation-to-safeguard-the-amazon"]
-date = 2026-11-02T00:00:00Z
+date = 2026-11-05T00:00:00Z
 +++
 
 A new World Bank report, [Advancing Amazonian Conservation through Digital Technologies](https://openknowledge.worldbank.org/server/api/core/bitstreams/2a1bf22f-02eb-4454-9a8f-13b02acb18b3/content), examines how digital technologies can strengthen conservation monitoring across the Amazon biome. It offers guidance on adopting and using these tools effectively. As part of its analysis, the report used [Ookla®](https://www.ookla.com/ookla-for-good) data to estimate mobile and fixed broadband coverage across the region.
@@ -53,11 +53,3 @@ The report also recommends better integrating telecommunications infrastructure 
 Measuring outcomes over time will also be essential to assess whether investments in fiber, mobile and satellite infrastructure are improving connectivity, particularly for communities with the greatest need.
 
 Strong connectivity would allow digital technologies to contribute effectively to conservation and sustainable development in the Amazon. Expanding coverage will require governments, the private sector, multilateral development organizations, and communities to develop solutions that are inclusive, suited to local conditions, and sustainable over time.
-
-
-
-
-
-
-
-

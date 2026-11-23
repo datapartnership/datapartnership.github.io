@@ -1,6 +1,6 @@
 +++
 title = "Using LinkedIn Data to Understand AI Exposure and Skills Gaps in Luxembourg"
-authors = ["Xinjue “Cheryl” Li"]
+authors = ["Cheryl Xinjue Li"]
 categories = ["Case Study"]
 partner = ["LinkedIn"]
 dev_partner = ["International Monetary Fund"]
